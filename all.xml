@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Oct 2021 15:33:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Oct 2021 15:44:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -369,9 +369,9 @@
         </item>
         <item>
             <title><![CDATA[B.U.S.(body-user-safety) 지식브릿지 (K-MOOC ─ 개강예정)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Sat, 09 Oct 2021 15:33:45 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:DEU+DEU_00003+2021-T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DEU+DEU_00003+2021-T2/about</guid>
+            <pubDate>Sat, 09 Oct 2021 15:43:59 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이재인 and 2 others
@@ -387,9 +387,9 @@
         </item>
         <item>
             <title><![CDATA[부산과 세계 (K-MOOC ─ 개강예정)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Sat, 09 Oct 2021 15:33:45 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:DEU+DEU_00001+2021-T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DEU+DEU_00001+2021-T2/about</guid>
+            <pubDate>Sat, 09 Oct 2021 15:43:59 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 정주영 and 14 others
@@ -405,9 +405,9 @@
         </item>
         <item>
             <title><![CDATA[포스트휴먼의 이해 (K-MOOC ─ 개강예정)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Sat, 09 Oct 2021 15:33:45 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:DEU+DEU_00002+2021-T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DEU+DEU_00002+2021-T2/about</guid>
+            <pubDate>Sat, 09 Oct 2021 15:43:59 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 윤혜경 and 2 others
@@ -423,9 +423,9 @@
         </item>
         <item>
             <title><![CDATA[구글 도구로 만드는 혁신적인 일상 (K-MOOC ─ 개강예정)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Sat, 09 Oct 2021 15:33:45 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:DKUK+MOOC_DKUK0019+2021_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DKUK+MOOC_DKUK0019+2021_T2/about</guid>
+            <pubDate>Sat, 09 Oct 2021 15:43:59 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박정철
@@ -441,9 +441,9 @@
         </item>
         <item>
             <title><![CDATA[구글도 인정한 구글 도구 마스터되기 (K-MOOC ─ 개강예정)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Sat, 09 Oct 2021 15:33:45 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:DKUK+MOOC_DKUK0020+2021_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DKUK+MOOC_DKUK0020+2021_T2/about</guid>
+            <pubDate>Sat, 09 Oct 2021 15:43:59 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박정철
@@ -459,9 +459,9 @@
         </item>
         <item>
             <title><![CDATA[아동과 청소년의 건강환경 Ⅱ (K-MOOC ─ 개강예정)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Sat, 09 Oct 2021 15:33:45 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SSUk+SSMOOC031K+2021_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SSUk+SSMOOC031K+2021_T2/about</guid>
+            <pubDate>Sat, 09 Oct 2021 15:43:59 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김동희
@@ -477,9 +477,9 @@
         </item>
         <item>
             <title><![CDATA[발레 : 융합문화예술의 실제 Ⅱ (K-MOOC ─ 개강예정)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Sat, 09 Oct 2021 15:33:45 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SSUk+SSMOOC011K+2021_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SSUk+SSMOOC011K+2021_T2/about</guid>
+            <pubDate>Sat, 09 Oct 2021 15:43:59 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김주원
@@ -495,9 +495,9 @@
         </item>
         <item>
             <title><![CDATA[실용금융의 이론과 실제 (K-MOOC ─ 개강예정)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Sat, 09 Oct 2021 15:33:45 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:FSS+FSS01+2021_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:FSS+FSS01+2021_T2/about</guid>
+            <pubDate>Sat, 09 Oct 2021 15:43:59 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 황문연 and 1 others
@@ -513,9 +513,9 @@
         </item>
         <item>
             <title><![CDATA[기초심폐소생술과 응급처치 (K-MOOC ─ 개강예정)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Sat, 09 Oct 2021 15:33:45 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KangwonK+KangwonK_11+2021T_10/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KangwonK+KangwonK_11+2021T_10/about</guid>
+            <pubDate>Sat, 09 Oct 2021 15:43:59 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 조병준
@@ -531,9 +531,9 @@
         </item>
         <item>
             <title><![CDATA[약물유전체학 (K-MOOC ─ 개강예정)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Sat, 09 Oct 2021 15:33:45 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KangwonK+KangwonK_12+2021_T12/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KangwonK+KangwonK_12+2021_T12/about</guid>
+            <pubDate>Sat, 09 Oct 2021 15:43:59 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 임영석
@@ -549,9 +549,9 @@
         </item>
         <item>
             <title><![CDATA[태국어 문장 만들기 (K-MOOC ─ 개강예정)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Sat, 09 Oct 2021 15:33:45 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:BUFSk+BUFS_ICFL03+2021_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:BUFSk+BUFS_ICFL03+2021_T2/about</guid>
+            <pubDate>Sat, 09 Oct 2021 15:43:59 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 안종량
@@ -567,9 +567,9 @@
         </item>
         <item>
             <title><![CDATA[소비자가 만드는 새로운 세상 (K-MOOC ─ 개강예정)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Sat, 09 Oct 2021 15:33:45 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KonkukK+konkuk_K008+2021_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KonkukK+konkuk_K008+2021_T2/about</guid>
+            <pubDate>Sat, 09 Oct 2021 15:43:59 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김시월
@@ -585,9 +585,9 @@
         </item>
         <item>
             <title><![CDATA[꼬리에 꼬리를 무는 역사1 (K-MOOC ─ 개강예정)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Sat, 09 Oct 2021 15:33:45 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:WOOSUK+WOOSUK01+2021_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:WOOSUK+WOOSUK01+2021_2/about</guid>
+            <pubDate>Sat, 09 Oct 2021 15:43:59 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 조법종
@@ -603,9 +603,9 @@
         </item>
         <item>
             <title><![CDATA[수학적 표현과 이산 구조 (K-MOOC ─ 개강예정)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Sat, 09 Oct 2021 15:33:45 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KHUk+KH509+2021-SW01_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KHUk+KH509+2021-SW01_2/about</guid>
+            <pubDate>Sat, 09 Oct 2021 15:43:59 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김휘용
@@ -621,9 +621,9 @@
         </item>
         <item>
             <title><![CDATA[가족과 건강 : 운동과 뇌 건강 Ⅰ (K-MOOC ─ 개강예정)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Sat, 09 Oct 2021 15:33:45 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:UOUk+UOU601_01K+U601A_2021_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:UOUk+UOU601_01K+U601A_2021_T2/about</guid>
+            <pubDate>Sat, 09 Oct 2021 15:43:59 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 우민정
@@ -639,9 +639,9 @@
         </item>
         <item>
             <title><![CDATA[모범시민의 교양회계 Ⅰ (K-MOOC ─ 개강예정)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Sat, 09 Oct 2021 15:33:45 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:UOUk+UOU602_01K+U602A_2021_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:UOUk+UOU602_01K+U602A_2021_T2/about</guid>
+            <pubDate>Sat, 09 Oct 2021 15:43:59 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김효은
@@ -657,9 +657,9 @@
         </item>
         <item>
             <title><![CDATA[고전문헌과 역사문화Ⅱ (K-MOOC ─ 개강예정)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Sat, 09 Oct 2021 15:33:45 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_hum_001+2021_A26/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_hum_001+2021_A26/about</guid>
+            <pubDate>Sat, 09 Oct 2021 15:43:59 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 심경호
@@ -675,9 +675,9 @@
         </item>
         <item>
             <title><![CDATA[희망의 인문학 : 우리는 희망에서 무엇을 배우고 가르칠 수 있는가 Ⅱ (K-MOOC ─ 개강예정)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Sat, 09 Oct 2021 15:33:45 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:UOUk+UOU502_02K+U502A_2_2021_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:UOUk+UOU502_02K+U502A_2_2021_T2/about</guid>
+            <pubDate>Sat, 09 Oct 2021 15:43:59 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김진
@@ -693,9 +693,9 @@
         </item>
         <item>
             <title><![CDATA[외국인을 위한 다문화 한국사회의 이해 (K-MOOC ─ 개강예정)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Sat, 09 Oct 2021 15:33:45 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:YeungnamUnivK+YU202102+2021_01/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:YeungnamUnivK+YU202102+2021_01/about</guid>
+            <pubDate>Sat, 09 Oct 2021 15:43:59 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 정용교 and 3 others
@@ -711,9 +711,9 @@
         </item>
         <item>
             <title><![CDATA[생활 속의 약과 건강 (K-MOOC ─ 개강예정)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Sat, 09 Oct 2021 15:33:45 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:semyung+semyung_01+2021_01_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:semyung+semyung_01+2021_01_2/about</guid>
+            <pubDate>Sat, 09 Oct 2021 15:43:59 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 고성권
