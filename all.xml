@@ -4,9 +4,225 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Oct 2021 14:08:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Oct 2021 15:09:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사이버상담 개론 (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Sun, 10 Oct 2021 15:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                한수미 and 1 others
+                </span>
+                <span class="kr01_school">Seoul Cyber University</span>
+                </div>
+                <div><time>2021/10/11</time>
+                
+                ~ <time>2021/12/05</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SCU+SCU012+2021_2+type@asset+block@SCU012_21-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[마음을 성장시키는 상담자 대화법 (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Sun, 10 Oct 2021 15:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김환 and 1 others
+                </span>
+                <span class="kr01_school">Seoul Cyber University</span>
+                </div>
+                <div><time>2021/10/11</time>
+                
+                ~ <time>2021/12/05</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SCU+SCU002+2021_3+type@asset+block@%EB%A7%88%EC%9D%8C%EC%9D%84%EC%84%B1%EC%9E%A5%EC%8B%9C%ED%82%A4%EB%8A%94%EC%83%81%EB%8B%B4%EC%9E%90%EB%8C%80%ED%99%94%EB%B2%95_%EC%8D%B8%EB%84%A4%EC%9D%BC_21-3.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[웹문학과 디지털 인간 (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Sun, 10 Oct 2021 15:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김용희
+                </span>
+                <span class="kr01_school">Seoul Cyber University</span>
+                </div>
+                <div><time>2021/10/11</time>
+                
+                ~ <time>2021/12/05</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SCU+SCU006+2021_2+type@asset+block@SCU006_21-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[웹소설 창작과 업로드 (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Sun, 10 Oct 2021 15:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김준현
+                </span>
+                <span class="kr01_school">Seoul Cyber University</span>
+                </div>
+                <div><time>2021/10/11</time>
+                
+                ~ <time>2021/12/05</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SCU+SCU007+2021_2+type@asset+block@SCU007_21-2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[웹툰 스토리 작법 (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Sun, 10 Oct 2021 15:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                박동선 and 1 others
+                </span>
+                <span class="kr01_school">Seoul Cyber University</span>
+                </div>
+                <div><time>2021/10/11</time>
+                
+                ~ <time>2021/12/05</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SCU+SCU008+2021_2+type@asset+block@SCU008_21-2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[웹스토리 콘텐츠 운용 (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Sun, 10 Oct 2021 15:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                차명희
+                </span>
+                <span class="kr01_school">Seoul Cyber University</span>
+                </div>
+                <div><time>2021/10/11</time>
+                
+                ~ <time>2021/12/05</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SCU+SCU010+2021_2+type@asset+block@SCU010_21-2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[웹스토리텔링과 유튜브 (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Sun, 10 Oct 2021 15:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                박선민
+                </span>
+                <span class="kr01_school">Seoul Cyber University</span>
+                </div>
+                <div><time>2021/10/11</time>
+                
+                ~ <time>2021/12/05</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SCU+SCU009+2021_2+type@asset+block@SCU009_21-2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[3D 프린터! 아이디어를 출력하라 (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Sun, 10 Oct 2021 15:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                차명희
+                </span>
+                <span class="kr01_school">Seoul Cyber University</span>
+                </div>
+                <div><time>2021/10/11</time>
+                
+                ~ <time>2021/12/05</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SCU+SCU011+2021_2+type@asset+block@SCU011_21-2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[인공지능 윤리 (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Sun, 10 Oct 2021 15:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이성태 and 1 others
+                </span>
+                <span class="kr01_school">Seoul Cyber University</span>
+                </div>
+                <div><time>2021/10/11</time>
+                
+                ~ <time>2021/12/05</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SCU+SCU013+2021_2+type@asset+block@SCU013_21-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[심리학으로 풀어보는 군대이야기 (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Sun, 10 Oct 2021 15:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이정원 and 5 others
+                </span>
+                <span class="kr01_school">Seoul Cyber University</span>
+                </div>
+                <div><time>2021/10/11</time>
+                
+                ~ <time>2021/11/28</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SCU+SCU005+2021_2+type@asset+block@%EC%8B%AC%EB%A6%AC%ED%95%99%EC%9C%BC%EB%A1%9C%ED%92%80%EC%96%B4%EB%B3%B4%EB%8A%94%EA%B5%B0%EB%8C%80%EC%9D%B4%EC%95%BC%EA%B8%B0_%EC%8D%B8%EB%84%A4%EC%9D%BC_21-2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[빨주노초파남보 나의 삶 속의 색 (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Sun, 10 Oct 2021 15:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이향아 and 2 others
+                </span>
+                <span class="kr01_school">Seoul Cyber University</span>
+                </div>
+                <div><time>2021/10/11</time>
+                
+                ~ <time>2021/11/28</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SCU+SCU003+2021_2+type@asset+block@%EB%B9%A8%EC%A3%BC%EB%85%B8%EC%B4%88%ED%8C%8C%EB%82%A8%EB%B3%B4%EB%82%98%EC%9D%98%EC%82%B6%EC%86%8D%EC%9D%98%EC%83%89_%EC%8D%B8%EB%84%A4%EC%9D%BC_21-2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[시따라 길따라 (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Sun, 10 Oct 2021 15:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김용희 and 2 others
+                </span>
+                <span class="kr01_school">Seoul Cyber University</span>
+                </div>
+                <div><time>2021/10/11</time>
+                
+                ~ <time>2021/11/28</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SCU+SCU004+2021_2+type@asset+block@%EC%8B%9C%EB%94%B0%EB%9D%BC%EA%B8%B8%EB%94%B0%EB%9D%BC_%EC%8D%B8%EB%84%A4%EC%9D%BC_21-2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[4차 산업혁명과 스타트업 실무 역량강화 (K-MOOC ─ 진행중)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:SKKUk+SKKU_61+2021_T1/about</link>
@@ -150,222 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:YeungnamUnivK+YU202103+2021_01+type@asset+block@k-%EC%BD%98%ED%85%90%EC%B8%A0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KOICA와 함께하는 국제개발협력 첫걸음 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KOICA+KOICA01+2021_4/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KOICA+KOICA01+2021_4/about</guid>
-            <pubDate>Sat, 09 Oct 2021 15:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                장현식 and 5 others
-                </span>
-                <span class="kr01_school">KOREA INTERNATIONAL COOPERATION AGENCY</span>
-                </div>
-                <div><time>2021/10/04</time>
-                
-                ~ <time>2021/11/21</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KOICA+KOICA01+2021_4+type@asset+block@%EC%B2%AB%EA%B1%B8%EC%9D%8C_2021_4_%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KOICA와 함께하는 국제개발협력: 범분야의 이해 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KOICA+KOICA02+2021_4/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KOICA+KOICA02+2021_4/about</guid>
-            <pubDate>Sat, 09 Oct 2021 15:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김은미 and 4 others
-                </span>
-                <span class="kr01_school">KOREA INTERNATIONAL COOPERATION AGENCY</span>
-                </div>
-                <div><time>2021/10/04</time>
-                
-                ~ <time>2021/11/21</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KOICA+KOICA02+2021_4+type@asset+block@%EB%B2%94%EB%B6%84%EC%95%BC%EC%8D%B8%EB%84%A4%EC%9D%BC2021_04.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자율주행 인공지능 시스템 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:NGV+NGV01+2021_A2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:NGV+NGV01+2021_A2/about</guid>
-            <pubDate>Sat, 09 Oct 2021 15:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                공승현
-                </span>
-                <span class="kr01_school">NGV</span>
-                </div>
-                <div><time>2021/10/04</time>
-                
-                ~ <time>2021/12/03</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:NGV+NGV01+2021_A2+type@asset+block@%ED%98%84%EB%8C%80_k-mooc_%EB%8C%80%ED%91%9C%EC%9D%B4%EB%AF%B8%EC%A7%80.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[정보의학개론 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KOHI+KOHI003+2021_C_004/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KOHI+KOHI003+2021_C_004/about</guid>
-            <pubDate>Sat, 09 Oct 2021 15:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                이재호 and 10 others
-                </span>
-                <span class="kr01_school">Korea Human Resource Development Institute for Health &amp; Welfare</span>
-                </div>
-                <div><time>2021/10/01</time>
-                
-                ~ <time>2021/12/31</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KOHI+KOHI003+2021_C_004+type@asset+block@%EC%A0%95%EB%B3%B4%EC%9D%98%ED%95%99%EA%B0%9C%EB%A1%A0_%EA%B0%95%EC%9D%98%EC%B9%B4%EB%93%9C_%ED%81%AC%EA%B8%B0%EC%B6%95%EC%86%8C_.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AWS와 텐서플로우 기반 IoT 빅데이터 실습 및 활용 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:DCUk+FD_DCU_09+2021_T2_1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:DCUk+FD_DCU_09+2021_T2_1/about</guid>
-            <pubDate>Sat, 09 Oct 2021 15:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                이종혁 and 1 others
-                </span>
-                <span class="kr01_school">DAEGU CATHOLIC UNIVERSITY</span>
-                </div>
-                <div><time>2021/10/01</time>
-                
-                ~ <time>2021/11/30</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:DCUk+FD_DCU_09+2021_T2_1+type@asset+block@AWS.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[IoT 기술의 이해 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:DCUk+FD_DCU_05+2021_T2_1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:DCUk+FD_DCU_05+2021_T2_1/about</guid>
-            <pubDate>Sat, 09 Oct 2021 15:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                변태영 and 2 others
-                </span>
-                <span class="kr01_school">DAEGU CATHOLIC UNIVERSITY</span>
-                </div>
-                <div><time>2021/10/01</time>
-                
-                ~ <time>2021/11/30</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:DCUk+FD_DCU_05+2021_T2_1+type@asset+block@IoT_%EA%B8%B0%EC%88%A0%EC%9D%98_%EC%9D%B4%ED%95%B4.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[IoT 프로그래밍 및 실습 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:DCUk+FD_DCU_06+2021_T2_1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:DCUk+FD_DCU_06+2021_T2_1/about</guid>
-            <pubDate>Sat, 09 Oct 2021 15:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김미혜 and 1 others
-                </span>
-                <span class="kr01_school">DAEGU CATHOLIC UNIVERSITY</span>
-                </div>
-                <div><time>2021/10/01</time>
-                
-                ~ <time>2021/11/30</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:DCUk+FD_DCU_06+2021_T2_1+type@asset+block@IoT_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EB%B0%8F_%EC%8B%A4%EC%8A%B5.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[분단과 평화에 관한 문화인류학의 탐색 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:DCUk+UI_DCU_10+2021_T2_1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:DCUk+UI_DCU_10+2021_T2_1/about</guid>
-            <pubDate>Sat, 09 Oct 2021 15:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                신난희
-                </span>
-                <span class="kr01_school">DAEGU CATHOLIC UNIVERSITY</span>
-                </div>
-                <div><time>2021/10/01</time>
-                
-                ~ <time>2021/11/30</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:DCUk+UI_DCU_10+2021_T2_1+type@asset+block@%EB%B6%84%EB%8B%A8%EA%B3%BC%ED%8F%89%ED%99%94.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[파이썬 기반 빅데이터 처리 및 분석 기술 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:DCUk+FD_DCU_08+2021_T2_1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:DCUk+FD_DCU_08+2021_T2_1/about</guid>
-            <pubDate>Sat, 09 Oct 2021 15:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                길준민 and 1 others
-                </span>
-                <span class="kr01_school">DAEGU CATHOLIC UNIVERSITY</span>
-                </div>
-                <div><time>2021/10/01</time>
-                
-                ~ <time>2021/11/30</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:DCUk+FD_DCU_08+2021_T2_1+type@asset+block@%ED%8C%8C%EC%9D%B4%EC%8D%AC.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[빅데이터 분석 기술의 이해 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:DCUk+FD_DCU_07+2021_T2_1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:DCUk+FD_DCU_07+2021_T2_1/about</guid>
-            <pubDate>Sat, 09 Oct 2021 15:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김대학
-                </span>
-                <span class="kr01_school">DAEGU CATHOLIC UNIVERSITY</span>
-                </div>
-                <div><time>2021/10/01</time>
-                
-                ~ <time>2021/11/30</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:DCUk+FD_DCU_07+2021_T2_1+type@asset+block@%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%B6%84%EC%84%9D_%EA%B8%B0%EC%88%A0%EC%9D%98_%EC%9D%B4%ED%95%B4_%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[해외긴급구호 의료팀 교육 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KOFIH+KOFIH01+2021_3/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KOFIH+KOFIH01+2021_3/about</guid>
-            <pubDate>Sat, 09 Oct 2021 15:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                이승준 and 9 others
-                </span>
-                <span class="kr01_school">Korea Foundation for International Healthcare</span>
-                </div>
-                <div><time>2021/10/01</time>
-                
-                ~ <time>2021/11/30</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KOFIH+KOFIH01+2021_3+type@asset+block@3%EC%B0%A8_%EC%9D%B4%EB%AF%B8%EC%A7%80__1___1___1___1___1_.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[가상현실과 햅틱스 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KHUk+KH508+2021-SW02_2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KHUk+KH508+2021-SW02_2/about</guid>
-            <pubDate>Sat, 09 Oct 2021 15:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                전석희
-                </span>
-                <span class="kr01_school">KYUNG HEE UNIVERSITY</span>
-                </div>
-                <div><time>2021/10/01</time>
-                
-                ~ <time>2021/11/18</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KHUk+KH508+2021-SW02_2+type@asset+block@%EA%B2%BD%ED%9D%AC%EB%8C%80_%EA%B0%80%EC%83%81%ED%98%84%EC%8B%A4%EA%B3%BC_%ED%96%85%ED%8B%B1%EC%8A%A4_%EC%A0%84%EC%84%9D%ED%9D%AC__%EC%8D%B8%EB%84%A4%EC%9D%BC_2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[B.U.S.(body-user-safety) 지식브릿지 (K-MOOC ─ 개강예정)]]></title>
