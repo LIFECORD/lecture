@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 16:13:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 17:15:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -614,7 +614,7 @@
                 </div>
                 <div><time>2021/10/18</time>
                 
-                ~ <time>2022/01/21</time>
+                ~ <time>2022/01/22</time>
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:CAUk+CAU09K+2021_2+type@asset+block@%EC%97%B0%ED%95%98%EC%9E%A5%EC%95%A0-%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
