@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 23:09:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 00:31:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -152,6 +152,24 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:INHAuniversityK+inha002_2+2021_002+type@asset+block@7._%EC%83%9D%EA%B0%81%EB%B3%B4%EB%8B%A4_%EA%B0%80%EA%B9%8C%EC%9A%B4_fta__2_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[경영시스템 인증의 이해 -ISO/IEC 17021-1]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:KAB+KAB01+2019_T8/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KAB+KAB01+2019_T8/about</guid>
+            <pubDate>Wed, 13 Oct 2021 00:31:40 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                한 섭
+                </span>
+                <span class="kr01_school">Korea Accreditation Board</span>
+                </div>
+                <div><time>2021/10/25</time>
+                
+                ~ <time>2021/12/27</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KAB+KAB01+2019_T8+type@asset+block@K-MOOC-%EC%86%8C%EA%B0%9C.PNG" length="0" type="image/PNG"/>
+        </item>
+        <item>
             <title><![CDATA[실용금융의 이론과 실제]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:FSS+FSS01+2021_T2/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:FSS+FSS01+2021_T2/about</guid>
@@ -168,6 +186,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:FSS+FSS01+2021_T2+type@asset+block@20211006_%EA%B0%95%EC%A2%8C%EC%B9%B4%EB%93%9C3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[욕망의 이해 : 모방이론으로 우리 일상 돌아보기]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:UOUk+UOU401_01K+U401A_5_2021_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:UOUk+UOU401_01K+U401A_5_2021_T2/about</guid>
+            <pubDate>Wed, 13 Oct 2021 00:31:40 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김진식
+                </span>
+                <span class="kr01_school">University of Ulsan</span>
+                </div>
+                <div><time>2021/10/19</time>
+                
+                ~ <time>2021/12/13</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:UOUk+UOU401_01K+U401A_5_2021_T2+type@asset+block@191127-t.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[삶을 버티게 하는 가치들]]></title>
@@ -254,19 +290,73 @@
                 </div>
                 <div><time>2021/10/18</time>
                 
-                ~ <time>2022/01/22</time>
+                ~ <time>2022/01/21</time>
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:CAUk+CAU09K+2021_2+type@asset+block@%EC%97%B0%ED%95%98%EC%9E%A5%EC%95%A0-%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[딥러닝의 깊이 있는 이해를 위한 머신러닝]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:CAUk+CAU_A02+2021_2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:CAUk+CAU_A02+2021_2/about</guid>
-            <pubDate>Tue, 12 Oct 2021 12:14:31 GMT</pubDate>
+            <title><![CDATA[4차산업혁명과 산업보안법제도]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:CAUk+CAU08K+2021_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:CAUk+CAU08K+2021_2/about</guid>
+            <pubDate>Wed, 13 Oct 2021 00:31:40 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                최종원
+                손승우
+                </span>
+                <span class="kr01_school">CHUNG-ANG UNIVERSITY</span>
+                </div>
+                <div><time>2021/10/18</time>
+                
+                ~ <time>2022/01/21</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:CAUk+CAU08K+2021_2+type@asset+block@4%EC%B0%A8%EC%82%B0%EC%97%85%EB%B3%B4%EC%95%88%EB%B2%95-%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[사진 이후의 사진]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:CAUk+CAU10K+2021_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:CAUk+CAU10K+2021_2/about</guid>
+            <pubDate>Wed, 13 Oct 2021 00:31:40 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                천경우
+                </span>
+                <span class="kr01_school">CHUNG-ANG UNIVERSITY</span>
+                </div>
+                <div><time>2021/10/18</time>
+                
+                ~ <time>2022/01/21</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:CAUk+CAU10K+2021_2+type@asset+block@%EC%82%AC%EC%A7%84_%EC%9D%B4%ED%9B%84%EC%9D%98_%EC%82%AC%EC%A7%84_%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[신 한류 문화의 이해]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:CAUk+CAU12K+2021_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:CAUk+CAU12K+2021_2/about</guid>
+            <pubDate>Wed, 13 Oct 2021 00:31:40 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                송고은 and 1 others
+                </span>
+                <span class="kr01_school">CHUNG-ANG UNIVERSITY</span>
+                </div>
+                <div><time>2021/10/18</time>
+                
+                ~ <time>2022/01/15</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:CAUk+CAU12K+2021_2+type@asset+block@02_PNG__%E1%84%89%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF_%E1%84%89%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A1%E1%86%AB%E1%84%85%E1%85%B2%E1%84%86%E1%85%AE%E1%86%AB%E1%84%92%E1%85%AA%E1%84%8B%E1%85%B4_%E1%84%8B%E1%85%B5%E1%84%92%E1%85%A2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[금융 AI]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:CAUk+CAU_AI03+2021_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:CAUk+CAU_AI03+2021_2/about</guid>
+            <pubDate>Wed, 13 Oct 2021 00:31:40 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                유시용
                 </span>
                 <span class="kr01_school">CHUNG-ANG UNIVERSITY</span>
                 </div>
@@ -275,97 +365,7 @@
                 ~ <time>2022/01/14</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:CAUk+CAU_A02+2021_2+type@asset+block@output2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[기초심폐소생술과 응급처치]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KangwonK+KangwonK_11+2021T_10/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KangwonK+KangwonK_11+2021T_10/about</guid>
-            <pubDate>Tue, 12 Oct 2021 10:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                조병준
-                </span>
-                <span class="kr01_school">Kangwon National University</span>
-                </div>
-                <div><time>2021/10/18</time>
-                
-                ~ <time>2022/01/16</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KangwonK+KangwonK_11+2021T_10+type@asset+block@%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[약물유전체학]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KangwonK+KangwonK_12+2021_T12/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KangwonK+KangwonK_12+2021_T12/about</guid>
-            <pubDate>Tue, 12 Oct 2021 10:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                임영석
-                </span>
-                <span class="kr01_school">Kangwon National University</span>
-                </div>
-                <div><time>2021/10/18</time>
-                
-                ~ <time>2022/01/16</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KangwonK+KangwonK_12+2021_T12+type@asset+block@thumbnail.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[알기 쉬운 기계재료 성형]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:DAUk+DAUK04+2021_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:DAUk+DAUK04+2021_T1/about</guid>
-            <pubDate>Tue, 12 Oct 2021 10:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                박준홍
-                </span>
-                <span class="kr01_school">Dong-A University</span>
-                </div>
-                <div><time>2021/10/18</time>
-                
-                ~ <time>2021/12/19</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:DAUk+DAUK04+2021_T1+type@asset+block@20211008_095627-min.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태국어 문장 만들기]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:BUFSk+BUFS_ICFL03+2021_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:BUFSk+BUFS_ICFL03+2021_T2/about</guid>
-            <pubDate>Tue, 12 Oct 2021 10:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                안종량
-                </span>
-                <span class="kr01_school">BUSAN UNIVERSITY OF FOREIGN STUDIES</span>
-                </div>
-                <div><time>2021/10/18</time>
-                
-                ~ <time>2021/11/29</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:BUFSk+BUFS_ICFL03+2021_T2+type@asset+block@Thumbnail_%ED%83%9C%EA%B5%AD%EC%96%B4%EB%AC%B8%EC%9E%A5%EB%A7%8C%EB%93%A4%EA%B8%B0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[소비자가 만드는 새로운 세상]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KonkukK+konkuk_K008+2021_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KonkukK+konkuk_K008+2021_T2/about</guid>
-            <pubDate>Tue, 12 Oct 2021 10:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김시월
-                </span>
-                <span class="kr01_school">KONKUK UNIVERSITY</span>
-                </div>
-                <div><time>2021/10/18</time>
-                
-                ~ <time>2021/12/12</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KonkukK+konkuk_K008+2021_T2+type@asset+block@2021-2_%EC%86%8C%EB%B9%84%EC%9E%90%EA%B0%80_%EB%A7%8C%EB%93%9C%EB%8A%94_%EC%83%88%EB%A1%9C%EC%9A%B4_%EC%84%B8%EC%83%81.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:CAUk+CAU_AI03+2021_2+type@asset+block@%E1%84%80%E1%85%B3%E1%86%B7%E1%84%8B%E1%85%B2%E1%86%BC%E1%84%8B%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8B%E1%85%A1%E1%84%8B%E1%85%B52.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
