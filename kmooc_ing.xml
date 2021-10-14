@@ -4,9 +4,27 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 14:09:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 15:10:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[수학적 표현과 이산 구조]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Thu, 14 Oct 2021 15:09:37 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김휘용
+                </span>
+                <span class="kr01_school">KYUNG HEE UNIVERSITY</span>
+                </div>
+                <div><time>2021/10/15</time>
+                
+                ~ <time>2021/12/09</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KHUk+KH509+2021-SW01_2+type@asset+block@%EA%B2%BD%ED%9D%AC%EB%8C%80_%EC%88%98%ED%95%99%EC%A0%81%ED%91%9C%ED%98%84%EA%B3%BC%EC%9D%B4%EC%82%B0%EA%B5%AC%EC%A1%B0_%EA%B9%80%ED%9C%98%EC%9A%A9__%EC%8D%B8%EB%84%A4%EC%9D%BC_2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[실전 타이포그래피]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:DSU+DSU03+2021_T2_0/about</link>
@@ -348,24 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:SCU+SCU008+2021_2+type@asset+block@SCU008_21-2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[웹스토리 콘텐츠 운용]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SCU+SCU010+2021_2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SCU+SCU010+2021_2/about</guid>
-            <pubDate>Wed, 13 Oct 2021 14:10:05 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                차명희
-                </span>
-                <span class="kr01_school">Seoul Cyber University</span>
-                </div>
-                <div><time>2021/10/11</time>
-                
-                ~ <time>2021/12/05</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SCU+SCU010+2021_2+type@asset+block@SCU010_21-2.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
