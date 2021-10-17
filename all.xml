@@ -4,14 +4,32 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Oct 2021 20:10:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Oct 2021 21:08:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[외국인근로자 사업담당자가 알아야 할 보건의료지원의 이해 (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Sun, 17 Oct 2021 21:08:17 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김미선 and 5 others
+                </span>
+                <span class="kr01_school">Korea Foundation for International Healthcare</span>
+                </div>
+                <div><time>2021/10/18</time>
+                
+                ~ <time>2021/12/14</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KOFIH+KOFIH02+2021-01+type@asset+block@%EC%9D%B8%ED%8A%B8%EB%A1%9C_%EC%82%AC%EC%A7%842.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[소비자가 만드는 새로운 세상 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Sun, 17 Oct 2021 20:09:49 GMT</pubDate>
+            <pubDate>Sun, 17 Oct 2021 21:08:17 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김시월
@@ -29,7 +47,7 @@
             <title><![CDATA[꼬리에 꼬리를 무는 역사1 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Sun, 17 Oct 2021 20:09:49 GMT</pubDate>
+            <pubDate>Sun, 17 Oct 2021 21:08:17 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 조법종
@@ -348,24 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:SCU+SCU002+2021_3+type@asset+block@%EB%A7%88%EC%9D%8C%EC%9D%84%EC%84%B1%EC%9E%A5%EC%8B%9C%ED%82%A4%EB%8A%94%EC%83%81%EB%8B%B4%EC%9E%90%EB%8C%80%ED%99%94%EB%B2%95_%EC%8D%B8%EB%84%A4%EC%9D%BC_21-3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[웹문학과 디지털 인간 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SCU+SCU006+2021_2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SCU+SCU006+2021_2/about</guid>
-            <pubDate>Wed, 13 Oct 2021 14:10:05 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김용희
-                </span>
-                <span class="kr01_school">Seoul Cyber University</span>
-                </div>
-                <div><time>2021/10/11</time>
-                
-                ~ <time>2021/12/05</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SCU+SCU006+2021_2+type@asset+block@SCU006_21-1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[한국 교육의 시대적 요청 Ⅱ (K-MOOC ─ 개강예정)]]></title>
