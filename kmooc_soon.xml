@@ -4,9 +4,27 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Oct 2021 14:08:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Oct 2021 15:09:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국 교육의 시대적 요청 Ⅱ]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_edu_001+2021_A35/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_edu_001+2021_A35/about</guid>
+            <pubDate>Sun, 17 Oct 2021 15:09:31 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                신창호
+                </span>
+                <span class="kr01_school">KOREA UNIVERSITY</span>
+                </div>
+                <div><time>2021/11/03</time>
+                
+                ~ <time>2021/12/28</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KoreaUnivK+ku_edu_001+2021_A35+type@asset+block@_%E1%84%8F%E1%85%B3%E1%84%80%E1%85%B5%E1%84%87%E1%85%A7%E1%86%AB%E1%84%92%E1%85%AA%E1%86%AB_23_%E1%84%92%E1%85%A1%E1%86%AB%E1%84%80%E1%85%AE%E1%86%A8%E1%84%80%E1%85%AD%E1%84%8B%E1%85%B2%E1%86%A8%E1%84%89%E1%85%B5%E1%84%83%E1%85%A2%E1%84%8C%E1%85%A5%E1%86%A8%E1%84%8B%E1%85%AD%E1%84%8E%E1%85%A5%E1%86%BC2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[B.U.S.(body-user-safety) 지식브릿지]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:DEU+DEU_00003+2021-T2/about</link>
@@ -348,24 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:CAUk+CAU_AI03+2021_2+type@asset+block@%E1%84%80%E1%85%B3%E1%86%B7%E1%84%8B%E1%85%B2%E1%86%BC%E1%84%8B%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8B%E1%85%A1%E1%84%8B%E1%85%B52.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[딥러닝의 깊이 있는 이해를 위한 머신러닝]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:CAUk+CAU_A02+2021_2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:CAUk+CAU_A02+2021_2/about</guid>
-            <pubDate>Thu, 14 Oct 2021 08:13:12 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                최종원
-                </span>
-                <span class="kr01_school">CHUNG-ANG UNIVERSITY</span>
-                </div>
-                <div><time>2021/10/18</time>
-                
-                ~ <time>2022/01/14</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:CAUk+CAU_A02+2021_2+type@asset+block@output2.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
