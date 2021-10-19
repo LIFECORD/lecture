@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 08:12:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 09:10:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[정의롭고 좋은 삶에 관한 이야기 - 플라톤 <국가> 읽기 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Tue, 19 Oct 2021 08:11:50 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:UOSk+UOS11+2021_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:UOSk+UOS11+2021_T2/about</guid>
+            <pubDate>Tue, 19 Oct 2021 09:09:45 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이종환
@@ -27,9 +27,9 @@
         </item>
         <item>
             <title><![CDATA[소재가 빚어내는 문명의 화음 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Tue, 19 Oct 2021 08:11:50 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:UOSk+uos12+2021_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:UOSk+uos12+2021_T2/about</guid>
+            <pubDate>Tue, 19 Oct 2021 09:09:45 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 홍완식
@@ -45,9 +45,9 @@
         </item>
         <item>
             <title><![CDATA[내 삶에 영향을 주는 음악 수업 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Tue, 19 Oct 2021 08:11:50 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:UOSk+uos13+2021_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:UOSk+uos13+2021_T2/about</guid>
+            <pubDate>Tue, 19 Oct 2021 09:09:45 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 전기홍
@@ -63,9 +63,9 @@
         </item>
         <item>
             <title><![CDATA[욕망의 이해 : 모방이론으로 우리 일상 돌아보기 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Tue, 19 Oct 2021 08:11:50 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:UOUk+UOU401_01K+U401A_5_2021_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:UOUk+UOU401_01K+U401A_5_2021_T2/about</guid>
+            <pubDate>Tue, 19 Oct 2021 09:09:45 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김진식
