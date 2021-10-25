@@ -4,9 +4,27 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 14:09:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 15:08:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[문화융합시대의 창업]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Mon, 25 Oct 2021 15:08:26 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김기정 외 10인
+                </span>
+                <span class="kr01_school">The Regional University Consortium of Korea</span>
+                </div>
+                <div><time>2021/10/26</time>
+                
+                ~ <time>2021/12/31</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:RUCK+RUCK01+2021_RUCK1+type@asset+block@imageedit_9_5327786883.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[디지털 논리회로와 인공지능]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:DAUk+DAUk10+2021_T2/about</link>
@@ -348,24 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:CAUk+CAU_AI03+2021_2+type@asset+block@%E1%84%80%E1%85%B3%E1%86%B7%E1%84%8B%E1%85%B2%E1%86%BC%E1%84%8B%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8B%E1%85%A1%E1%84%8B%E1%85%B52.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[딥러닝의 깊이 있는 이해를 위한 머신러닝]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:CAUk+CAU_A02+2021_2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:CAUk+CAU_A02+2021_2/about</guid>
-            <pubDate>Mon, 25 Oct 2021 02:26:45 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                최종원
-                </span>
-                <span class="kr01_school">CHUNG-ANG UNIVERSITY</span>
-                </div>
-                <div><time>2021/10/18</time>
-                
-                ~ <time>2022/01/14</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:CAUk+CAU_A02+2021_2+type@asset+block@output2.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
