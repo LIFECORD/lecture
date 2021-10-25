@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 08:11:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 09:10:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[디지털 논리회로와 인공지능 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 25 Oct 2021 08:11:33 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:DAUk+DAUk10+2021_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DAUk+DAUk10+2021_T2/about</guid>
+            <pubDate>Mon, 25 Oct 2021 09:10:14 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 심임보
@@ -27,9 +27,9 @@
         </item>
         <item>
             <title><![CDATA[아동과 청소년의 건강환경 Ⅱ (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 25 Oct 2021 08:11:33 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SSUk+SSMOOC031K+2021_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SSUk+SSMOOC031K+2021_T2/about</guid>
+            <pubDate>Mon, 25 Oct 2021 09:10:14 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김동희
@@ -45,9 +45,9 @@
         </item>
         <item>
             <title><![CDATA[발레 : 융합문화예술의 실제 Ⅱ (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 25 Oct 2021 08:11:33 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SSUk+SSMOOC011K+2021_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SSUk+SSMOOC011K+2021_T2/about</guid>
+            <pubDate>Mon, 25 Oct 2021 09:10:14 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김주원
@@ -63,9 +63,9 @@
         </item>
         <item>
             <title><![CDATA[생각보다 가까운 FTA(2) (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 25 Oct 2021 08:11:33 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:INHAuniversityK+inha002_2+2021_002/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:INHAuniversityK+inha002_2+2021_002/about</guid>
+            <pubDate>Mon, 25 Oct 2021 09:10:14 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 정인교
@@ -81,9 +81,9 @@
         </item>
         <item>
             <title><![CDATA[경영시스템 인증의 이해 -ISO/IEC 17021-1 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 25 Oct 2021 08:11:33 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KAB+KAB01+2019_T8/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KAB+KAB01+2019_T8/about</guid>
+            <pubDate>Mon, 25 Oct 2021 09:10:14 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 한 섭
