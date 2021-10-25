@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 21:09:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 22:10:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[문화융합시대의 창업 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 25 Oct 2021 21:08:57 GMT</pubDate>
+            <pubDate>Mon, 25 Oct 2021 22:09:57 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김기정 외 10인
