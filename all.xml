@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 08:11:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 09:09:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[모두를 위한 사회학 입문 Ⅱ (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Wed, 27 Oct 2021 08:11:21 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_soc_002+2021_S06/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_soc_002+2021_S06/about</guid>
+            <pubDate>Wed, 27 Oct 2021 09:09:37 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김윤태
@@ -27,9 +27,9 @@
         </item>
         <item>
             <title><![CDATA[생물학적 인간Ⅱ (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Wed, 27 Oct 2021 08:11:21 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_phy_002+2021_A29/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_phy_002+2021_A29/about</guid>
+            <pubDate>Wed, 27 Oct 2021 09:09:37 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 나흥식
