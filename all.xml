@@ -4,9 +4,45 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 23:10:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 00:30:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모두를 위한 사회학 입문 Ⅱ (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Wed, 27 Oct 2021 00:30:10 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김윤태
+                </span>
+                <span class="kr01_school">KOREA UNIVERSITY</span>
+                </div>
+                <div><time>2021/10/27</time>
+                
+                ~ <time>2021/12/22</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KoreaUnivK+ku_soc_002+2021_S06+type@asset+block@_%E1%84%8F%E1%85%B3%E1%84%80%E1%85%B5%E1%84%87%E1%85%A7%E1%86%AB%E1%84%92%E1%85%AA%E1%86%AB_18_%E1%84%89%E1%85%A1%E1%84%92%E1%85%AC%E1%84%92%E1%85%A1%E1%86%A8%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%86%E1%85%AE%E1%86%AB2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[생물학적 인간Ⅱ (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Wed, 27 Oct 2021 00:30:10 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                나흥식
+                </span>
+                <span class="kr01_school">KOREA UNIVERSITY</span>
+                </div>
+                <div><time>2021/10/27</time>
+                
+                ~ <time>2021/12/21</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KoreaUnivK+ku_phy_002+2021_A29+type@asset+block@_%E1%84%8F%E1%85%B3%E1%84%80%E1%85%B5%E1%84%87%E1%85%A7%E1%86%AB%E1%84%92%E1%85%AA%E1%86%AB_08_%E1%84%8F%E1%85%B3%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%87%E1%85%A2%E1%84%82%E1%85%A5_%E1%84%89%E1%85%A2%E1%86%BC%E1%84%8B%E1%85%B5%E1%86%AB.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[문화융합시대의 창업 (K-MOOC ─ 진행중)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:RUCK+RUCK01+2021_RUCK1/about</link>
@@ -332,42 +368,6 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:CAUk+CAU08K+2021_2+type@asset+block@4%EC%B0%A8%EC%82%B0%EC%97%85%EB%B3%B4%EC%95%88%EB%B2%95-%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[사진 이후의 사진 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:CAUk+CAU10K+2021_2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:CAUk+CAU10K+2021_2/about</guid>
-            <pubDate>Mon, 25 Oct 2021 02:26:45 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                천경우
-                </span>
-                <span class="kr01_school">CHUNG-ANG UNIVERSITY</span>
-                </div>
-                <div><time>2021/10/18</time>
-                
-                ~ <time>2022/01/21</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:CAUk+CAU10K+2021_2+type@asset+block@%EC%82%AC%EC%A7%84_%EC%9D%B4%ED%9B%84%EC%9D%98_%EC%82%AC%EC%A7%84_%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[금융 AI (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:CAUk+CAU_AI03+2021_2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:CAUk+CAU_AI03+2021_2/about</guid>
-            <pubDate>Mon, 25 Oct 2021 02:26:45 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                유시용
-                </span>
-                <span class="kr01_school">CHUNG-ANG UNIVERSITY</span>
-                </div>
-                <div><time>2021/10/18</time>
-                
-                ~ <time>2022/01/14</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:CAUk+CAU_AI03+2021_2+type@asset+block@%E1%84%80%E1%85%B3%E1%86%B7%E1%84%8B%E1%85%B2%E1%86%BC%E1%84%8B%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8B%E1%85%A1%E1%84%8B%E1%85%B52.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[한국 교육의 시대적 요청 Ⅱ (K-MOOC ─ 개강예정)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_edu_001+2021_A35/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_edu_001+2021_A35/about</guid>
@@ -564,42 +564,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:DEU+DEU_00002+2021-T2+type@asset+block@%ED%8F%AC%EC%8A%A4%ED%8A%B8%ED%9C%B4%EB%A8%BC%EC%9D%98_%EC%9D%B4%ED%95%B4__2_.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[모두를 위한 사회학 입문 Ⅱ (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_soc_002+2021_S06/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_soc_002+2021_S06/about</guid>
-            <pubDate>Mon, 25 Oct 2021 18:11:09 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김윤태
-                </span>
-                <span class="kr01_school">KOREA UNIVERSITY</span>
-                </div>
-                <div><time>2021/10/27</time>
-                
-                ~ <time>2021/12/22</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KoreaUnivK+ku_soc_002+2021_S06+type@asset+block@_%E1%84%8F%E1%85%B3%E1%84%80%E1%85%B5%E1%84%87%E1%85%A7%E1%86%AB%E1%84%92%E1%85%AA%E1%86%AB_18_%E1%84%89%E1%85%A1%E1%84%92%E1%85%AC%E1%84%92%E1%85%A1%E1%86%A8%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%86%E1%85%AE%E1%86%AB2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[생물학적 인간Ⅱ (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_phy_002+2021_A29/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_phy_002+2021_A29/about</guid>
-            <pubDate>Tue, 26 Oct 2021 01:51:35 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                나흥식
-                </span>
-                <span class="kr01_school">KOREA UNIVERSITY</span>
-                </div>
-                <div><time>2021/10/27</time>
-                
-                ~ <time>2021/12/21</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KoreaUnivK+ku_phy_002+2021_A29+type@asset+block@_%E1%84%8F%E1%85%B3%E1%84%80%E1%85%B5%E1%84%87%E1%85%A7%E1%86%AB%E1%84%92%E1%85%AA%E1%86%AB_08_%E1%84%8F%E1%85%B3%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%87%E1%85%A2%E1%84%82%E1%85%A5_%E1%84%89%E1%85%A2%E1%86%BC%E1%84%8B%E1%85%B5%E1%86%AB.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
