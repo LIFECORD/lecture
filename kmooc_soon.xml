@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 23:09:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 00:28:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -260,6 +260,24 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:DEU+DEU_00002+2021-T2+type@asset+block@%ED%8F%AC%EC%8A%A4%ED%8A%B8%ED%9C%B4%EB%A8%BC%EC%9D%98_%EC%9D%B4%ED%95%B4__2_.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[Poverty, Inequality & Development Cooperation]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:EwhaK+EW21001K+2021_F16/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:EwhaK+EW21001K+2021_F16/about</guid>
+            <pubDate>Fri, 29 Oct 2021 00:28:58 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                오진환
+                </span>
+                <span class="kr01_school">EWHA WOMANS UNIVERSITY</span>
+                </div>
+                <div><time>2021/11/01</time>
+                
+                ~ <time>2022/02/06</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:EwhaK+EW21001K+2021_F16+type@asset+block@PIDC-%EC%8D%B8%EB%84%A4%EC%9D%BC_1028.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[생명을 다루는 사람들의 인문학]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:KonYangK+CK_KY005+KY2021_0501/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:KonYangK+CK_KY005+KY2021_0501/about</guid>
@@ -276,60 +294,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:KonYangK+CK_KY005+KY2021_0501+type@asset+block@%EA%B0%95%EC%A2%8C%EC%9D%B4%EB%AF%B8%EC%A7%806.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[재난관리 리더십과 재난대응 협업 (Disaster Management Leadership and Collaboration for Disaster Response)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:NDTI+NDTI02+2021_1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:NDTI+NDTI02+2021_1/about</guid>
-            <pubDate>Wed, 27 Oct 2021 08:11:37 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                서상덕
-                </span>
-                <span class="kr01_school">National Civil Defense and Disaster Management Training Institute</span>
-                </div>
-                <div><time>2021/10/29</time>
-                
-                ~ <time>2022/02/28</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/static/images/no_images_large.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[재난커뮤니케이션 (Disaster Communication)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:NDTI+NDTI03+2021_1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:NDTI+NDTI03+2021_1/about</guid>
-            <pubDate>Wed, 27 Oct 2021 08:11:37 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                이충현
-                </span>
-                <span class="kr01_school">National Civil Defense and Disaster Management Training Institute</span>
-                </div>
-                <div><time>2021/10/29</time>
-                
-                ~ <time>2022/02/28</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/static/images/no_images_large.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한국의 재난관리체계 (Disaster Management System in Korea)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:NDTI+NDTI01+2021_1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:NDTI+NDTI01+2021_1/about</guid>
-            <pubDate>Wed, 27 Oct 2021 08:11:37 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                차정회
-                </span>
-                <span class="kr01_school">National Civil Defense and Disaster Management Training Institute</span>
-                </div>
-                <div><time>2021/10/29</time>
-                
-                ~ <time>2022/02/28</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/static/images/no_images_large.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
