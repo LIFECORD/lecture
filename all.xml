@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 17:18:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 18:12:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[B.U.S.(body-user-safety) 지식브릿지 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 01 Nov 2021 17:17:51 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:DEU+DEU_00003+2021-T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DEU+DEU_00003+2021-T2/about</guid>
+            <pubDate>Mon, 01 Nov 2021 18:11:43 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이재인 and 2 others
@@ -27,9 +27,9 @@
         </item>
         <item>
             <title><![CDATA[부산과 세계 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 01 Nov 2021 17:17:51 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:DEU+DEU_00001+2021-T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DEU+DEU_00001+2021-T2/about</guid>
+            <pubDate>Mon, 01 Nov 2021 18:11:43 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 정주영 and 14 others
@@ -45,9 +45,9 @@
         </item>
         <item>
             <title><![CDATA[포스트휴먼의 이해 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 01 Nov 2021 17:17:51 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:DEU+DEU_00002+2021-T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DEU+DEU_00002+2021-T2/about</guid>
+            <pubDate>Mon, 01 Nov 2021 18:11:43 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 윤혜경 and 2 others
