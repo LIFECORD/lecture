@@ -4,14 +4,68 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 08:12:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 09:10:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Poverty, Inequality & Development Cooperation]]></title>
+            <title><![CDATA[B.U.S.(body-user-safety) 지식브릿지]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 01 Nov 2021 08:12:07 GMT</pubDate>
+            <pubDate>Mon, 01 Nov 2021 09:10:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이재인 and 2 others
+                </span>
+                <span class="kr01_school">DONG-EUI UNIVERSITY</span>
+                </div>
+                <div><time>2021/11/01</time>
+                
+                ~ <time>2022/01/15</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:DEU+DEU_00003+2021-T2+type@asset+block@%EC%A7%80%EC%8B%9D%EB%B8%8C%EB%A6%BF%EC%A7%80.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[부산과 세계]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Mon, 01 Nov 2021 09:10:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                정주영 and 14 others
+                </span>
+                <span class="kr01_school">DONG-EUI UNIVERSITY</span>
+                </div>
+                <div><time>2021/11/01</time>
+                
+                ~ <time>2022/01/15</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:DEU+DEU_00001+2021-T2+type@asset+block@%EB%8C%80%ED%91%9C%EC%9D%B4%EB%AF%B8%EC%A7%80.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[포스트휴먼의 이해]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Mon, 01 Nov 2021 09:10:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                윤혜경 and 2 others
+                </span>
+                <span class="kr01_school">DONG-EUI UNIVERSITY</span>
+                </div>
+                <div><time>2021/11/01</time>
+                
+                ~ <time>2022/01/15</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:DEU+DEU_00002+2021-T2+type@asset+block@%ED%8F%AC%EC%8A%A4%ED%8A%B8%ED%9C%B4%EB%A8%BC%EC%9D%98_%EC%9D%B4%ED%95%B4__2_.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Poverty, Inequality & Development Cooperation]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:EwhaK+EW21001K+2021_F16/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:EwhaK+EW21001K+2021_F16/about</guid>
+            <pubDate>Mon, 01 Nov 2021 09:10:25 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 오진환
@@ -27,9 +81,9 @@
         </item>
         <item>
             <title><![CDATA[생명을 다루는 사람들의 인문학]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 01 Nov 2021 08:12:07 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KonYangK+CK_KY005+KY2021_0501/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KonYangK+CK_KY005+KY2021_0501/about</guid>
+            <pubDate>Mon, 01 Nov 2021 09:10:25 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김재명 and 4 others
@@ -45,9 +99,9 @@
         </item>
         <item>
             <title><![CDATA[마학·마술학 기초과정]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 01 Nov 2021 08:12:07 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KRA+KRA01+2021_5/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KRA+KRA01+2021_5/about</guid>
+            <pubDate>Mon, 01 Nov 2021 09:10:25 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김병선 and 1 others
@@ -312,60 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:UOSk+UOS11+2021_T2+type@asset+block@%EA%B0%95%EC%A2%8C%EC%B9%B4%EB%93%9C_%EA%B5%AD%EA%B0%80_min.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소재가 빚어내는 문명의 화음]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:UOSk+uos12+2021_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:UOSk+uos12+2021_T2/about</guid>
-            <pubDate>Mon, 25 Oct 2021 02:26:45 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                홍완식
-                </span>
-                <span class="kr01_school">UNIVERSITY OF SEOUL</span>
-                </div>
-                <div><time>2021/10/19</time>
-                
-                ~ <time>2022/01/21</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:UOSk+uos12+2021_T2+type@asset+block@%EA%B0%95%EC%A2%8C%EC%B9%B4%EB%93%9C_%EC%86%8C%EC%9E%AC_min.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내 삶에 영향을 주는 음악 수업]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:UOSk+uos13+2021_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:UOSk+uos13+2021_T2/about</guid>
-            <pubDate>Mon, 25 Oct 2021 02:26:45 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                전기홍
-                </span>
-                <span class="kr01_school">UNIVERSITY OF SEOUL</span>
-                </div>
-                <div><time>2021/10/19</time>
-                
-                ~ <time>2022/01/21</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:UOSk+uos13+2021_T2+type@asset+block@%EA%B0%95%EC%A2%8C%EC%B9%B4%EB%93%9C_%EC%9D%8C%EC%95%85_min.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[욕망의 이해 : 모방이론으로 우리 일상 돌아보기]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:UOUk+UOU401_01K+U401A_5_2021_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:UOUk+UOU401_01K+U401A_5_2021_T2/about</guid>
-            <pubDate>Mon, 25 Oct 2021 02:26:45 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김진식
-                </span>
-                <span class="kr01_school">University of Ulsan</span>
-                </div>
-                <div><time>2021/10/19</time>
-                
-                ~ <time>2021/12/13</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:UOUk+UOU401_01K+U401A_5_2021_T2+type@asset+block@191127-t.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
