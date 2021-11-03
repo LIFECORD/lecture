@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 08:12:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 09:11:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[한국 교육의 시대적 요청 Ⅱ (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Wed, 03 Nov 2021 08:12:18 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_edu_001+2021_A35/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_edu_001+2021_A35/about</guid>
+            <pubDate>Wed, 03 Nov 2021 09:10:43 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 신창호
@@ -27,9 +27,9 @@
         </item>
         <item>
             <title><![CDATA[가족과 건강 : 운동과 뇌 건강 Ⅱ (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Wed, 03 Nov 2021 08:12:18 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:UOUk+UOU601_02K+U601A_2021_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:UOUk+UOU601_02K+U601A_2021_T2/about</guid>
+            <pubDate>Wed, 03 Nov 2021 09:10:43 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 우민정
@@ -45,9 +45,9 @@
         </item>
         <item>
             <title><![CDATA[모범시민의 교양회계 Ⅱ (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Wed, 03 Nov 2021 08:12:18 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:UOUk+UOU602_02K+U602A_2021_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:UOUk+UOU602_02K+U602A_2021_T2/about</guid>
+            <pubDate>Wed, 03 Nov 2021 09:10:43 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김효은
@@ -63,9 +63,9 @@
         </item>
         <item>
             <title><![CDATA[구글 도구로 만드는 혁신적인 일상 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Wed, 03 Nov 2021 08:12:18 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:DKUK+MOOC_DKUK0019+2021_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DKUK+MOOC_DKUK0019+2021_T2/about</guid>
+            <pubDate>Wed, 03 Nov 2021 09:10:43 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박정철
@@ -81,9 +81,9 @@
         </item>
         <item>
             <title><![CDATA[손자병법 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Wed, 03 Nov 2021 08:12:18 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:DKUK+MOOC_DKUK0008+2021_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DKUK+MOOC_DKUK0008+2021_T2/about</guid>
+            <pubDate>Wed, 03 Nov 2021 09:10:43 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김원중
@@ -99,9 +99,9 @@
         </item>
         <item>
             <title><![CDATA[한비자 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Wed, 03 Nov 2021 08:12:18 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:DKUK+MOOC_DKUK0007+2021_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DKUK+MOOC_DKUK0007+2021_T2/about</guid>
+            <pubDate>Wed, 03 Nov 2021 09:10:43 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김원중
@@ -117,9 +117,9 @@
         </item>
         <item>
             <title><![CDATA[의학세계사 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Wed, 03 Nov 2021 08:12:18 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:DKUK+MOOC_DKUK0006+2021_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DKUK+MOOC_DKUK0006+2021_T2/about</guid>
+            <pubDate>Wed, 03 Nov 2021 09:10:43 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 서민
