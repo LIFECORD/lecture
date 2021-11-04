@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 23:10:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 00:31:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[연극으로 하는 창의감성교육 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Wed, 03 Nov 2021 23:09:52 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KSUk+KSUk_14+2021_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KSUk+KSUk_14+2021_T2/about</guid>
+            <pubDate>Thu, 04 Nov 2021 00:31:06 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이기호 and 1 others
@@ -27,9 +27,9 @@
         </item>
         <item>
             <title><![CDATA[시나리오란 무엇인가? (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Wed, 03 Nov 2021 23:09:52 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KSUk+KSUk_15+2021_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KSUk+KSUk_15+2021_T2/about</guid>
+            <pubDate>Thu, 04 Nov 2021 00:31:06 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 강내영
@@ -45,9 +45,9 @@
         </item>
         <item>
             <title><![CDATA[도시 부산, 공간을 말하다 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Wed, 03 Nov 2021 23:09:52 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KSUk+KSUk_16+2021_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KSUk+KSUk_16+2021_T2/about</guid>
+            <pubDate>Thu, 04 Nov 2021 00:31:06 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김은정 and 1 others
@@ -63,9 +63,9 @@
         </item>
         <item>
             <title><![CDATA[현해탄과 근대 부산 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Wed, 03 Nov 2021 23:09:52 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KSUk+KSUk_17+2021_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KSUk+KSUk_17+2021_T2/about</guid>
+            <pubDate>Thu, 04 Nov 2021 00:31:06 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 신승모
