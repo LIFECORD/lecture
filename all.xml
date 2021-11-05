@@ -4,9 +4,27 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 23:10:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 00:30:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[항만물류와 4차 산업혁명 (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Fri, 05 Nov 2021 00:30:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                안창원 and 2 others
+                </span>
+                <span class="kr01_school">Yeosu Gwangyang Port Authority</span>
+                </div>
+                <div><time>2021/11/05</time>
+                
+                ~ <time>2022/01/05</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:YGPA+YGPA01+2021_T1+type@asset+block@1.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[연극으로 하는 창의감성교육 (K-MOOC ─ 진행중)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:KSUk+KSUk_14+2021_T2/about</link>
@@ -350,24 +368,6 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:DKUK+MOOC_DKUK0020+2021_T2+type@asset+block@%EB%8B%A8%EA%B5%AD%EB%8C%80_%EC%8D%B8%EB%84%A4%EC%9D%BC_%EA%B5%AC%EA%B8%80_%EB%A7%88%EC%8A%A4%ED%84%B0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[재난관리 리더십과 재난대응 협업 (Disaster Management Leadership and Collaboration for Disaster Response) (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:NDTI+NDTI02+2021_1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:NDTI+NDTI02+2021_1/about</guid>
-            <pubDate>Fri, 29 Oct 2021 09:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                서상덕
-                </span>
-                <span class="kr01_school">National Civil Defense and Disaster Management Training Institute</span>
-                </div>
-                <div><time>2021/10/29</time>
-                
-                ~ <time>2022/02/28</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:NDTI+NDTI02+2021_1+type@asset+block@NDTI_%E1%84%80%E1%85%AD%E1%84%8B%E1%85%B2%E1%86%A8_%E1%84%8A%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF_%E1%84%8C%E1%85%A2%E1%84%82%E1%85%A1%E1%86%AB%E1%84%80%E1%85%AA%E1%86%AB%E1%84%85%E1%85%B5_%E1%84%85%E1%85%B5%E1%84%83%E1%85%A5%E1%84%89%E1%85%B5%E1%86%B8%E1%84%80%E1%85%AA_%E1%84%8C%E1%85%A2%E1%84%82%E1%85%A1%E1%86%AB%E1%84%83%E1%85%A2%E1%84%8B%E1%85%B3%E1%86%BC%E1%84%92%E1%85%A7%E1%86%B8%E1%84%8B%E1%85%A5%E1%86%B8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[호텔관광실무론 (K-MOOC ─ 개강예정)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:CUFS+CUFS04+2021-2_C4/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:CUFS+CUFS04+2021-2_C4/about</guid>
@@ -510,24 +510,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:SKKUk+SKKU_47+2021_T4+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%EC%84%B1%EA%B7%A0%EA%B4%80%EB%8C%80%ED%95%99%EA%B5%90-%EC%84%B8%EA%B3%84%EB%A1%9C_%ED%86%B5%ED%95%98%EB%8A%94_%ED%95%9C%EA%B5%AD%EC%96%B4_%EC%A4%91%EA%B8%89%E2%85%A0_%EA%B9%80%EA%B2%BD%ED%9B%A4_-%EA%B5%AD%EB%AC%B8-%EA%B0%95%EC%A2%8C%EC%9D%B4%EB%AF%B8%EC%A7%80.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[항만물류와 4차 산업혁명 (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:YGPA+YGPA01+2021_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:YGPA+YGPA01+2021_T1/about</guid>
-            <pubDate>Mon, 01 Nov 2021 01:55:17 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                안창원 and 2 others
-                </span>
-                <span class="kr01_school">Yeosu Gwangyang Port Authority</span>
-                </div>
-                <div><time>2021/11/05</time>
-                
-                ~ <time>2022/01/05</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:YGPA+YGPA01+2021_T1+type@asset+block@1.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
