@@ -4,14 +4,32 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 00:31:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 01:52:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[건축과 도시의 인문학]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Mon, 08 Nov 2021 01:52:29 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                유진상
+                </span>
+                <span class="kr01_school">Changwon National University</span>
+                </div>
+                <div><time>2021/11/08</time>
+                
+                ~ <time>2022/02/14</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:CWNU+CWNU001+2021_2+type@asset+block@changwon_small_size.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세계로 통하는 한국어 : 초급Ⅱ]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 08 Nov 2021 00:31:35 GMT</pubDate>
+            <pubDate>Mon, 08 Nov 2021 01:52:29 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김경훤 and 3 others
@@ -29,7 +47,7 @@
             <title><![CDATA[세계로 통하는 한국어 : 초급Ⅰ]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 08 Nov 2021 00:31:35 GMT</pubDate>
+            <pubDate>Mon, 08 Nov 2021 01:52:29 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김경훤 and 3 others
@@ -47,7 +65,7 @@
             <title><![CDATA[세계로 통하는 한국어 : 중급Ⅰ]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 08 Nov 2021 00:31:35 GMT</pubDate>
+            <pubDate>Mon, 08 Nov 2021 01:52:29 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김경훤 and 3 others
@@ -348,24 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:EwhaK+EW21001K+2021_F16+type@asset+block@PIDC-%EC%8D%B8%EB%84%A4%EC%9D%BC_1028.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[생명을 다루는 사람들의 인문학]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KonYangK+CK_KY005+KY2021_0501/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KonYangK+CK_KY005+KY2021_0501/about</guid>
-            <pubDate>Sat, 06 Nov 2021 19:07:54 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김재명 and 4 others
-                </span>
-                <span class="kr01_school">KONYANG UNIVERSITY</span>
-                </div>
-                <div><time>2021/11/01</time>
-                
-                ~ <time>2022/01/30</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KonYangK+CK_KY005+KY2021_0501+type@asset+block@%EA%B0%95%EC%A2%8C%EC%9D%B4%EB%AF%B8%EC%A7%806.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
