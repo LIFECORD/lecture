@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 14:09:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 15:10:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,24 +78,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:CUFS+CUFS02+2021-2_C2+type@asset+block@03_%EC%BB%A8%EB%B2%A4%EC%85%98-%EC%98%81%EC%96%B4-%ED%95%84%EA%B8%B0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[믿고 보는 부산 문화]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KSUk+KSUk_12+2021_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KSUk+KSUk_12+2021_T2/about</guid>
-            <pubDate>Sun, 07 Nov 2021 22:09:43 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                황병익
-                </span>
-                <span class="kr01_school">KYUNGSUNG UNIVERSITY</span>
-                </div>
-                <div><time>2021/11/10</time>
-                
-                ~ <time>2021/12/22</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KSUk+KSUk_12+2021_T2+type@asset+block@2021-%EB%AF%BF%EA%B3%A0-%EB%B3%B4%EB%8A%94-%EB%B6%80%EC%82%B0-%EB%AC%B8%ED%99%94.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
