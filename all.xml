@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 08:12:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 09:10:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[미래 모빌리티 최신 기술동향 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Wed, 10 Nov 2021 08:12:24 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:UOUk+UOU604_01K+U604A_2021_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:UOUk+UOU604_01K+U604A_2021_T2/about</guid>
+            <pubDate>Wed, 10 Nov 2021 09:10:08 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 안경관 and 5 others
@@ -27,9 +27,9 @@
         </item>
         <item>
             <title><![CDATA[미래산업에서 수소연료전지의 위상 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Wed, 10 Nov 2021 08:12:24 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:UOUk+UOU603_01K+U603A_2021_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:UOUk+UOU603_01K+U603A_2021_T2/about</guid>
+            <pubDate>Wed, 10 Nov 2021 09:10:08 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김준범
