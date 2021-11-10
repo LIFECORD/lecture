@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 07:10:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 08:12:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[미래 모빌리티 최신 기술동향 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Wed, 10 Nov 2021 07:10:06 GMT</pubDate>
+            <pubDate>Wed, 10 Nov 2021 08:12:24 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 안경관 and 5 others
@@ -29,7 +29,7 @@
             <title><![CDATA[미래산업에서 수소연료전지의 위상 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Wed, 10 Nov 2021 07:10:06 GMT</pubDate>
+            <pubDate>Wed, 10 Nov 2021 08:12:24 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김준범
@@ -438,6 +438,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:CUFS+CUFS02+2021-2_C2+type@asset+block@03_%EC%BB%A8%EB%B2%A4%EC%85%98-%EC%98%81%EC%96%B4-%ED%95%84%EA%B8%B0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국문화로 배우는 한국어 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:HansungK+HSKMOOCk03+2021_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:HansungK+HSKMOOCk03+2021_T1/about</guid>
+            <pubDate>Wed, 10 Nov 2021 08:12:37 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                노정은
+                </span>
+                <span class="kr01_school">HANSUNG UNIVERSITY</span>
+                </div>
+                <div><time>2021/11/15</time>
+                
+                ~ <time>2022/03/01</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:HansungK+HSKMOOCk03+2021_T1+type@asset+block@%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
