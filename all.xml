@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 07:10:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 08:11:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -455,7 +455,7 @@
                 ~ <time>2022/01/23</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KHUk+KH505+2021_T2_2+type@asset+block@%EA%B0%80%EC%9E%90_%ED%95%9C%EA%B5%AD%EC%96%B4.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KHUk+KH505+2021_T2_2+type@asset+block@%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C1.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[한국어교육학개론 (K-MOOC ─ 개강예정)]]></title>
@@ -473,25 +473,7 @@
                 ~ <time>2022/01/23</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KHUk+KH501+2021_T2_2+type@asset+block@%ED%95%9C%EA%B5%AD%EC%96%B4%EA%B5%90%EC%9C%A1%ED%95%99%EA%B0%9C%EB%A1%A0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국어어휘교육론 (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KHUk+KH503+2021_T2_2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KHUk+KH503+2021_T2_2/about</guid>
-            <pubDate>Fri, 12 Nov 2021 00:32:14 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김유미
-                </span>
-                <span class="kr01_school">KYUNG HEE UNIVERSITY</span>
-                </div>
-                <div><time>2021/11/29</time>
-                
-                ~ <time>2022/01/23</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KHUk+KH503+2021_T2_2+type@asset+block@%ED%95%9C%EA%B5%AD%EC%96%B4%EC%96%B4%ED%9C%98%EA%B5%90%EC%9C%A1%EB%A1%A0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KHUk+KH501+2021_T2_2+type@asset+block@%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C4.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[한국어문법교육론 (K-MOOC ─ 개강예정)]]></title>
@@ -509,7 +491,25 @@
                 ~ <time>2022/01/23</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KHUk+KH502+2021_T2_2+type@asset+block@%ED%95%9C%EA%B5%AD%EC%96%B4%EB%AC%B8%EB%B2%95%EA%B5%90%EC%9C%A1%EB%A1%A0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KHUk+KH502+2021_T2_2+type@asset+block@%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C5.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[한국어어휘교육론 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:KHUk+KH503+2021_T2_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KHUk+KH503+2021_T2_2/about</guid>
+            <pubDate>Fri, 12 Nov 2021 00:32:14 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김유미
+                </span>
+                <span class="kr01_school">KYUNG HEE UNIVERSITY</span>
+                </div>
+                <div><time>2021/11/29</time>
+                
+                ~ <time>2022/01/23</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KHUk+KH503+2021_T2_2+type@asset+block@%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C7.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[한국어발음교육론 (K-MOOC ─ 개강예정)]]></title>
@@ -527,7 +527,7 @@
                 ~ <time>2022/01/23</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KHUk+KH504+2021_T2_2+type@asset+block@%ED%95%9C%EA%B5%AD%EC%96%B4%EB%B0%9C%EC%9D%8C%EA%B5%90%EC%9C%A1%EB%A1%A0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KHUk+KH504+2021_T2_2+type@asset+block@%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C6.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[한국 현대문화의 이해 (K-MOOC ─ 개강예정)]]></title>
@@ -545,7 +545,7 @@
                 ~ <time>2022/01/23</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KHUk+KH506+2021_T2_2+type@asset+block@%ED%95%9C%EA%B5%AD_%ED%98%84%EB%8C%80%EB%AC%B8%ED%99%94%EC%9D%98_%EC%9D%B4%ED%95%B4.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KHUk+KH506+2021_T2_2+type@asset+block@%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C3.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[운동선수는 외계인인가? (K-MOOC ─ 개강예정)]]></title>
@@ -563,7 +563,7 @@
                 ~ <time>2022/01/23</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KHUk+KH507+2021_T2_2+type@asset+block@%EC%9A%B4%EB%8F%99%EC%84%A0%EC%88%98%EB%8A%94_%EC%99%B8%EA%B3%84%EC%9D%B8%EC%9D%B8%EA%B0%80.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KHUk+KH507+2021_T2_2+type@asset+block@%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C2.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[한국문화로 배우는 한국어 (K-MOOC ─ 개강예정)]]></title>
