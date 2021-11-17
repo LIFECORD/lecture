@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 14:09:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 15:10:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -600,6 +600,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:WKUk+WKMOOC_08k+2021_T2+type@asset+block@002.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비름박 넘어 부산말 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:KSUk+KSUk_13+2021_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KSUk+KSUk_13+2021_T2/about</guid>
+            <pubDate>Wed, 17 Nov 2021 15:10:17 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                정재형 and 1 others
+                </span>
+                <span class="kr01_school">KYUNGSUNG UNIVERSITY</span>
+                </div>
+                <div><time>2021/11/24</time>
+                
+                ~ <time>2021/12/22</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KSUk+KSUk_13+2021_T2+type@asset+block@2021-%EB%B9%84%EB%A6%84%EB%B0%95-%EB%84%98%EC%96%B4-%EB%B6%80%EC%82%B0%EB%A7%90.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[JLPT N3 일본어문법 (K-MOOC ─ 개강예정)]]></title>
