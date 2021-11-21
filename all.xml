@@ -4,9 +4,27 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Nov 2021 14:09:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Nov 2021 15:09:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미생물학 입문 (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Sun, 21 Nov 2021 15:09:33 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                예정용
+                </span>
+                <span class="kr01_school">Incheon National University</span>
+                </div>
+                <div><time>2021/11/22</time>
+                
+                ~ <time>2021/12/31</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:INU+INU002+2021_L2_4+type@asset+block@%EC%98%88%EC%A0%95%EC%9A%A9-%EA%B5%90%EC%88%98%EB%8B%983%EC%B0%A8%EC%88%98%EC%A0%95.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국문화로 배우는 한국어 (K-MOOC ─ 진행중)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:HansungK+HSKMOOCk03+2021_T1/about</link>
@@ -348,24 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:DKUK+MOOC_DKUK0008+2021_T2+type@asset+block@%EA%B0%95%EC%A2%8C%EC%B9%B4%EB%93%9C_%EC%86%90%EC%9E%90%EB%B3%91%EB%B2%95.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한비자 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:DKUK+MOOC_DKUK0007+2021_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:DKUK+MOOC_DKUK0007+2021_T2/about</guid>
-            <pubDate>Sat, 06 Nov 2021 19:07:54 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김원중
-                </span>
-                <span class="kr01_school">Dankook University</span>
-                </div>
-                <div><time>2021/11/03</time>
-                
-                ~ <time>2021/12/10</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:DKUK+MOOC_DKUK0007+2021_T2+type@asset+block@%EA%B0%95%EC%A2%8C%EC%B9%B4%EB%93%9C_%ED%95%9C%EB%B9%84%EC%9E%90.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[호텔관광실무론 (K-MOOC ─ 개강예정)]]></title>
