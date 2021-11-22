@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 08:12:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 09:10:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[JLPT N3 일본어문법 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 22 Nov 2021 08:12:13 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KSNU+KSNU03+2021-T3/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KSNU+KSNU03+2021-T3/about</guid>
+            <pubDate>Mon, 22 Nov 2021 09:10:27 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 최태화
@@ -27,9 +27,9 @@
         </item>
         <item>
             <title><![CDATA[협동을 기반으로 사람을 생각하는 사회복지연구 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 22 Nov 2021 08:12:13 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KSNU+KSNU02+2021-T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KSNU+KSNU02+2021-T2/about</guid>
+            <pubDate>Mon, 22 Nov 2021 09:10:27 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 강영숙
@@ -45,9 +45,9 @@
         </item>
         <item>
             <title><![CDATA[정역학 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 22 Nov 2021 08:12:13 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KSNU+KSNU01+2021-T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KSNU+KSNU01+2021-T1/about</guid>
+            <pubDate>Mon, 22 Nov 2021 09:10:27 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박현범
@@ -63,9 +63,9 @@
         </item>
         <item>
             <title><![CDATA[동양미술의 광기와 창의성 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 22 Nov 2021 08:12:13 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SKKUk+SKKU_54+2021_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SKKUk+SKKU_54+2021_T1/about</guid>
+            <pubDate>Mon, 22 Nov 2021 09:10:27 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 조민환
@@ -81,9 +81,9 @@
         </item>
         <item>
             <title><![CDATA[창업 아이템 발굴을 위한 창의적 사고 기법 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 22 Nov 2021 08:12:13 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SKKUk+SKKU_56+2021_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SKKUk+SKKU_56+2021_T1/about</guid>
+            <pubDate>Mon, 22 Nov 2021 09:10:27 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 위현정
@@ -99,9 +99,9 @@
         </item>
         <item>
             <title><![CDATA[자연학 ‧ 예술 ‧ 한의학 ‧ 인공지능 ‧ 정치학과 유학의 만남 : 인접학문에서 유학을 바라보다 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 22 Nov 2021 08:12:13 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SKKUk+SKKU_52+2021_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SKKUk+SKKU_52+2021_T1/about</guid>
+            <pubDate>Mon, 22 Nov 2021 09:10:27 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 신정근
@@ -117,9 +117,9 @@
         </item>
         <item>
             <title><![CDATA[정신 분석으로 읽는 영상과 인간심리 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 22 Nov 2021 08:12:13 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SKKUk+SKKU_53+2021_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SKKUk+SKKU_53+2021_T1/about</guid>
+            <pubDate>Mon, 22 Nov 2021 09:10:27 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 안상혁
@@ -135,9 +135,9 @@
         </item>
         <item>
             <title><![CDATA[인공지능 수학 입문 (Introductory Mathematics for AI) (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 22 Nov 2021 08:12:13 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SKKUk+SKKU_57+2021_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SKKUk+SKKU_57+2021_T1/about</guid>
+            <pubDate>Mon, 22 Nov 2021 09:10:27 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이상구
@@ -153,9 +153,9 @@
         </item>
         <item>
             <title><![CDATA[인공지능 수학 기초 (Basic Mathematics for AI) (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 22 Nov 2021 08:12:13 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SKKUk+SKKU_58+2021_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SKKUk+SKKU_58+2021_T1/about</guid>
+            <pubDate>Mon, 22 Nov 2021 09:10:27 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이상구
@@ -171,9 +171,9 @@
         </item>
         <item>
             <title><![CDATA[동양고전 <사서>에서 찾는 인간의길 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 22 Nov 2021 08:12:13 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SKKUk+SKKU_51+2021_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SKKUk+SKKU_51+2021_T1/about</guid>
+            <pubDate>Mon, 22 Nov 2021 09:10:27 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 고재석
@@ -189,9 +189,9 @@
         </item>
         <item>
             <title><![CDATA[스마트폰이 낳은 신인류 포노사피엔스 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 22 Nov 2021 08:12:13 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SKKUk+SKKU_55+2021_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SKKUk+SKKU_55+2021_T1/about</guid>
+            <pubDate>Mon, 22 Nov 2021 09:10:27 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 최재붕
@@ -207,9 +207,9 @@
         </item>
         <item>
             <title><![CDATA[영문법, 숨겨진 일반성을 찾아서 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 22 Nov 2021 08:12:13 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:HYUk+IV_HYUKMOOC2021-2k+2021_C2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:HYUk+IV_HYUKMOOC2021-2k+2021_C2/about</guid>
+            <pubDate>Mon, 22 Nov 2021 09:10:27 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이기정 and 1 others
@@ -225,9 +225,9 @@
         </item>
         <item>
             <title><![CDATA[미국문화의 속살 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 22 Nov 2021 08:12:13 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:HYUk+IV_HYUKMOOC2021-1k+2021_C1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:HYUk+IV_HYUKMOOC2021-1k+2021_C1/about</guid>
+            <pubDate>Mon, 22 Nov 2021 09:10:27 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 윤성호
