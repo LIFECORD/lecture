@@ -4,9 +4,81 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 23:10:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 00:32:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[혁신 마케팅 CASE STUDY]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Thu, 25 Nov 2021 00:31:46 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                문준연
+                </span>
+                <span class="kr01_school">HANYANG UNIVERSITY</span>
+                </div>
+                <div><time>2021/11/25</time>
+                
+                ~ <time>2022/01/09</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:HYUk+PRIME_HYUKMOOC2017+2021_C2+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%ED%98%81%EC%8B%A0%EB%A7%88%EC%BC%80%ED%8C%85-100.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[반도체 공정 입문]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Thu, 25 Nov 2021 00:31:46 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김재균
+                </span>
+                <span class="kr01_school">HANYANG UNIVERSITY</span>
+                </div>
+                <div><time>2021/11/25</time>
+                
+                ~ <time>2022/01/09</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:HYUk+PRIME_HYUKMOOC2019-1k+2021_C1+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%EB%B0%98%EB%8F%84%EC%B2%B4_840_480_.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[비전공자를 위한 기초 화학]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Thu, 25 Nov 2021 00:31:46 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                박경호
+                </span>
+                <span class="kr01_school">HANYANG UNIVERSITY</span>
+                </div>
+                <div><time>2021/11/25</time>
+                
+                ~ <time>2022/01/09</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:HYUk+PRIME_HYUKMOOC2019-2k+2021_C2+type@asset+block@%EA%B8%B0%EC%B4%88%ED%99%94%ED%95%99-100.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[문화콘텐츠 스토리텔링 분석]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Thu, 25 Nov 2021 00:31:46 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                박기수
+                </span>
+                <span class="kr01_school">HANYANG UNIVERSITY</span>
+                </div>
+                <div><time>2021/11/25</time>
+                
+                ~ <time>2022/01/09</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:HYUk+PRIME_HYUKMOOC2017-1k+2021_C1+type@asset+block@%EB%AC%B8%ED%99%94%EC%BD%98%ED%85%90%EC%B8%A0_%EC%8A%A4%ED%86%A0%EB%A6%AC%ED%85%94%EB%A7%81_%EB%B6%84%EC%84%9D_326x200__%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80_2021.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[비름박 넘어 부산말]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:KSUk+KSUk_13+2021_T2/about</link>
@@ -294,78 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:HansungK+HSKMOOCk03+2021_T1+type@asset+block@%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[문화와 생활 속 청렴 시즌2]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:ACRCEDU+ACRC02+2021_01/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:ACRCEDU+ACRC02+2021_01/about</guid>
-            <pubDate>Thu, 11 Nov 2021 09:09:55 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김경일 and 5 others
-                </span>
-                <span class="kr01_school">Anti-Corruption and Civil Rights Commission</span>
-                </div>
-                <div><time>2021/11/11</time>
-                
-                ~ <time>2021/12/16</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:ACRCEDU+ACRC02+2021_01+type@asset+block@%EB%AC%B8%ED%99%94_%EC%83%9D%ED%99%9C_%EC%8B%9C%EC%A6%8C2.PNG" length="0" type="image/PNG"/>
-        </item>
-        <item>
-            <title><![CDATA[미래 모빌리티 최신 기술동향]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:UOUk+UOU604_01K+U604A_2021_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:UOUk+UOU604_01K+U604A_2021_T2/about</guid>
-            <pubDate>Wed, 10 Nov 2021 09:10:08 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                안경관 and 5 others
-                </span>
-                <span class="kr01_school">University of Ulsan</span>
-                </div>
-                <div><time>2021/11/10</time>
-                
-                ~ <time>2022/12/20</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:UOUk+UOU604_01K+U604A_2021_T2+type@asset+block@%EB%AF%B8%EB%9E%98%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0-%EC%8D%B8%EB%84%A4%EC%9D%BC-001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미래산업에서 수소연료전지의 위상]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:UOUk+UOU603_01K+U603A_2021_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:UOUk+UOU603_01K+U603A_2021_T2/about</guid>
-            <pubDate>Wed, 10 Nov 2021 09:10:08 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김준범
-                </span>
-                <span class="kr01_school">University of Ulsan</span>
-                </div>
-                <div><time>2021/11/10</time>
-                
-                ~ <time>2021/12/20</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:UOUk+UOU603_01K+U603A_2021_T2+type@asset+block@%EB%AF%B8%EB%9E%98%EC%82%B0%EC%97%85_%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[믿고 보는 부산 문화]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KSUk+KSUk_12+2021_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KSUk+KSUk_12+2021_T2/about</guid>
-            <pubDate>Wed, 10 Nov 2021 00:31:16 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                황병익
-                </span>
-                <span class="kr01_school">KYUNGSUNG UNIVERSITY</span>
-                </div>
-                <div><time>2021/11/10</time>
-                
-                ~ <time>2021/12/22</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KSUk+KSUk_12+2021_T2+type@asset+block@2021-%EB%AF%BF%EA%B3%A0-%EB%B3%B4%EB%8A%94-%EB%B6%80%EC%82%B0-%EB%AC%B8%ED%99%94.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
