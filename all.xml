@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 08:12:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 09:11:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[가자, 한국어 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 29 Nov 2021 08:12:27 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KHUk+KH505+2021_T2_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KHUk+KH505+2021_T2_2/about</guid>
+            <pubDate>Mon, 29 Nov 2021 09:10:46 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박동호 and 1 others
@@ -27,9 +27,9 @@
         </item>
         <item>
             <title><![CDATA[한국어교육학개론 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 29 Nov 2021 08:12:27 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KHUk+KH501+2021_T2_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KHUk+KH501+2021_T2_2/about</guid>
+            <pubDate>Mon, 29 Nov 2021 09:10:46 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박동호 and 1 others
@@ -45,9 +45,9 @@
         </item>
         <item>
             <title><![CDATA[한국어문법교육론 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 29 Nov 2021 08:12:27 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KHUk+KH502+2021_T2_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KHUk+KH502+2021_T2_2/about</guid>
+            <pubDate>Mon, 29 Nov 2021 09:10:46 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박동호
@@ -63,9 +63,9 @@
         </item>
         <item>
             <title><![CDATA[한국어어휘교육론 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 29 Nov 2021 08:12:27 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KHUk+KH503+2021_T2_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KHUk+KH503+2021_T2_2/about</guid>
+            <pubDate>Mon, 29 Nov 2021 09:10:46 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김유미
@@ -81,9 +81,9 @@
         </item>
         <item>
             <title><![CDATA[한국어발음교육론 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 29 Nov 2021 08:12:27 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KHUk+KH504+2021_T2_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KHUk+KH504+2021_T2_2/about</guid>
+            <pubDate>Mon, 29 Nov 2021 09:10:46 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박동호
@@ -99,9 +99,9 @@
         </item>
         <item>
             <title><![CDATA[한국 현대문화의 이해 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 29 Nov 2021 08:12:27 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KHUk+KH506+2021_T2_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KHUk+KH506+2021_T2_2/about</guid>
+            <pubDate>Mon, 29 Nov 2021 09:10:46 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김기국
@@ -117,9 +117,9 @@
         </item>
         <item>
             <title><![CDATA[운동선수는 외계인인가? (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 29 Nov 2021 08:12:27 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KHUk+KH507+2021_T2_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KHUk+KH507+2021_T2_2/about</guid>
+            <pubDate>Mon, 29 Nov 2021 09:10:46 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박현
@@ -135,9 +135,9 @@
         </item>
         <item>
             <title><![CDATA[반려동물학 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 29 Nov 2021 08:12:27 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:WKUk+WKMOOC_07k+2021_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:WKUk+WKMOOC_07k+2021_T2/about</guid>
+            <pubDate>Mon, 29 Nov 2021 09:10:46 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김옥진
@@ -153,9 +153,9 @@
         </item>
         <item>
             <title><![CDATA[스포츠마케팅론 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 29 Nov 2021 08:12:27 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:WKUk+WKMOOC_08k+2021_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:WKUk+WKMOOC_08k+2021_T2/about</guid>
+            <pubDate>Mon, 29 Nov 2021 09:10:46 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 문개성
