@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 01:58:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 02:32:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[인도네시아어 A1 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Wed, 01 Dec 2021 01:58:16 GMT</pubDate>
+            <pubDate>Wed, 01 Dec 2021 02:32:31 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김예겸
@@ -24,6 +24,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:BUFSk+BUFS_ICFL08+2021_T2+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_K-MOOC_%EC%9D%B8%EB%8F%84%EB%84%A4%EC%8B%9C%EC%95%84__1_.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[언택트 시대의 눈건강 관리법 (K-MOOC ─ 진행중)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:BUK+BUK003+2021_T2_01/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:BUK+BUK003+2021_T2_01/about</guid>
+            <pubDate>Wed, 01 Dec 2021 02:32:31 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김효진
+                </span>
+                <span class="kr01_school">Baekseok University</span>
+                </div>
+                <div><time>2021/11/30</time>
+                
+                ~ <time>2022/02/28</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:BUK+BUK003+2021_T2_01+type@asset+block@_%EB%88%88%EA%B1%B4%EA%B0%95%EA%B4%80%EB%A6%AC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가자, 한국어 (K-MOOC ─ 진행중)]]></title>
@@ -348,24 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:KSNU+KSNU01+2021-T1+type@asset+block@%EC%A0%95%EC%97%AD%ED%95%99.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[동양미술의 광기와 창의성 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SKKUk+SKKU_54+2021_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SKKUk+SKKU_54+2021_T1/about</guid>
-            <pubDate>Mon, 22 Nov 2021 09:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                조민환
-                </span>
-                <span class="kr01_school">SUNGKYUNKWAN UNIVERSITY</span>
-                </div>
-                <div><time>2021/11/22</time>
-                
-                ~ <time>2022/01/24</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SKKUk+SKKU_54+2021_T1+type@asset+block@%EC%8D%B8%EB%84%A4%EC%9D%BC_%EB%B3%B5%EC%82%AC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[무역상무론 (K-MOOC ─ 개강예정)]]></title>
