@@ -4,9 +4,27 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 23:10:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 00:33:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인도네시아어 A1 (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Wed, 01 Dec 2021 00:33:29 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김예겸
+                </span>
+                <span class="kr01_school">BUSAN UNIVERSITY OF FOREIGN STUDIES</span>
+                </div>
+                <div><time>2021/12/01</time>
+                
+                ~ <time>2022/03/04</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:BUFSk+BUFS_ICFL08+2021_T2+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_K-MOOC_%EC%9D%B8%EB%8F%84%EB%84%A4%EC%8B%9C%EC%95%84__1_.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[가자, 한국어 (K-MOOC ─ 진행중)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:KHUk+KH505+2021_T2_2/about</link>
@@ -348,24 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:SKKUk+SKKU_54+2021_T1+type@asset+block@%EC%8D%B8%EB%84%A4%EC%9D%BC_%EB%B3%B5%EC%82%AC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[창업 아이템 발굴을 위한 창의적 사고 기법 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SKKUk+SKKU_56+2021_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SKKUk+SKKU_56+2021_T1/about</guid>
-            <pubDate>Mon, 22 Nov 2021 09:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                위현정
-                </span>
-                <span class="kr01_school">SUNGKYUNKWAN UNIVERSITY</span>
-                </div>
-                <div><time>2021/11/22</time>
-                
-                ~ <time>2022/01/24</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SKKUk+SKKU_56+2021_T1+type@asset+block@thumbnail_startup.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[무역상무론 (K-MOOC ─ 개강예정)]]></title>
