@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 06:11:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 07:10:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -240,6 +240,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:DEU+DEU-00007+2021-T2+type@asset+block@%EC%8A%A4%ED%94%BC%EC%B9%98%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D_%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공간 빅데이터 프로그래밍]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:InhatcK+inhatcK_08+2021_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:InhatcK+inhatcK_08+2021_T1/about</guid>
+            <pubDate>Fri, 03 Dec 2021 07:10:48 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                주용진
+                </span>
+                <span class="kr01_school">INHA TECHNICAL COLLEGE</span>
+                </div>
+                <div><time>2021/12/06</time>
+                
+                ~ <time>2022/01/31</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:InhatcK+inhatcK_08+2021_T1+type@asset+block@%EA%B3%B5%EA%B0%84%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[호텔관광실무론]]></title>
