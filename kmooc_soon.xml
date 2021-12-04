@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Dec 2021 02:29:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Dec 2021 03:09:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -260,6 +260,24 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:InhatcK+inhatcK_08+2021_T1+type@asset+block@%EA%B3%B5%EA%B0%84%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Contextual and Cultural Communication (CCC)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:INHAuniversityK+inha014+2021_001/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:INHAuniversityK+inha014+2021_001/about</guid>
+            <pubDate>Sat, 04 Dec 2021 03:09:54 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                Grace Bae
+                </span>
+                <span class="kr01_school">INHA UNIVERSITY</span>
+                </div>
+                <div><time>2021/12/06</time>
+                
+                ~ <time>2022/01/23</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:INHAuniversityK+inha014+2021_001+type@asset+block@9D90AA5B-5FB2-4F9D-A02B-0D96B059D090.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[인공지능 수학 고급(Advanced Mathematics for AI)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:SKKUk+SKKU_60+2021_T1/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:SKKUk+SKKU_60+2021_T1/about</guid>
@@ -348,24 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:CUFS+CUFS05+2021-2_C5+type@asset+block@04_%EC%BB%A8%EB%B2%A4%EC%85%98-%EC%98%81%EC%96%B4-%EC%8B%A4%EA%B8%B0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[컨벤션영어 필기]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:CUFS+CUFS02+2021-2_C2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:CUFS+CUFS02+2021-2_C2/about</guid>
-            <pubDate>Thu, 02 Dec 2021 17:17:56 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김희진 and 2 others
-                </span>
-                <span class="kr01_school">CYBER HANKUK UNIVERSITY OF FOREIGN STUDIES</span>
-                </div>
-                <div><time>2021/12/06</time>
-                
-                ~ <time>2022/02/14</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:CUFS+CUFS02+2021-2_C2+type@asset+block@03_%EC%BB%A8%EB%B2%A4%EC%85%98-%EC%98%81%EC%96%B4-%ED%95%84%EA%B8%B0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
