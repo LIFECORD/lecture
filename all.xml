@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 05:10:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 06:12:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[파이썬을 활용한 Business Data Analytics (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Wed, 08 Dec 2021 05:10:20 GMT</pubDate>
+            <pubDate>Wed, 08 Dec 2021 06:12:10 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박경욱
@@ -29,7 +29,7 @@
             <title><![CDATA[인간수업-뉴노멀시대의 창의융합 인문MOOC (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Wed, 08 Dec 2021 05:10:20 GMT</pubDate>
+            <pubDate>Wed, 08 Dec 2021 06:12:10 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 유경철 and 5 others
