@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 09:10:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 10:10:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[파이썬을 활용한 Business Data Analytics (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Wed, 08 Dec 2021 09:10:23 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KUSJ+KUSJ003+2021_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KUSJ+KUSJ003+2021_T2/about</guid>
+            <pubDate>Wed, 08 Dec 2021 10:10:37 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박경욱
@@ -27,9 +27,9 @@
         </item>
         <item>
             <title><![CDATA[인간수업-뉴노멀시대의 창의융합 인문MOOC (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Wed, 08 Dec 2021 09:10:23 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KUSJ+KUSJ002+2021_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KUSJ+KUSJ002+2021_T2/about</guid>
+            <pubDate>Wed, 08 Dec 2021 10:10:37 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 유경철 and 5 others
