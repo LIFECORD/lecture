@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 May 2022 21:12:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2022 22:12:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -366,60 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:PTUk+ID_PMOOC01k+2022_T1+type@asset+block@2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빅데이터 플랫폼 (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK07+2022_1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK07+2022_1/about</guid>
-            <pubDate>Thu, 26 May 2022 21:13:03 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김윤기
-                </span>
-                <span class="kr01_school">CYBER UNIVERSITY OF KOREA(matchup)</span>
-                </div>
-                <div><time>2022/06/15</time>
-                
-                ~ <time>2022/08/10</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:MA_CUK+MATCHUP_CUK07+2022_1+type@asset+block@%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0_%ED%94%8C%EB%9E%AB%ED%8F%BC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해외긴급구호 의료팀 교육 (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KOFIH+KOFIH01+2022_2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KOFIH+KOFIH01+2022_2/about</guid>
-            <pubDate>Thu, 26 May 2022 21:13:03 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                이승준 and 9 others
-                </span>
-                <span class="kr01_school">Korea Foundation for International Healthcare</span>
-                </div>
-                <div><time>2022/06/01</time>
-                
-                ~ <time>2022/07/21</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KOFIH+KOFIH01+2022_2+type@asset+block@%EA%B0%95%EC%A2%8C%EC%B9%B4%EB%93%9C_%EC%9D%B4%EB%AF%B8%EC%A7%80.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자율주행의 기초 및 자율주행 플랫폼을 활용한 시스템 구축 방법 (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:TS_KATRI+KATRI01+2022_KATRI01/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:TS_KATRI+KATRI01+2022_KATRI01/about</guid>
-            <pubDate>Thu, 26 May 2022 21:13:03 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                나재원 and 3 others
-                </span>
-                <span class="kr01_school">TS_KATRI</span>
-                </div>
-                <div><time>2022/05/30</time>
-                
-                ~ <time>2022/09/30</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:TS_KATRI+KATRI01+2022_KATRI01+type@asset+block@_%ED%8F%AC%EB%A7%B7%EB%B3%80%ED%99%98_%EA%B7%B8%EB%A6%BC2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
