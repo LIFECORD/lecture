@@ -4,9 +4,27 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 23:13:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 01:06:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자율주행의 기초 및 자율주행 플랫폼을 활용한 시스템 구축 방법]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Mon, 30 May 2022 01:06:38 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                나재원 and 3 others
+                </span>
+                <span class="kr01_school">TS_KATRI</span>
+                </div>
+                <div><time>2022/05/30</time>
+                
+                ~ <time>2022/09/30</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:TS_KATRI+KATRI01+2022_KATRI01+type@asset+block@_%ED%8F%AC%EB%A7%B7%EB%B3%80%ED%99%98_%EA%B7%B8%EB%A6%BC2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[파이썬 프로그래밍]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:SunMoonK+SMKMOOC-04+2022_T1/about</link>
@@ -348,24 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:JJU+JJU01+2019_J01_3+type@asset+block@%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%A0%84%EC%A3%BC%EB%8C%80%ED%95%99%EA%B5%90_%ED%95%9C%EB%8F%99%EC%9A%B1_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인간행동과 사회환경]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:PTUk+ID_PMOOC01k+2022_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:PTUk+ID_PMOOC01k+2022_T1/about</guid>
-            <pubDate>Wed, 25 May 2022 21:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                이상무
-                </span>
-                <span class="kr01_school">Pyeongtaek University</span>
-                </div>
-                <div><time>2022/05/16</time>
-                
-                ~ <time>2022/08/27</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:PTUk+ID_PMOOC01k+2022_T1+type@asset+block@2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
