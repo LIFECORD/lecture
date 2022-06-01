@@ -4,9 +4,27 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 23:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 01:09:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[해외긴급구호 의료팀 교육]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Wed, 01 Jun 2022 01:09:26 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이승준 and 9 others
+                </span>
+                <span class="kr01_school">Korea Foundation for International Healthcare</span>
+                </div>
+                <div><time>2022/06/01</time>
+                
+                ~ <time>2022/07/21</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KOFIH+KOFIH01+2022_2+type@asset+block@%EA%B0%95%EC%A2%8C%EC%B9%B4%EB%93%9C_%EC%9D%B4%EB%AF%B8%EC%A7%80.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자율주행의 기초 및 자율주행 플랫폼을 활용한 시스템 구축 방법]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:TS_KATRI+KATRI01+2022_KATRI01/about</link>
@@ -348,24 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:JJU+JJU02+2019_J02_3+type@asset+block@%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%A0%84%EC%A3%BC%EB%8C%80%ED%95%99%EA%B5%90%ED%95%9C%EB%8F%99%EC%9A%B1_2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4차 산업혁명 시대의 스마트한 삶- 스마트 기술의 이해Ⅰ]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:JJU+JJU01+2019_J01_3/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:JJU+JJU01+2019_J01_3/about</guid>
-            <pubDate>Wed, 25 May 2022 21:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                한동욱
-                </span>
-                <span class="kr01_school">Jeonju University</span>
-                </div>
-                <div><time>2022/05/16</time>
-                
-                ~ <time>2022/08/31</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:JJU+JJU01+2019_J01_3+type@asset+block@%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%A0%84%EC%A3%BC%EB%8C%80%ED%95%99%EA%B5%90_%ED%95%9C%EB%8F%99%EC%9A%B1_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
