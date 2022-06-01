@@ -1,8 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://www.kmooc.kr/courses?range=t</id>
-    <title>K-MOOC ─ 개강예정</title>
-    <updated>2022-06-01T01:09:50.747Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://www.kmooc.kr/static/images/favicon.48298a133a52.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>K-MOOC ─ 개강예정</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 01 Jun 2022 03:59:53 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[JLPT N3 일본어문법]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:KSNU+KSNU03+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KSNU+KSNU03+2022_T1/about</guid>
+            <pubDate>Wed, 01 Jun 2022 03:59:53 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                최태화
+                </span>
+                <span class="kr01_school">KUNSAN NATIONAL UNIVERSITY</span>
+                </div>
+                <div><time>2022/06/13</time>
+                
+                ~ <time>2022/09/25</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KSNU+KSNU03+2022_T1+type@asset+block@%EC%9D%BC%EB%B3%B8%EC%96%B4.png" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>
