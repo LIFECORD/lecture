@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jun 2022 05:14:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 06:15:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[문화와 생활 속 청렴 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 06 Jun 2022 05:14:09 GMT</pubDate>
+            <pubDate>Mon, 06 Jun 2022 06:15:27 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 신병주 and 4 others
@@ -29,7 +29,7 @@
             <title><![CDATA[문화와 생활 속 청렴 시즌2 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 06 Jun 2022 05:14:09 GMT</pubDate>
+            <pubDate>Mon, 06 Jun 2022 06:15:27 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김경일 and 5 others
