@@ -4,14 +4,14 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jun 2022 08:15:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 09:12:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[문화와 생활 속 청렴]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 06 Jun 2022 08:15:19 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:ACRCEDU+ACRC01+2022_03/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:ACRCEDU+ACRC01+2022_03/about</guid>
+            <pubDate>Mon, 06 Jun 2022 09:12:10 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 신병주 and 4 others
@@ -27,9 +27,9 @@
         </item>
         <item>
             <title><![CDATA[문화와 생활 속 청렴 시즌2]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 06 Jun 2022 08:15:19 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:ACRCEDU+ACRC02+2022_03/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:ACRCEDU+ACRC02+2022_03/about</guid>
+            <pubDate>Mon, 06 Jun 2022 09:12:10 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김경일 and 5 others
