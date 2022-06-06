@@ -4,9 +4,45 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Jun 2022 23:12:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 01:00:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[문화와 생활 속 청렴]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Mon, 06 Jun 2022 01:00:27 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                신병주 and 4 others
+                </span>
+                <span class="kr01_school">Anti-Corruption and Civil Rights Commission</span>
+                </div>
+                <div><time>2022/06/06</time>
+                
+                ~ <time>2022/06/18</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:ACRCEDU+ACRC01+2022_03+type@asset+block@2022-2%EA%B8%B0_%EC%8B%9C%EC%A6%8C1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[문화와 생활 속 청렴 시즌2]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Mon, 06 Jun 2022 01:00:27 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김경일 and 5 others
+                </span>
+                <span class="kr01_school">Anti-Corruption and Civil Rights Commission</span>
+                </div>
+                <div><time>2022/06/06</time>
+                
+                ~ <time>2022/06/18</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:ACRCEDU+ACRC02+2022_03+type@asset+block@2022-2%EA%B8%B0_%EC%8B%9C%EC%A6%8C2.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[해외긴급구호 의료팀 교육]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:KOFIH+KOFIH01+2022_2/about</link>
@@ -330,42 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:ChungbukK+Chungbuk_09+2022_01+type@asset+block@%ED%9A%8C%EA%B3%84_%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[K-FOOD코디네이션(테이블코디네이션+푸드스타일링)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:JJU+JJU03+2020_J03_3/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:JJU+JJU03+2020_J03_3/about</guid>
-            <pubDate>Wed, 25 May 2022 21:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김수인
-                </span>
-                <span class="kr01_school">Jeonju University</span>
-                </div>
-                <div><time>2022/05/16</time>
-                
-                ~ <time>2022/08/31</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:JJU+JJU03+2020_J03_3+type@asset+block@_%EC%A0%84%EC%A3%BC%EB%8C%80_-K-FOOD%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[4차 산업혁명 시대의 스마트한 삶-스마트 기술의 이해Ⅱ]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:JJU+JJU02+2019_J02_3/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:JJU+JJU02+2019_J02_3/about</guid>
-            <pubDate>Wed, 25 May 2022 21:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                한동욱
-                </span>
-                <span class="kr01_school">Jeonju University</span>
-                </div>
-                <div><time>2022/05/16</time>
-                
-                ~ <time>2022/08/31</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:JJU+JJU02+2019_J02_3+type@asset+block@%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%A0%84%EC%A3%BC%EB%8C%80%ED%95%99%EA%B5%90%ED%95%9C%EB%8F%99%EC%9A%B1_2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
