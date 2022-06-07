@@ -4,9 +4,27 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 05:11:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 06:15:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가상현실과 햅틱스]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:KHUk+KH508+2022_T1_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KHUk+KH508+2022_T1_1/about</guid>
+            <pubDate>Tue, 07 Jun 2022 06:15:26 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                전석희
+                </span>
+                <span class="kr01_school">KYUNG HEE UNIVERSITY</span>
+                </div>
+                <div><time>2022/08/04</time>
+                
+                ~ <time>2022/09/24</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KHUk+KH508+2022_T1_1+type@asset+block@22_%EA%B2%BD%ED%9D%AC%EB%8C%80_%EA%B0%80%EC%83%81%ED%98%84%EC%8B%A4%EA%B3%BC_%ED%96%85%ED%8B%B1%EC%8A%A4_%EC%A0%84%EC%84%9D%ED%9D%AC__%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소프트웨어 중심 사회속의 인터넷 윤리]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:SunMoonK+ACE_SMKMOOC_01+2022_T1/about</link>
