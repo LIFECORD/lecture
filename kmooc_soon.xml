@@ -1,8 +1,191 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://www.kmooc.kr/courses?range=t</id>
-    <title>K-MOOC ─ 개강예정</title>
-    <updated>2022-06-12T19:10:01.694Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://www.kmooc.kr/static/images/favicon.48298a133a52.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>K-MOOC ─ 개강예정</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 12 Jun 2022 20:13:30 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디지털 전환과 4차 산업혁명]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:KHUk+SW_KH003+2022_T1_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KHUk+SW_KH003+2022_T1_1/about</guid>
+            <pubDate>Sun, 12 Jun 2022 20:13:29 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이대호
+                </span>
+                <span class="kr01_school">KYUNG HEE UNIVERSITY</span>
+                </div>
+                <div><time>2022/08/04</time>
+                
+                ~ <time>2022/09/28</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KHUk+SW_KH003+2022_T1_1+type@asset+block@22_%EA%B2%BD%ED%9D%AC%EB%8C%80_%EB%94%94%EC%A7%80%ED%84%B8_%EC%A0%84%ED%99%98%EA%B3%BC_4%EC%B0%A8_%EC%82%B0%EC%97%85%ED%98%81%EB%AA%85_%EC%9D%B4%EB%8C%80%ED%98%B8__%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가상현실과 햅틱스]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:KHUk+KH508+2022_T1_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KHUk+KH508+2022_T1_1/about</guid>
+            <pubDate>Sun, 12 Jun 2022 20:13:29 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                전석희
+                </span>
+                <span class="kr01_school">KYUNG HEE UNIVERSITY</span>
+                </div>
+                <div><time>2022/08/04</time>
+                
+                ~ <time>2022/09/24</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KHUk+KH508+2022_T1_1+type@asset+block@22_%EA%B2%BD%ED%9D%AC%EB%8C%80_%EA%B0%80%EC%83%81%ED%98%84%EC%8B%A4%EA%B3%BC_%ED%96%85%ED%8B%B1%EC%8A%A4_%EC%A0%84%EC%84%9D%ED%9D%AC__%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[글로벌시대, 문화관광콘텐츠의 이해]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:NSU+NSU001+2020_T1_04/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:NSU+NSU001+2020_T1_04/about</guid>
+            <pubDate>Sun, 12 Jun 2022 20:13:29 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이승길
+                </span>
+                <span class="kr01_school">NAMSEOUL UNIVERSITY</span>
+                </div>
+                <div><time>2022/06/27</time>
+                
+                ~ <time>2022/08/21</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:NSU+NSU001+2020_T1_04+type@asset+block@%EA%B8%80%EB%A1%9C%EB%B2%8C%EC%8B%9C%EB%8C%80__%EB%AC%B8%ED%99%94%EA%B4%80%EA%B4%91%EC%BD%98%ED%85%90%EC%B8%A0%EC%9D%98_%EC%9D%B4%ED%95%B4_%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%9A%A9%EB%9F%89_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[생활 속의 물리치료]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:NSU+NSU002+2020_T1_04/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:NSU+NSU002+2020_T1_04/about</guid>
+            <pubDate>Sun, 12 Jun 2022 20:13:29 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이상빈
+                </span>
+                <span class="kr01_school">NAMSEOUL UNIVERSITY</span>
+                </div>
+                <div><time>2022/06/27</time>
+                
+                ~ <time>2022/08/21</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:NSU+NSU002+2020_T1_04+type@asset+block@%EC%83%9D%ED%99%9C%EC%86%8D%EC%9D%98_%EB%AC%BC%EB%A6%AC%EC%B9%98%EB%A3%8C_%EC%8D%B8%EB%84%A4%EC%9D%BC-min__2_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소프트웨어적 사유]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:KHUk+SW_KH001+2022_T1_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KHUk+SW_KH001+2022_T1_1/about</guid>
+            <pubDate>Sun, 12 Jun 2022 20:13:29 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                한치근
+                </span>
+                <span class="kr01_school">KYUNG HEE UNIVERSITY</span>
+                </div>
+                <div><time>2022/06/16</time>
+                
+                ~ <time>2022/09/14</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KHUk+SW_KH001+2022_T1_1+type@asset+block@22_%EA%B2%BD%ED%9D%AC%EB%8C%80_%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EC%A0%81_%EC%82%AC%EC%9C%A0_%ED%95%9C%EC%B9%98%EA%B7%BC__%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수학적 표현과 이산 구조]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:KHUk+KH509+2022_T1_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KHUk+KH509+2022_T1_1/about</guid>
+            <pubDate>Sun, 12 Jun 2022 20:13:29 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김휘용
+                </span>
+                <span class="kr01_school">KYUNG HEE UNIVERSITY</span>
+                </div>
+                <div><time>2022/06/16</time>
+                
+                ~ <time>2022/08/10</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KHUk+KH509+2022_T1_1+type@asset+block@22_%EA%B2%BD%ED%9D%AC%EB%8C%80_%EC%88%98%ED%95%99%EC%A0%81%ED%91%9C%ED%98%84%EA%B3%BC%EC%9D%B4%EC%82%B0%EA%B5%AC%EC%A1%B0_%EA%B9%80%ED%9C%98%EC%9A%A9__%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사물인터넷과 4차산업사회]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:KHUk+SW_KH002+2022_T1_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KHUk+SW_KH002+2022_T1_1/about</guid>
+            <pubDate>Sun, 12 Jun 2022 20:13:29 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                유인태
+                </span>
+                <span class="kr01_school">KYUNG HEE UNIVERSITY</span>
+                </div>
+                <div><time>2022/06/16</time>
+                
+                ~ <time>2022/08/03</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KHUk+SW_KH002+2022_T1_1+type@asset+block@22_%EA%B2%BD%ED%9D%AC%EB%8C%80_%EC%82%AC%EB%AC%BC%EC%9D%B8%ED%84%B0%EB%84%B7%EA%B3%BC_4%EC%B0%A8_%EC%82%B0%EC%97%85%EC%82%AC%ED%9A%8C_%EC%9C%A0%EC%9D%B8%ED%83%9C__%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소프트웨어 중심 사회속의 인터넷 윤리]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SunMoonK+ACE_SMKMOOC_01+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SunMoonK+ACE_SMKMOOC_01+2022_T1/about</guid>
+            <pubDate>Sun, 12 Jun 2022 20:13:29 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                박정호 and 7 others
+                </span>
+                <span class="kr01_school">SUN MOON UNIVERSITY</span>
+                </div>
+                <div><time>2022/06/13</time>
+                
+                ~ <time>2022/08/21</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SunMoonK+ACE_SMKMOOC_01+2022_T1+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_2022-1_%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4_%EC%A4%91%EC%8B%AC%EC%82%AC%ED%9A%8C_%EC%86%8D%EC%9D%98.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[생활 속의 헌법 이야기]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SunMoonK+SMKMOOC_02+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SunMoonK+SMKMOOC_02+2022_T1/about</guid>
+            <pubDate>Sun, 12 Jun 2022 20:13:29 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이희훈
+                </span>
+                <span class="kr01_school">SUN MOON UNIVERSITY</span>
+                </div>
+                <div><time>2022/06/13</time>
+                
+                ~ <time>2022/08/21</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SunMoonK+SMKMOOC_02+2022_T1+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_2022-1%EC%B0%A8_%EC%83%9D%ED%99%9C%EC%86%8D%EC%9D%98_%ED%97%8C%EB%B2%95_%EC%9D%B4%EC%95%BC%EA%B8%B0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[JLPT N3 일본어문법]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:KSNU+KSNU03+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KSNU+KSNU03+2022_T1/about</guid>
+            <pubDate>Sun, 12 Jun 2022 20:13:29 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                최태화
+                </span>
+                <span class="kr01_school">KUNSAN NATIONAL UNIVERSITY</span>
+                </div>
+                <div><time>2022/06/13</time>
+                
+                ~ <time>2022/09/25</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KSNU+KSNU03+2022_T1+type@asset+block@%EC%9D%BC%EB%B3%B8%EC%96%B4.png" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>
