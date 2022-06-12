@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jun 2022 14:10:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 15:12:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -402,6 +402,42 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:KHUk+KH508+2022_T1_1+type@asset+block@22_%EA%B2%BD%ED%9D%AC%EB%8C%80_%EA%B0%80%EC%83%81%ED%98%84%EC%8B%A4%EA%B3%BC_%ED%96%85%ED%8B%B1%EC%8A%A4_%EC%A0%84%EC%84%9D%ED%9D%AC__%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[글로벌시대, 문화관광콘텐츠의 이해 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:NSU+NSU001+2020_T1_04/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:NSU+NSU001+2020_T1_04/about</guid>
+            <pubDate>Sun, 12 Jun 2022 15:12:06 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이승길
+                </span>
+                <span class="kr01_school">NAMSEOUL UNIVERSITY</span>
+                </div>
+                <div><time>2022/06/27</time>
+                
+                ~ <time>2022/08/21</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:NSU+NSU001+2020_T1_04+type@asset+block@%EA%B8%80%EB%A1%9C%EB%B2%8C%EC%8B%9C%EB%8C%80__%EB%AC%B8%ED%99%94%EA%B4%80%EA%B4%91%EC%BD%98%ED%85%90%EC%B8%A0%EC%9D%98_%EC%9D%B4%ED%95%B4_%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%9A%A9%EB%9F%89_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[생활 속의 물리치료 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:NSU+NSU002+2020_T1_04/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:NSU+NSU002+2020_T1_04/about</guid>
+            <pubDate>Sun, 12 Jun 2022 15:12:06 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이상빈
+                </span>
+                <span class="kr01_school">NAMSEOUL UNIVERSITY</span>
+                </div>
+                <div><time>2022/06/27</time>
+                
+                ~ <time>2022/08/21</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:NSU+NSU002+2020_T1_04+type@asset+block@%EC%83%9D%ED%99%9C%EC%86%8D%EC%9D%98_%EB%AC%BC%EB%A6%AC%EC%B9%98%EB%A3%8C_%EC%8D%B8%EB%84%A4%EC%9D%BC-min__2_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소프트웨어적 사유 (K-MOOC ─ 개강예정)]]></title>
