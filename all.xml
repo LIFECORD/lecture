@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 01:02:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 03:27:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[디지털 논리회로와 인공지능 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 13 Jun 2022 01:02:10 GMT</pubDate>
+            <pubDate>Mon, 13 Jun 2022 03:27:25 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 심임보
@@ -29,7 +29,7 @@
             <title><![CDATA[소프트웨어 중심 사회속의 인터넷 윤리 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 13 Jun 2022 01:02:10 GMT</pubDate>
+            <pubDate>Mon, 13 Jun 2022 03:27:25 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박정호 and 7 others
@@ -47,7 +47,7 @@
             <title><![CDATA[생활 속의 헌법 이야기 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 13 Jun 2022 01:02:10 GMT</pubDate>
+            <pubDate>Mon, 13 Jun 2022 03:27:25 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이희훈
@@ -65,7 +65,7 @@
             <title><![CDATA[JLPT N3 일본어문법 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 13 Jun 2022 01:02:10 GMT</pubDate>
+            <pubDate>Mon, 13 Jun 2022 03:27:25 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 최태화
