@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 09:14:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 10:14:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -402,6 +402,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:KHUk+KH508+2022_T1_1+type@asset+block@22_%EA%B2%BD%ED%9D%AC%EB%8C%80_%EA%B0%80%EC%83%81%ED%98%84%EC%8B%A4%EA%B3%BC_%ED%96%85%ED%8B%B1%EC%8A%A4_%EC%A0%84%EC%84%9D%ED%9D%AC__%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자율주행 인공지능 시스템 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:NGV+NGV01+2022_A1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:NGV+NGV01+2022_A1/about</guid>
+            <pubDate>Mon, 13 Jun 2022 10:14:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                공승현
+                </span>
+                <span class="kr01_school">NGV</span>
+                </div>
+                <div><time>2022/07/11</time>
+                
+                ~ <time>2022/08/27</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:NGV+NGV01+2022_A1+type@asset+block@%ED%98%84%EB%8C%80_k-mooc_%EB%8C%80%ED%91%9C%EC%9D%B4%EB%AF%B8%EC%A7%80.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[SQL 정형 데이터 분석 (K-MOOC ─ 개강예정)]]></title>
