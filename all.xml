@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 08:15:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 09:14:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[디지털 논리회로와 인공지능 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 13 Jun 2022 08:15:06 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:DAUk+DAUk10+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DAUk+DAUk10+2022_T2/about</guid>
+            <pubDate>Mon, 13 Jun 2022 09:14:04 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 심임보
@@ -27,9 +27,9 @@
         </item>
         <item>
             <title><![CDATA[소프트웨어 중심 사회속의 인터넷 윤리 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 13 Jun 2022 08:15:06 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SunMoonK+ACE_SMKMOOC_01+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SunMoonK+ACE_SMKMOOC_01+2022_T1/about</guid>
+            <pubDate>Mon, 13 Jun 2022 09:14:04 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박정호 and 7 others
@@ -45,9 +45,9 @@
         </item>
         <item>
             <title><![CDATA[생활 속의 헌법 이야기 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 13 Jun 2022 08:15:06 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SunMoonK+SMKMOOC_02+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SunMoonK+SMKMOOC_02+2022_T1/about</guid>
+            <pubDate>Mon, 13 Jun 2022 09:14:04 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이희훈
@@ -63,9 +63,9 @@
         </item>
         <item>
             <title><![CDATA[JLPT N3 일본어문법 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 13 Jun 2022 08:15:06 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KSNU+KSNU03+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KSNU+KSNU03+2022_T1/about</guid>
+            <pubDate>Mon, 13 Jun 2022 09:14:04 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 최태화
@@ -599,7 +599,7 @@
                 ~ <time>2022/08/13</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:HGUk+HGUP01+2022_T3+type@asset+block@22-0%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:HGUk+HGUP01+2022_T3+type@asset+block@%EC%8D%B8%EB%84%A4%EC%9D%BC2.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[소프트웨어적 사유 (K-MOOC ─ 개강예정)]]></title>
