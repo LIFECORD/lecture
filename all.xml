@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 18:14:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 19:11:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[소프트웨어적 사유 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Wed, 15 Jun 2022 18:14:11 GMT</pubDate>
+            <pubDate>Wed, 15 Jun 2022 19:11:07 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 한치근
@@ -29,7 +29,7 @@
             <title><![CDATA[수학적 표현과 이산 구조 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Wed, 15 Jun 2022 18:14:11 GMT</pubDate>
+            <pubDate>Wed, 15 Jun 2022 19:11:07 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김휘용
@@ -47,7 +47,7 @@
             <title><![CDATA[사물인터넷과 4차산업사회 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Wed, 15 Jun 2022 18:14:11 GMT</pubDate>
+            <pubDate>Wed, 15 Jun 2022 19:11:07 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 유인태
