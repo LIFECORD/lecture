@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 14:11:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 15:12:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -132,42 +132,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:KSNU+KSNU03+2022_T1+type@asset+block@%EC%9D%BC%EB%B3%B8%EC%96%B4.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[문화와 생활 속 청렴 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:ACRCEDU+ACRC01+2022_03/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:ACRCEDU+ACRC01+2022_03/about</guid>
-            <pubDate>Fri, 17 Jun 2022 11:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                신병주 and 4 others
-                </span>
-                <span class="kr01_school">Anti-Corruption and Civil Rights Commission</span>
-                </div>
-                <div><time>2022/06/06</time>
-                
-                ~ <time>2022/06/18</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:ACRCEDU+ACRC01+2022_03+type@asset+block@2022-2%EA%B8%B0_%EC%8B%9C%EC%A6%8C1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[문화와 생활 속 청렴 시즌2 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:ACRCEDU+ACRC02+2022_03/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:ACRCEDU+ACRC02+2022_03/about</guid>
-            <pubDate>Fri, 17 Jun 2022 11:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김경일 and 5 others
-                </span>
-                <span class="kr01_school">Anti-Corruption and Civil Rights Commission</span>
-                </div>
-                <div><time>2022/06/06</time>
-                
-                ~ <time>2022/06/18</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:ACRCEDU+ACRC02+2022_03+type@asset+block@2022-2%EA%B8%B0_%EC%8B%9C%EC%A6%8C2.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[해외긴급구호 의료팀 교육 (K-MOOC ─ 진행중)]]></title>
@@ -366,6 +330,42 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:JNUk+JNUk_18+2022_T1+type@asset+block@%EB%AF%BC%EC%A3%BC3.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[한국의 민주주의와 민주화 운동Ⅰ (K-MOOC ─ 진행중)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_14+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_14+2022_T1/about</guid>
+            <pubDate>Fri, 17 Jun 2022 15:12:28 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                최정기 and 1 others
+                </span>
+                <span class="kr01_school">Chonnam National University</span>
+                </div>
+                <div><time>2022/05/23</time>
+                
+                ~ <time>2022/08/29</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:JNUk+JNUk_14+2022_T1+type@asset+block@alswn1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[한국의 민주주의와 민주화 운동Ⅱ (K-MOOC ─ 진행중)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_15+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_15+2022_T1/about</guid>
+            <pubDate>Fri, 17 Jun 2022 15:12:28 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                최정기 and 1 others
+                </span>
+                <span class="kr01_school">Chonnam National University</span>
+                </div>
+                <div><time>2022/05/23</time>
+                
+                ~ <time>2022/08/29</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:JNUk+JNUk_15+2022_T1+type@asset+block@%EB%AF%BC%EC%A3%BC2.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[디지털 전환과 4차 산업혁명 (K-MOOC ─ 개강예정)]]></title>
