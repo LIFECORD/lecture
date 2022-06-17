@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 23:13:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 00:56:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -618,6 +618,60 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:HGUk+HGUP01+2022_T3+type@asset+block@%EC%8D%B8%EB%84%A4%EC%9D%BC2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[파이썬을 활용한 Business Data Analytics (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:KUSJ+KUSJ003+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KUSJ+KUSJ003+2022_T1/about</guid>
+            <pubDate>Fri, 17 Jun 2022 00:56:54 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                박경욱
+                </span>
+                <span class="kr01_school">KOREA University Sejong Campus</span>
+                </div>
+                <div><time>2022/06/22</time>
+                
+                ~ <time>2022/09/01</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KUSJ+KUSJ003+2022_T1+type@asset+block@%ED%8C%8C%EC%9D%B4%EC%8D%AC.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[인간수업-뉴노멀시대의 창의융합 인문MOOC (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:KUSJ+KUSJ002+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KUSJ+KUSJ002+2022_T1/about</guid>
+            <pubDate>Fri, 17 Jun 2022 00:56:54 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                유경철 and 6 others
+                </span>
+                <span class="kr01_school">KOREA University Sejong Campus</span>
+                </div>
+                <div><time>2022/06/22</time>
+                
+                ~ <time>2022/09/01</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KUSJ+KUSJ002+2022_T1+type@asset+block@01_%EC%B5%9C%EC%A2%85.mp4_000032432.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[한국경제의 이해 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:KUSJ+KUSJ004+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KUSJ+KUSJ004+2022_T1/about</guid>
+            <pubDate>Fri, 17 Jun 2022 00:56:54 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이충열
+                </span>
+                <span class="kr01_school">KOREA University Sejong Campus</span>
+                </div>
+                <div><time>2022/06/22</time>
+                
+                ~ <time>2022/09/01</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KUSJ+KUSJ004+2022_T1+type@asset+block@0101_%EC%B5%9C%EC%A2%85.mp4_000024633.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
