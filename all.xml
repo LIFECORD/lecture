@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 05:18:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 06:16:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -134,6 +134,24 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:KSNU+KSNU03+2022_T1+type@asset+block@%EC%9D%BC%EB%B3%B8%EC%96%B4.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[패션.메이크업으로 본 북한사회 변화 (K-MOOC ─ 진행중)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:UNIEDU+uniedu1+2021-A/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:UNIEDU+uniedu1+2021-A/about</guid>
+            <pubDate>Tue, 21 Jun 2022 06:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                박계리
+                </span>
+                <span class="kr01_school">National Institute for Unification Education</span>
+                </div>
+                <div><time>2022/06/02</time>
+                
+                ~ <time>2023/01/01</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:UNIEDU+uniedu1+2021-A+type@asset+block@%ED%8C%A8%EC%85%98_%EC%9D%B8%ED%8A%B8%EB%A1%9C1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[역사에서 배우는 한반도 평화통일 (K-MOOC ─ 진행중)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:UNIEDU+UNIEDU04+2022_1/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:UNIEDU+UNIEDU04+2022_1/about</guid>
@@ -146,7 +164,7 @@
                 </div>
                 <div><time>2022/06/02</time>
                 
-                ~ <time>2022/07/01</time>
+                ~ <time>2023/01/01</time>
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:UNIEDU+UNIEDU04+2022_1+type@asset+block@%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%EC%97%AD%EC%82%AC%EC%97%90%EC%84%9C.jpg" length="0" type="image/jpg"/>
@@ -348,24 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:JNUk+JNUk_18+2022_T1+type@asset+block@%EB%AF%BC%EC%A3%BC3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한국의 민주주의와 민주화 운동Ⅰ (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_14+2022_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_14+2022_T1/about</guid>
-            <pubDate>Tue, 21 Jun 2022 05:18:13 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                최정기 and 1 others
-                </span>
-                <span class="kr01_school">Chonnam National University</span>
-                </div>
-                <div><time>2022/05/23</time>
-                
-                ~ <time>2022/08/29</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:JNUk+JNUk_14+2022_T1+type@asset+block@alswn1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[디지털 전환과 4차 산업혁명 (K-MOOC ─ 개강예정)]]></title>
