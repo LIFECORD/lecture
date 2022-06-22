@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 13:33:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 14:12:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[파이썬을 활용한 Business Data Analytics (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Wed, 22 Jun 2022 13:33:05 GMT</pubDate>
+            <pubDate>Wed, 22 Jun 2022 14:11:46 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박경욱
@@ -29,7 +29,7 @@
             <title><![CDATA[인간수업-뉴노멀시대의 창의융합 인문MOOC (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Wed, 22 Jun 2022 13:33:05 GMT</pubDate>
+            <pubDate>Wed, 22 Jun 2022 14:11:46 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 유경철 and 6 others
@@ -47,7 +47,7 @@
             <title><![CDATA[한국경제의 이해 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Wed, 22 Jun 2022 13:33:05 GMT</pubDate>
+            <pubDate>Wed, 22 Jun 2022 14:11:46 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이충열
