@@ -4,9 +4,63 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 08:19:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 09:11:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[파이썬을 활용한 Business Data Analytics (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Wed, 22 Jun 2022 09:11:43 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                박경욱
+                </span>
+                <span class="kr01_school">KOREA University Sejong Campus</span>
+                </div>
+                <div><time>2022/06/22</time>
+                
+                ~ <time>2022/08/31</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KUSJ+KUSJ003+2022_T1+type@asset+block@%ED%8C%8C%EC%9D%B4%EC%8D%AC.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[인간수업-뉴노멀시대의 창의융합 인문MOOC (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Wed, 22 Jun 2022 09:11:43 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                유경철 and 6 others
+                </span>
+                <span class="kr01_school">KOREA University Sejong Campus</span>
+                </div>
+                <div><time>2022/06/22</time>
+                
+                ~ <time>2022/08/31</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KUSJ+KUSJ002+2022_T1+type@asset+block@01_%EC%B5%9C%EC%A2%85.mp4_000032432.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[한국경제의 이해 (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Wed, 22 Jun 2022 09:11:43 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이충열
+                </span>
+                <span class="kr01_school">KOREA University Sejong Campus</span>
+                </div>
+                <div><time>2022/06/22</time>
+                
+                ~ <time>2022/08/31</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KUSJ+KUSJ004+2022_T1+type@asset+block@0101_%EC%B5%9C%EC%A2%85.mp4_000024633.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[소프트웨어적 사유 (K-MOOC ─ 진행중)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:KHUk+SW_KH001+2022_T1_1/about</link>
@@ -312,60 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:JNUk+JNUk_13+2022_T1+type@asset+block@%EB%A1%9C%EB%B4%87.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인공지능을 위한 파이썬 기초 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_17+2022_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_17+2022_T1/about</guid>
-            <pubDate>Tue, 21 Jun 2022 05:18:13 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김경백
-                </span>
-                <span class="kr01_school">Chonnam National University</span>
-                </div>
-                <div><time>2022/05/23</time>
-                
-                ~ <time>2022/08/29</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:JNUk+JNUk_17+2022_T1+type@asset+block@%ED%8C%8C%EC%9D%B4%EC%8D%AC.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한국의 민주주의와 민주화 운동Ⅳ (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_19+2022_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_19+2022_T1/about</guid>
-            <pubDate>Tue, 21 Jun 2022 05:18:13 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                최정기 and 1 others
-                </span>
-                <span class="kr01_school">Chonnam National University</span>
-                </div>
-                <div><time>2022/05/23</time>
-                
-                ~ <time>2022/08/29</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:JNUk+JNUk_19+2022_T1+type@asset+block@%EB%AF%BC%EC%A3%BC4.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한국의 민주주의와 민주화 운동Ⅲ (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_18+2022_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_18+2022_T1/about</guid>
-            <pubDate>Tue, 21 Jun 2022 05:18:13 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                최정기 and 1 others
-                </span>
-                <span class="kr01_school">Chonnam National University</span>
-                </div>
-                <div><time>2022/05/23</time>
-                
-                ~ <time>2022/08/29</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:JNUk+JNUk_18+2022_T1+type@asset+block@%EB%AF%BC%EC%A3%BC3.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[디지털 전환과 4차 산업혁명 (K-MOOC ─ 개강예정)]]></title>
