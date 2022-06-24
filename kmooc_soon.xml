@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 23:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 01:01:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -60,6 +60,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:NGV+NGV01+2022_A1+type@asset+block@%ED%98%84%EB%8C%80_k-mooc_%EB%8C%80%ED%91%9C%EC%9D%B4%EB%AF%B8%EC%A7%80.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[분단과 평화에 관한 문화인류학의 탐색]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:DCUk+UI_DCU_10+2022_T1_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DCUk+UI_DCU_10+2022_T1_1/about</guid>
+            <pubDate>Fri, 24 Jun 2022 01:01:09 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                신난희
+                </span>
+                <span class="kr01_school">DAEGU CATHOLIC UNIVERSITY</span>
+                </div>
+                <div><time>2022/07/01</time>
+                
+                ~ <time>2022/08/31</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:DCUk+UI_DCU_10+2022_T1_1+type@asset+block@2022-1_%EB%B6%84%EB%8B%A8%EA%B3%BC%ED%8F%89%ED%99%94.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[가자, 한국어]]></title>
@@ -348,24 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:MA_CUK+MATCHUP_CUK05+2022_1+type@asset+block@_%ED%85%9C%ED%94%8C%EB%A6%BF_%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D_%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%B6%84%EC%84%9D_210924.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빅데이터 플랫폼]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK07+2022_1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK07+2022_1/about</guid>
-            <pubDate>Thu, 23 Jun 2022 08:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김윤기
-                </span>
-                <span class="kr01_school">CYBER UNIVERSITY OF KOREA(matchup)</span>
-                </div>
-                <div><time>2022/06/27</time>
-                
-                ~ <time>2022/08/23</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:MA_CUK+MATCHUP_CUK07+2022_1+type@asset+block@%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0_%ED%94%8C%EB%9E%AB%ED%8F%BC.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
