@@ -4,14 +4,14 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 03:45:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 04:45:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[SQL 정형 데이터 분석]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 27 Jun 2022 03:45:33 GMT</pubDate>
+            <pubDate>Mon, 27 Jun 2022 04:45:29 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이건길
@@ -29,7 +29,7 @@
             <title><![CDATA[선형대수로 배우는 빅데이터]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 27 Jun 2022 03:45:33 GMT</pubDate>
+            <pubDate>Mon, 27 Jun 2022 04:45:29 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김경호
@@ -47,7 +47,7 @@
             <title><![CDATA[대용량 데이터 처리]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 27 Jun 2022 03:45:33 GMT</pubDate>
+            <pubDate>Mon, 27 Jun 2022 04:45:29 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김현철
@@ -62,28 +62,10 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:MA_CUK+MATCHUP_CUK04+2022_1+type@asset+block@%EB%8C%80%EC%9A%A9%EB%9F%89%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%B2%98%EB%A6%AC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[빅데이터를 위한 확률과 통계]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 27 Jun 2022 03:45:33 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                백창현
-                </span>
-                <span class="kr01_school">CYBER UNIVERSITY OF KOREA(matchup)</span>
-                </div>
-                <div><time>2022/06/27</time>
-                
-                ~ <time>2022/08/23</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:MA_CUK+MATCHUP_CUK01+2022_1+type@asset+block@%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0_%ED%99%95%EB%A5%A0%ED%86%B5%EA%B3%84.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[비정형 데이터 분석]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 27 Jun 2022 03:45:33 GMT</pubDate>
+            <pubDate>Mon, 27 Jun 2022 04:45:29 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김민철
@@ -98,10 +80,28 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:MA_CUK+MATCHUP_CUK06+2022_1+type@asset+block@_%ED%85%9C%ED%94%8C%EB%A6%BF_%EB%B9%84%EC%A0%95%ED%98%95_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%B6%84%EC%84%9D.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[빅데이터를 위한 확률과 통계]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Mon, 27 Jun 2022 04:45:29 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                백창현
+                </span>
+                <span class="kr01_school">CYBER UNIVERSITY OF KOREA(matchup)</span>
+                </div>
+                <div><time>2022/06/27</time>
+                
+                ~ <time>2022/08/23</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:MA_CUK+MATCHUP_CUK01+2022_1+type@asset+block@%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0_%ED%99%95%EB%A5%A0%ED%86%B5%EA%B3%84.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[빅데이터 프레임워크]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 27 Jun 2022 03:45:33 GMT</pubDate>
+            <pubDate>Mon, 27 Jun 2022 04:45:29 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김윤기
@@ -119,7 +119,7 @@
             <title><![CDATA[머신러닝 빅데이터 분석]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 27 Jun 2022 03:45:33 GMT</pubDate>
+            <pubDate>Mon, 27 Jun 2022 04:45:29 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김용성
@@ -137,7 +137,7 @@
             <title><![CDATA[빅데이터 플랫폼]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 27 Jun 2022 03:45:33 GMT</pubDate>
+            <pubDate>Mon, 27 Jun 2022 04:45:29 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김윤기
@@ -155,7 +155,7 @@
             <title><![CDATA[미래를 위한 교수법 : 테크놀로지를 활용한 학습자 중심 교육]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 27 Jun 2022 03:45:33 GMT</pubDate>
+            <pubDate>Mon, 27 Jun 2022 04:45:29 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김민정 and 4 others
@@ -173,7 +173,7 @@
             <title><![CDATA[미래를 위한 교수법 ② : 학습자 중심 비대면 교육]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 27 Jun 2022 03:45:33 GMT</pubDate>
+            <pubDate>Mon, 27 Jun 2022 04:45:29 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김민정 and 4 others
@@ -191,7 +191,7 @@
             <title><![CDATA[글로벌시대, 문화관광콘텐츠의 이해]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 27 Jun 2022 03:45:33 GMT</pubDate>
+            <pubDate>Mon, 27 Jun 2022 04:45:29 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이승길
@@ -209,7 +209,7 @@
             <title><![CDATA[생활 속의 물리치료]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 27 Jun 2022 03:45:34 GMT</pubDate>
+            <pubDate>Mon, 27 Jun 2022 04:45:29 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이상빈
@@ -227,7 +227,7 @@
             <title><![CDATA[파이썬으로 배우는 기계학습 입문 Plus+]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 27 Jun 2022 03:45:34 GMT</pubDate>
+            <pubDate>Mon, 27 Jun 2022 04:45:29 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김영섭
@@ -245,7 +245,7 @@
             <title><![CDATA[혁신을 위한 모순해결]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 27 Jun 2022 03:45:34 GMT</pubDate>
+            <pubDate>Mon, 27 Jun 2022 04:45:29 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 현정석
