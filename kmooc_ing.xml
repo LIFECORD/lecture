@@ -4,9 +4,27 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 23:12:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 01:05:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[건축과 도시의 인문학]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Tue, 28 Jun 2022 01:05:35 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                유진상
+                </span>
+                <span class="kr01_school">Changwon National University</span>
+                </div>
+                <div><time>2022/06/28</time>
+                
+                ~ <time>2022/08/20</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:CWNU+CWNU001+2022_1+type@asset+block@changwon_small_size.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SQL 정형 데이터 분석]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK03+2022_1/about</link>
@@ -348,24 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:KHUk+KH509+2022_T1_1+type@asset+block@22_%EA%B2%BD%ED%9D%AC%EB%8C%80_%EC%88%98%ED%95%99%EC%A0%81%ED%91%9C%ED%98%84%EA%B3%BC%EC%9D%B4%EC%82%B0%EA%B5%AC%EC%A1%B0_%EA%B9%80%ED%9C%98%EC%9A%A9__%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사물인터넷과 4차산업사회]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KHUk+SW_KH002+2022_T1_1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KHUk+SW_KH002+2022_T1_1/about</guid>
-            <pubDate>Mon, 27 Jun 2022 11:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                유인태
-                </span>
-                <span class="kr01_school">KYUNG HEE UNIVERSITY</span>
-                </div>
-                <div><time>2022/06/16</time>
-                
-                ~ <time>2022/08/03</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KHUk+SW_KH002+2022_T1_1+type@asset+block@22_%EA%B2%BD%ED%9D%AC%EB%8C%80_%EC%82%AC%EB%AC%BC%EC%9D%B8%ED%84%B0%EB%84%B7%EA%B3%BC_4%EC%B0%A8_%EC%82%B0%EC%97%85%EC%82%AC%ED%9A%8C_%EC%9C%A0%EC%9D%B8%ED%83%9C__%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
