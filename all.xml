@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Jul 2022 08:17:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 09:12:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[의료 인공지능 개론 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Fri, 01 Jul 2022 08:16:47 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KOHI+KOHI004+2022_D_002/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KOHI+KOHI004+2022_D_002/about</guid>
+            <pubDate>Fri, 01 Jul 2022 09:12:33 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 서준범 and 19 others
@@ -27,9 +27,9 @@
         </item>
         <item>
             <title><![CDATA[소비자 건강정보 도구와 모바일헬스 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Fri, 01 Jul 2022 08:16:47 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KOHI+KOHI006+2022_F_002/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KOHI+KOHI006+2022_F_002/about</guid>
+            <pubDate>Fri, 01 Jul 2022 09:12:33 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이재호 and 4 others
@@ -45,9 +45,9 @@
         </item>
         <item>
             <title><![CDATA[보건의료데이터 활용 이해 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Fri, 01 Jul 2022 08:16:47 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KOHI+KOHI005+2022_E_002/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KOHI+KOHI005+2022_E_002/about</guid>
+            <pubDate>Fri, 01 Jul 2022 09:12:33 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이은주 and 7 others
@@ -63,9 +63,9 @@
         </item>
         <item>
             <title><![CDATA[정보의학개론 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Fri, 01 Jul 2022 08:16:47 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KOHI+KOHI003+2022_C_002/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KOHI+KOHI003+2022_C_002/about</guid>
+            <pubDate>Fri, 01 Jul 2022 09:12:33 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이재호 and 10 others
@@ -81,9 +81,9 @@
         </item>
         <item>
             <title><![CDATA[마학·마술학 기초과정 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Fri, 01 Jul 2022 08:16:47 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KRA+KRA01+2022_4/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KRA+KRA01+2022_4/about</guid>
+            <pubDate>Fri, 01 Jul 2022 09:12:33 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김병선 and 1 others
@@ -99,9 +99,9 @@
         </item>
         <item>
             <title><![CDATA[말보건관리·재활승마이론 기초과정 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Fri, 01 Jul 2022 08:16:47 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KRA+KRA02+2022_4/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KRA+KRA02+2022_4/about</guid>
+            <pubDate>Fri, 01 Jul 2022 09:12:33 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김진갑 and 1 others
@@ -117,9 +117,9 @@
         </item>
         <item>
             <title><![CDATA[분단과 평화에 관한 문화인류학의 탐색 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Fri, 01 Jul 2022 08:16:47 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:DCUk+UI_DCU_10+2022_T1_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DCUk+UI_DCU_10+2022_T1_1/about</guid>
+            <pubDate>Fri, 01 Jul 2022 09:12:33 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 신난희
