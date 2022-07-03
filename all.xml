@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 09:12:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 10:13:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -366,132 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:MA_CUK+MATCHUP_CUK04+2022_1+type@asset+block@%EB%8C%80%EC%9A%A9%EB%9F%89%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%B2%98%EB%A6%AC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디지털 전환과 4차 산업혁명 (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KHUk+SW_KH003+2022_T1_1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KHUk+SW_KH003+2022_T1_1/about</guid>
-            <pubDate>Tue, 28 Jun 2022 07:11:47 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                이대호
-                </span>
-                <span class="kr01_school">KYUNG HEE UNIVERSITY</span>
-                </div>
-                <div><time>2022/08/04</time>
-                
-                ~ <time>2022/09/28</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KHUk+SW_KH003+2022_T1_1+type@asset+block@22_%EA%B2%BD%ED%9D%AC%EB%8C%80_%EB%94%94%EC%A7%80%ED%84%B8_%EC%A0%84%ED%99%98%EA%B3%BC_4%EC%B0%A8_%EC%82%B0%EC%97%85%ED%98%81%EB%AA%85_%EC%9D%B4%EB%8C%80%ED%98%B8__%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가상현실과 햅틱스 (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KHUk+KH508+2022_T1_1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KHUk+KH508+2022_T1_1/about</guid>
-            <pubDate>Tue, 28 Jun 2022 07:11:47 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                전석희
-                </span>
-                <span class="kr01_school">KYUNG HEE UNIVERSITY</span>
-                </div>
-                <div><time>2022/08/04</time>
-                
-                ~ <time>2022/09/24</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KHUk+KH508+2022_T1_1+type@asset+block@22_%EA%B2%BD%ED%9D%AC%EB%8C%80_%EA%B0%80%EC%83%81%ED%98%84%EC%8B%A4%EA%B3%BC_%ED%96%85%ED%8B%B1%EC%8A%A4_%EC%A0%84%EC%84%9D%ED%9D%AC__%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자율주행 인공지능 시스템 (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:NGV+NGV01+2022_A1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:NGV+NGV01+2022_A1/about</guid>
-            <pubDate>Tue, 28 Jun 2022 07:11:47 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                공승현
-                </span>
-                <span class="kr01_school">NGV</span>
-                </div>
-                <div><time>2022/07/11</time>
-                
-                ~ <time>2022/08/27</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:NGV+NGV01+2022_A1+type@asset+block@%ED%98%84%EB%8C%80_k-mooc_%EB%8C%80%ED%91%9C%EC%9D%B4%EB%AF%B8%EC%A7%80.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[비전공자를 위한 AI 딥러닝(Deep Learning) (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KAISTk+COB2021+2022_K1_01/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KAISTk+COB2021+2022_K1_01/about</guid>
-            <pubDate>Tue, 28 Jun 2022 07:11:47 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                오종훈
-                </span>
-                <span class="kr01_school">Korea Advanced Institute of Science and Technology</span>
-                </div>
-                <div><time>2022/07/06</time>
-                
-                ~ <time>2022/10/11</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KAISTk+COB2021+2022_K1_01+type@asset+block@%EC%BA%A1%EC%B2%982.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[바이오에너제틱스 (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KAISTk+BS501+2022_K8_01/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KAISTk+BS501+2022_K8_01/about</guid>
-            <pubDate>Tue, 28 Jun 2022 07:11:47 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김세윤
-                </span>
-                <span class="kr01_school">Korea Advanced Institute of Science and Technology</span>
-                </div>
-                <div><time>2022/07/06</time>
-                
-                ~ <time>2022/10/04</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KAISTk+BS501+2022_K8_01+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_asset-v1_KAISTk_BS501_2019_K8_type_asset_block_%EB%B0%94%EC%9D%B4%EC%98%A4%EC%97%90%EB%84%88%EC%A0%9C%ED%8B%B1%EC%8A%A4_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알기 쉬운 원자력 에너지 이야기 (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KAISTk+NQE625+2022_K7_01/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KAISTk+NQE625+2022_K7_01/about</guid>
-            <pubDate>Tue, 28 Jun 2022 07:11:47 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                이정익
-                </span>
-                <span class="kr01_school">Korea Advanced Institute of Science and Technology</span>
-                </div>
-                <div><time>2022/07/06</time>
-                
-                ~ <time>2022/09/06</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KAISTk+NQE625+2022_K7_01+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98__%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_asset-v1_KAISTk_NQE625_2018_K7_type_asset_block_%EC%9B%90%EC%9E%90%EB%A0%A5.PNG" length="0" type="image/PNG"/>
-        </item>
-        <item>
-            <title><![CDATA[인공지능과 기계학습, 원리와 응용 (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:EwhaK+EW21005K+2022_S19/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:EwhaK+EW21005K+2022_S19/about</guid>
-            <pubDate>Fri, 01 Jul 2022 08:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                신경식
-                </span>
-                <span class="kr01_school">EWHA WOMANS UNIVERSITY</span>
-                </div>
-                <div><time>2022/07/04</time>
-                
-                ~ <time>2022/08/25</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:EwhaK+EW21005K+2022_S19+type@asset+block@%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B3%BC_%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5_%EC%9B%90_%EB%A6%AC%EC%99%80_%EC%9D%91%EC%9A%A9_%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
