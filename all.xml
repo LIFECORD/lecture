@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 08:16:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 09:23:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[다양성과 공존 그리고 비즈니스 사례 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 11 Jul 2022 08:16:39 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_spe_001+2022_A26/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_spe_001+2022_A26/about</guid>
+            <pubDate>Mon, 11 Jul 2022 09:23:23 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이종구
