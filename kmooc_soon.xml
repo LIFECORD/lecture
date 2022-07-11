@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Jul 2022 23:12:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 01:05:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -60,24 +60,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:HKNU+HKNU001+2022_2+type@asset+block@K-MOOC_%EB%A9%94%EC%9D%B8_%EB%8C%80%EB%AC%B8%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다양성과 공존 그리고 비즈니스 사례]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_spe_001+2022_A26/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_spe_001+2022_A26/about</guid>
-            <pubDate>Thu, 07 Jul 2022 06:15:52 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                이종구
-                </span>
-                <span class="kr01_school">KOREA UNIVERSITY</span>
-                </div>
-                <div><time>2022/07/11</time>
-                
-                ~ <time>2022/08/16</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KoreaUnivK+ku_spe_001+2022_A26+type@asset+block@%EC%82%AC%EB%B3%B8_-%ED%8A%B9%EA%B0%95_%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

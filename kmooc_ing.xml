@@ -4,14 +4,32 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Jul 2022 23:12:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 01:05:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[KOICA와 함께하는 국제개발협력 첫걸음]]></title>
+            <title><![CDATA[다양성과 공존 그리고 비즈니스 사례]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Sun, 10 Jul 2022 23:12:30 GMT</pubDate>
+            <pubDate>Mon, 11 Jul 2022 01:05:03 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이종구
+                </span>
+                <span class="kr01_school">KOREA UNIVERSITY</span>
+                </div>
+                <div><time>2022/07/11</time>
+                
+                ~ <time>2022/08/16</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KoreaUnivK+ku_spe_001+2022_A26+type@asset+block@%EC%82%AC%EB%B3%B8_-%ED%8A%B9%EA%B0%95_%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KOICA와 함께하는 국제개발협력 첫걸음]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:KOICA+KOICA01+2022_3/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KOICA+KOICA01+2022_3/about</guid>
+            <pubDate>Mon, 11 Jul 2022 01:05:03 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 장현식 and 5 others
@@ -27,9 +45,9 @@
         </item>
         <item>
             <title><![CDATA[KOICA와 함께하는 국제개발협력 분야별 이슈]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Sun, 10 Jul 2022 23:12:30 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KOICA+KOICA04+2022_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KOICA+KOICA04+2022_2/about</guid>
+            <pubDate>Mon, 11 Jul 2022 01:05:03 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이지은 and 5 others
@@ -45,9 +63,9 @@
         </item>
         <item>
             <title><![CDATA[KOICA와 함께하는 세계시민교육(일반인)]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Sun, 10 Jul 2022 23:12:30 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KOICA+KOICA06+2022_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KOICA+KOICA06+2022_2/about</guid>
+            <pubDate>Mon, 11 Jul 2022 01:05:03 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 유성상 and 3 others
@@ -63,9 +81,9 @@
         </item>
         <item>
             <title><![CDATA[KOICA와 함께하는 국제개발협력: 범분야의 이해]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Sun, 10 Jul 2022 23:12:30 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KOICA+KOICA02+2022_3/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KOICA+KOICA02+2022_3/about</guid>
+            <pubDate>Mon, 11 Jul 2022 01:05:03 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김은미 and 4 others
@@ -81,9 +99,9 @@
         </item>
         <item>
             <title><![CDATA[KOICA와 함께하는 프로젝트 사업관리]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Sun, 10 Jul 2022 23:12:30 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KOICA+KOICA03+2022_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KOICA+KOICA03+2022_2/about</guid>
+            <pubDate>Mon, 11 Jul 2022 01:05:03 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 조상우 and 4 others
@@ -99,9 +117,9 @@
         </item>
         <item>
             <title><![CDATA[KOICA와 함께하는 SDGs 알아보기]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Sun, 10 Jul 2022 23:12:30 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KOICA+KOICA5+2022_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KOICA+KOICA5+2022_2/about</guid>
+            <pubDate>Mon, 11 Jul 2022 01:05:03 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 권구순 and 10 others
@@ -117,9 +135,9 @@
         </item>
         <item>
             <title><![CDATA[외국인근로자 사업담당자가 알아야 할 보건의료지원의 이해]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Sun, 10 Jul 2022 23:12:30 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KOFIH+KOFIH02+2022_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KOFIH+KOFIH02+2022_2/about</guid>
+            <pubDate>Mon, 11 Jul 2022 01:05:03 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김미선 and 5 others
@@ -135,9 +153,9 @@
         </item>
         <item>
             <title><![CDATA[시와 상상력: 동서양의 명시를 통해 본 인문학적 상상력]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Sun, 10 Jul 2022 23:12:30 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:PTUk+_PMOOC01k+2022_T3/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:PTUk+_PMOOC01k+2022_T3/about</guid>
+            <pubDate>Mon, 11 Jul 2022 01:05:03 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박진임
@@ -153,9 +171,9 @@
         </item>
         <item>
             <title><![CDATA[자율주행 인공지능 시스템]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Sun, 10 Jul 2022 23:12:30 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:NGV+NGV01+2022_A1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:NGV+NGV01+2022_A1/about</guid>
+            <pubDate>Mon, 11 Jul 2022 01:05:03 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 공승현
@@ -348,24 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:KRA+KRA02+2022_4+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[분단과 평화에 관한 문화인류학의 탐색]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:DCUk+UI_DCU_10+2022_T1_1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:DCUk+UI_DCU_10+2022_T1_1/about</guid>
-            <pubDate>Fri, 01 Jul 2022 09:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                신난희
-                </span>
-                <span class="kr01_school">DAEGU CATHOLIC UNIVERSITY</span>
-                </div>
-                <div><time>2022/07/01</time>
-                
-                ~ <time>2022/08/31</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:DCUk+UI_DCU_10+2022_T1_1+type@asset+block@2022-1_%EB%B6%84%EB%8B%A8%EA%B3%BC%ED%8F%89%ED%99%94.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
