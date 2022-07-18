@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 14:20:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 15:14:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -41,7 +41,7 @@
                 ~ <time>2022/09/18</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SMUk+SMU2021_8+2022_1_B5+type@asset+block@%EC%83%81%EB%AA%85%EB%8C%80_%EB%AC%B6%EC%9D%8C_%EA%B0%90%EC%84%B1%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_%EC%8D%B8%EB%84%A4%EC%9D%BC_optimized.png" length="0" type="image/png"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SMUk+SMU2021_8+2022_1_B5+type@asset+block@2022-1_%EA%B0%90%EC%84%B1-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_%EC%9D%B4%EC%A0%95%EB%85%84_optimized.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[감성컴퓨팅 (K-MOOC ─ 진행중)]]></title>
