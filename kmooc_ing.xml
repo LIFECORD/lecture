@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 10:14:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 11:11:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -134,78 +134,6 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:MA_DU+MATCHUP_DU02+2022_T2+type@asset+block@%EB%93%9C%EB%A1%A0_%EC%84%A4%EA%B3%84_%EC%A0%9C%EC%9E%91_%EC%9D%B4%EB%A1%A01.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[인지와 감성]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2021_6+2022_1_B3/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2021_6+2022_1_B3/about</guid>
-            <pubDate>Tue, 19 Jul 2022 15:14:30 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                이지항
-                </span>
-                <span class="kr01_school">SANGMYUNG UNIVERSITY</span>
-                </div>
-                <div><time>2022/07/18</time>
-                
-                ~ <time>2022/09/19</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SMUk+SMU2021_6+2022_1_B3+type@asset+block@2022-1_%EC%9D%B8%EC%A7%80%EC%99%80-%EA%B0%90%EC%84%B1_%EC%9D%B4%EC%A7%80%ED%95%AD_optimized.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인공지능시대의 사회적 쟁점]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2021_2+2022_1_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2021_2+2022_1_T2/about</guid>
-            <pubDate>Tue, 19 Jul 2022 15:14:30 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                양희경
-                </span>
-                <span class="kr01_school">SANGMYUNG UNIVERSITY</span>
-                </div>
-                <div><time>2022/07/18</time>
-                
-                ~ <time>2022/09/19</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SMUk+SMU2021_2+2022_1_T2+type@asset+block@2022-1_%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%8B%9C%EB%8C%80%EC%9D%98-%EC%82%AC%ED%9A%8C%EC%A0%81%EC%9F%81%EC%A0%90_%EC%96%91%ED%9D%AC%EA%B2%BD_optimized.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[자율 에이전트 및 멀티 에이전트 시스템]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2020_01+2022_1_A1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2020_01+2022_1_A1/about</guid>
-            <pubDate>Tue, 19 Jul 2022 15:14:30 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                이지항
-                </span>
-                <span class="kr01_school">SANGMYUNG UNIVERSITY</span>
-                </div>
-                <div><time>2022/07/18</time>
-                
-                ~ <time>2022/09/18</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SMUk+SMU2020_01+2022_1_A1+type@asset+block@2022-1_%EC%9E%90%EC%9C%A8-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EB%B0%8F-%EB%A9%80%ED%8B%B0%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C_%EC%9D%B4%EC%A7%80%ED%95%AD_optimized.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[휴먼컴퓨터인터페이스]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2021_9+2022_1_B6/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2021_9+2022_1_B6/about</guid>
-            <pubDate>Tue, 19 Jul 2022 15:14:30 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                황민철
-                </span>
-                <span class="kr01_school">SANGMYUNG UNIVERSITY</span>
-                </div>
-                <div><time>2022/07/18</time>
-                
-                ~ <time>2022/09/18</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SMUk+SMU2021_9+2022_1_B6+type@asset+block@2022-1_%ED%9C%B4%EB%A8%BC%EC%BB%B4%ED%93%A8%ED%84%B0-%EC%97%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4_%ED%99%A9%EB%AF%BC%EC%B2%A0_optimized.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[감성 인공 지능]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2021_8+2022_1_B5/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2021_8+2022_1_B5/about</guid>
@@ -260,6 +188,24 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:SMUk+SMU2021_4+2022_1_B1+type@asset+block@2022-1_%EA%B0%90%EC%84%B1%EC%BB%B4%ED%93%A8%ED%8C%85_%ED%99%A9%EB%AF%BC%EC%B2%A0_optimized.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[인지와 감성]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2021_6+2022_1_B3/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2021_6+2022_1_B3/about</guid>
+            <pubDate>Tue, 19 Jul 2022 15:14:30 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이지항
+                </span>
+                <span class="kr01_school">SANGMYUNG UNIVERSITY</span>
+                </div>
+                <div><time>2022/07/18</time>
+                
+                ~ <time>2022/09/19</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SMUk+SMU2021_6+2022_1_B3+type@asset+block@2022-1_%EC%9D%B8%EC%A7%80%EC%99%80-%EA%B0%90%EC%84%B1_%EC%9D%B4%EC%A7%80%ED%95%AD_optimized.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[생체신호와 데이터 분석]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2021_7+2022_1_B4/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2021_7+2022_1_B4/about</guid>
@@ -312,6 +258,60 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:SMUk+SMU2021_1+2022_1_T1+type@asset+block@2022-1_%EC%83%9D%EC%84%B1%EB%AA%A8%EB%8D%B8%EA%B3%BC-%EC%8B%9C%EA%B0%81%EC%A7%80%EB%8A%A5_%EB%AF%BC%EB%B3%91%EC%B2%A0_optimized.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[인공지능시대의 사회적 쟁점]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2021_2+2022_1_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2021_2+2022_1_T2/about</guid>
+            <pubDate>Tue, 19 Jul 2022 15:14:30 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                양희경
+                </span>
+                <span class="kr01_school">SANGMYUNG UNIVERSITY</span>
+                </div>
+                <div><time>2022/07/18</time>
+                
+                ~ <time>2022/09/19</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SMUk+SMU2021_2+2022_1_T2+type@asset+block@2022-1_%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%8B%9C%EB%8C%80%EC%9D%98-%EC%82%AC%ED%9A%8C%EC%A0%81%EC%9F%81%EC%A0%90_%EC%96%91%ED%9D%AC%EA%B2%BD_optimized.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[자율 에이전트 및 멀티 에이전트 시스템]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2020_01+2022_1_A1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2020_01+2022_1_A1/about</guid>
+            <pubDate>Tue, 19 Jul 2022 15:14:30 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이지항
+                </span>
+                <span class="kr01_school">SANGMYUNG UNIVERSITY</span>
+                </div>
+                <div><time>2022/07/18</time>
+                
+                ~ <time>2022/09/18</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SMUk+SMU2020_01+2022_1_A1+type@asset+block@2022-1_%EC%9E%90%EC%9C%A8-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EB%B0%8F-%EB%A9%80%ED%8B%B0%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C_%EC%9D%B4%EC%A7%80%ED%95%AD_optimized.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[휴먼컴퓨터인터페이스]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2021_9+2022_1_B6/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2021_9+2022_1_B6/about</guid>
+            <pubDate>Tue, 19 Jul 2022 15:14:30 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                황민철
+                </span>
+                <span class="kr01_school">SANGMYUNG UNIVERSITY</span>
+                </div>
+                <div><time>2022/07/18</time>
+                
+                ~ <time>2022/09/18</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SMUk+SMU2021_9+2022_1_B6+type@asset+block@2022-1_%ED%9C%B4%EB%A8%BC%EC%BB%B4%ED%93%A8%ED%84%B0-%EC%97%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4_%ED%99%A9%EB%AF%BC%EC%B2%A0_optimized.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[문화와 생활 속 청렴 시즌2]]></title>
