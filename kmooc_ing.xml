@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 14:12:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 15:16:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -314,42 +314,6 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:SMUk+SMU2021_9+2022_1_B6+type@asset+block@2022-1_%ED%9C%B4%EB%A8%BC%EC%BB%B4%ED%93%A8%ED%84%B0-%EC%97%94%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4_%ED%99%A9%EB%AF%BC%EC%B2%A0_optimized.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[문화와 생활 속 청렴 시즌2]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:ACRCEDU+ACRC02+2022_04/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:ACRCEDU+ACRC02+2022_04/about</guid>
-            <pubDate>Tue, 19 Jul 2022 15:14:30 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김경일 and 5 others
-                </span>
-                <span class="kr01_school">Anti-Corruption and Civil Rights Commission</span>
-                </div>
-                <div><time>2022/07/18</time>
-                
-                ~ <time>2022/07/30</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:ACRCEDU+ACRC02+2022_04+type@asset+block@2022-4%EA%B8%B0_%EC%8B%9C%EC%A6%8C2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[문화와 생활 속 청렴]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:ACRCEDU+ACRC01+2022_04/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:ACRCEDU+ACRC01+2022_04/about</guid>
-            <pubDate>Tue, 19 Jul 2022 15:14:30 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                신병주 and 4 others
-                </span>
-                <span class="kr01_school">Anti-Corruption and Civil Rights Commission</span>
-                </div>
-                <div><time>2022/07/18</time>
-                
-                ~ <time>2022/07/30</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:ACRCEDU+ACRC01+2022_04+type@asset+block@2022-4%EA%B8%B0_%EC%8B%9C%EC%A6%8C1.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[다양성과 공존 그리고 비즈니스 사례]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_spe_001+2022_A26/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_spe_001+2022_A26/about</guid>
@@ -366,6 +330,42 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:KoreaUnivK+ku_spe_001+2022_A26+type@asset+block@%EC%82%AC%EB%B3%B8_-%ED%8A%B9%EA%B0%95_%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KOICA와 함께하는 국제개발협력 첫걸음]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:KOICA+KOICA01+2022_3/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KOICA+KOICA01+2022_3/about</guid>
+            <pubDate>Fri, 29 Jul 2022 15:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                장현식 and 5 others
+                </span>
+                <span class="kr01_school">KOREA INTERNATIONAL COOPERATION AGENCY</span>
+                </div>
+                <div><time>2022/07/11</time>
+                
+                ~ <time>2022/08/26</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KOICA+KOICA01+2022_3+type@asset+block@%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C7.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[KOICA와 함께하는 국제개발협력 분야별 이슈]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:KOICA+KOICA04+2022_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KOICA+KOICA04+2022_2/about</guid>
+            <pubDate>Fri, 29 Jul 2022 15:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이지은 and 5 others
+                </span>
+                <span class="kr01_school">KOREA INTERNATIONAL COOPERATION AGENCY</span>
+                </div>
+                <div><time>2022/07/11</time>
+                
+                ~ <time>2022/08/26</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KOICA+KOICA04+2022_2+type@asset+block@%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C12.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
