@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 16:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 17:16:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[디지털 전환과 4차 산업혁명 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Wed, 03 Aug 2022 16:16:55 GMT</pubDate>
+            <pubDate>Wed, 03 Aug 2022 17:16:00 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이대호
@@ -29,7 +29,7 @@
             <title><![CDATA[가상현실과 햅틱스 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Wed, 03 Aug 2022 16:16:55 GMT</pubDate>
+            <pubDate>Wed, 03 Aug 2022 17:16:00 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 전석희
