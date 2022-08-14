@@ -1,8 +1,371 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://www.kmooc.kr/courses?range=t</id>
-    <title>K-MOOC ─ 개강예정</title>
-    <updated>2022-08-14T03:28:01.162Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://www.kmooc.kr/static/images/favicon.48298a133a52.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>K-MOOC ─ 개강예정</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 14 Aug 2022 04:24:30 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[성공적인 소셜벤처 창업을 위한 실무 개론]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:TUk+LINC_TUMOOC0002+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:TUk+LINC_TUMOOC0002+2022_T2/about</guid>
+            <pubDate>Sun, 14 Aug 2022 04:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                노성여 and 5 others
+                </span>
+                <span class="kr01_school">Tongmyong University</span>
+                </div>
+                <div><time>2022/09/07</time>
+                
+                ~ <time>2022/12/26</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:TUk+LINC_TUMOOC0002+2022_T2+type@asset+block@%EC%84%B1%EA%B3%B5%EC%A0%81%EC%9D%B8%EC%86%8C%EC%85%9C%EB%B2%A4%EC%B2%98%EC%B0%BD%EC%97%85%EC%9D%84%EC%9C%84%ED%95%9C%EC%8B%A4%EB%AC%B4%EA%B0%9C%EB%A1%A0_%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Identity, Agency, Equality and Security in the Age of AI]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:EwhaK+EW20002K+2022_F23/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:EwhaK+EW20002K+2022_F23/about</guid>
+            <pubDate>Sun, 14 Aug 2022 04:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                문혜진
+                </span>
+                <span class="kr01_school">EWHA WOMANS UNIVERSITY</span>
+                </div>
+                <div><time>2022/09/01</time>
+                
+                ~ <time>2022/12/14</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:EwhaK+EW20002K+2022_F23+type@asset+block@AgeofAI_2022s.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[AI융합교육의 이해]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:EwhaK+EW22003M+2022_F16/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:EwhaK+EW22003M+2022_F16/about</guid>
+            <pubDate>Sun, 14 Aug 2022 04:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                정제영
+                </span>
+                <span class="kr01_school">EWHA WOMANS UNIVERSITY</span>
+                </div>
+                <div><time>2022/09/01</time>
+                
+                ~ <time>2022/12/14</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:EwhaK+EW22003M+2022_F16+type@asset+block@AI%EC%9C%B5%ED%95%A9%EA%B5%90%EC%9C%A1%EC%9D%98_%EC%9D%B4%ED%95%B4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[건축으로 읽는 사회문화사]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:EwhaK+EW36387K+2022_F01/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:EwhaK+EW36387K+2022_F01/about</guid>
+            <pubDate>Sun, 14 Aug 2022 04:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                임석재
+                </span>
+                <span class="kr01_school">EWHA WOMANS UNIVERSITY</span>
+                </div>
+                <div><time>2022/09/01</time>
+                
+                ~ <time>2022/12/14</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:EwhaK+EW36387K+2022_F01+type@asset+block@%EA%B1%B4%EC%B6%95_2022s.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[인간은 왜 병에 걸리는가?: 질병의 생태와 진화]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:EwhaK+EW17001K+2022_F08/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:EwhaK+EW17001K+2022_F08/about</guid>
+            <pubDate>Sun, 14 Aug 2022 04:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                최재천
+                </span>
+                <span class="kr01_school">EWHA WOMANS UNIVERSITY</span>
+                </div>
+                <div><time>2022/09/01</time>
+                
+                ~ <time>2022/12/14</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:EwhaK+EW17001K+2022_F08+type@asset+block@%EC%A7%88%EB%B3%91_2022s.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[음악과 과학/기술]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:EwhaK+EW11239K+2022_F06/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:EwhaK+EW11239K+2022_F06/about</guid>
+            <pubDate>Sun, 14 Aug 2022 04:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                여운승
+                </span>
+                <span class="kr01_school">EWHA WOMANS UNIVERSITY</span>
+                </div>
+                <div><time>2022/09/01</time>
+                
+                ~ <time>2022/12/14</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:EwhaK+EW11239K+2022_F06+type@asset+block@%EC%9D%8C%EC%95%85_2022s.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[세 문명 이야기: 중세 지중해 교류사]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:EwhaK+EW20001K+2022_F24/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:EwhaK+EW20001K+2022_F24/about</guid>
+            <pubDate>Sun, 14 Aug 2022 04:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                남종국
+                </span>
+                <span class="kr01_school">EWHA WOMANS UNIVERSITY</span>
+                </div>
+                <div><time>2022/09/01</time>
+                
+                ~ <time>2022/12/14</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:EwhaK+EW20001K+2022_F24+type@asset+block@%EC%84%B8%EB%AC%B8%EB%AA%85_2022s.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[미래교육의 이해]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:EwhaK+EW22001M+2022_F14/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:EwhaK+EW22001M+2022_F14/about</guid>
+            <pubDate>Sun, 14 Aug 2022 04:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                정제영
+                </span>
+                <span class="kr01_school">EWHA WOMANS UNIVERSITY</span>
+                </div>
+                <div><time>2022/09/01</time>
+                
+                ~ <time>2022/12/14</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:EwhaK+EW22001M+2022_F14+type@asset+block@%EB%AF%B8%EB%9E%98%EA%B5%90%EC%9C%A1%EC%9D%98_%EC%9D%B4%ED%95%B4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[교육데이터 분석]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:EwhaK+EW22004M+2022_F17/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:EwhaK+EW22004M+2022_F17/about</guid>
+            <pubDate>Sun, 14 Aug 2022 04:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이동환
+                </span>
+                <span class="kr01_school">EWHA WOMANS UNIVERSITY</span>
+                </div>
+                <div><time>2022/09/01</time>
+                
+                ~ <time>2022/12/14</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:EwhaK+EW22004M+2022_F17+type@asset+block@04_%EA%B5%90%EC%9C%A1%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D__%EC%8D%B8%EB%84%A4%EC%9D%BC_v3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인간행위와 사회구조]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:EwhaK+EW10771K+2022_F02/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:EwhaK+EW10771K+2022_F02/about</guid>
+            <pubDate>Sun, 14 Aug 2022 04:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                함인희
+                </span>
+                <span class="kr01_school">EWHA WOMANS UNIVERSITY</span>
+                </div>
+                <div><time>2022/09/01</time>
+                
+                ~ <time>2022/12/14</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:EwhaK+EW10771K+2022_F02+type@asset+block@%EC%9D%B8%EA%B0%84%ED%96%89%EC%9C%84_2022s.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[인공지능과 기계학습, 원리와 응용]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:EwhaK+EW21005K+2022_F18/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:EwhaK+EW21005K+2022_F18/about</guid>
+            <pubDate>Sun, 14 Aug 2022 04:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                신경식
+                </span>
+                <span class="kr01_school">EWHA WOMANS UNIVERSITY</span>
+                </div>
+                <div><time>2022/09/01</time>
+                
+                ~ <time>2022/12/14</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:EwhaK+EW21005K+2022_F18+type@asset+block@%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B3%BC_%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5_%EC%9B%90_%EB%A6%AC%EC%99%80_%EC%9D%91%EC%9A%A9_%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[의생명과학기술과 법]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:EwhaK+EW19002K+2022_F13/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:EwhaK+EW19002K+2022_F13/about</guid>
+            <pubDate>Sun, 14 Aug 2022 04:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이원복
+                </span>
+                <span class="kr01_school">EWHA WOMANS UNIVERSITY</span>
+                </div>
+                <div><time>2022/09/01</time>
+                
+                ~ <time>2022/12/14</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:EwhaK+EW19002K+2022_F13+type@asset+block@%EC%9D%98%EC%83%9D%EB%AA%85_2022s.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[기업명성과 커뮤니케이션]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:EwhaK+EW19001K+2022_F11/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:EwhaK+EW19001K+2022_F11/about</guid>
+            <pubDate>Sun, 14 Aug 2022 04:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                차희원
+                </span>
+                <span class="kr01_school">EWHA WOMANS UNIVERSITY</span>
+                </div>
+                <div><time>2022/09/01</time>
+                
+                ~ <time>2022/12/14</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:EwhaK+EW19001K+2022_F11+type@asset+block@%EA%B8%B0%EC%97%85%EB%AA%85%EC%84%B1_2022s.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[R 프로그래밍의 기초]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:EwhaK+EW22002M+2022_F15/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:EwhaK+EW22002M+2022_F15/about</guid>
+            <pubDate>Sun, 14 Aug 2022 04:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이선복
+                </span>
+                <span class="kr01_school">EWHA WOMANS UNIVERSITY</span>
+                </div>
+                <div><time>2022/09/01</time>
+                
+                ~ <time>2022/12/14</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:EwhaK+EW22002M+2022_F15+type@asset+block@R%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%98_%EA%B8%B0%EC%B4%88.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국문화 깊이 읽기]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:EwhaK+EW21003K+2022_F20/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:EwhaK+EW21003K+2022_F20/about</guid>
+            <pubDate>Sun, 14 Aug 2022 04:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                조혜란
+                </span>
+                <span class="kr01_school">EWHA WOMANS UNIVERSITY</span>
+                </div>
+                <div><time>2022/09/01</time>
+                
+                ~ <time>2022/12/14</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:EwhaK+EW21003K+2022_F20+type@asset+block@%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94_2022s.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[생물다양성과 생물자원]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:EwhaK+EW21002K+2022_F19/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:EwhaK+EW21002K+2022_F19/about</guid>
+            <pubDate>Sun, 14 Aug 2022 04:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                정종우
+                </span>
+                <span class="kr01_school">EWHA WOMANS UNIVERSITY</span>
+                </div>
+                <div><time>2022/09/01</time>
+                
+                ~ <time>2022/12/14</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:EwhaK+EW21002K+2022_F19+type@asset+block@%EC%83%9D%EB%AC%BC_2022s.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[빅데이터의 세계, 원리와 응용]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:EwhaK+EW11237K+2022_F04/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:EwhaK+EW11237K+2022_F04/about</guid>
+            <pubDate>Sun, 14 Aug 2022 04:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                신경식
+                </span>
+                <span class="kr01_school">EWHA WOMANS UNIVERSITY</span>
+                </div>
+                <div><time>2022/09/01</time>
+                
+                ~ <time>2022/12/14</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:EwhaK+EW11237K+2022_F04+type@asset+block@%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0_2022s.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[동물의 행동]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:EwhaK+EW10930K+2022_F12/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:EwhaK+EW10930K+2022_F12/about</guid>
+            <pubDate>Sun, 14 Aug 2022 04:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                장이권
+                </span>
+                <span class="kr01_school">EWHA WOMANS UNIVERSITY</span>
+                </div>
+                <div><time>2022/09/01</time>
+                
+                ~ <time>2022/12/14</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:EwhaK+EW10930K+2022_F12+type@asset+block@%EB%8F%99%EB%AC%BC_2022s.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[어원으로 문화읽기]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:EwhaK+EW18003C+2022_F10/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:EwhaK+EW18003C+2022_F10/about</guid>
+            <pubDate>Sun, 14 Aug 2022 04:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                장한업
+                </span>
+                <span class="kr01_school">EWHA WOMANS UNIVERSITY</span>
+                </div>
+                <div><time>2022/09/01</time>
+                
+                ~ <time>2022/12/14</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:EwhaK+EW18003C+2022_F10+type@asset+block@%EC%96%B4%EC%9B%90_2022s.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[현대물리학과 인간사고의 변혁]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:EwhaK+EW10164K+2022_F03/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:EwhaK+EW10164K+2022_F03/about</guid>
+            <pubDate>Sun, 14 Aug 2022 04:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김찬주
+                </span>
+                <span class="kr01_school">EWHA WOMANS UNIVERSITY</span>
+                </div>
+                <div><time>2022/09/01</time>
+                
+                ~ <time>2022/12/14</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:EwhaK+EW10164K+2022_F03+type@asset+block@%ED%98%84%EB%AC%BC%EC%9D%B8.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
