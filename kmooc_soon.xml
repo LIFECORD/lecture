@@ -4,9 +4,27 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Aug 2022 23:12:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2022 01:08:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미적분학Ⅲ-벡터미적분학]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SKKUk+SKKU_2019_06+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SKKUk+SKKU_2019_06+2022_T1/about</guid>
+            <pubDate>Mon, 15 Aug 2022 01:08:35 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                채영도
+                </span>
+                <span class="kr01_school">SUNGKYUNKWAN UNIVERSITY</span>
+                </div>
+                <div><time>2022/09/26</time>
+                
+                ~ <time>2022/11/28</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SKKUk+SKKU_2019_06+2022_T1+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%EA%B0%95%EC%A2%8C%EB%8C%80%ED%91%9C%EC%9D%B4%EB%AF%B8%EC%A7%80_%EB%AF%B8%EC%A0%81%EB%B6%84%ED%95%993_2020-1%EC%88%98%EC%A0%95.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[성공적인 소셜벤처 창업을 위한 실무 개론]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:TUk+LINC_TUMOOC0002+2022_T2/about</link>
@@ -348,24 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:EwhaK+EW18003C+2022_F10+type@asset+block@%EC%96%B4%EC%9B%90_2022s.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[현대물리학과 인간사고의 변혁]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:EwhaK+EW10164K+2022_F03/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:EwhaK+EW10164K+2022_F03/about</guid>
-            <pubDate>Sun, 14 Aug 2022 04:24:30 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김찬주
-                </span>
-                <span class="kr01_school">EWHA WOMANS UNIVERSITY</span>
-                </div>
-                <div><time>2022/09/01</time>
-                
-                ~ <time>2022/12/14</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:EwhaK+EW10164K+2022_F03+type@asset+block@%ED%98%84%EB%AC%BC%EC%9D%B8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
