@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 08:13:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 09:11:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[문화융합시대의 창업 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Tue, 16 Aug 2022 08:13:27 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:RUCK+RUCK01+2022_RUCK1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:RUCK+RUCK01+2022_RUCK1/about</guid>
+            <pubDate>Tue, 16 Aug 2022 09:11:25 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김기정 외 10인
@@ -27,9 +27,9 @@
         </item>
         <item>
             <title><![CDATA[문화와 생활 속 청렴 시즌2 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Tue, 16 Aug 2022 08:13:27 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:ACRCEDU+ACRC02+2022_05/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:ACRCEDU+ACRC02+2022_05/about</guid>
+            <pubDate>Tue, 16 Aug 2022 09:11:25 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김경일 and 5 others
@@ -45,9 +45,9 @@
         </item>
         <item>
             <title><![CDATA[문화와 생활 속 청렴 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Tue, 16 Aug 2022 08:13:28 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:ACRCEDU+ACRC01+2022_05/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:ACRCEDU+ACRC01+2022_05/about</guid>
+            <pubDate>Tue, 16 Aug 2022 09:11:25 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 신병주 and 4 others
