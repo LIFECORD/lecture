@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 01:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 03:41:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[문화융합시대의 창업 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Tue, 16 Aug 2022 01:12:36 GMT</pubDate>
+            <pubDate>Tue, 16 Aug 2022 03:41:04 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김기정 외 10인
@@ -29,7 +29,7 @@
             <title><![CDATA[문화와 생활 속 청렴 시즌2 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Tue, 16 Aug 2022 01:12:36 GMT</pubDate>
+            <pubDate>Tue, 16 Aug 2022 03:41:04 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김경일 and 5 others
@@ -47,7 +47,7 @@
             <title><![CDATA[문화와 생활 속 청렴 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Tue, 16 Aug 2022 01:12:36 GMT</pubDate>
+            <pubDate>Tue, 16 Aug 2022 03:41:04 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 신병주 and 4 others
@@ -419,7 +419,7 @@
                 ~ <time>2022/12/11</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC05K+2022_T2+type@asset+block@005.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC05K+2022_T2+type@asset+block@19.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[성공적인 소셜벤처 창업을 위한 실무 개론 (K-MOOC ─ 개강예정)]]></title>
@@ -473,7 +473,7 @@
                 ~ <time>2022/12/20</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC16K+2022_T2+type@asset+block@011.png" length="0" type="image/png"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC16K+2022_T2+type@asset+block@13.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[기본권, 세상과 통하는 法 (K-MOOC ─ 개강예정)]]></title>
@@ -491,7 +491,7 @@
                 ~ <time>2022/12/20</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC12K+2022_T2+type@asset+block@007.png" length="0" type="image/png"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC12K+2022_T2+type@asset+block@03.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[한국의 자연지리 (K-MOOC ─ 개강예정)]]></title>
@@ -509,7 +509,7 @@
                 ~ <time>2022/12/29</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC14K+2022_T2+type@asset+block@009.png" length="0" type="image/png"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC14K+2022_T2+type@asset+block@20.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[실습으로 배우는 머신러닝 (K-MOOC ─ 개강예정)]]></title>
@@ -527,7 +527,7 @@
                 ~ <time>2022/12/05</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC20K+2022_T2+type@asset+block@015.png" length="0" type="image/png"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC20K+2022_T2+type@asset+block@09.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[현대인의 정신건강 (K-MOOC ─ 개강예정)]]></title>
@@ -545,7 +545,7 @@
                 ~ <time>2022/12/18</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC17K+2022_T2+type@asset+block@012.png" length="0" type="image/png"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC17K+2022_T2+type@asset+block@22.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[4차 산업혁명과 경영혁신 (K-MOOC ─ 개강예정)]]></title>
@@ -581,7 +581,7 @@
                 ~ <time>2022/12/18</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC04K+2022_T2+type@asset+block@004.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC04K+2022_T2+type@asset+block@07.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[조선 문인들이 사랑한 나의 집 (K-MOOC ─ 개강예정)]]></title>
@@ -599,7 +599,7 @@
                 ~ <time>2022/12/18</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC18K+2022_T2+type@asset+block@013.png" length="0" type="image/png"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC18K+2022_T2+type@asset+block@18.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[역사와 문화 속의 인간 (K-MOOC ─ 개강예정)]]></title>
@@ -617,7 +617,7 @@
                 ~ <time>2022/12/18</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC06K+2022_T2+type@asset+block@001.png" length="0" type="image/png"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC06K+2022_T2+type@asset+block@12.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[의료사고, 법으로 이해하기 (K-MOOC ─ 개강예정)]]></title>
@@ -635,7 +635,25 @@
                 ~ <time>2022/12/18</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC13K+2022_T2+type@asset+block@008.png" length="0" type="image/png"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC13K+2022_T2+type@asset+block@16.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[센서 및 구동기 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SEOULTECHk+SMOOC07k+2022_T4/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SEOULTECHk+SMOOC07k+2022_T4/about</guid>
+            <pubDate>Tue, 16 Aug 2022 03:41:22 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                박우태 and 2 others
+                </span>
+                <span class="kr01_school">SEOUL NATIONAL UNIVERSITY OF SCIENCE AND TECHNOLOGY</span>
+                </div>
+                <div><time>2022/09/05</time>
+                
+                ~ <time>2022/12/17</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SEOULTECHk+SMOOC07k+2022_T4+type@asset+block@%EC%84%BC%EC%84%9C_%EB%B0%8F_%EA%B5%AC%EB%8F%99%EA%B8%B0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아동과 청소년의 건강환경 Ⅰ (K-MOOC ─ 개강예정)]]></title>
@@ -653,7 +671,7 @@
                 ~ <time>2022/10/23</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC03K+2022_T2+type@asset+block@007.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC03K+2022_T2+type@asset+block@10.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[발레 : 융합문화예술의 실제 Ⅰ (K-MOOC ─ 개강예정)]]></title>
@@ -671,25 +689,7 @@
                 ~ <time>2022/10/23</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC01K+2022_T2+type@asset+block@002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지식재산권 (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:YeungnamUnivK+YU21900+2022_01/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:YeungnamUnivK+YU21900+2022_01/about</guid>
-            <pubDate>Tue, 16 Aug 2022 01:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                문호지
-                </span>
-                <span class="kr01_school">Yeungnam University</span>
-                </div>
-                <div><time>2022/09/05</time>
-                
-                ~ <time>2022/10/31</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:YeungnamUnivK+YU21900+2022_01+type@asset+block@%E3%85%87%E3%85%87%E3%85%87.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC01K+2022_T2+type@asset+block@04.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[생물화학공학 (K-MOOC ─ 개강예정)]]></title>
@@ -725,7 +725,7 @@
                 ~ <time>2022/12/23</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC15K+2022_T2+type@asset+block@010.png" length="0" type="image/png"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC15K+2022_T2+type@asset+block@06.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
