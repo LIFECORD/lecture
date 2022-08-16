@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 04:36:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 05:16:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -170,6 +170,24 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC20K+2022_T2+type@asset+block@09.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[센서 및 구동기]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SEOULTECHk+SMOOC07k+2022_T4/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SEOULTECHk+SMOOC07k+2022_T4/about</guid>
+            <pubDate>Tue, 16 Aug 2022 03:41:22 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                박우태 and 2 others
+                </span>
+                <span class="kr01_school">SEOUL NATIONAL UNIVERSITY OF SCIENCE AND TECHNOLOGY</span>
+                </div>
+                <div><time>2022/09/06</time>
+                
+                ~ <time>2022/12/17</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SEOULTECHk+SMOOC07k+2022_T4+type@asset+block@%EC%84%BC%EC%84%9C_%EB%B0%8F_%EA%B5%AC%EB%8F%99%EA%B8%B0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[현대인의 정신건강]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:SSUk+SSMOOC17K+2022_T2/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:SSUk+SSMOOC17K+2022_T2/about</guid>
@@ -276,24 +294,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC13K+2022_T2+type@asset+block@16.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[센서 및 구동기]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SEOULTECHk+SMOOC07k+2022_T4/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SEOULTECHk+SMOOC07k+2022_T4/about</guid>
-            <pubDate>Tue, 16 Aug 2022 03:41:22 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                박우태 and 2 others
-                </span>
-                <span class="kr01_school">SEOUL NATIONAL UNIVERSITY OF SCIENCE AND TECHNOLOGY</span>
-                </div>
-                <div><time>2022/09/05</time>
-                
-                ~ <time>2022/12/17</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SEOULTECHk+SMOOC07k+2022_T4+type@asset+block@%EC%84%BC%EC%84%9C_%EB%B0%8F_%EA%B5%AC%EB%8F%99%EA%B8%B0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아동과 청소년의 건강환경 Ⅰ]]></title>
