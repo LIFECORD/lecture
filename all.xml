@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 06:17:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 07:10:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[문화융합시대의 창업 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Tue, 16 Aug 2022 06:16:41 GMT</pubDate>
+            <pubDate>Tue, 16 Aug 2022 07:10:42 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김기정 외 10인
@@ -29,7 +29,7 @@
             <title><![CDATA[문화와 생활 속 청렴 시즌2 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Tue, 16 Aug 2022 06:16:41 GMT</pubDate>
+            <pubDate>Tue, 16 Aug 2022 07:10:42 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김경일 and 5 others
@@ -47,7 +47,7 @@
             <title><![CDATA[문화와 생활 속 청렴 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Tue, 16 Aug 2022 06:16:41 GMT</pubDate>
+            <pubDate>Tue, 16 Aug 2022 07:10:42 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 신병주 and 4 others
@@ -494,6 +494,24 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC12K+2022_T2+type@asset+block@03.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[행복심리학 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SNUk+SNUL0655_000500k+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SNUk+SNUL0655_000500k+2022_T2/about</guid>
+            <pubDate>Tue, 16 Aug 2022 07:10:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                최인철
+                </span>
+                <span class="kr01_school">SEOUL NATIONAL UNIVERSITY</span>
+                </div>
+                <div><time>2022/09/06</time>
+                
+                ~ <time>2022/12/06</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SNUk+SNUL0655_000500k+2022_T2+type@asset+block@21-2_%ED%96%89%EB%B3%B5%EC%8B%AC%EB%A6%AC%ED%95%99.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[한국의 자연지리 (K-MOOC ─ 개강예정)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:SSUk+SSMOOC14K+2022_T2/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:SSUk+SSMOOC14K+2022_T2/about</guid>
@@ -528,24 +546,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC20K+2022_T2+type@asset+block@09.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[센서 및 구동기 (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SEOULTECHk+SMOOC07k+2022_T4/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SEOULTECHk+SMOOC07k+2022_T4/about</guid>
-            <pubDate>Tue, 16 Aug 2022 03:41:22 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                박우태 and 2 others
-                </span>
-                <span class="kr01_school">SEOUL NATIONAL UNIVERSITY OF SCIENCE AND TECHNOLOGY</span>
-                </div>
-                <div><time>2022/09/06</time>
-                
-                ~ <time>2022/12/17</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SEOULTECHk+SMOOC07k+2022_T4+type@asset+block@%EC%84%BC%EC%84%9C_%EB%B0%8F_%EA%B5%AC%EB%8F%99%EA%B8%B0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[현대인의 정신건강 (K-MOOC ─ 개강예정)]]></title>
@@ -656,6 +656,24 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC13K+2022_T2+type@asset+block@16.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[센서 및 구동기 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SEOULTECHk+SMOOC07k+2022_T4/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SEOULTECHk+SMOOC07k+2022_T4/about</guid>
+            <pubDate>Tue, 16 Aug 2022 03:41:22 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                박우태 and 2 others
+                </span>
+                <span class="kr01_school">SEOUL NATIONAL UNIVERSITY OF SCIENCE AND TECHNOLOGY</span>
+                </div>
+                <div><time>2022/09/05</time>
+                
+                ~ <time>2022/12/17</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SEOULTECHk+SMOOC07k+2022_T4+type@asset+block@%EC%84%BC%EC%84%9C_%EB%B0%8F_%EA%B5%AC%EB%8F%99%EA%B8%B0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아동과 청소년의 건강환경 Ⅰ (K-MOOC ─ 개강예정)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:SSUk+SSMOOC03K+2022_T2/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:SSUk+SSMOOC03K+2022_T2/about</guid>
@@ -708,24 +726,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:SEOULTECHk+SMOOC10k+2022_T3+type@asset+block@%EB%84%B7.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[비즈니스를 위한 인공지능 (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SSUk+SSMOOC15K+2022_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SSUk+SSMOOC15K+2022_T2/about</guid>
-            <pubDate>Tue, 16 Aug 2022 01:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                심선영
-                </span>
-                <span class="kr01_school">SUNGSHIN WOMEN'S UNIVERSITY</span>
-                </div>
-                <div><time>2022/09/02</time>
-                
-                ~ <time>2022/12/23</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC15K+2022_T2+type@asset+block@06.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
