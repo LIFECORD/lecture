@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 01:14:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 03:57:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -77,7 +77,7 @@
                 ~ <time>2022/11/30</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:AIIA+AIIA02+2022_T3_AIIA02+type@asset+block@_%EB%B3%84%EC%B2%A8_%EC%A7%80%EB%8A%A5%EC%A0%95%EB%B3%B4%EC%82%B0%EC%97%85%ED%98%91%ED%9A%8C-%EC%A0%84%EC%82%B0%EC%9D%B8%EC%A7%80%EA%B3%BC%ED%95%99%EB%B0%8F%EC%9D%B8%EA%B0%84%EC%A7%80%EB%8A%A5%EA%B3%BC%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_%EA%B9%80%ED%83%9C%EC%98%81_-%EA%B5%AD%EB%AC%B8-%EA%B0%95%EC%A2%8C%EC%9D%B4%EB%AF%B8%EC%A7%80.png" length="0" type="image/png"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:AIIA+AIIA02+2022_T3_AIIA02+type@asset+block@%EA%B9%80%ED%83%9C%EC%98%812.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[확률적 그래픽 모델]]></title>
@@ -95,7 +95,7 @@
                 ~ <time>2022/11/30</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:AIIA+AIIA01+2022_T3_AIIA01+type@asset+block@2021-04-07_14_20_44f.PNG" length="0" type="image/PNG"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:AIIA+AIIA01+2022_T3_AIIA01+type@asset+block@asset-v1_AIIA_AIIA01_2021_T3_AIIA01_type_asset_block_2021-04-07_14_20_44f.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[디지털 전환과 4차 산업혁명]]></title>
