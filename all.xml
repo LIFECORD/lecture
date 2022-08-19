@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 07:12:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 08:16:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -509,7 +509,7 @@
                 ~ <time>2022/12/06</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SNUk+SNUL0655_000500k+2022_T2+type@asset+block@21-2_%ED%96%89%EB%B3%B5%EC%8B%AC%EB%A6%AC%ED%95%99.png" length="0" type="image/png"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SNUk+SNUL0655_000500k+2022_T2+type@asset+block@22-2_%ED%96%89%EB%B3%B5%EC%8B%AC%EB%A6%AC%ED%95%99.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국의 자연지리 (K-MOOC ─ 개강예정)]]></title>
