@@ -4,14 +4,14 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 08:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 09:13:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[누구나 할 수 있는 AI 머신 러닝]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 22 Aug 2022 08:16:35 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:InhatcK+inhatcK_05+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:InhatcK+inhatcK_05+2022_T2/about</guid>
+            <pubDate>Mon, 22 Aug 2022 09:12:45 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이세훈
@@ -27,9 +27,9 @@
         </item>
         <item>
             <title><![CDATA[이공계 학생을 위한 핵심반도체 개론]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 22 Aug 2022 08:16:35 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:InhatcK+inhatcK_06+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:InhatcK+inhatcK_06+2022_T2/about</guid>
+            <pubDate>Mon, 22 Aug 2022 09:12:45 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이선우 and 1 others
@@ -45,9 +45,9 @@
         </item>
         <item>
             <title><![CDATA[객체지향형 도면해독]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 22 Aug 2022 08:16:35 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:InhatcK+inhatcK_07+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:InhatcK+inhatcK_07+2022_T2/about</guid>
+            <pubDate>Mon, 22 Aug 2022 09:12:45 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 장동환
@@ -63,9 +63,9 @@
         </item>
         <item>
             <title><![CDATA[공간 빅데이터 프로그래밍]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 22 Aug 2022 08:16:35 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:InhatcK+inhatcK_08+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:InhatcK+inhatcK_08+2022_T2/about</guid>
+            <pubDate>Mon, 22 Aug 2022 09:12:45 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 주용진
@@ -81,9 +81,9 @@
         </item>
         <item>
             <title><![CDATA[문화관광상품의 이해]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 22 Aug 2022 08:16:35 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:InhatcK+inhatcK_03+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:InhatcK+inhatcK_03+2022_T2/about</guid>
+            <pubDate>Mon, 22 Aug 2022 09:12:45 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김재호 교수
@@ -99,9 +99,9 @@
         </item>
         <item>
             <title><![CDATA[조명디자인]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 22 Aug 2022 08:16:35 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:InhatcK+inhatcK_04+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:InhatcK+inhatcK_04+2022_T2/about</guid>
+            <pubDate>Mon, 22 Aug 2022 09:12:45 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김자경
@@ -117,9 +117,9 @@
         </item>
         <item>
             <title><![CDATA[스크래치와 스마트 코딩]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 22 Aug 2022 08:16:35 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:InhatcK+SCK_Inhatc01K+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:InhatcK+SCK_Inhatc01K+2022_T2/about</guid>
+            <pubDate>Mon, 22 Aug 2022 09:12:45 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 허태성 교수
