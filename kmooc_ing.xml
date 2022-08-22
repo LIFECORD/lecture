@@ -4,9 +4,135 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Aug 2022 23:12:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 01:06:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[누구나 할 수 있는 AI 머신 러닝]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Mon, 22 Aug 2022 01:06:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이세훈
+                </span>
+                <span class="kr01_school">INHA TECHNICAL COLLEGE</span>
+                </div>
+                <div><time>2022/08/22</time>
+                
+                ~ <time>2022/11/26</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:InhatcK+inhatcK_05+2022_T2+type@asset+block@_%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%9D%B8%ED%95%98%EA%B3%B5%EC%A0%84_AI%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이공계 학생을 위한 핵심반도체 개론]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Mon, 22 Aug 2022 01:06:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이선우 and 1 others
+                </span>
+                <span class="kr01_school">INHA TECHNICAL COLLEGE</span>
+                </div>
+                <div><time>2022/08/22</time>
+                
+                ~ <time>2022/11/26</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:InhatcK+inhatcK_06+2022_T2+type@asset+block@_%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%9D%B8%ED%95%98%EA%B3%B5%EC%A0%84_%ED%95%B5%EC%8B%AC%EB%B0%98%EB%8F%84%EC%B2%B4%EA%B0%9C%EB%A1%A0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[객체지향형 도면해독]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Mon, 22 Aug 2022 01:06:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                장동환
+                </span>
+                <span class="kr01_school">INHA TECHNICAL COLLEGE</span>
+                </div>
+                <div><time>2022/08/22</time>
+                
+                ~ <time>2022/11/26</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:InhatcK+inhatcK_07+2022_T2+type@asset+block@%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%ED%98%95%EB%8F%84%EB%A9%B4%ED%95%B4%EB%8F%85_%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공간 빅데이터 프로그래밍]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Mon, 22 Aug 2022 01:06:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                주용진
+                </span>
+                <span class="kr01_school">INHA TECHNICAL COLLEGE</span>
+                </div>
+                <div><time>2022/08/22</time>
+                
+                ~ <time>2022/11/26</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:InhatcK+inhatcK_08+2022_T2+type@asset+block@%EA%B3%B5%EA%B0%84%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[문화관광상품의 이해]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Mon, 22 Aug 2022 01:06:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김재호 교수
+                </span>
+                <span class="kr01_school">INHA TECHNICAL COLLEGE</span>
+                </div>
+                <div><time>2022/08/22</time>
+                
+                ~ <time>2022/11/26</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:InhatcK+inhatcK_03+2022_T2+type@asset+block@%EB%AC%B8%ED%99%94%EA%B4%80%EA%B4%91.PNG" length="0" type="image/PNG"/>
+        </item>
+        <item>
+            <title><![CDATA[조명디자인]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Mon, 22 Aug 2022 01:06:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김자경
+                </span>
+                <span class="kr01_school">INHA TECHNICAL COLLEGE</span>
+                </div>
+                <div><time>2022/08/22</time>
+                
+                ~ <time>2022/11/26</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:InhatcK+inhatcK_04+2022_T2+type@asset+block@%EC%A1%B0%EB%AA%85%EB%94%94%EC%9E%90%EC%9D%B8_%EC%8D%B8%EB%84%A4%EC%9D%BC.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[스크래치와 스마트 코딩]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Mon, 22 Aug 2022 01:06:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                허태성 교수
+                </span>
+                <span class="kr01_school">INHA TECHNICAL COLLEGE</span>
+                </div>
+                <div><time>2022/08/22</time>
+                
+                ~ <time>2022/11/26</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:InhatcK+SCK_Inhatc01K+2022_T2+type@asset+block@%EC%8A%A4%ED%81%AC%EB%9E%98%EC%B9%98_%EC%8D%B8%EB%84%A4%EC%9D%BC.PNG" length="0" type="image/PNG"/>
+        </item>
         <item>
             <title><![CDATA[문화융합시대의 창업]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:RUCK+RUCK01+2022_RUCK1/about</link>
@@ -240,132 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:NSU+NSU004+2021_T2_02+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%ED%8C%AC%EB%8D%B0%EB%AF%B9%EC%8B%9C%EB%8C%80_%EC%9E%90%EA%B8%B0%EC%B9%98%EC%9C%A0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다양한 드론 촬영 기법 및 편집]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:MA_DU+MATCHUP_DU07+2022_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:MA_DU+MATCHUP_DU07+2022_T2/about</guid>
-            <pubDate>Wed, 10 Aug 2022 07:11:54 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김준호
-                </span>
-                <span class="kr01_school">DONG SEOUL UNIVERSITY</span>
-                </div>
-                <div><time>2022/07/19</time>
-                
-                ~ <time>2022/10/26</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:MA_DU+MATCHUP_DU07+2022_T2+type@asset+block@%EB%8B%A4%EC%96%91%ED%95%9C_%EB%93%9C%EB%A1%A0_%EC%B4%AC%EC%98%81_%EA%B8%B0%EB%B2%95_%EB%B0%8F_%ED%8E%B8%EC%A7%912.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[드론 영상기획과 기본촬영 및 편집]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:MA_DU+MATCHUP_DU06+2022_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:MA_DU+MATCHUP_DU06+2022_T2/about</guid>
-            <pubDate>Wed, 10 Aug 2022 07:11:54 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김준호 and 1 others
-                </span>
-                <span class="kr01_school">DONG SEOUL UNIVERSITY</span>
-                </div>
-                <div><time>2022/07/19</time>
-                
-                ~ <time>2022/10/26</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:MA_DU+MATCHUP_DU06+2022_T2+type@asset+block@%EB%93%9C%EB%A1%A0_%EC%98%81%EC%83%81_%EA%B8%B0%ED%9A%8D%EA%B3%BC_%EA%B8%B0%EB%B3%B8_%EC%B4%AC%EC%98%81_%EB%B0%8F_%ED%8E%B8%EC%A7%912.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[드론운용 및 실습]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:MA_DU+MATCHUP_DU05+2022_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:MA_DU+MATCHUP_DU05+2022_T2/about</guid>
-            <pubDate>Wed, 10 Aug 2022 07:11:54 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김병재 and 1 others
-                </span>
-                <span class="kr01_school">DONG SEOUL UNIVERSITY</span>
-                </div>
-                <div><time>2022/07/19</time>
-                
-                ~ <time>2022/10/26</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:MA_DU+MATCHUP_DU05+2022_T2+type@asset+block@%EB%93%9C%EB%A1%A0_%EC%9A%B4%EC%9A%A9_%EB%B0%8F_%EC%8B%A4%EC%8A%B52.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[항공법규와 역학]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:MA_DU+MATCHUP_DU04+2022_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:MA_DU+MATCHUP_DU04+2022_T2/about</guid>
-            <pubDate>Wed, 10 Aug 2022 07:11:54 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                권준범 and 1 others
-                </span>
-                <span class="kr01_school">DONG SEOUL UNIVERSITY</span>
-                </div>
-                <div><time>2022/07/19</time>
-                
-                ~ <time>2022/10/26</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:MA_DU+MATCHUP_DU04+2022_T2+type@asset+block@%ED%95%AD%EA%B3%B5%EB%B2%95%EA%B7%9C%EC%99%80_%EC%97%AD%ED%95%991.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[드론 FC와 프로그램tool을 이용한 드론 코딩기초 및 고급 응용]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:MA_DU+MATCHUP_DU01+2022_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:MA_DU+MATCHUP_DU01+2022_T2/about</guid>
-            <pubDate>Wed, 10 Aug 2022 07:11:54 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                이현종 and 2 others
-                </span>
-                <span class="kr01_school">DONG SEOUL UNIVERSITY</span>
-                </div>
-                <div><time>2022/07/19</time>
-                
-                ~ <time>2022/10/26</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:MA_DU+MATCHUP_DU01+2022_T2+type@asset+block@%EB%93%9C%EB%A1%A0_FC%EC%99%80_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8_TOOL%EC%9D%84_%EC%9D%B4%EC%9A%A9%ED%95%9C_%EB%93%9C%EB%A1%A0_%EC%BD%94%EB%94%A9_%EA%B8%B0%EC%B4%88_%EB%B0%8F_%EA%B3%A0%EA%B8%89_%EC%9D%91%EC%9A%A93.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[드론 제작 정비 실습]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:MA_DU+MATCHUP_DU03+2022_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:MA_DU+MATCHUP_DU03+2022_T2/about</guid>
-            <pubDate>Wed, 10 Aug 2022 07:11:54 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                조영민 and 1 others
-                </span>
-                <span class="kr01_school">DONG SEOUL UNIVERSITY</span>
-                </div>
-                <div><time>2022/07/19</time>
-                
-                ~ <time>2022/10/26</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:MA_DU+MATCHUP_DU03+2022_T2+type@asset+block@%EB%93%9C%EB%A1%A0_%EC%A0%9C%EC%9E%91_%EC%A0%95%EB%B9%84_%EC%8B%A4%EC%8A%B53.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[드론 설계 제작 이론]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:MA_DU+MATCHUP_DU02+2022_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:MA_DU+MATCHUP_DU02+2022_T2/about</guid>
-            <pubDate>Wed, 10 Aug 2022 07:11:54 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김중관 and 1 others
-                </span>
-                <span class="kr01_school">DONG SEOUL UNIVERSITY</span>
-                </div>
-                <div><time>2022/07/19</time>
-                
-                ~ <time>2022/10/26</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:MA_DU+MATCHUP_DU02+2022_T2+type@asset+block@%EB%93%9C%EB%A1%A0_%EC%84%A4%EA%B3%84_%EC%A0%9C%EC%9E%91_%EC%9D%B4%EB%A1%A01.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

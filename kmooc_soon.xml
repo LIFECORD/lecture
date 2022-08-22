@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Aug 2022 23:12:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 01:06:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,6 +42,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:SKKUk+SKKU_2019_06+2022_T1+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%EA%B0%95%EC%A2%8C%EB%8C%80%ED%91%9C%EC%9D%B4%EB%AF%B8%EC%A7%80_%EB%AF%B8%EC%A0%81%EB%B6%84%ED%95%993_2020-1%EC%88%98%EC%A0%95.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최초반응자를 위한 외상처치술]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:DJHIT+HIT01+2022_H2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DJHIT+HIT01+2022_H2/about</guid>
+            <pubDate>Mon, 22 Aug 2022 01:06:58 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김진우
+                </span>
+                <span class="kr01_school">Daejeon Health Institute of Technology</span>
+                </div>
+                <div><time>2022/09/19</time>
+                
+                ~ <time>2022/12/09</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:DJHIT+HIT01+2022_H2+type@asset+block@main1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[패션 스튜디오]]></title>
@@ -348,24 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC18K+2022_T2+type@asset+block@18.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[역사와 문화 속의 인간]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SSUk+SSMOOC06K+2022_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SSUk+SSMOOC06K+2022_T2/about</guid>
-            <pubDate>Tue, 16 Aug 2022 01:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김길웅
-                </span>
-                <span class="kr01_school">SUNGSHIN WOMEN'S UNIVERSITY</span>
-                </div>
-                <div><time>2022/09/05</time>
-                
-                ~ <time>2022/12/18</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC06K+2022_T2+type@asset+block@12.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
