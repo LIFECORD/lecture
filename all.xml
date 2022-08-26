@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 14:12:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 15:15:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -150,42 +150,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:RUCK+RUCK01+2022_RUCK1+type@asset+block@imageedit_9_5327786883.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[문화와 생활 속 청렴 시즌2 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:ACRCEDU+ACRC02+2022_05/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:ACRCEDU+ACRC02+2022_05/about</guid>
-            <pubDate>Tue, 16 Aug 2022 09:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김경일 and 5 others
-                </span>
-                <span class="kr01_school">Anti-Corruption and Civil Rights Commission</span>
-                </div>
-                <div><time>2022/08/16</time>
-                
-                ~ <time>2022/08/27</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:ACRCEDU+ACRC02+2022_05+type@asset+block@2022-5%EA%B8%B0_%EC%8B%9C%EC%A6%8C2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[문화와 생활 속 청렴 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:ACRCEDU+ACRC01+2022_05/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:ACRCEDU+ACRC01+2022_05/about</guid>
-            <pubDate>Tue, 16 Aug 2022 09:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                신병주 and 4 others
-                </span>
-                <span class="kr01_school">Anti-Corruption and Civil Rights Commission</span>
-                </div>
-                <div><time>2022/08/16</time>
-                
-                ~ <time>2022/08/27</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:ACRCEDU+ACRC01+2022_05+type@asset+block@2022-5%EA%B8%B0_%EC%8B%9C%EC%A6%8C1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[전산인지과학 및 인간지능과 인공지능 (K-MOOC ─ 진행중)]]></title>
@@ -366,6 +330,42 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:NSU+NSU004+2021_T2_02+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%ED%8C%AC%EB%8D%B0%EB%AF%B9%EC%8B%9C%EB%8C%80_%EC%9E%90%EA%B8%B0%EC%B9%98%EC%9C%A0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다양한 드론 촬영 기법 및 편집 (K-MOOC ─ 진행중)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:MA_DU+MATCHUP_DU07+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:MA_DU+MATCHUP_DU07+2022_T2/about</guid>
+            <pubDate>Fri, 26 Aug 2022 15:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김준호
+                </span>
+                <span class="kr01_school">DONG SEOUL UNIVERSITY</span>
+                </div>
+                <div><time>2022/07/19</time>
+                
+                ~ <time>2022/10/26</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:MA_DU+MATCHUP_DU07+2022_T2+type@asset+block@%EB%8B%A4%EC%96%91%ED%95%9C_%EB%93%9C%EB%A1%A0_%EC%B4%AC%EC%98%81_%EA%B8%B0%EB%B2%95_%EB%B0%8F_%ED%8E%B8%EC%A7%912.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[드론 영상기획과 기본촬영 및 편집 (K-MOOC ─ 진행중)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:MA_DU+MATCHUP_DU06+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:MA_DU+MATCHUP_DU06+2022_T2/about</guid>
+            <pubDate>Fri, 26 Aug 2022 15:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김준호 and 1 others
+                </span>
+                <span class="kr01_school">DONG SEOUL UNIVERSITY</span>
+                </div>
+                <div><time>2022/07/19</time>
+                
+                ~ <time>2022/10/26</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:MA_DU+MATCHUP_DU06+2022_T2+type@asset+block@%EB%93%9C%EB%A1%A0_%EC%98%81%EC%83%81_%EA%B8%B0%ED%9A%8D%EA%B3%BC_%EA%B8%B0%EB%B3%B8_%EC%B4%AC%EC%98%81_%EB%B0%8F_%ED%8E%B8%EC%A7%912.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[생각보다 가까운 FTA(2) (K-MOOC ─ 개강예정)]]></title>
