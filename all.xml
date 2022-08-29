@@ -4,14 +4,122 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 08:17:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 09:14:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[International Development and Major Issues and Sectors In Korean Perspective (K-MOOC ─ 진행중)]]></title>
+            <title><![CDATA[유전 간호 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 29 Aug 2022 08:16:58 GMT</pubDate>
+            <pubDate>Mon, 29 Aug 2022 09:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                박명숙
+                </span>
+                <span class="kr01_school">KONKUK UNIVERSITY GLOCAL CAMPUS</span>
+                </div>
+                <div><time>2022/08/29</time>
+                
+                ~ <time>2022/12/16</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KKUk+KKUkgene+2022_T2+type@asset+block@%EC%9C%A0%EC%A0%84%EA%B0%84%ED%98%B8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비교경찰론 (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Mon, 29 Aug 2022 09:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                최대현
+                </span>
+                <span class="kr01_school">KONKUK UNIVERSITY GLOCAL CAMPUS</span>
+                </div>
+                <div><time>2022/08/29</time>
+                
+                ~ <time>2022/12/16</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KKUk+KKUkpolice+2022_T2+type@asset+block@%EA%B7%B8%EB%A6%BC1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[지역혁신을 이끄는 로컬 이노베이터 실무교육과정 (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Mon, 29 Aug 2022 09:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                오득균
+                </span>
+                <span class="kr01_school">KONKUK UNIVERSITY GLOCAL CAMPUS</span>
+                </div>
+                <div><time>2022/08/29</time>
+                
+                ~ <time>2022/12/16</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KKUk+KKUkrocal+2022_T2+type@asset+block@%EC%A7%80%EC%97%AD%ED%98%81%EC%8B%A0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[바이오헬스 빅데이터 마이닝 (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Mon, 29 Aug 2022 09:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                노영희
+                </span>
+                <span class="kr01_school">KONKUK UNIVERSITY GLOCAL CAMPUS</span>
+                </div>
+                <div><time>2022/08/29</time>
+                
+                ~ <time>2022/12/16</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KKUk+CK_KKUkbio002+2022_T2+type@asset+block@%EA%B7%B8%EB%A6%BC1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[독서치유론 (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Mon, 29 Aug 2022 09:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                노영희
+                </span>
+                <span class="kr01_school">KONKUK UNIVERSITY GLOCAL CAMPUS</span>
+                </div>
+                <div><time>2022/08/29</time>
+                
+                ~ <time>2022/12/16</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KKUk+KKUkread+2022_T2+type@asset+block@%EA%B7%B8%EB%A6%BC2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리빙프로덕트디자인 (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Mon, 29 Aug 2022 09:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김성현
+                </span>
+                <span class="kr01_school">KONKUK UNIVERSITY GLOCAL CAMPUS</span>
+                </div>
+                <div><time>2022/08/29</time>
+                
+                ~ <time>2022/12/16</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KKUk+KKUkdesign+2022_T2+type@asset+block@%EA%B7%B8%EB%A6%BC2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[International Development and Major Issues and Sectors In Korean Perspective (K-MOOC ─ 진행중)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:KYCU+KYCU_02+2022_T2_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KYCU+KYCU_02+2022_T2_2/about</guid>
+            <pubDate>Mon, 29 Aug 2022 09:13:56 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 방용환
@@ -27,9 +135,9 @@
         </item>
         <item>
             <title><![CDATA[International Development with Donor's Perspective (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 29 Aug 2022 08:16:58 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KYCU+KYCU_04+2022_T2_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KYCU+KYCU_04+2022_T2_2/about</guid>
+            <pubDate>Mon, 29 Aug 2022 09:13:56 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 방용환 and 1 others
@@ -45,9 +153,9 @@
         </item>
         <item>
             <title><![CDATA[International Development with Developing Country's Perspective (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 29 Aug 2022 08:16:58 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KYCU+KYCU_05+2022_T2_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KYCU+KYCU_05+2022_T2_2/about</guid>
+            <pubDate>Mon, 29 Aug 2022 09:13:56 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 방용환 외 팀티칭
@@ -63,9 +171,9 @@
         </item>
         <item>
             <title><![CDATA[International Development Projects Management in Korean Perspective (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 29 Aug 2022 08:16:58 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KYCU+KYCU_03+2022_T2_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KYCU+KYCU_03+2022_T2_2/about</guid>
+            <pubDate>Mon, 29 Aug 2022 09:13:56 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 방용환 교수외 팀티칭
@@ -81,9 +189,9 @@
         </item>
         <item>
             <title><![CDATA[의료AI를 위한 머신러닝 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 29 Aug 2022 08:16:58 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:PNUk+MM_C01+2022_KM_035/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:PNUk+MM_C01+2022_KM_035/about</guid>
+            <pubDate>Mon, 29 Aug 2022 09:13:56 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 송길태
@@ -99,9 +207,9 @@
         </item>
         <item>
             <title><![CDATA[AI 연구자를 위한 통계적 학습론 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 29 Aug 2022 08:16:58 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:PNUk+SL_C01+2022_KM_022/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:PNUk+SL_C01+2022_KM_022/about</guid>
+            <pubDate>Mon, 29 Aug 2022 09:13:56 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김충락
@@ -117,9 +225,9 @@
         </item>
         <item>
             <title><![CDATA[Earth System (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 29 Aug 2022 08:16:58 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:PNUk+ES_C01+2022_KM_034/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:PNUk+ES_C01+2022_KM_034/about</guid>
+            <pubDate>Mon, 29 Aug 2022 09:13:56 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이준이
@@ -135,9 +243,9 @@
         </item>
         <item>
             <title><![CDATA[[A.I. SERIES] R을 활용한 통계학개론 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 29 Aug 2022 08:16:58 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:PNUk+RS_C01+2022_KM_021/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:PNUk+RS_C01+2022_KM_021/about</guid>
+            <pubDate>Mon, 29 Aug 2022 09:13:56 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김충락
@@ -153,9 +261,9 @@
         </item>
         <item>
             <title><![CDATA[기후변화와 지속가능발전 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 29 Aug 2022 08:16:58 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:PNUk+CS_C01+2022_KM_031/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:PNUk+CS_C01+2022_KM_031/about</guid>
+            <pubDate>Mon, 29 Aug 2022 09:13:56 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이준이
@@ -171,9 +279,9 @@
         </item>
         <item>
             <title><![CDATA[건강생활지침서 : 음주 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 29 Aug 2022 08:16:58 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:PNUk+HA_C01+2022_KM_033/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:PNUk+HA_C01+2022_KM_033/about</guid>
+            <pubDate>Mon, 29 Aug 2022 09:13:56 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이상엽
@@ -189,9 +297,9 @@
         </item>
         <item>
             <title><![CDATA[사회적기업 아름다운 경영이야기 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 29 Aug 2022 08:16:58 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:PNUk+SE_C01+2022_KM_020/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:PNUk+SE_C01+2022_KM_020/about</guid>
+            <pubDate>Mon, 29 Aug 2022 09:13:56 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 조영복
@@ -207,9 +315,9 @@
         </item>
         <item>
             <title><![CDATA[기업과 경영 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 29 Aug 2022 08:16:58 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:PNUk+BM_C01+2022_KM_036/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:PNUk+BM_C01+2022_KM_036/about</guid>
+            <pubDate>Mon, 29 Aug 2022 09:13:56 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 조영복 and 6 others
@@ -225,9 +333,9 @@
         </item>
         <item>
             <title><![CDATA[재미있는 글로벌 경제 기행 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 29 Aug 2022 08:16:58 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:PNUk+GE_C01+2022_KM_019/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:PNUk+GE_C01+2022_KM_019/about</guid>
+            <pubDate>Mon, 29 Aug 2022 09:13:56 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김영재
@@ -243,9 +351,9 @@
         </item>
         <item>
             <title><![CDATA[한시공감 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 29 Aug 2022 08:16:58 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:PNUk+PE_C01+2022_KM_032/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:PNUk+PE_C01+2022_KM_032/about</guid>
+            <pubDate>Mon, 29 Aug 2022 09:13:56 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김승룡
@@ -258,114 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:PNUk+PE_C01+2022_KM_032+type@asset+block@2022_02_%ED%95%9C%EC%8B%9C%EA%B3%B5%EA%B0%90.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국제사회란 무엇인가 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 29 Aug 2022 08:16:58 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                진시원
-                </span>
-                <span class="kr01_school">Pusan National University</span>
-                </div>
-                <div><time>2022/08/29</time>
-                
-                ~ <time>2022/12/09</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:PNUk+GS_C01+2022_KM_023+type@asset+block@2022_02_%EA%B5%AD%EC%A0%9C%EC%82%AC%ED%9A%8C%EB%9E%80%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[근현대 중국의지식인들 인간을 묻다 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 29 Aug 2022 08:16:58 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                이은상 교수 외
-                </span>
-                <span class="kr01_school">Pusan National University</span>
-                </div>
-                <div><time>2022/08/29</time>
-                
-                ~ <time>2022/12/09</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:PNUk+IC_C01+2022_KM_029+type@asset+block@2022_02_%EA%B7%BC%ED%98%84%EB%8C%80%EC%A4%91%EA%B5%AD%EC%9D%98%EC%A7%80%EC%8B%9D%EC%9D%B8%EB%93%A4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[딥러닝을 위한 선형대수학 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 29 Aug 2022 08:16:58 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김현민
-                </span>
-                <span class="kr01_school">Pusan National University</span>
-                </div>
-                <div><time>2022/08/29</time>
-                
-                ~ <time>2022/12/09</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:PNUk+LD_C01+2022_KM_027+type@asset+block@2022_02_%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9D%84%EC%9C%84%ED%95%9C%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98%ED%95%99.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도시와 환경디자인 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 29 Aug 2022 08:16:58 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김동식
-                </span>
-                <span class="kr01_school">Pusan National University</span>
-                </div>
-                <div><time>2022/08/29</time>
-                
-                ~ <time>2022/12/09</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:PNUk+CE_C01+2022_KM_025+type@asset+block@2022_02_%EB%8F%84%EC%8B%9C%EC%99%80%ED%99%98%EA%B2%BD%EB%94%94%EC%9E%90%EC%9D%B8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4차 산업혁명 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 29 Aug 2022 08:16:58 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김기홍
-                </span>
-                <span class="kr01_school">Pusan National University</span>
-                </div>
-                <div><time>2022/08/29</time>
-                
-                ~ <time>2022/12/09</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:PNUk+FR_C01+2022_KM_030+type@asset+block@2022_02_4%EC%B0%A8%EC%82%B0%EC%97%85%ED%98%81%EB%AA%85.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4차산업에서 재료와 표준 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 29 Aug 2022 08:16:58 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                이희수 교수
-                </span>
-                <span class="kr01_school">Pusan National University</span>
-                </div>
-                <div><time>2022/08/29</time>
-                
-                ~ <time>2022/12/09</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:PNUk+MS_C01+2022_KM_028+type@asset+block@2022_02_4%EC%B0%A8%EC%82%B0%EC%97%85%EC%97%90%EC%84%9C%EC%9E%AC%EB%A3%8C%EC%99%80%ED%91%9C%EC%A4%80.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[생각보다 가까운 FTA(2) (K-MOOC ─ 개강예정)]]></title>
