@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 17:19:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 18:16:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[유전 간호 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 29 Aug 2022 17:18:41 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KKUk+KKUkgene+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KKUk+KKUkgene+2022_T2/about</guid>
+            <pubDate>Mon, 29 Aug 2022 18:16:11 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박명숙
@@ -27,9 +27,9 @@
         </item>
         <item>
             <title><![CDATA[비교경찰론 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 29 Aug 2022 17:18:41 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KKUk+KKUkpolice+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KKUk+KKUkpolice+2022_T2/about</guid>
+            <pubDate>Mon, 29 Aug 2022 18:16:11 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 최대현
@@ -45,9 +45,9 @@
         </item>
         <item>
             <title><![CDATA[지역혁신을 이끄는 로컬 이노베이터 실무교육과정 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 29 Aug 2022 17:18:41 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KKUk+KKUkrocal+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KKUk+KKUkrocal+2022_T2/about</guid>
+            <pubDate>Mon, 29 Aug 2022 18:16:11 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 오득균
@@ -63,9 +63,9 @@
         </item>
         <item>
             <title><![CDATA[바이오헬스 빅데이터 마이닝 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 29 Aug 2022 17:18:41 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KKUk+CK_KKUkbio002+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KKUk+CK_KKUkbio002+2022_T2/about</guid>
+            <pubDate>Mon, 29 Aug 2022 18:16:11 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 노영희
@@ -81,9 +81,9 @@
         </item>
         <item>
             <title><![CDATA[독서치유론 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 29 Aug 2022 17:18:41 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KKUk+KKUkread+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KKUk+KKUkread+2022_T2/about</guid>
+            <pubDate>Mon, 29 Aug 2022 18:16:11 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 노영희
@@ -99,9 +99,9 @@
         </item>
         <item>
             <title><![CDATA[리빙프로덕트디자인 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 29 Aug 2022 17:18:41 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KKUk+KKUkdesign+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KKUk+KKUkdesign+2022_T2/about</guid>
+            <pubDate>Mon, 29 Aug 2022 18:16:11 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김성현
