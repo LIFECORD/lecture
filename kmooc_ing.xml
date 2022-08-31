@@ -4,9 +4,27 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 08:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 09:13:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아동상담: 놀이와 예술을 통한 어린이 마음치료 - 놀이･예술 기반의 아동상담 기법과 활용]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:BUK+BUK005+2022_T2_01/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:BUK+BUK005+2022_T2_01/about</guid>
+            <pubDate>Wed, 31 Aug 2022 09:13:31 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김세영 and 1 others
+                </span>
+                <span class="kr01_school">Baekseok University</span>
+                </div>
+                <div><time>2022/08/30</time>
+                
+                ~ <time>2022/12/15</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:BUK+BUK005+2022_T2_01+type@asset+block@_%EB%B0%B1%EC%84%9D%EB%8C%80_%EB%86%80%EC%9D%B4%EC%98%88%EC%88%A0%EA%B8%B0%EB%B0%98%EC%95%84%EB%8F%99%EC%83%81%EB%8B%B4%EC%9D%98%EA%B8%B0%EB%B2%95%EA%B3%BC%ED%99%9C%EC%9A%A9_%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[유전 간호]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:KKUk+KKUkgene+2022_T2/about</link>
@@ -348,24 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:PNUk+GE_C01+2022_KM_019+type@asset+block@2022_02_%EC%9E%AC%EB%AF%B8%EC%9E%88%EB%8A%94%EA%B8%80%EB%A1%9C%EB%B2%8C%EA%B2%BD%EC%A0%9C%EA%B8%B0%ED%96%89.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한시공감]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:PNUk+PE_C01+2022_KM_032/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:PNUk+PE_C01+2022_KM_032/about</guid>
-            <pubDate>Mon, 29 Aug 2022 09:13:56 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김승룡
-                </span>
-                <span class="kr01_school">Pusan National University</span>
-                </div>
-                <div><time>2022/08/29</time>
-                
-                ~ <time>2022/12/09</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:PNUk+PE_C01+2022_KM_032+type@asset+block@2022_02_%ED%95%9C%EC%8B%9C%EA%B3%B5%EA%B0%90.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

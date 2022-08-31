@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 08:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 09:13:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:DJHIT+HIT01+2022_H2+type@asset+block@main1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[디지털 논리회로와 인공지능]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:DAUk+DAUk10+2022_T3/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DAUk+DAUk10+2022_T3/about</guid>
+            <pubDate>Wed, 31 Aug 2022 09:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                심임보
+                </span>
+                <span class="kr01_school">Dong-A University</span>
+                </div>
+                <div><time>2022/09/12</time>
+                
+                ~ <time>2022/11/13</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:DAUk+DAUk10+2022_T3+type@asset+block@%EB%94%94%EC%A7%80%ED%84%B8_%EC%8D%B8%EB%84%A4%EC%9D%BC_%EB%A6%AC%EC%82%AC%EC%9D%B4%EC%A7%95.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[패션 스튜디오]]></title>
@@ -348,24 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:SNUk+SNU065.020k+2022_T2+type@asset+block@22-2_%EC%84%9C%EC%9A%B8%EB%8C%80-%EC%86%8C%EC%9E%A5%ED%92%88.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울대 소장품 감상하기: 문화재를 중심으로]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SNUk+SNU070.021k+2022_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SNUk+SNU070.021k+2022_T2/about</guid>
-            <pubDate>Mon, 29 Aug 2022 22:13:33 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김소라 학예사
-                </span>
-                <span class="kr01_school">SEOUL NATIONAL UNIVERSITY</span>
-                </div>
-                <div><time>2022/09/06</time>
-                
-                ~ <time>2022/12/13</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SNUk+SNU070.021k+2022_T2+type@asset+block@22-2_%EC%84%9C%EC%9A%B8%EB%8C%80%EC%86%8C%EC%9E%A5%ED%92%88%EA%B0%90%EC%83%81%ED%95%98%EA%B8%B0%EB%AC%B8%ED%99%94%EC%9E%AC%EB%A5%BC%EC%A4%91%EC%8B%AC%EC%9C%BC%EB%A1%9C.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
