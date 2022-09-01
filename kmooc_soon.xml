@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 23:13:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 01:06:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -170,6 +170,24 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:DAUk+DAUk10+2022_T3+type@asset+block@%EB%94%94%EC%A7%80%ED%84%B8_%EC%8D%B8%EB%84%A4%EC%9D%BC_%EB%A6%AC%EC%82%AC%EC%9D%B4%EC%A7%95.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[생활 속의 헌법 이야기]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SunMoonK+SMKMOOC_02+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SunMoonK+SMKMOOC_02+2022_T2/about</guid>
+            <pubDate>Thu, 01 Sep 2022 01:06:35 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이희훈
+                </span>
+                <span class="kr01_school">SUN MOON UNIVERSITY</span>
+                </div>
+                <div><time>2022/09/12</time>
+                
+                ~ <time>2022/12/05</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SunMoonK+SMKMOOC_02+2022_T2+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_2022-2_%EC%83%9D%ED%99%9C%EC%86%8D%EC%9D%98_%ED%97%8C%EB%B2%95_%EC%9D%B4%EC%95%BC%EA%B8%B0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[패션 스튜디오]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:SSUk+SSMOOC05K+2022_T2/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:SSUk+SSMOOC05K+2022_T2/about</guid>
@@ -186,6 +204,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC05K+2022_T2+type@asset+block@19.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[터키어 읽기 A2]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:BUFSk+BUFS_ICFL09+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:BUFSk+BUFS_ICFL09+2022_T2/about</guid>
+            <pubDate>Thu, 01 Sep 2022 01:06:35 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                양민지
+                </span>
+                <span class="kr01_school">BUSAN UNIVERSITY OF FOREIGN STUDIES</span>
+                </div>
+                <div><time>2022/09/12</time>
+                
+                ~ <time>2022/12/16</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:BUFSk+BUFS_ICFL09+2022_T2+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_K-MOOC_%ED%84%B0%ED%82%A4%EC%96%B4.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[대기오염개론]]></title>
@@ -330,42 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:TUk+LINC_TUMOOC0002+2022_T2+type@asset+block@%EC%84%B1%EA%B3%B5%EC%A0%81%EC%9D%B8%EC%86%8C%EC%85%9C%EB%B2%A4%EC%B2%98%EC%B0%BD%EC%97%85%EC%9D%84%EC%9C%84%ED%95%9C%EC%8B%A4%EB%AC%B4%EA%B0%9C%EB%A1%A0_%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[헌법: 갈등해결의 코드]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SSUk+SSMOOC08K+2022_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SSUk+SSMOOC08K+2022_T2/about</guid>
-            <pubDate>Mon, 29 Aug 2022 22:13:33 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김연식
-                </span>
-                <span class="kr01_school">SUNGSHIN WOMEN'S UNIVERSITY</span>
-                </div>
-                <div><time>2022/09/07</time>
-                
-                ~ <time>2022/12/20</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC08K+2022_T2+type@asset+block@KakaoTalk_20220816_093238232_ver2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[예술적 얼굴과 감정조절]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SSUk+SSMOOC16K+2022_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SSUk+SSMOOC16K+2022_T2/about</guid>
-            <pubDate>Mon, 29 Aug 2022 22:13:33 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                임상빈
-                </span>
-                <span class="kr01_school">SUNGSHIN WOMEN'S UNIVERSITY</span>
-                </div>
-                <div><time>2022/09/07</time>
-                
-                ~ <time>2022/12/20</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC16K+2022_T2+type@asset+block@13.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
