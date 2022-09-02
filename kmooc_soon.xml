@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 04:11:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 05:58:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -170,6 +170,42 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:DAUk+DAUk10+2022_T3+type@asset+block@%EB%94%94%EC%A7%80%ED%84%B8_%EC%8D%B8%EB%84%A4%EC%9D%BC_%EB%A6%AC%EC%82%AC%EC%9D%B4%EC%A7%95.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[문학과 예술이론의 아포리아에 대한 동서양의 대화]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:HYUk+IV_HYUKMOOC2020-1k+2022_C1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:HYUk+IV_HYUKMOOC2020-1k+2022_C1/about</guid>
+            <pubDate>Fri, 02 Sep 2022 05:58:55 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이도흠
+                </span>
+                <span class="kr01_school">HANYANG UNIVERSITY</span>
+                </div>
+                <div><time>2022/09/12</time>
+                
+                ~ <time>2023/01/01</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:HYUk+IV_HYUKMOOC2020-1k+2022_C1+type@asset+block@%EC%95%84%ED%8F%AC%EB%A6%AC%EC%95%84_22-2_%EC%8D%B8%EB%84%A4%EC%9D%BC2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[언어의 세계 : 중국]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:HYUk+IV_HYUKMOOC2020-2k+2022_C2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:HYUk+IV_HYUKMOOC2020-2k+2022_C2/about</guid>
+            <pubDate>Fri, 02 Sep 2022 05:58:55 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                엄익상
+                </span>
+                <span class="kr01_school">HANYANG UNIVERSITY</span>
+                </div>
+                <div><time>2022/09/12</time>
+                
+                ~ <time>2022/12/18</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:HYUk+IV_HYUKMOOC2020-2k+2022_C2+type@asset+block@%EC%96%B8%EC%96%B4_22-2.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[생활 속의 헌법 이야기]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:SunMoonK+SMKMOOC_02+2022_T2/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:SunMoonK+SMKMOOC_02+2022_T2/about</guid>
@@ -330,42 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:HGUk+HKU08+2022_T2+type@asset+block@%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_2020-2%ED%95%99%EA%B8%B0_%EB%B2%95%EB%A5%A0%EA%B0%80%EC%99%80_%EC%A0%95%EC%B9%98_%ED%91%9C%EC%A7%80.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국문화로 배우는 한국어]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:HansungK+HSKMOOCk03+2022_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:HansungK+HSKMOOCk03+2022_T2/about</guid>
-            <pubDate>Mon, 29 Aug 2022 22:13:33 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                노정은
-                </span>
-                <span class="kr01_school">HANSUNG UNIVERSITY</span>
-                </div>
-                <div><time>2022/09/12</time>
-                
-                ~ <time>2022/12/25</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:HansungK+HSKMOOCk03+2022_T2+type@asset+block@%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성공적인 소셜벤처 창업을 위한 실무 개론]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:TUk+LINC_TUMOOC0002+2022_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:TUk+LINC_TUMOOC0002+2022_T2/about</guid>
-            <pubDate>Mon, 29 Aug 2022 22:13:33 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                노성여 and 5 others
-                </span>
-                <span class="kr01_school">Tongmyong University</span>
-                </div>
-                <div><time>2022/09/07</time>
-                
-                ~ <time>2022/12/26</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:TUk+LINC_TUMOOC0002+2022_T2+type@asset+block@%EC%84%B1%EA%B3%B5%EC%A0%81%EC%9D%B8%EC%86%8C%EC%85%9C%EB%B2%A4%EC%B2%98%EC%B0%BD%EC%97%85%EC%9D%84%EC%9C%84%ED%95%9C%EC%8B%A4%EB%AC%B4%EA%B0%9C%EB%A1%A0_%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
