@@ -4,14 +4,14 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Sep 2022 22:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Sep 2022 01:09:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[21세기 미학의 새로운 발견]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Sat, 03 Sep 2022 22:12:13 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SHU+SHU100+2022_R3/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SHU+SHU100+2022_R3/about</guid>
+            <pubDate>Sun, 04 Sep 2022 01:09:02 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이강일
