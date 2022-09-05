@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 01:20:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 04:14:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -60,6 +60,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:SKKUk+SKKU_2019_06+2022_T1+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%EA%B0%95%EC%A2%8C%EB%8C%80%ED%91%9C%EC%9D%B4%EB%AF%B8%EC%A7%80_%EB%AF%B8%EC%A0%81%EB%B6%84%ED%95%993_2020-1%EC%88%98%EC%A0%95.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[왜 음식윤리인가 : 문제 해결의 열쇠]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:CUKk+CORE_CUK01+2022_02/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:CUKk+CORE_CUK01+2022_02/about</guid>
+            <pubDate>Mon, 05 Sep 2022 04:14:30 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김석신
+                </span>
+                <span class="kr01_school">THE CATHOLIC UNIVERSITY OF KOREA</span>
+                </div>
+                <div><time>2022/09/19</time>
+                
+                ~ <time>2023/01/01</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:CUKk+CORE_CUK01+2022_02+type@asset+block@food.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최초반응자를 위한 외상처치술]]></title>
@@ -348,24 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:KUMOHk+2020_KUMOH03+2022_2+type@asset+block@%EC%A0%84%EC%82%B0%EC%9C%A0%EC%B2%B4%EC%97%AD%ED%95%99_thumbnail.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[에어로졸개론]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KUMOHk+2020_KUMOH04+2022_2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KUMOHk+2020_KUMOH04+2022_2/about</guid>
-            <pubDate>Mon, 29 Aug 2022 22:13:33 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                서영진
-                </span>
-                <span class="kr01_school">Kumoh National Institute of Technology</span>
-                </div>
-                <div><time>2022/09/12</time>
-                
-                ~ <time>2022/11/20</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KUMOHk+2020_KUMOH04+2022_2+type@asset+block@%EC%97%90%EC%96%B4%EB%A1%9C%EC%A1%B8%EA%B0%9C%EB%A1%A0_thumbnail.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
