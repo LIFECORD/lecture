@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Sep 2022 17:26:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Sep 2022 18:18:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[가자, 한국어 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 12 Sep 2022 17:25:36 GMT</pubDate>
+            <pubDate>Mon, 12 Sep 2022 18:18:08 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박동호 and 1 others
@@ -29,7 +29,7 @@
             <title><![CDATA[한국어교육학개론 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 12 Sep 2022 17:25:36 GMT</pubDate>
+            <pubDate>Mon, 12 Sep 2022 18:18:08 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박동호 and 1 others
@@ -47,7 +47,7 @@
             <title><![CDATA[한국어문법교육론 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 12 Sep 2022 17:25:36 GMT</pubDate>
+            <pubDate>Mon, 12 Sep 2022 18:18:08 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박동호
@@ -65,7 +65,7 @@
             <title><![CDATA[한국어발음교육론 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 12 Sep 2022 17:25:36 GMT</pubDate>
+            <pubDate>Mon, 12 Sep 2022 18:18:08 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박동호
@@ -83,7 +83,7 @@
             <title><![CDATA[한국 현대문화의 이해 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 12 Sep 2022 17:25:36 GMT</pubDate>
+            <pubDate>Mon, 12 Sep 2022 18:18:08 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김기국
@@ -101,7 +101,7 @@
             <title><![CDATA[비만의 사회학 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 12 Sep 2022 17:25:36 GMT</pubDate>
+            <pubDate>Mon, 12 Sep 2022 18:18:08 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박승준
@@ -119,7 +119,7 @@
             <title><![CDATA[삼국지 인문학 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 12 Sep 2022 17:25:36 GMT</pubDate>
+            <pubDate>Mon, 12 Sep 2022 18:18:08 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 민관동
@@ -135,9 +135,9 @@
         </item>
         <item>
             <title><![CDATA[디지털 논리회로와 인공지능 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 12 Sep 2022 17:25:36 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:DAUk+DAUk10+2022_T3/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DAUk+DAUk10+2022_T3/about</guid>
+            <pubDate>Mon, 12 Sep 2022 18:18:08 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 심임보
@@ -153,9 +153,9 @@
         </item>
         <item>
             <title><![CDATA[알기 쉬운 원자력 에너지 이야기 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 12 Sep 2022 17:25:36 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KAISTk+NQE625+2022_K7_02/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KAISTk+NQE625+2022_K7_02/about</guid>
+            <pubDate>Mon, 12 Sep 2022 18:18:08 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이정익
