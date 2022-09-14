@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 04:14:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 06:03:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -545,7 +545,7 @@
                 ~ <time>2022/11/24</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:YonseiWK+FD_WY105_01k+2022_02A_T2+type@asset+block@%EC%9A%B0%EC%A3%BC.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:YonseiWK+FD_WY105_01k+2022_02A_T2+type@asset+block@%EC%9A%B0%EC%A3%BC_2022-2_%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엑셀로 배우는 비용편익분석 (K-MOOC ─ 개강예정)]]></title>
