@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 07:25:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 08:18:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -692,24 +692,6 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:DKUK+cfl005+2022_A7+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%EC%B4%88%EA%B8%89%EC%95%84%EB%9E%8D%EC%96%B4_%EC%9E%85%EB%AC%B82_%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[초급아랍어 입문과정 (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:DKUK+cfl001+2022_A6/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:DKUK+cfl001+2022_A6/about</guid>
-            <pubDate>Fri, 16 Sep 2022 06:02:36 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                윤현호
-                </span>
-                <span class="kr01_school">Dankook University</span>
-                </div>
-                <div><time>2022/09/23</time>
-                
-                ~ <time>2022/12/02</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:DKUK+cfl001+2022_A6+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%EC%95%84%EB%9E%8D%EC%96%B4_%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[포르투갈어초급 입문 과정 (K-MOOC ─ 개강예정)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:DKUK+cfl003+2022_P6/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:DKUK+cfl003+2022_P6/about</guid>
@@ -726,6 +708,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:DKUK+cfl003+2022_P6+type@asset+block@%ED%8F%AC%EB%A5%B4%ED%88%AC_%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[초급아랍어 입문과정 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:DKUK+cfl001+2022_A6/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DKUK+cfl001+2022_A6/about</guid>
+            <pubDate>Fri, 16 Sep 2022 06:02:36 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                윤현호
+                </span>
+                <span class="kr01_school">Dankook University</span>
+                </div>
+                <div><time>2022/09/23</time>
+                
+                ~ <time>2022/12/02</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:DKUK+cfl001+2022_A6+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%EC%95%84%EB%9E%8D%EC%96%B4_%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
