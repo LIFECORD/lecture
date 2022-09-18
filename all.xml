@@ -4,9 +4,81 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Sep 2022 14:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Sep 2022 15:14:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[통증을 물어보는 진료 중국어 (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Sun, 18 Sep 2022 15:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                종혜현
+                </span>
+                <span class="kr01_school">CYBER HANKUK UNIVERSITY OF FOREIGN STUDIES</span>
+                </div>
+                <div><time>2022/09/19</time>
+                
+                ~ <time>2023/01/02</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:CUFS+CUFS09+2022-2_C4+type@asset+block@%EA%B0%95%EC%A2%8C%EB%A9%94%EC%9D%B8.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[통증을 알아듣는 진료 중국어 (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Sun, 18 Sep 2022 15:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                장린자
+                </span>
+                <span class="kr01_school">CYBER HANKUK UNIVERSITY OF FOREIGN STUDIES</span>
+                </div>
+                <div><time>2022/09/19</time>
+                
+                ~ <time>2023/01/02</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:CUFS+CUFS08+2022-2_C3+type@asset+block@%EA%B0%95%EC%A2%8C%EB%A9%94%EC%9D%B8.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[패턴으로 정복하는 중급중국어 (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Sun, 18 Sep 2022 15:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이보영
+                </span>
+                <span class="kr01_school">CYBER HANKUK UNIVERSITY OF FOREIGN STUDIES</span>
+                </div>
+                <div><time>2022/09/19</time>
+                
+                ~ <time>2022/12/05</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:CUFS+CUFS07+2022-2_C2+type@asset+block@%EA%B0%95%EC%A2%8C%EB%A9%94%EC%9D%B8.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[쉽게 들어가는 중국어 입문 (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Sun, 18 Sep 2022 15:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이선희
+                </span>
+                <span class="kr01_school">CYBER HANKUK UNIVERSITY OF FOREIGN STUDIES</span>
+                </div>
+                <div><time>2022/09/19</time>
+                
+                ~ <time>2022/11/14</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:CUFS+CUFS06+2022-2_C1+type@asset+block@main_cufs06.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[가자, 한국어 (K-MOOC ─ 진행중)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:KHUk+KH505+2022_T2_1/about</link>
@@ -294,78 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:KUMOHk+2020_KUMOH03+2022_2+type@asset+block@%EC%A0%84%EC%82%B0%EC%9C%A0%EC%B2%B4%EC%97%AD%ED%95%99_thumbnail.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[에어로졸개론 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KUMOHk+2020_KUMOH04+2022_2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KUMOHk+2020_KUMOH04+2022_2/about</guid>
-            <pubDate>Wed, 14 Sep 2022 04:11:31 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                서영진
-                </span>
-                <span class="kr01_school">Kumoh National Institute of Technology</span>
-                </div>
-                <div><time>2022/09/12</time>
-                
-                ~ <time>2022/11/20</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KUMOHk+2020_KUMOH04+2022_2+type@asset+block@%EC%97%90%EC%96%B4%EB%A1%9C%EC%A1%B8%EA%B0%9C%EB%A1%A0_thumbnail.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[미세먼지를 알아보자! (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KUMOHk+2020_KUMOH01+2022_2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KUMOHk+2020_KUMOH01+2022_2/about</guid>
-            <pubDate>Wed, 14 Sep 2022 04:11:31 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                박준영 and 3 others
-                </span>
-                <span class="kr01_school">Kumoh National Institute of Technology</span>
-                </div>
-                <div><time>2022/09/12</time>
-                
-                ~ <time>2022/11/06</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KUMOHk+2020_KUMOH01+2022_2+type@asset+block@%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80%EB%A5%BC%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90_thumbnail.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[응용유체역학 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KUMOHk+2020_KUMOH02+2022_2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KUMOHk+2020_KUMOH02+2022_2/about</guid>
-            <pubDate>Wed, 14 Sep 2022 04:11:31 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                박준영
-                </span>
-                <span class="kr01_school">Kumoh National Institute of Technology</span>
-                </div>
-                <div><time>2022/09/12</time>
-                
-                ~ <time>2022/11/06</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KUMOHk+2020_KUMOH02+2022_2+type@asset+block@%EC%9D%91%EC%9A%A9%EC%9C%A0%EC%B2%B4%EC%97%AD%ED%95%99_thumbnail.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[법률가와 정치 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:HGUk+HKU08+2022_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:HGUk+HKU08+2022_T2/about</guid>
-            <pubDate>Wed, 14 Sep 2022 04:11:31 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                이국운
-                </span>
-                <span class="kr01_school">HANDONG GLOBAL UNIVERSITY</span>
-                </div>
-                <div><time>2022/09/12</time>
-                
-                ~ <time>2022/12/17</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:HGUk+HKU08+2022_T2+type@asset+block@%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_2020-2%ED%95%99%EA%B8%B0_%EB%B2%95%EB%A5%A0%EA%B0%80%EC%99%80_%EC%A0%95%EC%B9%98_%ED%91%9C%EC%A7%80.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[생각보다 가까운 FTA(2) (K-MOOC ─ 개강예정)]]></title>
@@ -656,76 +656,76 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:SKKUk+SKKU_2019_06+2022_T1+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%EA%B0%95%EC%A2%8C%EB%8C%80%ED%91%9C%EC%9D%B4%EB%AF%B8%EC%A7%80_%EB%AF%B8%EC%A0%81%EB%B6%84%ED%95%993_2020-1%EC%88%98%EC%A0%95.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[포르투갈어초급 입문과정2 (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:DKUK+cfl006+2022_P7/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:DKUK+cfl006+2022_P7/about</guid>
-            <pubDate>Fri, 16 Sep 2022 07:25:26 GMT</pubDate>
+            <title><![CDATA[자기돌봄을 위한 통합예술심리 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SCU+SCU019+2022_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SCU+SCU019+2022_2/about</guid>
+            <pubDate>Sun, 18 Sep 2022 15:14:24 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                양은미 
+                여정윤 and 3 others
                 </span>
-                <span class="kr01_school">Dankook University</span>
+                <span class="kr01_school">Seoul Cyber University</span>
                 </div>
-                <div><time>2022/09/23</time>
+                <div><time>2022/09/26</time>
                 
-                ~ <time>2032/12/02</time>
+                ~ <time>2022/11/20</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:DKUK+cfl006+2022_P7+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98__%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%EC%B4%88%EA%B8%89%ED%8F%AC%EB%A5%B4%ED%88%AC%EA%B0%88%EC%96%B4_%EC%9E%85%EB%AC%B82_%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SCU+SCU019+2022_2+type@asset+block@SCU019_2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[초급아랍어 입문과정2 (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:DKUK+cfl005+2022_A7/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:DKUK+cfl005+2022_A7/about</guid>
-            <pubDate>Fri, 16 Sep 2022 07:25:26 GMT</pubDate>
+            <title><![CDATA[언택트 시대 속 게임의 역할 - 일상을 건강하고 풍요롭게 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SCU+SCU020+2022_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SCU+SCU020+2022_2/about</guid>
+            <pubDate>Sun, 18 Sep 2022 15:14:24 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                안희연
+                차명희
                 </span>
-                <span class="kr01_school">Dankook University</span>
+                <span class="kr01_school">Seoul Cyber University</span>
                 </div>
-                <div><time>2022/09/23</time>
+                <div><time>2022/09/26</time>
                 
-                ~ <time>2022/12/02</time>
+                ~ <time>2022/11/20</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:DKUK+cfl005+2022_A7+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%EC%B4%88%EA%B8%89%EC%95%84%EB%9E%8D%EC%96%B4_%EC%9E%85%EB%AC%B82_%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SCU+SCU020+2022_2+type@asset+block@SCU020_2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[포르투갈어초급 입문 과정 (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:DKUK+cfl003+2022_P6/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:DKUK+cfl003+2022_P6/about</guid>
-            <pubDate>Fri, 16 Sep 2022 07:25:26 GMT</pubDate>
+            <title><![CDATA[클래식 친구 만들기 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SCU+SCU021+2022_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SCU+SCU021+2022_2/about</guid>
+            <pubDate>Sun, 18 Sep 2022 15:14:24 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                박원복
+                윤소영
                 </span>
-                <span class="kr01_school">Dankook University</span>
+                <span class="kr01_school">Seoul Cyber University</span>
                 </div>
-                <div><time>2022/09/23</time>
+                <div><time>2022/09/26</time>
                 
-                ~ <time>2022/12/02</time>
+                ~ <time>2022/11/20</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:DKUK+cfl003+2022_P6+type@asset+block@%ED%8F%AC%EB%A5%B4%ED%88%AC_%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SCU+SCU021+2022_2+type@asset+block@SCU021_2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[초급아랍어 입문과정 (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:DKUK+cfl001+2022_A6/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:DKUK+cfl001+2022_A6/about</guid>
-            <pubDate>Fri, 16 Sep 2022 06:02:36 GMT</pubDate>
+            <title><![CDATA[사이버상담 개론 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SCU+SCU012+2022_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SCU+SCU012+2022_2/about</guid>
+            <pubDate>Sun, 18 Sep 2022 15:14:24 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                윤현호
+                한수미 and 1 others
                 </span>
-                <span class="kr01_school">Dankook University</span>
+                <span class="kr01_school">Seoul Cyber University</span>
                 </div>
-                <div><time>2022/09/23</time>
+                <div><time>2022/09/26</time>
                 
-                ~ <time>2022/12/02</time>
+                ~ <time>2022/11/20</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:DKUK+cfl001+2022_A6+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%EC%95%84%EB%9E%8D%EC%96%B4_%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SCU+SCU012+2022_2+type@asset+block@SCU012_22-2.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
