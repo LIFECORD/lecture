@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 23:15:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 01:15:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,6 +80,42 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:KonkukK+konkuk_K008+2022_T2+type@asset+block@%EC%86%8C%EB%B9%84%EC%9E%90%EA%B0%80_%EB%A7%8C%EB%93%9C%EB%8A%94_%EC%83%88%EB%A1%9C%EC%9A%B4_%EC%84%B8%EC%83%81.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[희망의 인문학 : 우리는 희망에서 무엇을 배우고 가르칠 수 있는가 Ⅰ]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:UOUk+UOU502_01K+U502A_4_2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:UOUk+UOU502_01K+U502A_4_2022_T2/about</guid>
+            <pubDate>Tue, 20 Sep 2022 01:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김진
+                </span>
+                <span class="kr01_school">University of Ulsan</span>
+                </div>
+                <div><time>2022/10/04</time>
+                
+                ~ <time>2022/11/21</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:UOUk+UOU502_01K+U502A_4_2022_T2+type@asset+block@KakaoTalk_20210416_1152007601111.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[가족과 건강 : 질병예방과 건강증진 Ⅰ]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:UOUk+UOU501_01K+U501A_4_2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:UOUk+UOU501_01K+U501A_4_2022_T2/about</guid>
+            <pubDate>Tue, 20 Sep 2022 01:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김영식
+                </span>
+                <span class="kr01_school">University of Ulsan</span>
+                </div>
+                <div><time>2022/10/04</time>
+                
+                ~ <time>2022/11/21</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:UOUk+UOU501_01K+U501A_4_2022_T2+type@asset+block@%EC%A7%88%EB%B3%91%EC%98%88%EB%B0%A9%EA%B3%BC-%EA%B1%B4%EA%B0%95%EC%A6%9D%EC%A7%84_%EC%8D%B8%EB%84%A4%EC%9D%BC_100.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[SQL 정형 데이터 분석]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK03+2022_2/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK03+2022_2/about</guid>
@@ -152,24 +188,6 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:MA_CUK+MATCHUP_CUK08+2022_2+type@asset+block@%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[빅데이터를 위한 확률과 통계]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK01+2022_2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK01+2022_2/about</guid>
-            <pubDate>Sun, 18 Sep 2022 23:14:23 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                백창현
-                </span>
-                <span class="kr01_school">CYBER UNIVERSITY OF KOREA(matchup)</span>
-                </div>
-                <div><time>2022/10/03</time>
-                
-                ~ <time>2022/11/27</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:MA_CUK+MATCHUP_CUK01+2022_2+type@asset+block@%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0_%ED%99%95%EB%A5%A0%ED%86%B5%EA%B3%84.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[머신러닝 빅데이터 분석]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK05+2022_2/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK05+2022_2/about</guid>
@@ -186,6 +204,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:MA_CUK+MATCHUP_CUK05+2022_2+type@asset+block@_%ED%85%9C%ED%94%8C%EB%A6%BF_%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D_%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%B6%84%EC%84%9D_210924.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빅데이터를 위한 확률과 통계]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK01+2022_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK01+2022_2/about</guid>
+            <pubDate>Sun, 18 Sep 2022 23:14:23 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                백창현
+                </span>
+                <span class="kr01_school">CYBER UNIVERSITY OF KOREA(matchup)</span>
+                </div>
+                <div><time>2022/10/03</time>
+                
+                ~ <time>2022/11/27</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:MA_CUK+MATCHUP_CUK01+2022_2+type@asset+block@%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0_%ED%99%95%EB%A5%A0%ED%86%B5%EA%B3%84.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[빅데이터 플랫폼]]></title>
@@ -330,42 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:YonseiWK+FD_WY105_01k+2022_02A_T2+type@asset+block@%EC%9A%B0%EC%A3%BC_2022-2_%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엑셀로 배우는 비용편익분석]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:YonseiWK+FD_WY106_01k+2022_03A_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:YonseiWK+FD_WY106_01k+2022_03A_T2/about</guid>
-            <pubDate>Tue, 13 Sep 2022 04:16:06 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                배득종
-                </span>
-                <span class="kr01_school">Yonsei University Mirae Campus</span>
-                </div>
-                <div><time>2022/09/29</time>
-                
-                ~ <time>2022/11/24</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:YonseiWK+FD_WY106_01k+2022_03A_T2+type@asset+block@%EC%97%91%EC%85%80_2022-2_%ED%81%AC%EA%B8%B0%EC%A1%B0%EC%A0%95_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가족과 건강 : 운동과 뇌 건강 Ⅱ]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:UOUk+UOU601_02K+U601A_2_2022_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:UOUk+UOU601_02K+U601A_2_2022_T2/about</guid>
-            <pubDate>Tue, 13 Sep 2022 01:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                우민정
-                </span>
-                <span class="kr01_school">University of Ulsan</span>
-                </div>
-                <div><time>2022/09/27</time>
-                
-                ~ <time>2022/11/14</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:UOUk+UOU601_02K+U601A_2_2022_T2+type@asset+block@%EC%9A%B4%EB%8F%99%EA%B3%BC_%EB%87%8C_%EA%B1%B4%EA%B0%95_%EC%8D%B8%EB%84%A4%EC%9D%BC.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
