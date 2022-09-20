@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 01:15:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 04:12:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[결정의 미학 : 결정이 두려운 당신에게 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Tue, 20 Sep 2022 01:15:28 GMT</pubDate>
+            <pubDate>Tue, 20 Sep 2022 04:12:20 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 오연천
@@ -29,7 +29,7 @@
             <title><![CDATA[미래 모빌리티 최신 기술동향 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Tue, 20 Sep 2022 01:15:28 GMT</pubDate>
+            <pubDate>Tue, 20 Sep 2022 04:12:20 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 안경관 and 5 others
@@ -47,7 +47,7 @@
             <title><![CDATA[조선 산업 : 미래기술의 집합체가 되다 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Tue, 20 Sep 2022 01:15:28 GMT</pubDate>
+            <pubDate>Tue, 20 Sep 2022 04:12:20 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이상욱
@@ -65,7 +65,7 @@
             <title><![CDATA[미래산업에서 수소연료전지의 위상 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Tue, 20 Sep 2022 01:15:28 GMT</pubDate>
+            <pubDate>Tue, 20 Sep 2022 04:12:20 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김준범
@@ -83,7 +83,7 @@
             <title><![CDATA[가족과 건강 : 운동과 뇌 건강 Ⅰ (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Tue, 20 Sep 2022 01:15:28 GMT</pubDate>
+            <pubDate>Tue, 20 Sep 2022 04:12:20 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 우민정
@@ -101,7 +101,7 @@
             <title><![CDATA[모범시민의 교양회계 Ⅰ (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Tue, 20 Sep 2022 01:15:28 GMT</pubDate>
+            <pubDate>Tue, 20 Sep 2022 04:12:20 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김효은
@@ -548,24 +548,6 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:MA_CUK+MATCHUP_CUK08+2022_2+type@asset+block@%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[머신러닝 빅데이터 분석 (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK05+2022_2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK05+2022_2/about</guid>
-            <pubDate>Sun, 18 Sep 2022 23:14:23 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김용성
-                </span>
-                <span class="kr01_school">CYBER UNIVERSITY OF KOREA(matchup)</span>
-                </div>
-                <div><time>2022/10/03</time>
-                
-                ~ <time>2022/11/27</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:MA_CUK+MATCHUP_CUK05+2022_2+type@asset+block@_%ED%85%9C%ED%94%8C%EB%A6%BF_%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D_%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%B6%84%EC%84%9D_210924.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[빅데이터를 위한 확률과 통계 (K-MOOC ─ 개강예정)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK01+2022_2/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK01+2022_2/about</guid>
@@ -582,6 +564,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:MA_CUK+MATCHUP_CUK01+2022_2+type@asset+block@%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0_%ED%99%95%EB%A5%A0%ED%86%B5%EA%B3%84.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[머신러닝 빅데이터 분석 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK05+2022_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK05+2022_2/about</guid>
+            <pubDate>Sun, 18 Sep 2022 23:14:23 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김용성
+                </span>
+                <span class="kr01_school">CYBER UNIVERSITY OF KOREA(matchup)</span>
+                </div>
+                <div><time>2022/10/03</time>
+                
+                ~ <time>2022/11/27</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:MA_CUK+MATCHUP_CUK05+2022_2+type@asset+block@_%ED%85%9C%ED%94%8C%EB%A6%BF_%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D_%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%B6%84%EC%84%9D_210924.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[빅데이터 플랫폼 (K-MOOC ─ 개강예정)]]></title>
