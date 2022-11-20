@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 14:11:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 15:12:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -98,22 +98,22 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:SKKUk+skku_64+2022_T1+type@asset+block@%EB%8C%80%ED%91%9C%EC%9D%B4%EB%AF%B8%EC%A7%80.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[오픈소스를 이용한 DevOps 구축 및 활용]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:TUk+SW_TUMOOC0002+2022_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:TUk+SW_TUMOOC0002+2022_T2/about</guid>
-            <pubDate>Sat, 19 Nov 2022 18:14:59 GMT</pubDate>
+            <title><![CDATA[설득을 위한 언어]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:AJOU+AJOU03+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:AJOU+AJOU03+2022_T1/about</guid>
+            <pubDate>Sun, 20 Nov 2022 15:12:16 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                한성화
+                박만규
                 </span>
-                <span class="kr01_school">Tongmyong University</span>
+                <span class="kr01_school">AJOU UNIVERSITY</span>
                 </div>
-                <div><time>2022/11/21</time>
+                <div><time>2022/11/28</time>
                 
-                ~ <time>2022/12/31</time>
+                ~ <time>2023/02/05</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:TUk+SW_TUMOOC0002+2022_T2+type@asset+block@%EC%84%AC%EB%84%A4%EC%9D%BC__1_.png" length="0" type="image/png"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:AJOU+AJOU03+2022_T1+type@asset+block@%EC%84%A4%EB%93%9D%EC%9D%84_%EC%9C%84%ED%95%9C_%EC%96%B8%EC%96%B4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
