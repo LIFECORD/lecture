@@ -4,14 +4,14 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Nov 2022 08:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 09:14:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[인공지능 기반 생체신호계측 및 이상치 검출]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 21 Nov 2022 08:17:01 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_12+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_12+2022_T2/about</guid>
+            <pubDate>Mon, 21 Nov 2022 09:13:50 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 정희용
@@ -27,9 +27,9 @@
         </item>
         <item>
             <title><![CDATA[로봇공학과 인공지능]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 21 Nov 2022 08:17:01 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_13+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_13+2022_T2/about</guid>
+            <pubDate>Mon, 21 Nov 2022 09:13:50 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박종오 and 1 others
@@ -45,9 +45,9 @@
         </item>
         <item>
             <title><![CDATA[금융공학을 위한 인공지능]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 21 Nov 2022 08:17:01 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_16+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_16+2022_T2/about</guid>
+            <pubDate>Mon, 21 Nov 2022 09:13:50 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 허정규
@@ -63,9 +63,9 @@
         </item>
         <item>
             <title><![CDATA[인공지능을 위한 파이썬 기초]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 21 Nov 2022 08:17:01 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_17+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_17+2022_T2/about</guid>
+            <pubDate>Mon, 21 Nov 2022 09:13:50 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김경백
@@ -81,9 +81,9 @@
         </item>
         <item>
             <title><![CDATA[한국의 민주주의와 민주화 운동Ⅱ]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 21 Nov 2022 08:17:01 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_15+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_15+2022_T2/about</guid>
+            <pubDate>Mon, 21 Nov 2022 09:13:50 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 최정기 and 1 others
@@ -99,9 +99,9 @@
         </item>
         <item>
             <title><![CDATA[한국의 민주주의와 민주화 운동Ⅲ]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 21 Nov 2022 08:17:01 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_18+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_18+2022_T2/about</guid>
+            <pubDate>Mon, 21 Nov 2022 09:13:50 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 최정기 and 1 others
@@ -117,9 +117,9 @@
         </item>
         <item>
             <title><![CDATA[한국의 민주주의와 민주화 운동Ⅳ]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 21 Nov 2022 08:17:01 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_19+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_19+2022_T2/about</guid>
+            <pubDate>Mon, 21 Nov 2022 09:13:50 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 최정기 and 1 others
@@ -135,9 +135,9 @@
         </item>
         <item>
             <title><![CDATA[한국의 민주주의와 민주화 운동Ⅰ]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 21 Nov 2022 08:17:01 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_14+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_14+2022_T2/about</guid>
+            <pubDate>Mon, 21 Nov 2022 09:13:50 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 최정기 and 1 others
