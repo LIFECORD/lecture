@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 04:15:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 05:11:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -510,6 +510,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:SKKUk+SKKU_GEDH043.O1K+2022_T4+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98__%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_2021_%ED%95%9C%EA%B5%AD%EC%96%B4_%EC%B4%88%EA%B8%89_2_%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미생물학 입문 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:INU+INU002+2022_L2_3/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:INU+INU002+2022_L2_3/about</guid>
+            <pubDate>Wed, 23 Nov 2022 05:11:29 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                예정용
+                </span>
+                <span class="kr01_school">Incheon National University</span>
+                </div>
+                <div><time>2022/11/28</time>
+                
+                ~ <time>2023/01/09</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:INU+INU002+2022_L2_3+type@asset+block@2022-3%EC%B0%A8_%EB%AF%B8%EC%83%9D%EB%AC%BC%ED%95%99%EC%9E%85%EB%AC%B8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[설득을 위한 언어 (K-MOOC ─ 개강예정)]]></title>
