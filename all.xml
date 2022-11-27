@@ -4,9 +4,27 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Nov 2022 14:10:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Nov 2022 15:11:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[설득을 위한 언어 (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Sun, 27 Nov 2022 15:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                박만규
+                </span>
+                <span class="kr01_school">AJOU UNIVERSITY</span>
+                </div>
+                <div><time>2022/11/28</time>
+                
+                ~ <time>2023/02/05</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:AJOU+AJOU03+2022_T1+type@asset+block@%EC%84%A4%EB%93%9D%EC%9D%84_%EC%9C%84%ED%95%9C_%EC%96%B8%EC%96%B4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인공지능 기반 생체신호계측 및 이상치 검출 (K-MOOC ─ 진행중)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_12+2022_T2/about</link>
@@ -350,24 +368,6 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:SKKUk+skku_63+2022_T1+type@asset+block@%EB%89%B4%EB%85%B8%EB%A9%80%EC%8B%9C%EB%8C%80%EC%9D%98%EC%98%81%EC%83%81%EB%AF%B8%ED%95%99_%EC%BB%A4%EB%B2%84_copy.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Beginner Creator를 위한 LED/LCD 디스플레이와 센서 활용 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:InhatcK+inhatcK_10+2022_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:InhatcK+inhatcK_10+2022_T1/about</guid>
-            <pubDate>Sun, 20 Nov 2022 09:12:03 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                조도현
-                </span>
-                <span class="kr01_school">INHA TECHNICAL COLLEGE</span>
-                </div>
-                <div><time>2022/11/14</time>
-                
-                ~ <time>2022/12/31</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:InhatcK+inhatcK_10+2022_T1+type@asset+block@_%EC%9D%B8%ED%95%98%EA%B3%B5%EC%A0%84__LEDLCD%EB%94%94%EC%8A%A4%ED%94%8C%EB%A0%88%EC%9D%B4%EC%99%80_%EC%84%BC%EC%84%9C_%ED%99%9C%EC%9A%A9_%EC%8D%B8%EB%84%A4%EC%9D%BC_500x300.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[영유아 발달 (K-MOOC ─ 개강예정)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:HKNU+HKNU001+2022_3/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:HKNU+HKNU001+2022_3/about</guid>
@@ -546,24 +546,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:INU+INU002+2022_L2_3+type@asset+block@2022-3%EC%B0%A8_%EB%AF%B8%EC%83%9D%EB%AC%BC%ED%95%99%EC%9E%85%EB%AC%B8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설득을 위한 언어 (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:AJOU+AJOU03+2022_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:AJOU+AJOU03+2022_T1/about</guid>
-            <pubDate>Mon, 21 Nov 2022 05:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                박만규
-                </span>
-                <span class="kr01_school">AJOU UNIVERSITY</span>
-                </div>
-                <div><time>2022/11/28</time>
-                
-                ~ <time>2023/02/05</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:AJOU+AJOU03+2022_T1+type@asset+block@%EC%84%A4%EB%93%9D%EC%9D%84_%EC%9C%84%ED%95%9C_%EC%96%B8%EC%96%B4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
