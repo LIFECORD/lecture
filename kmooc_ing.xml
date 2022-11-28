@@ -4,14 +4,14 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Nov 2022 09:13:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2022 10:14:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[사회로 기초다지기 일본어]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 28 Nov 2022 09:12:54 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:CUK+CUK_05+2022_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:CUK+CUK_05+2022_1/about</guid>
+            <pubDate>Mon, 28 Nov 2022 10:13:53 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박연정 and 2 others
@@ -27,9 +27,9 @@
         </item>
         <item>
             <title><![CDATA[문화로 입문하기 일본어]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 28 Nov 2022 09:12:54 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:CUK+CUK_04+2022_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:CUK+CUK_04+2022_1/about</guid>
+            <pubDate>Mon, 28 Nov 2022 10:13:53 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박연정 and 1 others
@@ -45,9 +45,9 @@
         </item>
         <item>
             <title><![CDATA[경제로 실력쌓기 일본어]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 28 Nov 2022 09:12:54 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:CUK+CUK_06+2022_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:CUK+CUK_06+2022_1/about</guid>
+            <pubDate>Mon, 28 Nov 2022 10:13:53 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 채성식 and 1 others
@@ -63,9 +63,9 @@
         </item>
         <item>
             <title><![CDATA[기술로 고수되기 일본어]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 28 Nov 2022 09:12:54 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:CUK+CUK_07+2022_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:CUK+CUK_07+2022_1/about</guid>
+            <pubDate>Mon, 28 Nov 2022 10:13:53 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 유재진 and 1 others
