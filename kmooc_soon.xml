@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Nov 2022 23:13:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 00:58:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,60 +96,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:HKNU+HKNU001+2022_3+type@asset+block@K-MOOC_%EB%A9%94%EC%9D%B8_%EB%8C%80%EB%AC%B8%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tsinghua Chinese: Start Talking with 1.3 Billion People]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:XuetangX+THc2021+2022_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:XuetangX+THc2021+2022_T2/about</guid>
-            <pubDate>Mon, 28 Nov 2022 00:56:24 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                Xia Ding and 3 others
-                </span>
-                <span class="kr01_school">XuetangX</span>
-                </div>
-                <div><time>2022/11/29</time>
-                
-                ~ <time>2023/06/14</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:XuetangX+THc2021+2022_T2+type@asset+block@course_image.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Intermediate Accounting II]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:XuetangX+IAIIJNU+2022_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:XuetangX+IAIIJNU+2022_T2/about</guid>
-            <pubDate>Mon, 28 Nov 2022 00:56:24 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                QI JUN
-                </span>
-                <span class="kr01_school">XuetangX</span>
-                </div>
-                <div><time>2022/11/29</time>
-                
-                ~ <time>2023/06/14</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:XuetangX+IAIIJNU+2022_T2+type@asset+block@Intermediate_Accounting_II_%E6%9A%A8%E5%8D%97%E5%A4%A7%E5%AD%A6.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Winning in Business: The Art of War by Sun Tzu]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:XuetangX+JUFEZ+2022_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:XuetangX+JUFEZ+2022_T2/about</guid>
-            <pubDate>Mon, 28 Nov 2022 00:56:24 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                Liu Aijun and 4 others
-                </span>
-                <span class="kr01_school">XuetangX</span>
-                </div>
-                <div><time>2022/11/29</time>
-                
-                ~ <time>2023/06/13</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:XuetangX+JUFEZ+2022_T2+type@asset+block@%E5%9B%BE%E7%89%871.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
