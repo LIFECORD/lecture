@@ -4,14 +4,14 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Nov 2022 08:16:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 09:12:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Tsinghua Chinese: Start Talking with 1.3 Billion People]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Tue, 29 Nov 2022 08:16:08 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:XuetangX+THc2021+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:XuetangX+THc2021+2022_T2/about</guid>
+            <pubDate>Tue, 29 Nov 2022 09:12:31 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 Xia Ding and 3 others
@@ -27,9 +27,9 @@
         </item>
         <item>
             <title><![CDATA[Intermediate Accounting II]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Tue, 29 Nov 2022 08:16:08 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:XuetangX+IAIIJNU+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:XuetangX+IAIIJNU+2022_T2/about</guid>
+            <pubDate>Tue, 29 Nov 2022 09:12:31 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 QI JUN
@@ -45,9 +45,9 @@
         </item>
         <item>
             <title><![CDATA[Winning in Business: The Art of War by Sun Tzu]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Tue, 29 Nov 2022 08:16:08 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:XuetangX+JUFEZ+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:XuetangX+JUFEZ+2022_T2/about</guid>
+            <pubDate>Tue, 29 Nov 2022 09:12:31 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 Liu Aijun and 4 others
