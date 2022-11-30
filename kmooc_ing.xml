@@ -4,9 +4,27 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 17:11:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 18:15:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위대한 수업2(GREAT MINDS) : 다시, 오래된 미래]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Wed, 30 Nov 2022 18:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                헬레나 호지 
+                </span>
+                <span class="kr01_school">EBS</span>
+                </div>
+                <div><time>2022/12/01</time>
+                
+                ~ <time>2022/12/01</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:EBS+EBS012+2022_T1+type@asset+block@%ED%97%AC%EB%A0%88%EB%82%98%ED%98%B8%EC%A7%80.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[Tsinghua Chinese: Start Talking with 1.3 Billion People]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:XuetangX+THc2021+2022_T2/about</link>
@@ -348,24 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:JNUk+JNUk_15+2022_T2+type@asset+block@2022-2_Democr_2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한국의 민주주의와 민주화 운동Ⅲ]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_18+2022_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_18+2022_T2/about</guid>
-            <pubDate>Mon, 21 Nov 2022 09:13:50 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                최정기 and 1 others
-                </span>
-                <span class="kr01_school">Chonnam National University</span>
-                </div>
-                <div><time>2022/11/21</time>
-                
-                ~ <time>2023/02/04</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:JNUk+JNUk_18+2022_T2+type@asset+block@2022-2_Democr_3.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
