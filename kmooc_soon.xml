@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 23:12:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 01:07:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,24 +78,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:BDUk+BDU11+2022_T3+type@asset+block@%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%9E%85%EB%AC%B8_%EB%B0%9C%EB%8B%AC%EA%B3%BC-%EB%B0%9C%EB%8B%AC%EC%9E%A5%EC%95%A0%EC%9D%98-%EC%9D%B4%ED%95%B4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영유아 발달]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:HKNU+HKNU001+2022_3/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:HKNU+HKNU001+2022_3/about</guid>
-            <pubDate>Thu, 24 Nov 2022 05:11:48 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                이형민
-                </span>
-                <span class="kr01_school">Hankyong National University</span>
-                </div>
-                <div><time>2022/12/01</time>
-                
-                ~ <time>2023/03/01</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:HKNU+HKNU001+2022_3+type@asset+block@K-MOOC_%EB%A9%94%EC%9D%B8_%EB%8C%80%EB%AC%B8%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
