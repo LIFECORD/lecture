@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 07:12:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 08:16:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[영유아 발달 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Thu, 01 Dec 2022 07:12:16 GMT</pubDate>
+            <pubDate>Thu, 01 Dec 2022 08:15:56 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이형민
@@ -20,7 +20,7 @@
                 </div>
                 <div><time>2022/12/01</time>
                 
-                ~ <time>2023/03/01</time>
+                ~ <time>2023/02/28</time>
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:HKNU+HKNU001+2022_3+type@asset+block@K-MOOC_%EB%A9%94%EC%9D%B8_%EB%8C%80%EB%AC%B8%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
