@@ -4,45 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Dec 2022 17:11:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2022 18:15:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[위대한 수업2(GREAT MINDS) : 국가는 무엇을 해야 하나 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Tue, 06 Dec 2022 17:10:32 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                마리아나 마추카토
-                </span>
-                <span class="kr01_school">EBS</span>
-                </div>
-                <div><time>2022/12/07</time>
-                
-                ~ <time>2022/12/07</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:EBS+EBS013+2022_T1+type@asset+block@%EB%A7%88%EB%A6%AC%EC%95%84%EB%82%98_%EB%A7%88%EC%B6%94%EC%B9%B4%ED%86%A0_%EC%88%98%EC%A0%952.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[차이나는 K-클라스 : 뮤지컬 보러 한국 올래?(이지나) (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Tue, 06 Dec 2022 17:10:32 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                이지나
-                </span>
-                <span class="kr01_school">JTBC</span>
-                </div>
-                <div><time>2022/12/07</time>
-                
-                ~ <time>2022/12/07</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:JTBC+JTBC016+2022_T1+type@asset+block@K-16_.%EC%9D%B4%EC%A7%80%EB%82%98_%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[디지털 논리회로와 인공지능 (K-MOOC ─ 진행중)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:DAUk+DAUk10+2022_T4/about</link>
@@ -366,6 +330,42 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:INU+INU002+2022_L2_3+type@asset+block@2022-3%EC%B0%A8_%EB%AF%B8%EC%83%9D%EB%AC%BC%ED%95%99%EC%9E%85%EB%AC%B8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인공지능 학습용 데이터 라벨링 전문교육 (K-MOOC ─ 진행중)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:NIA+NIA001+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:NIA+NIA001+2022_T2/about</guid>
+            <pubDate>Tue, 06 Dec 2022 18:14:37 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                류동주 and 3 others
+                </span>
+                <span class="kr01_school">National Information Society Agency</span>
+                </div>
+                <div><time>2022/11/28</time>
+                
+                ~ <time>2023/01/06</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:NIA+NIA001+2022_T2+type@asset+block@nia_s.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[설득을 위한 언어 (K-MOOC ─ 진행중)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:AJOU+AJOU03+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:AJOU+AJOU03+2022_T1/about</guid>
+            <pubDate>Tue, 06 Dec 2022 18:14:37 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                박만규
+                </span>
+                <span class="kr01_school">AJOU UNIVERSITY</span>
+                </div>
+                <div><time>2022/11/28</time>
+                
+                ~ <time>2023/02/05</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:AJOU+AJOU03+2022_T1+type@asset+block@%EC%84%A4%EB%93%9D%EC%9D%84_%EC%9C%84%ED%95%9C_%EC%96%B8%EC%96%B4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[위대한 수업2(GREAT MINDS) : 국가는 무엇을 해야 하나 (K-MOOC ─ 개강예정)]]></title>
