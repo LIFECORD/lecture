@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 16:16:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 17:10:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,24 +42,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:USW+USW07+2022_T1+type@asset+block@main2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위대한 수업2(GREAT MINDS) : 도시는 어떻게 성공하는가]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:EBS+EBS014+2022_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:EBS+EBS014+2022_T1/about</guid>
-            <pubDate>Mon, 12 Dec 2022 16:16:13 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                엔리코 모레티
-                </span>
-                <span class="kr01_school">EBS</span>
-                </div>
-                <div><time>2022/12/13</time>
-                
-                ~ <time>2022/12/13</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:EBS+EBS014+2022_T1+type@asset+block@%EC%97%94%EB%A6%AC%EC%BD%94_%EB%AA%A8%EB%A0%88%ED%8B%B0_%EC%88%98%EC%A0%95.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>

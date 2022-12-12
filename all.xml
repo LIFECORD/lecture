@@ -4,9 +4,27 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 16:16:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 17:10:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위대한 수업2(GREAT MINDS) : 도시는 어떻게 성공하는가 (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Mon, 12 Dec 2022 17:10:40 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                엔리코 모레티
+                </span>
+                <span class="kr01_school">EBS</span>
+                </div>
+                <div><time>2022/12/13</time>
+                
+                ~ <time>2022/12/13</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:EBS+EBS014+2022_T1+type@asset+block@%EC%97%94%EB%A6%AC%EC%BD%94_%EB%AA%A8%EB%A0%88%ED%8B%B0_%EC%88%98%EC%A0%95.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[문화와 생활 속 청렴 시즌2 (K-MOOC ─ 진행중)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:ACRCEDU+ACRC02+2022_09/about</link>
@@ -350,24 +368,6 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:CUK+CUK_07+2022_1+type@asset+block@%EC%8D%B8%EB%84%A4%EC%9D%BC_%EA%B8%B0%EC%88%A0%EB%A1%9C.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[한국창업정책 60년사와 우수 기업 사례 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SKKUk+skku_64+2022_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SKKUk+skku_64+2022_T1/about</guid>
-            <pubDate>Mon, 28 Nov 2022 09:12:54 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김경환
-                </span>
-                <span class="kr01_school">SUNGKYUNKWAN UNIVERSITY</span>
-                </div>
-                <div><time>2022/11/28</time>
-                
-                ~ <time>2023/01/16</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SKKUk+skku_64+2022_T1+type@asset+block@%EB%8C%80%ED%91%9C%EC%9D%B4%EB%AF%B8%EC%A7%80.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[파이썬으로 배우는 기계학습 입문 Plus+ (K-MOOC ─ 개강예정)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:HGUk+HGUP01+2022_T4/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:HGUk+HGUP01+2022_T4/about</guid>
@@ -402,24 +402,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:USW+USW07+2022_T1+type@asset+block@main2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위대한 수업2(GREAT MINDS) : 도시는 어떻게 성공하는가 (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:EBS+EBS014+2022_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:EBS+EBS014+2022_T1/about</guid>
-            <pubDate>Mon, 12 Dec 2022 16:16:13 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                엔리코 모레티
-                </span>
-                <span class="kr01_school">EBS</span>
-                </div>
-                <div><time>2022/12/13</time>
-                
-                ~ <time>2022/12/13</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:EBS+EBS014+2022_T1+type@asset+block@%EC%97%94%EB%A6%AC%EC%BD%94_%EB%AA%A8%EB%A0%88%ED%8B%B0_%EC%88%98%EC%A0%95.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
