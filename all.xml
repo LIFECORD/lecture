@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 08:15:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 09:12:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[진공 공학 및 설계 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Tue, 13 Dec 2022 08:15:29 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KSNU+KSNU05+2022-T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KSNU+KSNU05+2022-T2/about</guid>
+            <pubDate>Tue, 13 Dec 2022 09:12:05 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 주정훈
