@@ -4,9 +4,27 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 00:59:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 02:26:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[진공 공학 및 설계 (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Tue, 13 Dec 2022 02:26:04 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                주정훈
+                </span>
+                <span class="kr01_school">KUNSAN NATIONAL UNIVERSITY</span>
+                </div>
+                <div><time>2022/12/13</time>
+                
+                ~ <time>2023/04/03</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KSNU+KSNU05+2022-T2+type@asset+block@_%EA%B5%B0%EC%82%B0%EB%8C%80__%EC%A7%84%EA%B3%B5%EA%B3%B5%ED%95%99_%EB%B0%8F_%EC%84%A4%EA%B3%84_%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%88%98%EC%A0%95_.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[문화와 생활 속 청렴 시즌2 (K-MOOC ─ 진행중)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:ACRCEDU+ACRC02+2022_09/about</link>
@@ -350,22 +368,22 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:CUK+CUK_07+2022_1+type@asset+block@%EC%8D%B8%EB%84%A4%EC%9D%BC_%EA%B8%B0%EC%88%A0%EB%A1%9C.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[한국창업정책 60년사와 우수 기업 사례 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SKKUk+skku_64+2022_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SKKUk+skku_64+2022_T1/about</guid>
-            <pubDate>Mon, 12 Dec 2022 18:14:34 GMT</pubDate>
+            <title><![CDATA[리더의 전략적 의사결정 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SOGANGk+SOGANG19k+2022_T2_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SOGANGk+SOGANG19k+2022_T2_1/about</guid>
+            <pubDate>Tue, 13 Dec 2022 02:26:22 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                김경환
+                민재형
                 </span>
-                <span class="kr01_school">SUNGKYUNKWAN UNIVERSITY</span>
+                <span class="kr01_school">SOGANG UNIVERSITY</span>
                 </div>
-                <div><time>2022/11/28</time>
+                <div><time>2023/01/03</time>
                 
-                ~ <time>2023/01/16</time>
+                ~ <time>2023/03/08</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SKKUk+skku_64+2022_T1+type@asset+block@%EB%8C%80%ED%91%9C%EC%9D%B4%EB%AF%B8%EC%A7%80.png" length="0" type="image/png"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SOGANGk+SOGANG19k+2022_T2_1+type@asset+block@%EC%84%9C%EA%B0%95%EB%8C%80_%EB%A6%AC%EB%8D%94%EC%9D%98_%EC%A0%84%EB%9E%B5%EC%A0%81_%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95_%EC%8D%B8%EB%84%A4%EC%9D%BC_2022_.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[파이썬으로 배우는 기계학습 입문 Plus+ (K-MOOC ─ 개강예정)]]></title>
