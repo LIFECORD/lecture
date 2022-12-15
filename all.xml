@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 06:15:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 07:11:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[식품위생법규(Food Sanitation Act) (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Thu, 15 Dec 2022 06:14:46 GMT</pubDate>
+            <pubDate>Thu, 15 Dec 2022 07:11:31 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 임무혁
@@ -29,7 +29,7 @@
             <title><![CDATA[발달지연 청소년의 참 세상살이를 위한 의사소통(4) (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Thu, 15 Dec 2022 06:14:46 GMT</pubDate>
+            <pubDate>Thu, 15 Dec 2022 07:11:31 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김화수
@@ -420,6 +420,78 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:SOGANGk+SOGANG21k+2022_T2_1+type@asset+block@%EC%84%9C%EA%B0%95%EB%8C%80_%EC%95%84%EC%8B%9C%EC%95%84%EA%B3%84_%EB%AF%B8%EA%B5%AD%EC%9D%B8__%EC%B0%A8%EB%B3%84%EA%B3%BC_%EB%B0%B0%EC%A0%9C%EC%9D%98_%EC%A0%95%EC%B9%98_%EC%8D%B8%EB%84%A4%EC%9D%BC_2022_.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[R로 배우는 고급통계 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK_B01+2022_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK_B01+2022_2/about</guid>
+            <pubDate>Thu, 15 Dec 2022 07:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                강애띠
+                </span>
+                <span class="kr01_school">CYBER UNIVERSITY OF KOREA(matchup)</span>
+                </div>
+                <div><time>2022/12/26</time>
+                
+                ~ <time>2023/02/19</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:MA_CUK+MATCHUP_CUK_B01+2022_2+type@asset+block@R%EB%A1%9C_%EB%B0%B0%EC%9A%B0%EB%8A%94_%EA%B3%A0%EA%B8%89%ED%86%B5%EA%B3%84.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TeraONE 활용 빅데이터 통합 플랫폼 구축 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK_B04+2022_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK_B04+2022_2/about</guid>
+            <pubDate>Thu, 15 Dec 2022 07:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이상오
+                </span>
+                <span class="kr01_school">CYBER UNIVERSITY OF KOREA(matchup)</span>
+                </div>
+                <div><time>2022/12/26</time>
+                
+                ~ <time>2023/02/19</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:MA_CUK+MATCHUP_CUK_B04+2022_2+type@asset+block@TeraONE_%ED%99%9C%EC%9A%A9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빅데이터 거버넌스 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK_B02+2022_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK_B02+2022_2/about</guid>
+            <pubDate>Thu, 15 Dec 2022 07:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                신동선
+                </span>
+                <span class="kr01_school">CYBER UNIVERSITY OF KOREA(matchup)</span>
+                </div>
+                <div><time>2022/12/26</time>
+                
+                ~ <time>2023/02/19</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:MA_CUK+MATCHUP_CUK_B02+2022_2+type@asset+block@%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0_%EA%B1%B0%EB%B2%84%EB%84%8C%EC%8A%A4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빅데이터 분석 프로젝트 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK_B03+2022_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK_B03+2022_2/about</guid>
+            <pubDate>Thu, 15 Dec 2022 07:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김민철
+                </span>
+                <span class="kr01_school">CYBER UNIVERSITY OF KOREA(matchup)</span>
+                </div>
+                <div><time>2022/12/26</time>
+                
+                ~ <time>2023/02/19</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:MA_CUK+MATCHUP_CUK_B03+2022_2+type@asset+block@%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%B6%84%EC%84%9D_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[파이썬으로 배우는 기계학습 입문 Plus+ (K-MOOC ─ 개강예정)]]></title>
