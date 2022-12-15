@@ -4,9 +4,45 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 23:12:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 00:57:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[식품위생법규(Food Sanitation Act) (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Thu, 15 Dec 2022 00:56:58 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                임무혁
+                </span>
+                <span class="kr01_school">DAEGU UNIVERSITY</span>
+                </div>
+                <div><time>2022/12/15</time>
+                
+                ~ <time>2023/02/23</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:DGUk+DGU_026k+DGU_026k_2022+type@asset+block@_%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%8B%9D%ED%92%88%EC%9C%84%EC%83%9D%EB%B2%95%EA%B7%9C.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[발달지연 청소년의 참 세상살이를 위한 의사소통(4) (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Thu, 15 Dec 2022 00:56:58 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김화수
+                </span>
+                <span class="kr01_school">DAEGU UNIVERSITY</span>
+                </div>
+                <div><time>2022/12/15</time>
+                
+                ~ <time>2023/02/23</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:DGUk+DGU_024k+DGU_024k_2022+type@asset+block@_%EC%8D%B8%EB%84%A4%EC%9D%BC_%EB%B0%9C%EB%8B%AC%EC%9E%A5%EC%95%A0%EC%9D%B8_%EC%B2%AD%EC%86%8C%EB%85%84%EC%9D%98_%EC%B0%B8_%EC%84%B8%EC%83%81%EC%82%B4%EC%9D%B4%EB%A5%BC_%EC%9C%84%ED%95%9C_%EC%9D%98%EC%82%AC%EC%86%8C%ED%86%B5_4_.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[진공 공학 및 설계 (K-MOOC ─ 진행중)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:KSNU+KSNU05+2022-T2/about</link>
@@ -332,42 +368,6 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:CUK+CUK_04+2022_1+type@asset+block@%EC%8D%B8%EB%84%A4%EC%9D%BC_%EB%AC%B8%ED%99%94%EB%A1%9C.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[경제로 실력쌓기 일본어 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:CUK+CUK_06+2022_1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:CUK+CUK_06+2022_1/about</guid>
-            <pubDate>Mon, 28 Nov 2022 10:13:53 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                채성식 and 1 others
-                </span>
-                <span class="kr01_school">THE CYBER UNIVERSITY OF KOREA</span>
-                </div>
-                <div><time>2022/11/28</time>
-                
-                ~ <time>2023/01/30</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:CUK+CUK_06+2022_1+type@asset+block@%EC%8D%B8%EB%84%A4%EC%9D%BC_%EA%B2%BD%EC%A0%9C%EB%A1%9C.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[기술로 고수되기 일본어 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:CUK+CUK_07+2022_1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:CUK+CUK_07+2022_1/about</guid>
-            <pubDate>Wed, 14 Dec 2022 03:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                유재진 and 1 others
-                </span>
-                <span class="kr01_school">THE CYBER UNIVERSITY OF KOREA</span>
-                </div>
-                <div><time>2022/11/28</time>
-                
-                ~ <time>2023/01/30</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:CUK+CUK_07+2022_1+type@asset+block@%EC%8D%B8%EB%84%A4%EC%9D%BC_%EA%B8%B0%EC%88%A0%EB%A1%9C.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[리더의 전략적 의사결정 (K-MOOC ─ 개강예정)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:SOGANGk+SOGANG19k+2022_T2_1/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:SOGANGk+SOGANG19k+2022_T2_1/about</guid>
@@ -456,42 +456,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:KAISTk+EE547+2022_K22_01+type@asset+block@2022%EB%85%84_K-MOOC_%EC%8B%A0%EA%B7%9C_%EA%B0%95%EC%A2%8C_%EC%8D%B8%EB%84%A4%EC%9D%BC.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[식품위생법규(Food Sanitation Act) (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:DGUk+DGU_026k+DGU_026k_2022/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:DGUk+DGU_026k+DGU_026k_2022/about</guid>
-            <pubDate>Wed, 14 Dec 2022 02:21:55 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                임무혁
-                </span>
-                <span class="kr01_school">DAEGU UNIVERSITY</span>
-                </div>
-                <div><time>2022/12/15</time>
-                
-                ~ <time>2023/02/23</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:DGUk+DGU_026k+DGU_026k_2022+type@asset+block@_%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%8B%9D%ED%92%88%EC%9C%84%EC%83%9D%EB%B2%95%EA%B7%9C.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[발달지연 청소년의 참 세상살이를 위한 의사소통(4) (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:DGUk+DGU_024k+DGU_024k_2022/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:DGUk+DGU_024k+DGU_024k_2022/about</guid>
-            <pubDate>Wed, 14 Dec 2022 02:21:41 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김화수
-                </span>
-                <span class="kr01_school">DAEGU UNIVERSITY</span>
-                </div>
-                <div><time>2022/12/15</time>
-                
-                ~ <time>2023/02/23</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:DGUk+DGU_024k+DGU_024k_2022+type@asset+block@_%EC%8D%B8%EB%84%A4%EC%9D%BC_%EB%B0%9C%EB%8B%AC%EC%9E%A5%EC%95%A0%EC%9D%B8_%EC%B2%AD%EC%86%8C%EB%85%84%EC%9D%98_%EC%B0%B8_%EC%84%B8%EC%83%81%EC%82%B4%EC%9D%B4%EB%A5%BC_%EC%9C%84%ED%95%9C_%EC%9D%98%EC%82%AC%EC%86%8C%ED%86%B5_4_.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
