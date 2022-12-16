@@ -4,9 +4,27 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 16:14:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 17:11:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[차이나는 K-클라스 : 하이테크와 예술의 만남, K-도자기(이애령)]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Fri, 16 Dec 2022 17:11:06 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이애령
+                </span>
+                <span class="kr01_school">JTBC</span>
+                </div>
+                <div><time>2022/12/17</time>
+                
+                ~ <time>2022/12/17</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:JTBC+JTBC018+2022_T1+type@asset+block@202212151051510009.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[식품위생법규(Food Sanitation Act)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:DGUk+DGU_026k+DGU_026k_2022/about</link>
@@ -348,24 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:CUK+CUK_05+2022_1+type@asset+block@%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%82%AC%ED%9A%8C%EB%A1%9C.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[문화로 입문하기 일본어]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:CUK+CUK_04+2022_1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:CUK+CUK_04+2022_1/about</guid>
-            <pubDate>Mon, 28 Nov 2022 10:13:53 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                박연정 and 1 others
-                </span>
-                <span class="kr01_school">THE CYBER UNIVERSITY OF KOREA</span>
-                </div>
-                <div><time>2022/11/28</time>
-                
-                ~ <time>2023/02/20</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:CUK+CUK_04+2022_1+type@asset+block@%EC%8D%B8%EB%84%A4%EC%9D%BC_%EB%AC%B8%ED%99%94%EB%A1%9C.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
