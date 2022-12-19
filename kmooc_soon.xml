@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 22:11:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 23:14:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,60 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:CUK+CUK_08+2022_1+type@asset+block@AI%EC%9C%B5%ED%95%A9_01-1-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사물인터넷(IoT)과 제어기술]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:CUK+CUK_09+2022_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:CUK+CUK_09+2022_1/about</guid>
+            <pubDate>Mon, 19 Dec 2022 23:14:29 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                장경배 and 1 others
+                </span>
+                <span class="kr01_school">THE CYBER UNIVERSITY OF KOREA</span>
+                </div>
+                <div><time>2023/01/02</time>
+                
+                ~ <time>2023/02/13</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:CUK+CUK_09+2022_1+type@asset+block@AI%EC%9C%B5%ED%95%A9_01-2-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스마트 에너지 이론]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:CUK+CUK_11+2022_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:CUK+CUK_11+2022_1/about</guid>
+            <pubDate>Mon, 19 Dec 2022 23:14:29 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                우태호 and 1 others
+                </span>
+                <span class="kr01_school">THE CYBER UNIVERSITY OF KOREA</span>
+                </div>
+                <div><time>2023/01/02</time>
+                
+                ~ <time>2023/02/13</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:CUK+CUK_11+2022_1+type@asset+block@AI%EC%9C%B5%ED%95%A9_01-4-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인공지능(AI)과 냉동공조]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:CUK+CUK_10+2022_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:CUK+CUK_10+2022_1/about</guid>
+            <pubDate>Mon, 19 Dec 2022 23:14:29 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이동찬
+                </span>
+                <span class="kr01_school">THE CYBER UNIVERSITY OF KOREA</span>
+                </div>
+                <div><time>2023/01/02</time>
+                
+                ~ <time>2023/02/06</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:CUK+CUK_10+2022_1+type@asset+block@AI%EC%9C%B5%ED%95%A9_01-3-2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[R로 배우는 고급통계]]></title>
