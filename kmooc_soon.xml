@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Dec 2022 23:11:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 00:51:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -150,60 +150,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:HGUk+HGUP01+2022_T4+type@asset+block@%EC%8D%B8%EB%84%A4%EC%9D%BC2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[강원국의 어른답게 말합니다 (Speak like a real grown-up)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:WJTB+WJTB09+2022_01/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:WJTB+WJTB09+2022_01/about</guid>
-            <pubDate>Fri, 16 Dec 2022 09:11:15 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                웅진씽크빅
-                </span>
-                <span class="kr01_school">WOONGJIN THINKBIG</span>
-                </div>
-                <div><time>2022/12/19</time>
-                
-                ~ <time>2024/01/01</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:WJTB+WJTB09+2022_01+type@asset+block@652400__%EB%B6%81%ED%81%B4%EB%A6%BD__%EA%B0%95%EC%9B%90%EA%B5%AD%EC%9D%98_%EC%96%B4%EB%A5%B8%EB%8B%B5%EA%B2%8C_%EB%A7%90%ED%95%A9%EB%8B%88%EB%8B%A4__Speak_like_a_real_grown-up_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메타버스로 맛보는 서해바다, 도(道)시(視)락(樂)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:USW+USW07+2022_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:USW+USW07+2022_T1/about</guid>
-            <pubDate>Tue, 13 Dec 2022 14:11:51 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                우경진
-                </span>
-                <span class="kr01_school">The University of Suwon</span>
-                </div>
-                <div><time>2022/12/19</time>
-                
-                ~ <time>2023/02/05</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:USW+USW07+2022_T1+type@asset+block@main2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[양자정보처리 기초]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KAISTk+EE547+2022_K22_01/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KAISTk+EE547+2022_K22_01/about</guid>
-            <pubDate>Tue, 13 Dec 2022 14:11:51 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                배준우
-                </span>
-                <span class="kr01_school">Korea Advanced Institute of Science and Technology</span>
-                </div>
-                <div><time>2022/12/19</time>
-                
-                ~ <time>2023/02/05</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KAISTk+EE547+2022_K22_01+type@asset+block@2022%EB%85%84_K-MOOC_%EC%8B%A0%EA%B7%9C_%EA%B0%95%EC%A2%8C_%EC%8D%B8%EB%84%A4%EC%9D%BC.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
