@@ -4,9 +4,63 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Dec 2022 00:50:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Dec 2022 02:07:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[K-Development, From Where, To Where]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Wed, 21 Dec 2022 02:07:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이양수 and 3 others
+                </span>
+                <span class="kr01_school">Yeungnam University</span>
+                </div>
+                <div><time>2022/12/21</time>
+                
+                ~ <time>2023/01/20</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:YeungnamUnivK+YU202203+2022_02+type@asset+block@K-MOOC_%EC%8B%A0%EA%B7%9C%EA%B0%9C%EB%B0%9C%EA%B0%95%EC%A2%8C_-thumbnail_%EC%88%98%EC%A0%95.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자산관리와 인생재무제표]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Wed, 21 Dec 2022 02:07:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                박종국 and 1 others
+                </span>
+                <span class="kr01_school">Yeungnam University</span>
+                </div>
+                <div><time>2022/12/21</time>
+                
+                ~ <time>2023/01/20</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:YeungnamUnivK+YU202202+2022_02+type@asset+block@%EC%9E%90%EC%82%B0%EA%B4%80%EB%A6%AC%EC%99%80%EC%9D%B8%EC%83%9D%EC%9E%AC%EB%AC%B4%EC%9E%AC%ED%91%9C_thumbnail_432x243_px_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[생물주권이야기]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Wed, 21 Dec 2022 02:07:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                박선주 and 2 others
+                </span>
+                <span class="kr01_school">Yeungnam University</span>
+                </div>
+                <div><time>2022/12/21</time>
+                
+                ~ <time>2023/01/20</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:YeungnamUnivK+YU202201+2022_02+type@asset+block@%EC%83%9D%EB%AC%BC%EC%A3%BC%EA%B6%8C%EC%9D%B4%EC%95%BC%EA%B8%B0_thumbnail_432x243_px_.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2030 축의 전환(2030)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:WJTB+WJTB10+2022_01/about</link>
@@ -312,60 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:KAISTk+EE547+2022_K22_01+type@asset+block@2022%EB%85%84_K-MOOC_%EC%8B%A0%EA%B7%9C_%EA%B0%95%EC%A2%8C_%EC%8D%B8%EB%84%A4%EC%9D%BC.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[식품위생법규(Food Sanitation Act)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:DGUk+DGU_026k+DGU_026k_2022/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:DGUk+DGU_026k+DGU_026k_2022/about</guid>
-            <pubDate>Thu, 15 Dec 2022 09:12:39 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                임무혁
-                </span>
-                <span class="kr01_school">DAEGU UNIVERSITY</span>
-                </div>
-                <div><time>2022/12/15</time>
-                
-                ~ <time>2023/02/23</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:DGUk+DGU_026k+DGU_026k_2022+type@asset+block@_%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%8B%9D%ED%92%88%EC%9C%84%EC%83%9D%EB%B2%95%EA%B7%9C.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[발달지연 청소년의 참 세상살이를 위한 의사소통(4)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:DGUk+DGU_024k+DGU_024k_2022/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:DGUk+DGU_024k+DGU_024k_2022/about</guid>
-            <pubDate>Thu, 15 Dec 2022 09:12:39 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김화수
-                </span>
-                <span class="kr01_school">DAEGU UNIVERSITY</span>
-                </div>
-                <div><time>2022/12/15</time>
-                
-                ~ <time>2023/02/23</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:DGUk+DGU_024k+DGU_024k_2022+type@asset+block@_%EC%8D%B8%EB%84%A4%EC%9D%BC_%EB%B0%9C%EB%8B%AC%EC%9E%A5%EC%95%A0%EC%9D%B8_%EC%B2%AD%EC%86%8C%EB%85%84%EC%9D%98_%EC%B0%B8_%EC%84%B8%EC%83%81%EC%82%B4%EC%9D%B4%EB%A5%BC_%EC%9C%84%ED%95%9C_%EC%9D%98%EC%82%AC%EC%86%8C%ED%86%B5_4_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[진공 공학 및 설계]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KSNU+KSNU05+2022-T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KSNU+KSNU05+2022-T2/about</guid>
-            <pubDate>Tue, 13 Dec 2022 09:12:05 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                주정훈
-                </span>
-                <span class="kr01_school">KUNSAN NATIONAL UNIVERSITY</span>
-                </div>
-                <div><time>2022/12/13</time>
-                
-                ~ <time>2023/04/03</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KSNU+KSNU05+2022-T2+type@asset+block@_%EA%B5%B0%EC%82%B0%EB%8C%80__%EC%A7%84%EA%B3%B5%EA%B3%B5%ED%95%99_%EB%B0%8F_%EC%84%A4%EA%B3%84_%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%88%98%EC%A0%95_.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
