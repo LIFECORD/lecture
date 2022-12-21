@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Dec 2022 03:12:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Dec 2022 04:13:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[K-Development, From Where, To Where (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Wed, 21 Dec 2022 03:12:05 GMT</pubDate>
+            <pubDate>Wed, 21 Dec 2022 04:13:25 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이양수 and 3 others
@@ -29,7 +29,7 @@
             <title><![CDATA[자산관리와 인생재무제표 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Wed, 21 Dec 2022 03:12:05 GMT</pubDate>
+            <pubDate>Wed, 21 Dec 2022 04:13:25 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박종국 and 1 others
@@ -47,7 +47,7 @@
             <title><![CDATA[생물주권이야기 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Wed, 21 Dec 2022 03:12:05 GMT</pubDate>
+            <pubDate>Wed, 21 Dec 2022 04:13:25 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박선주 and 2 others
