@@ -4,9 +4,27 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Dec 2022 16:15:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2022 17:10:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[차이나는 K-클라스 : 우리 역사, K-콘텐트로 다시 태어나다(신주백)]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Thu, 22 Dec 2022 17:10:20 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                신주백
+                </span>
+                <span class="kr01_school">JTBC</span>
+                </div>
+                <div><time>2022/12/23</time>
+                
+                ~ <time>2022/12/23</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:JTBC+JTBC019+2022_T1+type@asset+block@K-19_%EC%8B%A0%EC%A3%BC%EB%B0%B1_%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[K-Development, From Where, To Where]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:YeungnamUnivK+YU202203+2022_02/about</link>
@@ -348,24 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:USW+USW07+2022_T1+type@asset+block@main2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[양자정보처리 기초]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KAISTk+EE547+2022_K22_01/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KAISTk+EE547+2022_K22_01/about</guid>
-            <pubDate>Mon, 19 Dec 2022 09:11:27 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                배준우
-                </span>
-                <span class="kr01_school">Korea Advanced Institute of Science and Technology</span>
-                </div>
-                <div><time>2022/12/19</time>
-                
-                ~ <time>2023/02/05</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KAISTk+EE547+2022_K22_01+type@asset+block@2022%EB%85%84_K-MOOC_%EC%8B%A0%EA%B7%9C_%EA%B0%95%EC%A2%8C_%EC%8D%B8%EB%84%A4%EC%9D%BC.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
