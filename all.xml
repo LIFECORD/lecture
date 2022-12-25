@@ -4,9 +4,117 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Dec 2022 14:09:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Dec 2022 15:10:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모성간호학 (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Sun, 25 Dec 2022 15:10:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                박현정
+                </span>
+                <span class="kr01_school">Pyeongtaek University</span>
+                </div>
+                <div><time>2022/12/26</time>
+                
+                ~ <time>2023/02/20</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:PTUk+ID_PMOOC02k+2022_T3+type@asset+block@%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%95%95%EC%B6%95.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빅데이터와 고객관계관리 (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Sun, 25 Dec 2022 15:10:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김승욱
+                </span>
+                <span class="kr01_school">Pyeongtaek University</span>
+                </div>
+                <div><time>2022/12/26</time>
+                
+                ~ <time>2023/02/20</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:PTUk+PMOOC02k+2022_T3+type@asset+block@%EC%8D%B8%EB%84%A4%EC%9D%BC_%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0_%ED%81%AC%EA%B8%B0_%EC%B6%95%EC%86%8C.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시와 상상력: 동서양의 명시를 통해 본 인문학적 상상력 (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Sun, 25 Dec 2022 15:10:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                박진임
+                </span>
+                <span class="kr01_school">Pyeongtaek University</span>
+                </div>
+                <div><time>2022/12/26</time>
+                
+                ~ <time>2023/02/20</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:PTUk+_PMOOC01k+2022_T4+type@asset+block@%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%8B%9C%EC%99%80%EC%83%81%EC%83%81%EB%A0%A5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인간행동과 사회환경 (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Sun, 25 Dec 2022 15:10:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이상무
+                </span>
+                <span class="kr01_school">Pyeongtaek University</span>
+                </div>
+                <div><time>2022/12/26</time>
+                
+                ~ <time>2023/02/20</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:PTUk+ID_PMOOC01k+2022_T2+type@asset+block@2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고대 그리스 신화와 문학세계 (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Sun, 25 Dec 2022 15:10:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                유호전
+                </span>
+                <span class="kr01_school">Pyeongtaek University</span>
+                </div>
+                <div><time>2022/12/26</time>
+                
+                ~ <time>2023/01/10</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:PTUk+SF_PMOOC02k+2022_T3+type@asset+block@2022-%EA%B2%A8%EC%9A%B8.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[디지털 시대의 커뮤니케이션 (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Sun, 25 Dec 2022 15:10:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                 이시화
+                </span>
+                <span class="kr01_school">Pyeongtaek University</span>
+                </div>
+                <div><time>2022/12/26</time>
+                
+                ~ <time>2023/01/10</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:PTUk+SF_PMOOC01k+2022_T3+type@asset+block@2022-%EA%B2%A8%EC%9A%B8.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[K-Development, From Where, To Where (K-MOOC ─ 진행중)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:YeungnamUnivK+YU202203+2022_02/about</link>
@@ -258,114 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:neca+NECA01+2022_T2+type@asset+block@k-mooc_%EC%9D%B4%EB%AF%B8%EC%A7%80.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자원봉사 교육강사 만들기 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:BDUk+BDU18+2023_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:BDUk+BDU18+2023_T1/about</guid>
-            <pubDate>Mon, 19 Dec 2022 09:11:27 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                최유미
-                </span>
-                <span class="kr01_school">BUSAN DIGITAL UNIVERSITY</span>
-                </div>
-                <div><time>2022/12/19</time>
-                
-                ~ <time>2023/02/12</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:BDUk+BDU18+2023_T1+type@asset+block@thumb01.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[건강보험 보장성강화 제대로 알기 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:BDUk+BDU15+2023_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:BDUk+BDU15+2023_T1/about</guid>
-            <pubDate>Mon, 19 Dec 2022 09:11:27 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                하오현
-                </span>
-                <span class="kr01_school">BUSAN DIGITAL UNIVERSITY</span>
-                </div>
-                <div><time>2022/12/19</time>
-                
-                ~ <time>2023/02/12</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:BDUk+BDU15+2023_T1+type@asset+block@thumb04-1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[자원봉사자 교육하기 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:BDUk+BDU16+2023_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:BDUk+BDU16+2023_T1/about</guid>
-            <pubDate>Mon, 19 Dec 2022 09:11:27 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                곽둘주
-                </span>
-                <span class="kr01_school">BUSAN DIGITAL UNIVERSITY</span>
-                </div>
-                <div><time>2022/12/19</time>
-                
-                ~ <time>2023/02/12</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:BDUk+BDU16+2023_T1+type@asset+block@thumb03.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[자원봉사활동 지원하기 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:BDUk+BDU17+2023_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:BDUk+BDU17+2023_T1/about</guid>
-            <pubDate>Mon, 19 Dec 2022 09:11:27 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                이은자
-                </span>
-                <span class="kr01_school">BUSAN DIGITAL UNIVERSITY</span>
-                </div>
-                <div><time>2022/12/19</time>
-                
-                ~ <time>2023/02/12</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:BDUk+BDU17+2023_T1+type@asset+block@thumb02.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[메타버스로 맛보는 서해바다, 도(道)시(視)락(樂) (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:USW+USW07+2022_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:USW+USW07+2022_T1/about</guid>
-            <pubDate>Mon, 19 Dec 2022 09:11:27 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                우경진
-                </span>
-                <span class="kr01_school">The University of Suwon</span>
-                </div>
-                <div><time>2022/12/19</time>
-                
-                ~ <time>2023/02/05</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:USW+USW07+2022_T1+type@asset+block@main2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[양자정보처리 기초 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KAISTk+EE547+2022_K22_01/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KAISTk+EE547+2022_K22_01/about</guid>
-            <pubDate>Fri, 23 Dec 2022 18:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                배준우
-                </span>
-                <span class="kr01_school">Korea Advanced Institute of Science and Technology</span>
-                </div>
-                <div><time>2022/12/19</time>
-                
-                ~ <time>2023/02/05</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KAISTk+EE547+2022_K22_01+type@asset+block@2022%EB%85%84_K-MOOC_%EC%8B%A0%EA%B7%9C_%EA%B0%95%EC%A2%8C_%EC%8D%B8%EB%84%A4%EC%9D%BC.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[리더의 전략적 의사결정 (K-MOOC ─ 개강예정)]]></title>
