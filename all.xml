@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 08:14:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 09:11:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[생물정보학과 신약개발 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Wed, 28 Dec 2022 08:13:53 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_20+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_20+2022_T2/about</guid>
+            <pubDate>Wed, 28 Dec 2022 09:10:58 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 최윤주
@@ -27,9 +27,9 @@
         </item>
         <item>
             <title><![CDATA[한국의 민주주의와 민주화 운동Ⅵ (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Wed, 28 Dec 2022 08:13:53 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_23+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_23+2022_T2/about</guid>
+            <pubDate>Wed, 28 Dec 2022 09:10:58 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 최정기 and 1 others
@@ -45,9 +45,9 @@
         </item>
         <item>
             <title><![CDATA[한국의 민주주의와 민주화 운동Ⅴ (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Wed, 28 Dec 2022 08:13:53 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_22+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_22+2022_T2/about</guid>
+            <pubDate>Wed, 28 Dec 2022 09:10:58 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 최정기 and 1 others
@@ -63,9 +63,9 @@
         </item>
         <item>
             <title><![CDATA[아트앤테크 융합예술의 이해 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Wed, 28 Dec 2022 08:13:53 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_21+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_21+2022_T2/about</guid>
+            <pubDate>Wed, 28 Dec 2022 09:10:58 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 변현진
@@ -81,9 +81,9 @@
         </item>
         <item>
             <title><![CDATA[민주 시민의식을 위한 동양 고전의 프리즘 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Wed, 28 Dec 2022 08:13:53 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_hum_ctl001+2022_BA_ctl01/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_hum_ctl001+2022_BA_ctl01/about</guid>
+            <pubDate>Wed, 28 Dec 2022 09:10:58 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 신창호
@@ -99,9 +99,9 @@
         </item>
         <item>
             <title><![CDATA[과학문화 명작세미나 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Wed, 28 Dec 2022 08:13:53 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_hum_ctl002+2022_BA_ctl02/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_hum_ctl002+2022_BA_ctl02/about</guid>
+            <pubDate>Wed, 28 Dec 2022 09:10:58 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김지연
@@ -117,9 +117,9 @@
         </item>
         <item>
             <title><![CDATA[파이썬 프로그래밍 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Wed, 28 Dec 2022 08:13:53 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SunMoonK+SMKMOOC-04+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SunMoonK+SMKMOOC-04+2023_T1/about</guid>
+            <pubDate>Wed, 28 Dec 2022 09:10:58 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김민정
@@ -135,9 +135,9 @@
         </item>
         <item>
             <title><![CDATA[생활과 문화를 통해 한국사 새롭게 이해하기 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Wed, 28 Dec 2022 08:13:53 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_hum_ctl003+2022_BA_ctl03/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_hum_ctl003+2022_BA_ctl03/about</guid>
+            <pubDate>Wed, 28 Dec 2022 09:10:58 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 송규진
