@@ -4,27 +4,9 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 17:10:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 18:13:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[차이나는 K-클라스 : 1시간에 몰아보는 K-컬처 총정리(유홍준, 김영대, 백은하)]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Wed, 28 Dec 2022 17:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                유홍준 and 2 others
-                </span>
-                <span class="kr01_school">JTBC</span>
-                </div>
-                <div><time>2022/12/29</time>
-                
-                ~ <time>2022/12/29</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:JTBC+JTBC020+2022_T1+type@asset+block@K-20_%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[생물정보학과 신약개발]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_20+2022_T2/about</link>
@@ -366,6 +348,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:DHUk+DHU18k+2022_T2+type@asset+block@_%EC%8D%B8%EB%84%A4%EC%9D%BC__%EB%B0%94%EC%9D%B4%EC%98%A4%EB%B7%B0%ED%8B%B0_v3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[문화융합시대의 창업]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:RUCK+RUCK01+2022_RUCK2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:RUCK+RUCK01+2022_RUCK2/about</guid>
+            <pubDate>Wed, 28 Dec 2022 18:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김기정 외 10인
+                </span>
+                <span class="kr01_school">The Regional University Consortium of Korea</span>
+                </div>
+                <div><time>2022/12/26</time>
+                
+                ~ <time>2023/01/27</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:RUCK+RUCK01+2022_RUCK2+type@asset+block@imageedit_9_5327786883.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
