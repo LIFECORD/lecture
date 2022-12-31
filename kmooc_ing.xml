@@ -4,14 +4,14 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 31 Dec 2022 07:10:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Dec 2022 08:13:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[한걸음 더 몽골어 더 알고 싶은 몽골어]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Sat, 31 Dec 2022 07:09:46 GMT</pubDate>
+            <pubDate>Sat, 31 Dec 2022 08:13:09 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김기선 and 1 others
@@ -29,7 +29,7 @@
             <title><![CDATA[초급 인도네시아어 읽기]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Sat, 31 Dec 2022 07:09:46 GMT</pubDate>
+            <pubDate>Sat, 31 Dec 2022 08:13:09 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이주영
@@ -47,7 +47,7 @@
             <title><![CDATA[이탈리아어, 첫 걸음 내딛기]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Sat, 31 Dec 2022 07:09:46 GMT</pubDate>
+            <pubDate>Sat, 31 Dec 2022 08:13:09 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이상엽
@@ -65,7 +65,7 @@
             <title><![CDATA[기초 태국어 (A1)]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Sat, 31 Dec 2022 07:09:46 GMT</pubDate>
+            <pubDate>Sat, 31 Dec 2022 08:13:09 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박경은
@@ -78,6 +78,42 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:HUFS+HUFS_17+2023_T1+type@asset+block@%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[초급 힌디어 문법:A1]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Sat, 31 Dec 2022 08:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                고태진
+                </span>
+                <span class="kr01_school">HANKUK UNIVERSITY OF FOREIGN STUDIES</span>
+                </div>
+                <div><time>2022/12/31</time>
+                
+                ~ <time>2023/02/17</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:HUFS+HUFS_19+2023_T1+type@asset+block@thumbnail.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[초급 헝가리어-1]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Sat, 31 Dec 2022 08:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                유진일
+                </span>
+                <span class="kr01_school">HANKUK UNIVERSITY OF FOREIGN STUDIES</span>
+                </div>
+                <div><time>2022/12/31</time>
+                
+                ~ <time>2023/02/17</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:HUFS+HUFS_18+2023_T1+type@asset+block@thumbnail.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기계 학습 기반의 데이터 공학]]></title>
@@ -330,42 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:MA_CUK+MATCHUP_CUK_B02+2022_2+type@asset+block@%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0_%EA%B1%B0%EB%B2%84%EB%84%8C%EC%8A%A4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빅데이터 분석 프로젝트]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK_B03+2022_2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK_B03+2022_2/about</guid>
-            <pubDate>Mon, 26 Dec 2022 10:11:36 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김민철
-                </span>
-                <span class="kr01_school">CYBER UNIVERSITY OF KOREA(matchup)</span>
-                </div>
-                <div><time>2022/12/26</time>
-                
-                ~ <time>2023/02/19</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:MA_CUK+MATCHUP_CUK_B03+2022_2+type@asset+block@%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%B6%84%EC%84%9D_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[논문작성 가이드]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SKKUk+skku_67+2022_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SKKUk+skku_67+2022_T1/about</guid>
-            <pubDate>Mon, 26 Dec 2022 09:11:19 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                박준현
-                </span>
-                <span class="kr01_school">SUNGKYUNKWAN UNIVERSITY</span>
-                </div>
-                <div><time>2022/12/26</time>
-                
-                ~ <time>2023/06/30</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SKKUk+skku_67+2022_T1+type@asset+block@%EB%8C%80%ED%91%9C%EC%9D%B4%EB%AF%B8%EC%A7%80.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
