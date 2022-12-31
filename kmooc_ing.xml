@@ -4,14 +4,14 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 31 Dec 2022 08:13:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Dec 2022 09:10:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[한걸음 더 몽골어 더 알고 싶은 몽골어]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Sat, 31 Dec 2022 08:13:09 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:HUFS+HUFS_14+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:HUFS+HUFS_14+2023_T1/about</guid>
+            <pubDate>Sat, 31 Dec 2022 09:10:02 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김기선 and 1 others
@@ -27,9 +27,9 @@
         </item>
         <item>
             <title><![CDATA[초급 인도네시아어 읽기]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Sat, 31 Dec 2022 08:13:09 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:HUFS+HUFS_16+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:HUFS+HUFS_16+2023_T1/about</guid>
+            <pubDate>Sat, 31 Dec 2022 09:10:02 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이주영
@@ -45,9 +45,9 @@
         </item>
         <item>
             <title><![CDATA[이탈리아어, 첫 걸음 내딛기]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Sat, 31 Dec 2022 08:13:09 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:HUFS+HUFS_15+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:HUFS+HUFS_15+2023_T1/about</guid>
+            <pubDate>Sat, 31 Dec 2022 09:10:02 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이상엽
@@ -63,9 +63,9 @@
         </item>
         <item>
             <title><![CDATA[기초 태국어 (A1)]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Sat, 31 Dec 2022 08:13:09 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:HUFS+HUFS_17+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:HUFS+HUFS_17+2023_T1/about</guid>
+            <pubDate>Sat, 31 Dec 2022 09:10:02 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박경은
@@ -81,9 +81,9 @@
         </item>
         <item>
             <title><![CDATA[초급 힌디어 문법:A1]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Sat, 31 Dec 2022 08:13:09 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:HUFS+HUFS_19+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:HUFS+HUFS_19+2023_T1/about</guid>
+            <pubDate>Sat, 31 Dec 2022 09:10:02 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 고태진
@@ -99,9 +99,9 @@
         </item>
         <item>
             <title><![CDATA[초급 헝가리어-1]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Sat, 31 Dec 2022 08:13:09 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:HUFS+HUFS_18+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:HUFS+HUFS_18+2023_T1/about</guid>
+            <pubDate>Sat, 31 Dec 2022 09:10:02 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 유진일
