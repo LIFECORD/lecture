@@ -4,14 +4,14 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Jan 2023 08:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jan 2023 09:11:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[공기조화기술 (HVAC) 기초]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 02 Jan 2023 08:14:40 GMT</pubDate>
+            <pubDate>Mon, 02 Jan 2023 09:11:07 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 백창현 and 1 others
@@ -29,7 +29,7 @@
             <title><![CDATA[사물인터넷(IoT)과 제어기술]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 02 Jan 2023 08:14:40 GMT</pubDate>
+            <pubDate>Mon, 02 Jan 2023 09:11:07 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 장경배 and 1 others
@@ -47,7 +47,7 @@
             <title><![CDATA[스마트 에너지 이론]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 02 Jan 2023 08:14:40 GMT</pubDate>
+            <pubDate>Mon, 02 Jan 2023 09:11:07 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 우태호 and 1 others
@@ -65,7 +65,7 @@
             <title><![CDATA[인공지능(AI)과 냉동공조]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 02 Jan 2023 08:14:40 GMT</pubDate>
+            <pubDate>Mon, 02 Jan 2023 09:11:07 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이동찬
@@ -81,9 +81,9 @@
         </item>
         <item>
             <title><![CDATA[유니티로 이해하는 인공지능과 기계학습 (feat. ML-Agent)]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 02 Jan 2023 08:14:40 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:MA_NSU+MATCHUP_NSU04+2023_04/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:MA_NSU+MATCHUP_NSU04+2023_04/about</guid>
+            <pubDate>Mon, 02 Jan 2023 09:11:07 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 민규식 and 1 others
@@ -99,9 +99,9 @@
         </item>
         <item>
             <title><![CDATA[Vuforia를 활용한 AR 콘텐츠 만들기]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 02 Jan 2023 08:14:40 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:MA_NSU+MATCHUP_NSU03+2023_03/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:MA_NSU+MATCHUP_NSU03+2023_03/about</guid>
+            <pubDate>Mon, 02 Jan 2023 09:11:07 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 강민식
@@ -117,9 +117,9 @@
         </item>
         <item>
             <title><![CDATA[유니티 VR 프로그래밍]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 02 Jan 2023 08:14:40 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:MA_NSU+MATCHUP_NSU01+2023_01/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:MA_NSU+MATCHUP_NSU01+2023_01/about</guid>
+            <pubDate>Mon, 02 Jan 2023 09:11:07 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 강민식
@@ -135,9 +135,9 @@
         </item>
         <item>
             <title><![CDATA[프로그래밍 문법에서 자유로워지는 유니티 비주얼 스크립팅]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 02 Jan 2023 08:14:40 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:MA_NSU+MATCHUP_NSU02+2023_02/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:MA_NSU+MATCHUP_NSU02+2023_02/about</guid>
+            <pubDate>Mon, 02 Jan 2023 09:11:07 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김현정 and 1 others
@@ -153,9 +153,9 @@
         </item>
         <item>
             <title><![CDATA[외국인유학생을 위한 한국대학문화]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 02 Jan 2023 08:14:40 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:DKUK+MOOC_DKUK0024+2022_T3/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DKUK+MOOC_DKUK0024+2022_T3/about</guid>
+            <pubDate>Mon, 02 Jan 2023 09:11:07 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 임수경 and 2 others
@@ -171,9 +171,9 @@
         </item>
         <item>
             <title><![CDATA[비정형 데이터 분석: 소셜 네트워크의 이해 및 분석]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 02 Jan 2023 08:14:40 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:EwhaK+EW22003K+2022_W03/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:EwhaK+EW22003K+2022_W03/about</guid>
+            <pubDate>Mon, 02 Jan 2023 09:11:07 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 윤호영
@@ -189,9 +189,9 @@
         </item>
         <item>
             <title><![CDATA[비정형 데이터 분석: 소셜 네트워크의 분석 심화]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 02 Jan 2023 08:14:40 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:EwhaK+EW22004K+2022_W04/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:EwhaK+EW22004K+2022_W04/about</guid>
+            <pubDate>Mon, 02 Jan 2023 09:11:07 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                  윤호영
@@ -207,9 +207,9 @@
         </item>
         <item>
             <title><![CDATA[영미문화 속 여성이야기]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 02 Jan 2023 08:14:40 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:EwhaK+EW22002K+2022_W02/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:EwhaK+EW22002K+2022_W02/about</guid>
+            <pubDate>Mon, 02 Jan 2023 09:11:07 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이소영
@@ -225,9 +225,9 @@
         </item>
         <item>
             <title><![CDATA[임상정보학]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 02 Jan 2023 08:14:40 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KOHI+KOHI007+2023_001/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KOHI+KOHI007+2023_001/about</guid>
+            <pubDate>Mon, 02 Jan 2023 09:11:07 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이재호 and 13 others
