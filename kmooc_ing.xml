@@ -4,14 +4,14 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Jan 2023 09:11:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jan 2023 10:12:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[공기조화기술 (HVAC) 기초]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 02 Jan 2023 09:11:07 GMT</pubDate>
+            <pubDate>Mon, 02 Jan 2023 10:12:05 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 백창현 and 1 others
@@ -27,9 +27,9 @@
         </item>
         <item>
             <title><![CDATA[사물인터넷(IoT)과 제어기술]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 02 Jan 2023 09:11:07 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:CUK+CUK_09+2022_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:CUK+CUK_09+2022_1/about</guid>
+            <pubDate>Mon, 02 Jan 2023 10:12:05 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 장경배 and 1 others
@@ -45,9 +45,9 @@
         </item>
         <item>
             <title><![CDATA[스마트 에너지 이론]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 02 Jan 2023 09:11:07 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:CUK+CUK_11+2022_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:CUK+CUK_11+2022_1/about</guid>
+            <pubDate>Mon, 02 Jan 2023 10:12:05 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 우태호 and 1 others
@@ -63,9 +63,9 @@
         </item>
         <item>
             <title><![CDATA[인공지능(AI)과 냉동공조]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 02 Jan 2023 09:11:07 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:CUK+CUK_10+2022_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:CUK+CUK_10+2022_1/about</guid>
+            <pubDate>Mon, 02 Jan 2023 10:12:05 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이동찬
