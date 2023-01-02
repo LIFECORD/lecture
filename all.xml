@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Jan 2023 17:10:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jan 2023 18:13:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[창업아이디어 탐색 및 실습 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 02 Jan 2023 17:10:08 GMT</pubDate>
+            <pubDate>Mon, 02 Jan 2023 18:12:56 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 정문호 and 1 others
@@ -29,7 +29,7 @@
             <title><![CDATA[인간의 판단과 의사결정 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 02 Jan 2023 17:10:08 GMT</pubDate>
+            <pubDate>Mon, 02 Jan 2023 18:12:56 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김경일
