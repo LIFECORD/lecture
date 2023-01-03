@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Jan 2023 08:14:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 09:11:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[리더의 전략적 의사결정 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Tue, 03 Jan 2023 08:14:27 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SOGANGk+SOGANG19k+2022_T2_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SOGANGk+SOGANG19k+2022_T2_1/about</guid>
+            <pubDate>Tue, 03 Jan 2023 09:11:23 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 민재형
@@ -27,9 +27,9 @@
         </item>
         <item>
             <title><![CDATA[삶과 교육 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Tue, 03 Jan 2023 08:14:27 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SOGANGk+SOGANG20k+2022_T2_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SOGANGk+SOGANG20k+2022_T2_1/about</guid>
+            <pubDate>Tue, 03 Jan 2023 09:11:23 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김재웅
@@ -45,9 +45,9 @@
         </item>
         <item>
             <title><![CDATA[아시아계 미국인: 차별과 배제의 정치 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Tue, 03 Jan 2023 08:14:27 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SOGANGk+SOGANG21k+2022_T2_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SOGANGk+SOGANG21k+2022_T2_1/about</guid>
+            <pubDate>Tue, 03 Jan 2023 09:11:23 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 하상응
