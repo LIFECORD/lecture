@@ -4,9 +4,27 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Jan 2023 00:55:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jan 2023 02:15:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꿈 성취의 비밀 라이프 로드맵]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:ChosunK+Chosun17K+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:ChosunK+Chosun17K+2022_T1/about</guid>
+            <pubDate>Thu, 05 Jan 2023 02:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                류시천
+                </span>
+                <span class="kr01_school">Chosun University</span>
+                </div>
+                <div><time>2023/01/09</time>
+                
+                ~ <time>2023/04/23</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:ChosunK+Chosun17K+2022_T1+type@asset+block@%EC%BA%A1%EC%B2%98.PNG" length="0" type="image/PNG"/>
+        </item>
         <item>
             <title><![CDATA[공정사회로 가는 계약법]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:PNUk+LC_C01+2022_KM_037/about</link>
