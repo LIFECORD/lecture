@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Jan 2023 04:14:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jan 2023 05:11:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -368,7 +368,7 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:MA_NSU+MATCHUP_NSU01+2023_01+type@asset+block@%EC%9C%A0%EB%8B%88%ED%8B%B0_VR_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[꿈 성취의 비밀 라이프 로드맵 (K-MOOC ─ 개강예정)]]></title>
+            <title><![CDATA[꿈 성취의 비밀 라이프 로드맵(Life Roadmap; The Secret of Achieving My Dream) (K-MOOC ─ 개강예정)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:ChosunK+Chosun17K+2022_T1/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:ChosunK+Chosun17K+2022_T1/about</guid>
             <pubDate>Thu, 05 Jan 2023 02:15:11 GMT</pubDate>
