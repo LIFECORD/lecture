@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Jan 2023 00:54:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 02:13:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Zhuangzi's Fables and Their Wisdom (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 09 Jan 2023 00:53:53 GMT</pubDate>
+            <pubDate>Mon, 09 Jan 2023 02:13:19 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 Pingdi Zhou and 5 others
@@ -29,7 +29,7 @@
             <title><![CDATA[꿈 성취의 비밀 라이프 로드맵(Life Roadmap; The Secret of Achieving My Dream) (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 09 Jan 2023 00:53:53 GMT</pubDate>
+            <pubDate>Mon, 09 Jan 2023 02:13:19 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 류시천
@@ -47,7 +47,7 @@
             <title><![CDATA[공정사회로 가는 계약법 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 09 Jan 2023 00:53:53 GMT</pubDate>
+            <pubDate>Mon, 09 Jan 2023 02:13:19 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 윤석찬
@@ -65,7 +65,7 @@
             <title><![CDATA[원헬스와 신종 감염병 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 09 Jan 2023 00:53:53 GMT</pubDate>
+            <pubDate>Mon, 09 Jan 2023 02:13:19 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 장철훈
@@ -83,7 +83,7 @@
             <title><![CDATA[수학으로 푸는 블록체인(Blockchain solved with mathematics) (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 09 Jan 2023 00:53:53 GMT</pubDate>
+            <pubDate>Mon, 09 Jan 2023 02:13:19 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 백란 and 1 others
@@ -366,6 +366,114 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:KoreaUnivK+ku_soc_ctl001+2022_BA_ctl04+type@asset+block@04.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AI시대 발명과 특허 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:HOSEO+HOSEO06+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:HOSEO+HOSEO06+2022_T2/about</guid>
+            <pubDate>Mon, 09 Jan 2023 02:13:35 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이영철
+                </span>
+                <span class="kr01_school">HOSEO University</span>
+                </div>
+                <div><time>2023/01/10</time>
+                
+                ~ <time>2023/04/21</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:HOSEO+HOSEO06+2022_T2+type@asset+block@%EB%8C%80%ED%91%9C_%EC%9D%B4%EB%AF%B8%EC%A7%80.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[예술계열 캡스톤 디자인 설계 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:HOSEO+HOSEOLI02+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:HOSEO+HOSEOLI02+2022_T2/about</guid>
+            <pubDate>Mon, 09 Jan 2023 02:13:35 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                박성원
+                </span>
+                <span class="kr01_school">HOSEO University</span>
+                </div>
+                <div><time>2023/01/10</time>
+                
+                ~ <time>2023/04/21</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:HOSEO+HOSEOLI02+2022_T2+type@asset+block@%EB%8C%80%ED%91%9C_%EC%9D%B4%EB%AF%B8%EC%A7%80.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[이공계열 학생을 위한 캡스톤 디자인 소개 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:HOSEO+HOSEOLI01+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:HOSEO+HOSEOLI01+2022_T2/about</guid>
+            <pubDate>Mon, 09 Jan 2023 02:13:35 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                박차식
+                </span>
+                <span class="kr01_school">HOSEO University</span>
+                </div>
+                <div><time>2023/01/10</time>
+                
+                ~ <time>2023/04/21</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:HOSEO+HOSEOLI01+2022_T2+type@asset+block@%EB%8C%80%ED%91%9C_%EC%9D%B4%EB%AF%B8%EC%A7%80.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[해외 비즈니스 기초 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:HOSEO+HOSEO05+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:HOSEO+HOSEO05+2022_T2/about</guid>
+            <pubDate>Mon, 09 Jan 2023 02:13:35 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김재진
+                </span>
+                <span class="kr01_school">HOSEO University</span>
+                </div>
+                <div><time>2023/01/10</time>
+                
+                ~ <time>2023/04/21</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:HOSEO+HOSEO05+2022_T2+type@asset+block@%EB%8C%80%ED%91%9C_%EC%9D%B4%EB%AF%B8%EC%A7%80.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[영상콘텐츠 제작을 통한 사회적 기업의 이해 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:HOSEO+HOSEOLI04+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:HOSEO+HOSEOLI04+2022_T2/about</guid>
+            <pubDate>Mon, 09 Jan 2023 02:13:35 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                어윤수
+                </span>
+                <span class="kr01_school">HOSEO University</span>
+                </div>
+                <div><time>2023/01/10</time>
+                
+                ~ <time>2023/04/16</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:HOSEO+HOSEOLI04+2022_T2+type@asset+block@%EB%8C%80%ED%91%9C_%EC%9D%B4%EB%AF%B8%EC%A7%80.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[C언어기초 (배열,포인터,문자열,구조체) (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:HOSEO+HOSEOLI03+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:HOSEO+HOSEOLI03+2022_T2/about</guid>
+            <pubDate>Mon, 09 Jan 2023 02:13:35 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                선복근
+                </span>
+                <span class="kr01_school">HOSEO University</span>
+                </div>
+                <div><time>2023/01/10</time>
+                
+                ~ <time>2023/04/16</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:HOSEO+HOSEOLI03+2022_T2+type@asset+block@%EB%8C%80%ED%91%9C_%EC%9D%B4%EB%AF%B8%EC%A7%80.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[디지털 마케팅과 소셜 미디어 브랜드 콘텐츠 전략 (K-MOOC ─ 개강예정)]]></title>
