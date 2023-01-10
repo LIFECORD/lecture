@@ -4,117 +4,9 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Jan 2023 23:11:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Jan 2023 00:57:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[AI시대 발명과 특허]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:HOSEO+HOSEO06+2022_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:HOSEO+HOSEO06+2022_T2/about</guid>
-            <pubDate>Mon, 09 Jan 2023 02:13:35 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                이영철
-                </span>
-                <span class="kr01_school">HOSEO University</span>
-                </div>
-                <div><time>2023/01/10</time>
-                
-                ~ <time>2023/04/21</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:HOSEO+HOSEO06+2022_T2+type@asset+block@%EB%8C%80%ED%91%9C_%EC%9D%B4%EB%AF%B8%EC%A7%80.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[예술계열 캡스톤 디자인 설계]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:HOSEO+HOSEOLI02+2022_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:HOSEO+HOSEOLI02+2022_T2/about</guid>
-            <pubDate>Mon, 09 Jan 2023 02:13:35 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                박성원
-                </span>
-                <span class="kr01_school">HOSEO University</span>
-                </div>
-                <div><time>2023/01/10</time>
-                
-                ~ <time>2023/04/21</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:HOSEO+HOSEOLI02+2022_T2+type@asset+block@%EB%8C%80%ED%91%9C_%EC%9D%B4%EB%AF%B8%EC%A7%80.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이공계열 학생을 위한 캡스톤 디자인 소개]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:HOSEO+HOSEOLI01+2022_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:HOSEO+HOSEOLI01+2022_T2/about</guid>
-            <pubDate>Mon, 09 Jan 2023 02:13:35 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                박차식
-                </span>
-                <span class="kr01_school">HOSEO University</span>
-                </div>
-                <div><time>2023/01/10</time>
-                
-                ~ <time>2023/04/21</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:HOSEO+HOSEOLI01+2022_T2+type@asset+block@%EB%8C%80%ED%91%9C_%EC%9D%B4%EB%AF%B8%EC%A7%80.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[해외 비즈니스 기초]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:HOSEO+HOSEO05+2022_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:HOSEO+HOSEO05+2022_T2/about</guid>
-            <pubDate>Mon, 09 Jan 2023 02:13:35 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김재진
-                </span>
-                <span class="kr01_school">HOSEO University</span>
-                </div>
-                <div><time>2023/01/10</time>
-                
-                ~ <time>2023/04/21</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:HOSEO+HOSEO05+2022_T2+type@asset+block@%EB%8C%80%ED%91%9C_%EC%9D%B4%EB%AF%B8%EC%A7%80.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[영상콘텐츠 제작을 통한 사회적 기업의 이해]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:HOSEO+HOSEOLI04+2022_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:HOSEO+HOSEOLI04+2022_T2/about</guid>
-            <pubDate>Mon, 09 Jan 2023 02:13:35 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                어윤수
-                </span>
-                <span class="kr01_school">HOSEO University</span>
-                </div>
-                <div><time>2023/01/10</time>
-                
-                ~ <time>2023/04/16</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:HOSEO+HOSEOLI04+2022_T2+type@asset+block@%EB%8C%80%ED%91%9C_%EC%9D%B4%EB%AF%B8%EC%A7%80.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[C언어기초 (배열,포인터,문자열,구조체)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:HOSEO+HOSEOLI03+2022_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:HOSEO+HOSEOLI03+2022_T2/about</guid>
-            <pubDate>Mon, 09 Jan 2023 02:13:35 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                선복근
-                </span>
-                <span class="kr01_school">HOSEO University</span>
-                </div>
-                <div><time>2023/01/10</time>
-                
-                ~ <time>2023/04/16</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:HOSEO+HOSEOLI03+2022_T2+type@asset+block@%EB%8C%80%ED%91%9C_%EC%9D%B4%EB%AF%B8%EC%A7%80.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[디지털 마케팅과 소셜 미디어 브랜드 콘텐츠 전략]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:EwhaK+EW22001K+2022_W01/about</link>
@@ -126,7 +18,7 @@
                 </span>
                 <span class="kr01_school">EWHA WOMANS UNIVERSITY</span>
                 </div>
-                <div><time>2023/01/10</time>
+                <div><time>2023/01/11</time>
                 
                 ~ <time>2023/02/10</time>
                 
