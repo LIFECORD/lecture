@@ -4,9 +4,27 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Jan 2023 16:15:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jan 2023 17:11:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위대한 수업2(GREAT MINDS) : 현실주의자들의 정치]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Fri, 20 Jan 2023 17:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                베스 시몬스
+                </span>
+                <span class="kr01_school">EBS</span>
+                </div>
+                <div><time>2023/01/21</time>
+                
+                ~ <time>2023/01/21</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:EBS+EBS020+2022_T1+type@asset+block@%EB%B2%A0%EC%8A%A4%EC%8B%9C%EB%AA%AC%EC%8A%A4%EC%88%98%EC%A0%952.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[비유와 우화로 보는 철학 산책]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:ChungbukK+Chungbuk_11+2022_02/about</link>
@@ -348,24 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:XuetangX+SCUTZFATW+2023_T1+type@asset+block@Zhuangzi_s_Fables_and_Their_Wisdom.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[꿈 성취의 비밀 라이프 로드맵(Life Roadmap; The Secret of Achieving My Dream)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:ChosunK+Chosun17K+2022_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:ChosunK+Chosun17K+2022_T1/about</guid>
-            <pubDate>Mon, 09 Jan 2023 09:12:13 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                류시천
-                </span>
-                <span class="kr01_school">Chosun University</span>
-                </div>
-                <div><time>2023/01/09</time>
-                
-                ~ <time>2023/04/23</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:ChosunK+Chosun17K+2022_T1+type@asset+block@%EC%BA%A1%EC%B2%98.PNG" length="0" type="image/PNG"/>
         </item>
     </channel>
 </rss>
