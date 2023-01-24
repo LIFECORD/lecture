@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Jan 2023 15:11:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jan 2023 16:17:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[KOICA와 함께하는 SDGs 알아보기 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Tue, 24 Jan 2023 15:11:25 GMT</pubDate>
+            <pubDate>Tue, 24 Jan 2023 16:17:31 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 권구순 and 10 others
@@ -29,7 +29,7 @@
             <title><![CDATA[KOICA와 함께하는 프로젝트 사업관리 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Tue, 24 Jan 2023 15:11:25 GMT</pubDate>
+            <pubDate>Tue, 24 Jan 2023 16:17:31 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 조상우 and 4 others
@@ -47,7 +47,7 @@
             <title><![CDATA[KOICA와 함께하는 국제개발협력 분야별 이슈 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Tue, 24 Jan 2023 15:11:25 GMT</pubDate>
+            <pubDate>Tue, 24 Jan 2023 16:17:31 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이지은 and 5 others
@@ -65,7 +65,7 @@
             <title><![CDATA[KOICA와 함께하는 국제개발협력 첫걸음 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Tue, 24 Jan 2023 15:11:25 GMT</pubDate>
+            <pubDate>Tue, 24 Jan 2023 16:17:31 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 장현식 and 5 others
@@ -83,7 +83,7 @@
             <title><![CDATA[KOICA와 함께하는 세계시민교육(일반인) (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Tue, 24 Jan 2023 15:11:25 GMT</pubDate>
+            <pubDate>Tue, 24 Jan 2023 16:17:31 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 유성상 and 3 others
@@ -101,7 +101,7 @@
             <title><![CDATA[KOICA와 함께하는 국제개발협력: 범분야의 이해 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Tue, 24 Jan 2023 15:11:25 GMT</pubDate>
+            <pubDate>Tue, 24 Jan 2023 16:17:31 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김은미 and 4 others
@@ -674,24 +674,6 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:WJTB+WJTB13+2023_01+type@asset+block@652400_%EC%A7%81%EB%AC%B4%EC%86%8C%EA%B0%9C_%EC%9D%B4%EA%B3%B5%EA%B3%84%EC%97%B4__1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[파이썬을 이용한 데이터 분석 (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:WJTB+WJTB29+2023_01/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:WJTB+WJTB29+2023_01/about</guid>
-            <pubDate>Fri, 20 Jan 2023 00:56:13 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                웅진씽크빅
-                </span>
-                <span class="kr01_school">WOONGJIN THINKBIG</span>
-                </div>
-                <div><time>2023/01/25</time>
-                
-                ~ <time>2024/02/01</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:WJTB+WJTB29+2023_01+type@asset+block@652400_%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84_%EC%9D%B4%EC%9A%A9%ED%95%9C_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%B6%84%EC%84%9D_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[마케팅 데이터 사이언스-파이썬편 (K-MOOC ─ 개강예정)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:WJTB+WJTB18+2023_01/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:WJTB+WJTB18+2023_01/about</guid>
@@ -708,6 +690,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:WJTB+WJTB18+2023_01+type@asset+block@652400_%EB%A7%88%EC%BC%80%ED%8C%85_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4-%ED%8C%8C%EC%9D%B4%EC%8D%AC%ED%8E%B8_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파이썬을 이용한 데이터 분석 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:WJTB+WJTB29+2023_01/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:WJTB+WJTB29+2023_01/about</guid>
+            <pubDate>Fri, 20 Jan 2023 00:56:13 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                웅진씽크빅
+                </span>
+                <span class="kr01_school">WOONGJIN THINKBIG</span>
+                </div>
+                <div><time>2023/01/25</time>
+                
+                ~ <time>2024/02/01</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:WJTB+WJTB29+2023_01+type@asset+block@652400_%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84_%EC%9D%B4%EC%9A%A9%ED%95%9C_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%B6%84%EC%84%9D_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[파이썬 머신러닝 (K-MOOC ─ 개강예정)]]></title>
