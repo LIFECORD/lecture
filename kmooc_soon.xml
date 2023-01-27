@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Jan 2023 08:14:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 09:11:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -150,6 +150,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:KHUk+SW_KH005+2022_T2_1+type@asset+block@22_%EA%B2%BD%ED%9D%AC%EB%8C%80_%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%84%EC%9C%84%ED%95%9C%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%EC%9E%85%EB%AC%B8_%EC%9D%B4%EC%9B%90%ED%9D%AC__%EC%8D%B8%EB%84%A4%EC%9D%BC_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[해양과 문화]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:KMOU+KMOU002+2023_T1_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KMOU+KMOU002+2023_T1_1/about</guid>
+            <pubDate>Fri, 27 Jan 2023 09:11:36 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김태만
+                </span>
+                <span class="kr01_school">KOREA MARITIME&amp;OCEAN UNIVERSITY</span>
+                </div>
+                <div><time>2023/01/30</time>
+                
+                ~ <time>2023/02/21</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KMOU+KMOU002+2023_T1_1+type@asset+block@%EA%B0%95%EC%A2%8C%EC%B9%B4%EB%93%9C_%EC%9D%B4%EB%AF%B8%EC%A7%80.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[데이터베이스의 이해와 활용]]></title>
