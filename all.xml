@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Jan 2023 06:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 07:11:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -474,6 +474,42 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:DKUK+MOOC_DKUK0031+2022_T2+type@asset+block@_%EC%8D%B8%EB%84%A4%EC%9D%BC__%EB%AF%B8%EB%9E%98%EA%B5%90%EC%88%98%EB%B2%953__2___1_.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[파이썬과 데이터마이닝 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:KHUk+SW_KH004+2022_T2_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KHUk+SW_KH004+2022_T2_1/about</guid>
+            <pubDate>Fri, 27 Jan 2023 07:11:12 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                허림
+                </span>
+                <span class="kr01_school">KYUNG HEE UNIVERSITY</span>
+                </div>
+                <div><time>2023/02/01</time>
+                
+                ~ <time>2023/04/19</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KHUk+SW_KH004+2022_T2_1+type@asset+block@22_%EA%B2%BD%ED%9D%AC%EB%8C%80_%ED%8C%8C%EC%9D%B4%EC%8D%AC%EA%B3%BC%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A7%88%EC%9D%B4%EB%8B%9D_%ED%97%88%EB%A6%BC__%EC%8D%B8%EB%84%A4%EC%9D%BC_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인공지능을 위한 기계학습 입문 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:KHUk+SW_KH005+2022_T2_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KHUk+SW_KH005+2022_T2_1/about</guid>
+            <pubDate>Fri, 27 Jan 2023 07:11:12 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이원희
+                </span>
+                <span class="kr01_school">KYUNG HEE UNIVERSITY</span>
+                </div>
+                <div><time>2023/02/01</time>
+                
+                ~ <time>2023/03/29</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KHUk+SW_KH005+2022_T2_1+type@asset+block@22_%EA%B2%BD%ED%9D%AC%EB%8C%80_%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%84%EC%9C%84%ED%95%9C%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%EC%9E%85%EB%AC%B8_%EC%9D%B4%EC%9B%90%ED%9D%AC__%EC%8D%B8%EB%84%A4%EC%9D%BC_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[데이터베이스의 이해와 활용 (K-MOOC ─ 개강예정)]]></title>
