@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 05:11:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 06:15:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[의료 인공지능 개론 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Wed, 01 Feb 2023 05:10:51 GMT</pubDate>
+            <pubDate>Wed, 01 Feb 2023 06:15:22 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 서준범 and 19 others
@@ -29,7 +29,7 @@
             <title><![CDATA[소비자 건강정보 도구와 모바일헬스 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Wed, 01 Feb 2023 05:10:51 GMT</pubDate>
+            <pubDate>Wed, 01 Feb 2023 06:15:22 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이재호 and 4 others
@@ -47,7 +47,7 @@
             <title><![CDATA[보건의료데이터 활용 이해 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Wed, 01 Feb 2023 05:10:51 GMT</pubDate>
+            <pubDate>Wed, 01 Feb 2023 06:15:22 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이은주 and 7 others
@@ -65,7 +65,7 @@
             <title><![CDATA[임상정보학 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Wed, 01 Feb 2023 05:10:51 GMT</pubDate>
+            <pubDate>Wed, 01 Feb 2023 06:15:22 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이재호 and 13 others
@@ -83,7 +83,7 @@
             <title><![CDATA[정보의학개론 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Wed, 01 Feb 2023 05:10:51 GMT</pubDate>
+            <pubDate>Wed, 01 Feb 2023 06:15:22 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이재호 and 10 others
@@ -101,7 +101,7 @@
             <title><![CDATA[소프트파워로서의 BTS: 팬덤, 문화, 관광 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Wed, 01 Feb 2023 05:10:51 GMT</pubDate>
+            <pubDate>Wed, 01 Feb 2023 06:15:22 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 강준수
@@ -402,6 +402,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:KGU+KGUpo02+2023_T1+type@asset+block@%EA%B2%BD%EA%B8%B0%EB%8C%80_%EB%82%A8%EB%B6%81%ED%98%91%EB%A0%A5%EA%B0%9C%EB%A1%A02_%EC%8B%9C%EC%95%8801_B__8_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[경찰활동에서의 빅데이터 분석 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:PCUk+pcuk_sw001+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:PCUk+pcuk_sw001+2023_T1/about</guid>
+            <pubDate>Wed, 01 Feb 2023 06:15:35 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                전용재 and 1 others
+                </span>
+                <span class="kr01_school">Paichai University</span>
+                </div>
+                <div><time>2023/02/20</time>
+                
+                ~ <time>2023/06/14</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:PCUk+pcuk_sw001+2023_T1+type@asset+block@11111.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정조의 꿈을 그리다 (K-MOOC ─ 개강예정)]]></title>
