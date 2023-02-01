@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 04:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 05:11:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[의료 인공지능 개론 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Wed, 01 Feb 2023 04:14:00 GMT</pubDate>
+            <pubDate>Wed, 01 Feb 2023 05:10:51 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 서준범 and 19 others
@@ -29,7 +29,7 @@
             <title><![CDATA[소비자 건강정보 도구와 모바일헬스 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Wed, 01 Feb 2023 04:14:00 GMT</pubDate>
+            <pubDate>Wed, 01 Feb 2023 05:10:51 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이재호 and 4 others
@@ -47,7 +47,7 @@
             <title><![CDATA[보건의료데이터 활용 이해 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Wed, 01 Feb 2023 04:14:00 GMT</pubDate>
+            <pubDate>Wed, 01 Feb 2023 05:10:51 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이은주 and 7 others
@@ -65,7 +65,7 @@
             <title><![CDATA[임상정보학 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Wed, 01 Feb 2023 04:14:00 GMT</pubDate>
+            <pubDate>Wed, 01 Feb 2023 05:10:51 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이재호 and 13 others
@@ -83,7 +83,7 @@
             <title><![CDATA[정보의학개론 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Wed, 01 Feb 2023 04:14:00 GMT</pubDate>
+            <pubDate>Wed, 01 Feb 2023 05:10:51 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이재호 and 10 others
@@ -101,7 +101,7 @@
             <title><![CDATA[소프트파워로서의 BTS: 팬덤, 문화, 관광 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Wed, 01 Feb 2023 04:14:00 GMT</pubDate>
+            <pubDate>Wed, 01 Feb 2023 05:10:51 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 강준수
@@ -150,6 +150,42 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:KHUk+SW_KH005+2022_T2_1+type@asset+block@22_%EA%B2%BD%ED%9D%AC%EB%8C%80_%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%84%EC%9C%84%ED%95%9C%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%EC%9E%85%EB%AC%B8_%EC%9D%B4%EC%9B%90%ED%9D%AC__%EC%8D%B8%EB%84%A4%EC%9D%BC_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울 거버넌스 2020 (K-MOOC ─ 진행중)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:UOSk+UOS15+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:UOSk+UOS15+2022_T2/about</guid>
+            <pubDate>Wed, 01 Feb 2023 05:10:51 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이주헌
+                </span>
+                <span class="kr01_school">UNIVERSITY OF SEOUL</span>
+                </div>
+                <div><time>2023/01/31</time>
+                
+                ~ <time>2023/02/28</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:UOSk+UOS15+2022_T2+type@asset+block@%EC%84%9C%EC%9A%B8%EA%B1%B0%EB%B2%84%EB%84%8C%EC%8A%A4%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[알기 쉬운 가족법 – 태어날 때, 사랑할 때, 이 세상을 떠날 때 적용되는 법 (K-MOOC ─ 진행중)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:UOSk+UOS16+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:UOSk+UOS16+2022_T2/about</guid>
+            <pubDate>Wed, 01 Feb 2023 05:10:51 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                권재문
+                </span>
+                <span class="kr01_school">UNIVERSITY OF SEOUL</span>
+                </div>
+                <div><time>2023/01/31</time>
+                
+                ~ <time>2023/02/28</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:UOSk+UOS16+2022_T2+type@asset+block@%EC%95%8C%EA%B8%B0%EC%89%AC%EC%9A%B4%EA%B0%80%EC%A1%B1%EB%B2%95%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[해양과 문화 (K-MOOC ─ 진행중)]]></title>
@@ -330,42 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:WJTB+WJTB28+2023_01+type@asset+block@652400_R%EC%9D%84_%EC%9D%B4%EC%9A%A9%ED%95%9C_%EA%B8%88%EC%9C%B5%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%B6%84%EC%84%9D_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[금융전문가에게 배우는 부자되는 가장 확실한 방법 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:WJTB+WJTB23+2023_01/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:WJTB+WJTB23+2023_01/about</guid>
-            <pubDate>Wed, 25 Jan 2023 10:12:10 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                웅진씽크빅
-                </span>
-                <span class="kr01_school">WOONGJIN THINKBIG</span>
-                </div>
-                <div><time>2023/01/25</time>
-                
-                ~ <time>2024/02/01</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:WJTB+WJTB23+2023_01+type@asset+block@652400_Everyday_Finance_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[투자를 위한 거시경제 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:WJTB+WJTB22+2023_01/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:WJTB+WJTB22+2023_01/about</guid>
-            <pubDate>Wed, 25 Jan 2023 10:12:10 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                웅진씽크빅
-                </span>
-                <span class="kr01_school">WOONGJIN THINKBIG</span>
-                </div>
-                <div><time>2023/01/25</time>
-                
-                ~ <time>2024/02/01</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:WJTB+WJTB22+2023_01+type@asset+block@652400_%ED%88%AC%EC%9E%90%EB%A5%BC_%EC%9C%84%ED%95%9C_%EA%B1%B0%EC%8B%9C%EA%B2%BD%EC%A0%9C.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[남북협력개론 (K-MOOC ─ 개강예정)]]></title>
