@@ -4,27 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 12:22:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 13:22:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[해상운송론 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KMOU+KMOU0004+2022_T2_1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KMOU+KMOU0004+2022_T2_1/about</guid>
-            <pubDate>Wed, 01 Feb 2023 09:12:13 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                정영석
-                </span>
-                <span class="kr01_school">KOREA MARITIME&amp;OCEAN UNIVERSITY</span>
-                </div>
-                <div><time>2023/02/01</time>
-                
-                ~ <time>2023/02/21</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KMOU+KMOU0004+2022_T2_1+type@asset+block@KakaoTalk_20230126_163430035_01.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[의료 인공지능 개론 (K-MOOC ─ 진행중)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:KOHI+KOHI004+2023_D_001/about</link>
@@ -114,6 +96,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:KOHI+KOHI003+2023_C_001+type@asset+block@%EC%A0%95%EB%B3%B4%EC%9D%98%ED%95%99%EA%B0%9C%EB%A1%A0_%EA%B0%95%EC%9D%98%EC%B9%B4%EB%93%9C_%ED%81%AC%EA%B8%B0%EC%B6%95%EC%86%8C_.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[재무설계와 금융투자의 ABC (K-MOOC ─ 진행중)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:DongdukK+DDU08+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DongdukK+DDU08+2022_T2/about</guid>
+            <pubDate>Wed, 01 Feb 2023 13:22:29 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이찬희
+                </span>
+                <span class="kr01_school">Dongduk Women's University</span>
+                </div>
+                <div><time>2023/02/01</time>
+                
+                ~ <time>2023/02/28</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:DongdukK+DDU08+2022_T2+type@asset+block@k-mooc_%EA%B8%88%EC%9C%B5_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소프트파워로서의 BTS: 팬덤, 문화, 관광 (K-MOOC ─ 진행중)]]></title>
