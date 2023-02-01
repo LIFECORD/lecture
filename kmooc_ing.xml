@@ -4,14 +4,32 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 08:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 09:12:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[해상운송론]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:KMOU+KMOU0004+2022_T2_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KMOU+KMOU0004+2022_T2_1/about</guid>
+            <pubDate>Wed, 01 Feb 2023 09:12:13 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                정영석
+                </span>
+                <span class="kr01_school">KOREA MARITIME&amp;OCEAN UNIVERSITY</span>
+                </div>
+                <div><time>2023/02/01</time>
+                
+                ~ <time>2030/02/21</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KMOU+KMOU0004+2022_T2_1+type@asset+block@%ED%95%B4%EC%83%81%EC%9A%B4%EC%86%A1%EB%A1%A0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[의료 인공지능 개론]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Wed, 01 Feb 2023 08:14:37 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KOHI+KOHI004+2023_D_001/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KOHI+KOHI004+2023_D_001/about</guid>
+            <pubDate>Wed, 01 Feb 2023 09:12:13 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 서준범 and 19 others
@@ -27,9 +45,9 @@
         </item>
         <item>
             <title><![CDATA[소비자 건강정보 도구와 모바일헬스]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Wed, 01 Feb 2023 08:14:37 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KOHI+KOHI006+2023_F_001/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KOHI+KOHI006+2023_F_001/about</guid>
+            <pubDate>Wed, 01 Feb 2023 09:12:13 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이재호 and 4 others
@@ -45,9 +63,9 @@
         </item>
         <item>
             <title><![CDATA[보건의료데이터 활용 이해]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Wed, 01 Feb 2023 08:14:38 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KOHI+KOHI005+2023_E_001/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KOHI+KOHI005+2023_E_001/about</guid>
+            <pubDate>Wed, 01 Feb 2023 09:12:13 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이은주 and 7 others
@@ -63,9 +81,9 @@
         </item>
         <item>
             <title><![CDATA[임상정보학]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Wed, 01 Feb 2023 08:14:38 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KOHI+KOHI007+2023_G_001/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KOHI+KOHI007+2023_G_001/about</guid>
+            <pubDate>Wed, 01 Feb 2023 09:12:13 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이재호 and 13 others
@@ -81,9 +99,9 @@
         </item>
         <item>
             <title><![CDATA[정보의학개론]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Wed, 01 Feb 2023 08:14:38 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KOHI+KOHI003+2023_C_001/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KOHI+KOHI003+2023_C_001/about</guid>
+            <pubDate>Wed, 01 Feb 2023 09:12:13 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이재호 and 10 others
@@ -99,9 +117,9 @@
         </item>
         <item>
             <title><![CDATA[소프트파워로서의 BTS: 팬덤, 문화, 관광]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Wed, 01 Feb 2023 08:14:38 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:AYUk+AYUk_SP+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:AYUk+AYUk_SP+2023_T1/about</guid>
+            <pubDate>Wed, 01 Feb 2023 09:12:13 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 강준수
@@ -348,24 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:WJTB+WJTB27+2023_01+type@asset+block@652400_R%EC%9D%84_%EC%9D%B4%EC%9A%A9%ED%95%9C_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%B6%84%EC%84%9D_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[R을 이용한 금융데이터 분석]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:WJTB+WJTB28+2023_01/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:WJTB+WJTB28+2023_01/about</guid>
-            <pubDate>Wed, 25 Jan 2023 10:12:10 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                웅진씽크빅
-                </span>
-                <span class="kr01_school">WOONGJIN THINKBIG</span>
-                </div>
-                <div><time>2023/01/25</time>
-                
-                ~ <time>2024/02/01</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:WJTB+WJTB28+2023_01+type@asset+block@652400_R%EC%9D%84_%EC%9D%B4%EC%9A%A9%ED%95%9C_%EA%B8%88%EC%9C%B5%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%B6%84%EC%84%9D_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
