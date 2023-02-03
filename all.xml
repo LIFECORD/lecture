@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Feb 2023 05:11:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Feb 2023 06:14:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -420,6 +420,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:PCUk+pcuk_sw001+2023_T1+type@asset+block@11111.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이슬람 문명의 역사와 문화기행 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:MJU+MJU_202112_2+MJU_2023_01/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:MJU+MJU_202112_2+MJU_2023_01/about</guid>
+            <pubDate>Fri, 03 Feb 2023 06:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김정명
+                </span>
+                <span class="kr01_school">MYONGJI UNIVERSITY</span>
+                </div>
+                <div><time>2023/02/15</time>
+                
+                ~ <time>2023/04/07</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:MJU+MJU_202112_2+MJU_2023_01+type@asset+block@ss2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[불확실성을 다루는 수학 (K-MOOC ─ 개강예정)]]></title>
