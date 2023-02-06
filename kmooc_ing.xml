@@ -4,14 +4,14 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Feb 2023 07:12:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Feb 2023 12:25:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[정조의 꿈을 그리다]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 06 Feb 2023 07:11:49 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:USW+USW08+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:USW+USW08+2022_T1/about</guid>
+            <pubDate>Mon, 06 Feb 2023 12:24:58 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 우경진 and 1 others
@@ -27,9 +27,9 @@
         </item>
         <item>
             <title><![CDATA[LabVIEW]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 06 Feb 2023 07:11:49 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KPU+TU_01+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KPU+TU_01+2022_T2/about</guid>
+            <pubDate>Mon, 06 Feb 2023 12:24:58 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 강대진
@@ -45,9 +45,9 @@
         </item>
         <item>
             <title><![CDATA[돈 버는 재무관리]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 06 Feb 2023 07:11:49 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KPU+TU_03+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KPU+TU_03+2022_T2/about</guid>
+            <pubDate>Mon, 06 Feb 2023 12:24:58 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 고혁진
@@ -63,9 +63,9 @@
         </item>
         <item>
             <title><![CDATA[기하광학]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 06 Feb 2023 07:11:49 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KPU+TU_02+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KPU+TU_02+2022_T2/about</guid>
+            <pubDate>Mon, 06 Feb 2023 12:24:58 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 민경택
@@ -81,9 +81,9 @@
         </item>
         <item>
             <title><![CDATA[초심자를 위한 유기화학]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 06 Feb 2023 07:11:49 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KPU+TU_04+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KPU+TU_04+2022_T2/about</guid>
+            <pubDate>Mon, 06 Feb 2023 12:24:58 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 정윤성
@@ -99,9 +99,9 @@
         </item>
         <item>
             <title><![CDATA[미래를 위한 교수법 ③ : 메타버스를 활용한 교육설계]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 06 Feb 2023 07:11:49 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:DKUK+MOOC_DKUK0031+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DKUK+MOOC_DKUK0031+2022_T2/about</guid>
+            <pubDate>Mon, 06 Feb 2023 12:24:58 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김민정 and 4 others
