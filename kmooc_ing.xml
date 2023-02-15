@@ -4,14 +4,32 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Feb 2023 23:12:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Feb 2023 00:58:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[이슬람 문명의 역사와 문화기행]]></title>
+            <title><![CDATA[해밀톤 역학: 지렛대에서 양자역학의 초입까지]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Tue, 14 Feb 2023 23:11:44 GMT</pubDate>
+            <pubDate>Wed, 15 Feb 2023 00:58:08 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                박용운
+                </span>
+                <span class="kr01_school">POHANG UNIVERSITY OF SCIENCE AND TECHNOLOGY</span>
+                </div>
+                <div><time>2023/02/15</time>
+                
+                ~ <time>2023/03/03</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:POSTECHk+PHYS501+2023_T1+type@asset+block@%ED%95%B4%EB%B0%80%ED%86%A4_%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이슬람 문명의 역사와 문화기행]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:MJU+MJU_202112_2+MJU_2023_01/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:MJU+MJU_202112_2+MJU_2023_01/about</guid>
+            <pubDate>Wed, 15 Feb 2023 00:58:08 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김정명
@@ -348,24 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:KMOU+KMOU0003+2022_T2_1+type@asset+block@%EC%B5%9C.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[해상운송론]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KMOU+KMOU0004+2022_T2_1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KMOU+KMOU0004+2022_T2_1/about</guid>
-            <pubDate>Thu, 02 Feb 2023 10:12:48 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                정영석
-                </span>
-                <span class="kr01_school">KOREA MARITIME&amp;OCEAN UNIVERSITY</span>
-                </div>
-                <div><time>2023/02/02</time>
-                
-                ~ <time>2023/02/21</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KMOU+KMOU0004+2022_T2_1+type@asset+block@KakaoTalk_20230126_163430035_01.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
