@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Feb 2023 08:15:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Feb 2023 09:12:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[해밀톤 역학: 지렛대에서 양자역학의 초입까지 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Wed, 15 Feb 2023 08:15:39 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:POSTECHk+PHYS501+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:POSTECHk+PHYS501+2023_T1/about</guid>
+            <pubDate>Wed, 15 Feb 2023 09:12:38 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박용운
