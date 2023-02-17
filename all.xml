@@ -4,27 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Feb 2023 17:11:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 18:14:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[위대한 수업2(GREAT MINDS) : 기술이 우리를 구원할까? (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Fri, 17 Feb 2023 17:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                앤드루 맥아피
-                </span>
-                <span class="kr01_school">EBS</span>
-                </div>
-                <div><time>2023/02/18</time>
-                
-                ~ <time>2023/02/18</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:EBS+EBS023+2022_T1+type@asset+block@%EC%95%A4%EB%93%9C%EB%A3%A8%EB%A7%A5%EC%95%84%ED%94%BC%EC%82%AC%EC%A7%84.JPG" length="0" type="image/JPG"/>
-        </item>
         <item>
             <title><![CDATA[멀티링구얼 습득과 실천: 일본어와 영어를 동시에 배우기(초급) (K-MOOC ─ 진행중)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:JJU+JJU04+2021_J04_2/about</link>
@@ -366,6 +348,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:KPU+TU_03+2022_T2+type@asset+block@%EB%8F%88%EB%B2%84%EB%8A%94_%EC%9E%AC%EB%AC%B4%EA%B4%80%EB%A6%AC.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[기하광학 (K-MOOC ─ 진행중)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:KPU+TU_02+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KPU+TU_02+2022_T2/about</guid>
+            <pubDate>Fri, 17 Feb 2023 18:14:30 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                민경택
+                </span>
+                <span class="kr01_school">korea polytechnic university</span>
+                </div>
+                <div><time>2023/02/06</time>
+                
+                ~ <time>2023/05/21</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KPU+TU_02+2022_T2+type@asset+block@%EA%B8%B0%ED%95%98%EA%B4%91%ED%95%99__1_.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[AI융합교육의 이해 (K-MOOC ─ 개강예정)]]></title>
