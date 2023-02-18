@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Feb 2023 10:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Feb 2023 11:10:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -134,24 +134,6 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:YGPA+YGPA02+2022_YGPA02_01+type@asset+block@%ED%91%9C%EC%A7%80_%EC%B5%9C%EC%A2%85.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[한국어표현교육론 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KHUk+KH702+2022_T2_1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KHUk+KH702+2022_T2_1/about</guid>
-            <pubDate>Mon, 13 Feb 2023 09:12:24 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                박동호
-                </span>
-                <span class="kr01_school">KYUNG HEE UNIVERSITY</span>
-                </div>
-                <div><time>2023/02/13</time>
-                
-                ~ <time>2023/03/27</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KHUk+KH702+2022_T2_1+type@asset+block@%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[한국어이해교육론 (K-MOOC ─ 진행중)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:KHUk+KH701+2022_T2_1/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:KHUk+KH701+2022_T2_1/about</guid>
@@ -168,6 +150,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:KHUk+KH701+2022_T2_1+type@asset+block@%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[한국어표현교육론 (K-MOOC ─ 진행중)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:KHUk+KH702+2022_T2_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KHUk+KH702+2022_T2_1/about</guid>
+            <pubDate>Mon, 13 Feb 2023 09:12:24 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                박동호
+                </span>
+                <span class="kr01_school">KYUNG HEE UNIVERSITY</span>
+                </div>
+                <div><time>2023/02/13</time>
+                
+                ~ <time>2023/03/27</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KHUk+KH702+2022_T2_1+type@asset+block@%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[문화와 생활 속 청렴 (K-MOOC ─ 진행중)]]></title>
