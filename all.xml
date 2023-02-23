@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 04:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 06:16:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[한류(Hallyu) 한국 대중문화의 글로컬라이제이션(Glocalization) (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Thu, 23 Feb 2023 04:14:33 GMT</pubDate>
+            <pubDate>Thu, 23 Feb 2023 06:15:45 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 원용진
@@ -314,6 +314,24 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:KEKA_SNU+KEKA105+2022_01+type@asset+block@%ED%95%9C%EA%B5%AD%EC%9D%98_%EC%9E%A5%EA%B8%B0%ED%86%B5%EA%B3%841.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[한국사회와 행정 (K-MOOC ─ 진행중)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:DGUk+DGU_023k+DGU_023k_2022/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DGUk+DGU_023k+DGU_023k_2022/about</guid>
+            <pubDate>Thu, 23 Feb 2023 06:15:45 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                함요상
+                </span>
+                <span class="kr01_school">DAEGU UNIVERSITY</span>
+                </div>
+                <div><time>2023/02/20</time>
+                
+                ~ <time>2023/02/27</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:DGUk+DGU_023k+DGU_023k_2022+type@asset+block@K-MOOC-%ED%95%9C%EA%B5%AD%EC%82%AC%ED%9A%8C%EC%99%80%ED%96%89%EC%A0%95.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[메타버스와 서비스 경영 (K-MOOC ─ 진행중)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:PTUk+PMOOC22+2022_T1/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:PTUk+PMOOC22+2022_T1/about</guid>
@@ -348,24 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:JJU+JJU04+2021_J04_2+type@asset+block@2021_%EB%A9%80%ED%8B%B0%EB%A7%81%EA%B5%AC%EC%96%BC.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[일본의 이해 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:CWNU+CWNU002+2022_1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:CWNU+CWNU002+2022_1/about</guid>
-            <pubDate>Thu, 16 Feb 2023 09:12:57 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                이기완
-                </span>
-                <span class="kr01_school">Changwon National University</span>
-                </div>
-                <div><time>2023/02/16</time>
-                
-                ~ <time>2023/02/27</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:CWNU+CWNU002+2022_1+type@asset+block@%EC%9D%BC%EB%B3%B8%EC%9D%98%EC%9D%B4%ED%95%B4_%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[모두를 위한 사회학 입문 Ⅱ (K-MOOC ─ 개강예정)]]></title>
@@ -510,6 +510,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC16K+2023_T1+type@asset+block@014.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[흔들리는 20대 : 청년 심리학 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SNUk+SNU045_011k+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SNUk+SNU045_011k+2023_T1/about</guid>
+            <pubDate>Thu, 23 Feb 2023 06:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                곽금주
+                </span>
+                <span class="kr01_school">SEOUL NATIONAL UNIVERSITY</span>
+                </div>
+                <div><time>2023/03/07</time>
+                
+                ~ <time>2023/06/13</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SNUk+SNU045_011k+2023_T1+type@asset+block@23-1_%ED%9D%94%EB%93%A4%EB%A6%AC%EB%8A%9420%EB%8C%80.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[현대사회 건강문제와 인간돌봄학문으로서의 간호 (K-MOOC ─ 개강예정)]]></title>
@@ -708,24 +726,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:SNUk+CORE_SNU043_076k+2023_T1+type@asset+block@23-1_%EC%A2%85%EA%B5%90%EC%83%81%EC%A7%95%EC%9D%98%EC%9D%B4%ED%95%B4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소비자와 시장 (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SNUk+SNU044_025k+2023_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SNUk+SNU044_025k+2023_T1/about</guid>
-            <pubDate>Tue, 21 Feb 2023 00:59:39 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김난도
-                </span>
-                <span class="kr01_school">SEOUL NATIONAL UNIVERSITY</span>
-                </div>
-                <div><time>2023/03/07</time>
-                
-                ~ <time>2023/06/13</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SNUk+SNU044_025k+2023_T1+type@asset+block@23-1_%EC%86%8C%EB%B9%84%EC%9E%90%EC%99%80%EC%8B%9C%EC%9E%A5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

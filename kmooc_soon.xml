@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 04:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 06:16:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -150,6 +150,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC16K+2023_T1+type@asset+block@014.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[흔들리는 20대 : 청년 심리학]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SNUk+SNU045_011k+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SNUk+SNU045_011k+2023_T1/about</guid>
+            <pubDate>Thu, 23 Feb 2023 06:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                곽금주
+                </span>
+                <span class="kr01_school">SEOUL NATIONAL UNIVERSITY</span>
+                </div>
+                <div><time>2023/03/07</time>
+                
+                ~ <time>2023/06/13</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SNUk+SNU045_011k+2023_T1+type@asset+block@23-1_%ED%9D%94%EB%93%A4%EB%A6%AC%EB%8A%9420%EB%8C%80.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[현대사회 건강문제와 인간돌봄학문으로서의 간호]]></title>
@@ -348,24 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:SNUk+CORE_SNU043_076k+2023_T1+type@asset+block@23-1_%EC%A2%85%EA%B5%90%EC%83%81%EC%A7%95%EC%9D%98%EC%9D%B4%ED%95%B4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소비자와 시장]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SNUk+SNU044_025k+2023_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SNUk+SNU044_025k+2023_T1/about</guid>
-            <pubDate>Tue, 21 Feb 2023 00:59:39 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김난도
-                </span>
-                <span class="kr01_school">SEOUL NATIONAL UNIVERSITY</span>
-                </div>
-                <div><time>2023/03/07</time>
-                
-                ~ <time>2023/06/13</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SNUk+SNU044_025k+2023_T1+type@asset+block@23-1_%EC%86%8C%EB%B9%84%EC%9E%90%EC%99%80%EC%8B%9C%EC%9E%A5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
