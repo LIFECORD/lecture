@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 00:57:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 02:19:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -114,6 +114,42 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:EwhaK+EW22004K+2023_S28+type@asset+block@%EC%9D%B4%ED%99%94%EC%97%AC%EB%8C%80_%EC%98%81%EB%B9%84%EC%A0%95%ED%98%95-%EB%8D%B0%EC%9D%B4%ED%84%B0_%EC%86%8C%EC%85%9C-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%9D%98-%EB%B6%84%EC%84%9D-%EC%8B%AC%ED%99%94_%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[발달지연 청소년의 참 세상살이를 위한 의사소통(4)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:DGUk+DGU_024k+DGU_024k_2023_3/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DGUk+DGU_024k+DGU_024k_2023_3/about</guid>
+            <pubDate>Fri, 24 Feb 2023 02:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김화수
+                </span>
+                <span class="kr01_school">DAEGU UNIVERSITY</span>
+                </div>
+                <div><time>2023/04/01</time>
+                
+                ~ <time>2023/06/20</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:DGUk+DGU_024k+DGU_024k_2023_3+type@asset+block@%EB%B0%9C%EB%8B%AC%EC%A7%80%EC%97%B0_4_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[발달지연 청소년의 참 세상살이를 위한 의사소통(5)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:DGUk+DGU_025k+DGU_025k_2023_3/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DGUk+DGU_025k+DGU_025k_2023_3/about</guid>
+            <pubDate>Fri, 24 Feb 2023 02:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김화수
+                </span>
+                <span class="kr01_school">DAEGU UNIVERSITY</span>
+                </div>
+                <div><time>2023/04/01</time>
+                
+                ~ <time>2023/06/20</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:DGUk+DGU_025k+DGU_025k_2023_3+type@asset+block@%EB%B0%9C%EB%8B%AC%EC%A7%80%EC%97%B0_5_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최초반응자를 위한 외상처치술]]></title>
@@ -330,42 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:SNUk+SNU053.019k+2023_T1+type@asset+block@23-1_%EB%8B%88%EC%B2%B4%EC%9D%BD%EA%B8%B0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[교육연구를 위한 통계방법]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SNUk+SNU068.021k+2023_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SNUk+SNU068.021k+2023_T1/about</guid>
-            <pubDate>Tue, 21 Feb 2023 00:59:39 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                박현정
-                </span>
-                <span class="kr01_school">SEOUL NATIONAL UNIVERSITY</span>
-                </div>
-                <div><time>2023/03/07</time>
-                
-                ~ <time>2023/06/13</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SNUk+SNU068.021k+2023_T1+type@asset+block@23-1_%EA%B5%90%EC%9C%A1%EC%97%B0%EA%B5%AC%EB%A5%BC%EC%9C%84%ED%95%9C%ED%86%B5%EA%B3%84%EB%B0%A9%EB%B2%95.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[논어와 현대 사회 - 리더를 위한 논어 읽기]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SNUk+SNU047_011k+2023_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SNUk+SNU047_011k+2023_T1/about</guid>
-            <pubDate>Tue, 21 Feb 2023 00:59:39 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                이강재
-                </span>
-                <span class="kr01_school">SEOUL NATIONAL UNIVERSITY</span>
-                </div>
-                <div><time>2023/03/07</time>
-                
-                ~ <time>2023/06/13</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SNUk+SNU047_011k+2023_T1+type@asset+block@23-1_%EB%85%BC%EC%96%B4%EC%99%80%ED%98%84%EB%8C%80%EC%82%AC%ED%9A%8C.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
