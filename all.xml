@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 02:19:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 03:16:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -512,6 +512,24 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:DGUk+DGU_025k+DGU_025k_2023_3+type@asset+block@%EB%B0%9C%EB%8B%AC%EC%A7%80%EC%97%B0_5_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[생활 속 인공지능의 이해 및 활용 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:DGUk+DGU_028k+DGU_028k_2023_3/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DGUk+DGU_028k+DGU_028k_2023_3/about</guid>
+            <pubDate>Fri, 24 Feb 2023 03:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                유준혁
+                </span>
+                <span class="kr01_school">DAEGU UNIVERSITY</span>
+                </div>
+                <div><time>2023/04/01</time>
+                
+                ~ <time>2023/06/20</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:DGUk+DGU_028k+DGU_028k_2023_3+type@asset+block@%EC%83%9D%ED%99%9C%EC%86%8D%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[최초반응자를 위한 외상처치술 (K-MOOC ─ 개강예정)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:DJHIT+HIT01+2023_H1/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:DJHIT+HIT01+2023_H1/about</guid>
@@ -708,24 +726,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:SNUk+SNU067.021k+2023_T1+type@asset+block@23-1_%ED%98%84%EB%8C%80%EC%B2%A0%ED%95%99%EC%82%AC%EC%A1%B0%ED%98%84%EB%8C%80%EC%B2%A0%ED%95%99%EC%9D%98%EA%B1%B0%EC%9E%A5%EB%93%A4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[니체 읽기-인문고전 『차라투스트라는 이렇게 말했다』 (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SNUk+SNU053.019k+2023_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SNUk+SNU053.019k+2023_T1/about</guid>
-            <pubDate>Tue, 21 Feb 2023 00:59:39 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                박찬국
-                </span>
-                <span class="kr01_school">SEOUL NATIONAL UNIVERSITY</span>
-                </div>
-                <div><time>2023/03/07</time>
-                
-                ~ <time>2023/06/13</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SNUk+SNU053.019k+2023_T1+type@asset+block@23-1_%EB%8B%88%EC%B2%B4%EC%9D%BD%EA%B8%B0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
