@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 10:14:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 11:11:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -494,6 +494,24 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:DGUk+DGU_026k+DGU_026k_2023_3+type@asset+block@%EC%8B%9D%ED%92%88%EC%9C%84%EC%83%9D%EB%B2%95%EA%B7%9C.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[케이팝(K-POP)으로 배우는 한국 대중문화 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:DGUk+DGU_027k+DGU_027k_2023_3/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DGUk+DGU_027k+DGU_027k_2023_3/about</guid>
+            <pubDate>Fri, 24 Feb 2023 11:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이희정
+                </span>
+                <span class="kr01_school">DAEGU UNIVERSITY</span>
+                </div>
+                <div><time>2023/04/01</time>
+                
+                ~ <time>2023/06/20</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:DGUk+DGU_027k+DGU_027k_2023_3+type@asset+block@K-POP.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[발달지연 청소년의 참 세상살이를 위한 의사소통(4) (K-MOOC ─ 개강예정)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:DGUk+DGU_024k+DGU_024k_2023_3/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:DGUk+DGU_024k+DGU_024k_2023_3/about</guid>
@@ -528,24 +546,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:DGUk+DGU_025k+DGU_025k_2023_3+type@asset+block@%EB%B0%9C%EB%8B%AC%EC%A7%80%EC%97%B0_5_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국사회와 행정 (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:DGUk+DGU_023k+DGU_023k_2023_3/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:DGUk+DGU_023k+DGU_023k_2023_3/about</guid>
-            <pubDate>Fri, 24 Feb 2023 04:14:43 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                함요상
-                </span>
-                <span class="kr01_school">DAEGU UNIVERSITY</span>
-                </div>
-                <div><time>2023/04/01</time>
-                
-                ~ <time>2023/06/20</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:DGUk+DGU_023k+DGU_023k_2023_3+type@asset+block@%ED%95%9C%EA%B5%AD%EC%82%AC%ED%9A%8C%EC%99%80_%ED%96%89%EC%A0%95.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[생활 속 인공지능의 이해 및 활용 (K-MOOC ─ 개강예정)]]></title>
