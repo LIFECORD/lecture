@@ -4,9 +4,27 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Feb 2023 08:14:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Feb 2023 09:11:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[DT시대 온택트 교육학개론]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Sat, 25 Feb 2023 09:11:09 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                최동연
+                </span>
+                <span class="kr01_school">KONYANG CYBER UNIVERSITY</span>
+                </div>
+                <div><time>2023/02/25</time>
+                
+                ~ <time>2023/06/11</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KYCU+KYCU_06+2023_T3_1+type@asset+block@KakaoTalk_20211026_142115066.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한류(Hallyu) 한국 대중문화의 글로컬라이제이션(Glocalization)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:SOGANGk+SOGANG06K+2022_T2_2/about</link>
@@ -348,24 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:PTUk+PMOOC22+2022_T1+type@asset+block@%EB%A9%94%ED%83%80%EB%B2%84%EC%8A%A4%EC%99%80_%EC%84%9C%EB%B9%84%EC%8A%A4%EA%B2%BD%EC%98%81_%EC%8D%B8%EB%84%A4%EC%9D%BC_v2.0_%EA%B5%AD%EB%AC%B8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데이터베이스 보안]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SejonguniversityK+SJKMOOC24k+2022_07SJ24/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SejonguniversityK+SJKMOOC24k+2022_07SJ24/about</guid>
-            <pubDate>Fri, 24 Feb 2023 02:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김영갑
-                </span>
-                <span class="kr01_school">Sejong University</span>
-                </div>
-                <div><time>2023/02/17</time>
-                
-                ~ <time>2023/03/31</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SejonguniversityK+SJKMOOC24k+2022_07SJ24+type@asset+block@%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EB%B3%B4%EC%95%88_100KB%EC%9D%B4%ED%95%98.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
