@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 00:58:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 02:22:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -566,6 +566,24 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:DGUk+DGU_028k+DGU_028k_2023_3+type@asset+block@%EC%83%9D%ED%99%9C%EC%86%8D%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[정부와 행정 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:YonseiWK+FD_WY107_01k+2023_03A_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:YonseiWK+FD_WY107_01k+2023_03A_T1/about</guid>
+            <pubDate>Tue, 28 Feb 2023 02:22:22 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                한상일
+                </span>
+                <span class="kr01_school">Yonsei University Mirae Campus</span>
+                </div>
+                <div><time>2023/03/30</time>
+                
+                ~ <time>2023/05/26</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:YonseiWK+FD_WY107_01k+2023_03A_T1+type@asset+block@%EC%A0%95%EB%B6%80.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[최초반응자를 위한 외상처치술 (K-MOOC ─ 개강예정)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:DJHIT+HIT01+2023_H1/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:DJHIT+HIT01+2023_H1/about</guid>
@@ -708,24 +726,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:KSUk+KSUk_16+2023_T1+type@asset+block@%EB%8F%84%EC%8B%9C_%EB%B6%80%EC%82%B0_%EC%8D%B8%EB%84%A4%EC%9D%BC__1_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현해탄과 근대 부산 (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KSUk+KSUk_17+2023_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KSUk+KSUk_17+2023_T1/about</guid>
-            <pubDate>Sun, 26 Feb 2023 15:11:21 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                신승모
-                </span>
-                <span class="kr01_school">KYUNGSUNG UNIVERSITY</span>
-                </div>
-                <div><time>2023/03/13</time>
-                
-                ~ <time>2023/04/24</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KSUk+KSUk_17+2023_T1+type@asset+block@%ED%98%84%ED%95%B4%ED%83%84_%EC%8D%B8%EB%84%A4%EC%9D%BC__1_.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
