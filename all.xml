@@ -4,32 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 17:11:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 18:15:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[위대한 수업2(GREAT MINDS) : 인사이드 차이나 - 정치 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Tue, 28 Feb 2023 17:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                데이비드 샴보
-                </span>
-                <span class="kr01_school">EBS</span>
-                </div>
-                <div><time>2023/03/01</time>
-                
-                ~ <time>2023/03/01</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:EBS+EBS025+2022_T1+type@asset+block@%EB%8D%B0%EC%9D%B4%EB%B9%84%EB%93%9C%EC%83%B4%EB%B3%B4%EC%82%AC%EC%A7%84.JPG" length="0" type="image/JPG"/>
-        </item>
         <item>
             <title><![CDATA[ICT가 바꾸는 미래의 법 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Tue, 28 Feb 2023 17:11:29 GMT</pubDate>
+            <pubDate>Tue, 28 Feb 2023 18:14:56 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 선지원
@@ -47,7 +29,7 @@
             <title><![CDATA[슬기로운 가정생활, 관계놀이 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Tue, 28 Feb 2023 17:11:29 GMT</pubDate>
+            <pubDate>Tue, 28 Feb 2023 18:14:56 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 최윤희 and 1 others
@@ -65,7 +47,7 @@
             <title><![CDATA[한국영화사로 보는 가족 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Tue, 28 Feb 2023 17:11:29 GMT</pubDate>
+            <pubDate>Tue, 28 Feb 2023 18:14:56 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 강성률
@@ -83,7 +65,7 @@
             <title><![CDATA[플라즈마와 건강, 그리고 생활문화 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Tue, 28 Feb 2023 17:11:29 GMT</pubDate>
+            <pubDate>Tue, 28 Feb 2023 18:14:56 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 최은하 and 4 others
@@ -101,7 +83,7 @@
             <title><![CDATA[4차 산업혁명, 찐 고수되기 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Tue, 28 Feb 2023 17:11:29 GMT</pubDate>
+            <pubDate>Tue, 28 Feb 2023 18:14:56 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 정동훈
@@ -119,7 +101,7 @@
             <title><![CDATA[메타버스, 찐 고수되기 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Tue, 28 Feb 2023 17:11:29 GMT</pubDate>
+            <pubDate>Tue, 28 Feb 2023 18:14:56 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 정동훈
@@ -137,7 +119,7 @@
             <title><![CDATA[현재와 과거를 잇는 한국문화사 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Tue, 28 Feb 2023 17:11:29 GMT</pubDate>
+            <pubDate>Tue, 28 Feb 2023 18:14:56 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김인호
@@ -155,7 +137,7 @@
             <title><![CDATA[디지털 신기술 기반 신재생 에너지 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Tue, 28 Feb 2023 17:11:29 GMT</pubDate>
+            <pubDate>Tue, 28 Feb 2023 18:14:56 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 손희상
@@ -366,6 +348,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:PNUk+IC_C01+2023_KM_013+type@asset+block@%EA%B7%BC%ED%98%84%EB%8C%80-%EC%A4%91%EA%B5%AD%EC%9D%98-%EC%A7%80%EC%8B%9D%EC%9D%B8%EB%93%A4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[딥러닝을 위한 선형대수학 (K-MOOC ─ 진행중)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:PNUk+LD_C01+2023_KM_011/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:PNUk+LD_C01+2023_KM_011/about</guid>
+            <pubDate>Tue, 28 Feb 2023 18:14:56 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김현민
+                </span>
+                <span class="kr01_school">Pusan National University</span>
+                </div>
+                <div><time>2023/02/27</time>
+                
+                ~ <time>2023/06/09</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:PNUk+LD_C01+2023_KM_011+type@asset+block@%EB%94%A5%EB%9F%AC%EB%8B%9D.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[모두를 위한 사회학 입문 Ⅱ (K-MOOC ─ 개강예정)]]></title>
