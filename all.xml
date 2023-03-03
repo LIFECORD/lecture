@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 08:15:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 09:15:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[음악은 왜 치료적인가? (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Fri, 03 Mar 2023 08:15:04 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SSUk+SSMOOC07K+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SSUk+SSMOOC07K+2023_T1/about</guid>
+            <pubDate>Fri, 03 Mar 2023 09:15:06 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 강경선
@@ -27,9 +27,9 @@
         </item>
         <item>
             <title><![CDATA[인문·사회계열 전공생을 위한 Python 입문 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Fri, 03 Mar 2023 08:15:04 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SSUk+SSMOOC19K+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SSUk+SSMOOC19K+2023_T1/about</guid>
+            <pubDate>Fri, 03 Mar 2023 09:15:06 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 윤태진
@@ -45,9 +45,9 @@
         </item>
         <item>
             <title><![CDATA[언택트 시대의 눈건강 관리법 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Fri, 03 Mar 2023 08:15:04 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:BUK+BUK003+2023_T1_01/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:BUK+BUK003+2023_T1_01/about</guid>
+            <pubDate>Fri, 03 Mar 2023 09:15:06 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김효진
@@ -63,9 +63,9 @@
         </item>
         <item>
             <title><![CDATA[아동상담: 놀이와 예술을 통한 어린이 마음치료 - 놀이･예술 기반 아동상담의 특성과 과정 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Fri, 03 Mar 2023 08:15:04 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:BUK+BUK004+2023_T1_01/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:BUK+BUK004+2023_T1_01/about</guid>
+            <pubDate>Fri, 03 Mar 2023 09:15:06 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김세영 and 1 others
@@ -81,9 +81,9 @@
         </item>
         <item>
             <title><![CDATA[아동상담: 놀이와 예술을 통한 어린이 마음치료 - 놀이･예술 기반의 아동상담 기법과 활용 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Fri, 03 Mar 2023 08:15:04 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:BUK+BUK005+2023_T1_01/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:BUK+BUK005+2023_T1_01/about</guid>
+            <pubDate>Fri, 03 Mar 2023 09:15:06 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김세영 and 1 others
@@ -99,9 +99,9 @@
         </item>
         <item>
             <title><![CDATA[SW&AI; 전공 진입을 위한 수학 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Fri, 03 Mar 2023 08:15:04 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SSUk+SSMOOC21K+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SSUk+SSMOOC21K+2023_T1/about</guid>
+            <pubDate>Fri, 03 Mar 2023 09:15:06 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 심성아
