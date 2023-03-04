@@ -4,9 +4,27 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 23:12:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Mar 2023 00:55:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[성장과발달]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Sat, 04 Mar 2023 00:55:37 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김태경
+                </span>
+                <span class="kr01_school">DONG-EUI INSTITUTE OF TECHNOLOGY UNIVERSITY</span>
+                </div>
+                <div><time>2023/03/04</time>
+                
+                ~ <time>2023/06/30</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:DIT+DIT01+2023_T1+type@asset+block@%EC%84%B1%EC%9E%A5%EA%B3%BC%EB%B0%9C%EB%8B%AC_%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%B9%B4%EB%93%9C_2022-1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[음악은 왜 치료적인가?]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:SSUk+SSMOOC07K+2023_T1/about</link>
@@ -348,24 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:KKUk+CK_KKUkbio002+2023_T1+type@asset+block@%EA%B7%B8%EB%A6%BC1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[독서치유론]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KKUk+KKUkread+2023_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KKUk+KKUkread+2023_T1/about</guid>
-            <pubDate>Thu, 02 Mar 2023 18:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                노영희
-                </span>
-                <span class="kr01_school">KONKUK UNIVERSITY GLOCAL CAMPUS</span>
-                </div>
-                <div><time>2023/03/02</time>
-                
-                ~ <time>2023/06/21</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KKUk+KKUkread+2023_T1+type@asset+block@%EA%B7%B8%EB%A6%BC2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
