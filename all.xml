@@ -4,368 +4,368 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Mar 2023 23:12:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 00:58:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[인공지능 HRI (K-MOOC ─ 진행중)]]></title>
+            <title><![CDATA[K-FOOD코디네이션(테이블코디네이션+푸드스타일링) (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Sun, 05 Mar 2023 23:12:09 GMT</pubDate>
+            <pubDate>Mon, 06 Mar 2023 00:58:35 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                임동원 and 1 others
+                김수인
                 </span>
-                <span class="kr01_school">The University of Suwon</span>
+                <span class="kr01_school">Jeonju University</span>
                 </div>
                 <div><time>2023/03/06</time>
                 
-                ~ <time>2023/06/19</time>
+                ~ <time>2023/06/21</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:USW+USW05+2023_T1+type@asset+block@23-1_HRI.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:JJU+JJU03+2020_J03_4+type@asset+block@_%EC%A0%84%EC%A3%BC%EB%8C%80_-K-FOOD%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[글로벌 소통의 중심, 통역과 번역 (K-MOOC ─ 진행중)]]></title>
+            <title><![CDATA[기독교윤리와 적성 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Sun, 05 Mar 2023 23:12:09 GMT</pubDate>
+            <pubDate>Mon, 06 Mar 2023 00:58:35 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                이혜승
+                조재천
                 </span>
-                <span class="kr01_school">The University of Suwon</span>
+                <span class="kr01_school">Jeonju University</span>
                 </div>
                 <div><time>2023/03/06</time>
                 
-                ~ <time>2023/06/19</time>
+                ~ <time>2023/06/21</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:USW+USW01+2023_T1+type@asset+block@23-1_%ED%86%B5%EC%97%AD%EA%B3%BC_%EB%B2%88%EC%97%AD.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:JJU+JJU06+2022_T1+type@asset+block@%EA%B8%B0%EB%8F%85%EA%B5%90_%EC%9C%A4%EB%A6%AC%EC%99%80_%EC%A0%81%EC%84%B1_%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[도시와 언어로 만나는 러시아 (K-MOOC ─ 진행중)]]></title>
+            <title><![CDATA[슬기로운 디지털미디어 생활 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Sun, 05 Mar 2023 23:12:09 GMT</pubDate>
+            <pubDate>Mon, 06 Mar 2023 00:58:35 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                이혜승
+                최선희
                 </span>
-                <span class="kr01_school">The University of Suwon</span>
+                <span class="kr01_school">Jeonju University</span>
                 </div>
                 <div><time>2023/03/06</time>
                 
-                ~ <time>2023/06/19</time>
+                ~ <time>2023/06/21</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:USW+USW06+2023_T1+type@asset+block@23-1_%EB%8F%84%EC%96%B8%EB%9F%AC.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:JJU+JJU07+2022_T1+type@asset+block@%EC%8A%AC%EA%B8%B0%EB%A1%9C%EC%9A%B4_%EB%94%94%EC%A7%80%ED%84%B8_%EB%AF%B8%EB%94%94%EC%96%B4_%EC%83%9D%ED%99%9C_%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[영국에 영어는 없었다 (K-MOOC ─ 진행중)]]></title>
+            <title><![CDATA[한국 속의 음식 문화 여행 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Sun, 05 Mar 2023 23:12:09 GMT</pubDate>
+            <pubDate>Mon, 06 Mar 2023 00:58:35 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                김동섭
+                이대희
                 </span>
-                <span class="kr01_school">The University of Suwon</span>
+                <span class="kr01_school">Jeonju University</span>
                 </div>
                 <div><time>2023/03/06</time>
                 
-                ~ <time>2023/06/19</time>
+                ~ <time>2023/06/21</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:USW+USW02+2023_T1+type@asset+block@23-1_%EC%98%81%EC%98%81%EC%97%86.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:JJU+JJU05+2022_T1+type@asset+block@%ED%95%9C%EA%B5%AD%EC%86%8D%EC%9D%98_%EC%9D%8C%EC%8B%9D%EB%AC%B8%ED%99%94%EC%97%AC%ED%96%89_%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[고대 그리스 신화와 문학세계 (K-MOOC ─ 진행중)]]></title>
+            <title><![CDATA[4차 산업혁명과 경영혁신 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Sun, 05 Mar 2023 23:12:09 GMT</pubDate>
+            <pubDate>Mon, 06 Mar 2023 00:58:35 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                유호전
-                </span>
-                <span class="kr01_school">Pyeongtaek University</span>
-                </div>
-                <div><time>2023/03/06</time>
-                
-                ~ <time>2023/05/22</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:PTUk+SF_PMOOC02k+2023_T1+type@asset+block@2023-1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[디지털 시대의 커뮤니케이션 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Sun, 05 Mar 2023 23:12:09 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                 이시화
-                </span>
-                <span class="kr01_school">Pyeongtaek University</span>
-                </div>
-                <div><time>2023/03/06</time>
-                
-                ~ <time>2023/05/22</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:PTUk+SF_PMOOC01k+2023_T1+type@asset+block@2023-1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[성장과발달 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:DIT+DIT01+2023_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:DIT+DIT01+2023_T1/about</guid>
-            <pubDate>Sat, 04 Mar 2023 09:11:10 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김태경
-                </span>
-                <span class="kr01_school">DONG-EUI INSTITUTE OF TECHNOLOGY UNIVERSITY</span>
-                </div>
-                <div><time>2023/03/04</time>
-                
-                ~ <time>2023/06/30</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:DIT+DIT01+2023_T1+type@asset+block@%EC%84%B1%EC%9E%A5%EA%B3%BC%EB%B0%9C%EB%8B%AC_%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%B9%B4%EB%93%9C_2022-1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[음악은 왜 치료적인가? (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SSUk+SSMOOC07K+2023_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SSUk+SSMOOC07K+2023_T1/about</guid>
-            <pubDate>Fri, 03 Mar 2023 09:15:06 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                강경선
+                심선영
                 </span>
                 <span class="kr01_school">SUNGSHIN WOMEN'S UNIVERSITY</span>
                 </div>
-                <div><time>2023/03/03</time>
-                
-                ~ <time>2023/06/23</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC07K+2023_T1+type@asset+block@016.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인문·사회계열 전공생을 위한 Python 입문 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SSUk+SSMOOC19K+2023_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SSUk+SSMOOC19K+2023_T1/about</guid>
-            <pubDate>Fri, 03 Mar 2023 09:15:06 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                윤태진
-                </span>
-                <span class="kr01_school">SUNGSHIN WOMEN'S UNIVERSITY</span>
-                </div>
-                <div><time>2023/03/03</time>
-                
-                ~ <time>2023/06/23</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC19K+2023_T1+type@asset+block@018.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[언택트 시대의 눈건강 관리법 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:BUK+BUK003+2023_T1_01/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:BUK+BUK003+2023_T1_01/about</guid>
-            <pubDate>Fri, 03 Mar 2023 09:15:06 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김효진
-                </span>
-                <span class="kr01_school">Baekseok University</span>
-                </div>
-                <div><time>2023/03/03</time>
-                
-                ~ <time>2023/06/16</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:BUK+BUK003+2023_T1_01+type@asset+block@_%EB%88%88%EA%B1%B4%EA%B0%95%EA%B4%80%EB%A6%AC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아동상담: 놀이와 예술을 통한 어린이 마음치료 - 놀이･예술 기반 아동상담의 특성과 과정 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:BUK+BUK004+2023_T1_01/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:BUK+BUK004+2023_T1_01/about</guid>
-            <pubDate>Fri, 03 Mar 2023 09:15:06 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김세영 and 1 others
-                </span>
-                <span class="kr01_school">Baekseok University</span>
-                </div>
-                <div><time>2023/03/03</time>
-                
-                ~ <time>2023/06/16</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:BUK+BUK004+2023_T1_01+type@asset+block@_%EB%B0%B1%EC%84%9D%EB%8C%80_%EB%86%80%EC%9D%B4%EC%98%88%EC%88%A0%EA%B8%B0%EB%B0%98%EC%95%84%EB%8F%99%EC%83%81%EB%8B%B4%EC%9D%98%ED%8A%B9%EC%84%B1%EA%B3%BC%EA%B3%BC%EC%A0%95_%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아동상담: 놀이와 예술을 통한 어린이 마음치료 - 놀이･예술 기반의 아동상담 기법과 활용 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:BUK+BUK005+2023_T1_01/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:BUK+BUK005+2023_T1_01/about</guid>
-            <pubDate>Fri, 03 Mar 2023 09:15:06 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김세영 and 1 others
-                </span>
-                <span class="kr01_school">Baekseok University</span>
-                </div>
-                <div><time>2023/03/03</time>
-                
-                ~ <time>2023/06/16</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:BUK+BUK005+2023_T1_01+type@asset+block@_%EB%B0%B1%EC%84%9D%EB%8C%80_%EB%86%80%EC%9D%B4%EC%98%88%EC%88%A0%EA%B8%B0%EB%B0%98%EC%95%84%EB%8F%99%EC%83%81%EB%8B%B4%EC%9D%98%EA%B8%B0%EB%B2%95%EA%B3%BC%ED%99%9C%EC%9A%A9_%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SW&AI; 전공 진입을 위한 수학 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SSUk+SSMOOC21K+2023_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SSUk+SSMOOC21K+2023_T1/about</guid>
-            <pubDate>Fri, 03 Mar 2023 09:15:06 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                심성아
-                </span>
-                <span class="kr01_school">SUNGSHIN WOMEN'S UNIVERSITY</span>
-                </div>
-                <div><time>2023/03/03</time>
+                <div><time>2023/03/06</time>
                 
                 ~ <time>2023/06/18</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC21K+2023_T1+type@asset+block@222.png" length="0" type="image/png"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC10K+2023_T1+type@asset+block@001.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[실생활에서 만나는 경영의사결정 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:INU+INU003+2023_L3_1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:INU+INU003+2023_L3_1/about</guid>
-            <pubDate>Fri, 03 Mar 2023 02:48:10 GMT</pubDate>
+            <title><![CDATA[블록체인 경제와 디지털 자산 혁명 (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Mon, 06 Mar 2023 00:58:35 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                김창희 교수 and 3 others
+                심선영
                 </span>
-                <span class="kr01_school">Incheon National University</span>
+                <span class="kr01_school">SUNGSHIN WOMEN'S UNIVERSITY</span>
                 </div>
-                <div><time>2023/03/03</time>
+                <div><time>2023/03/06</time>
                 
-                ~ <time>2023/06/15</time>
+                ~ <time>2023/06/18</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:INU+INU003+2023_L3_1+type@asset+block@KakaoTalk_20191218_165808377_02.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC23K+2023_T1+type@asset+block@006.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[사회적경제기업가의 경영전략 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:INU+INU004+2023_L4_1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:INU+INU004+2023_L4_1/about</guid>
-            <pubDate>Fri, 03 Mar 2023 02:48:10 GMT</pubDate>
+            <title><![CDATA[설득의 과학 (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Mon, 06 Mar 2023 00:58:35 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                양준호 교수
+                소현진
                 </span>
-                <span class="kr01_school">Incheon National University</span>
+                <span class="kr01_school">SUNGSHIN WOMEN'S UNIVERSITY</span>
                 </div>
-                <div><time>2023/03/03</time>
+                <div><time>2023/03/06</time>
                 
-                ~ <time>2023/06/15</time>
+                ~ <time>2023/06/18</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:INU+INU004+2023_L4_1+type@asset+block@KakaoTalk_20191218_184045591.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC04K+2023_T1+type@asset+block@008.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[엔지니어 정약용 탐구 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:INU+INU001+2023_L1_1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:INU+INU001+2023_L1_1/about</guid>
-            <pubDate>Fri, 03 Mar 2023 02:48:10 GMT</pubDate>
+            <title><![CDATA[조선 문인들이 사랑한 나의 집 (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Mon, 06 Mar 2023 00:58:35 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                김평원 and 1 others
+                강혜선
                 </span>
-                <span class="kr01_school">Incheon National University</span>
+                <span class="kr01_school">SUNGSHIN WOMEN'S UNIVERSITY</span>
                 </div>
-                <div><time>2023/03/03</time>
+                <div><time>2023/03/06</time>
                 
-                ~ <time>2023/06/15</time>
+                ~ <time>2023/06/18</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:INU+INU001+2023_L1_1+type@asset+block@2023-1%ED%95%99%EA%B8%B0-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%EC%A0%95%EC%95%BD%EC%9A%A9-%ED%83%90%EA%B5%AC-%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC18K+2023_T1+type@asset+block@019.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[삶과 경력개발 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:INU+INU006+2023_L6_1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:INU+INU006+2023_L6_1/about</guid>
-            <pubDate>Fri, 03 Mar 2023 02:48:10 GMT</pubDate>
+            <title><![CDATA[역사와 문화 속의 인간 (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Mon, 06 Mar 2023 00:58:35 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                박용호
+                김길웅
                 </span>
-                <span class="kr01_school">Incheon National University</span>
+                <span class="kr01_school">SUNGSHIN WOMEN'S UNIVERSITY</span>
                 </div>
-                <div><time>2023/03/03</time>
+                <div><time>2023/03/06</time>
                 
-                ~ <time>2023/06/15</time>
+                ~ <time>2023/06/18</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:INU+INU006+2023_L6_1+type@asset+block@%EC%9D%B8%EC%B2%9C%EB%8C%80%ED%95%99%EA%B5%90-%EC%82%B6%EA%B3%BC_%EA%B2%BD%EB%A0%A5%EA%B0%9C%EB%B0%9C_%EB%B0%95%EC%9A%A9%ED%98%B8_-Life_and_career_development_Park_Yongho_-_%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC06K+2023_T1+type@asset+block@013.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[모성간호학 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:PTUk+ID_PMOOC02k+2023_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:PTUk+ID_PMOOC02k+2023_T1/about</guid>
-            <pubDate>Fri, 03 Mar 2023 02:48:10 GMT</pubDate>
+            <title><![CDATA[의료사고, 법으로 이해하기 (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Mon, 06 Mar 2023 00:58:35 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                박현정
+                김나경
                 </span>
-                <span class="kr01_school">Pyeongtaek University</span>
+                <span class="kr01_school">SUNGSHIN WOMEN'S UNIVERSITY</span>
                 </div>
-                <div><time>2023/03/03</time>
+                <div><time>2023/03/06</time>
                 
-                ~ <time>2023/04/29</time>
+                ~ <time>2023/06/18</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:PTUk+ID_PMOOC02k+2023_T1+type@asset+block@%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%95%95%EC%B6%95.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC13K+2023_T1+type@asset+block@017.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[미생물학 입문 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:INU+INU002+2023_L2_1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:INU+INU002+2023_L2_1/about</guid>
-            <pubDate>Fri, 03 Mar 2023 02:48:10 GMT</pubDate>
+            <title><![CDATA[비즈니스를 위한 인공지능 (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Mon, 06 Mar 2023 00:58:35 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                예정용
+                심선영
                 </span>
-                <span class="kr01_school">Incheon National University</span>
+                <span class="kr01_school">SUNGSHIN WOMEN'S UNIVERSITY</span>
                 </div>
-                <div><time>2023/03/03</time>
+                <div><time>2023/03/06</time>
                 
-                ~ <time>2023/04/13</time>
+                ~ <time>2023/06/18</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:INU+INU002+2023_L2_1+type@asset+block@2023-1%EC%B0%A8_%EB%AF%B8%EC%83%9D%EB%AC%BC%ED%95%99%EC%9E%85%EB%AC%B8.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC15K+2023_T1+type@asset+block@007.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[기업가정신과 기업가적 행동 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KGU+KGU03+2023_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KGU+KGU03+2023_T1/about</guid>
-            <pubDate>Thu, 02 Mar 2023 18:15:49 GMT</pubDate>
+            <title><![CDATA[한국의 자연지리 (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Mon, 06 Mar 2023 00:58:35 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                임진혁
+                박경
                 </span>
-                <span class="kr01_school">Kyonggi University</span>
+                <span class="kr01_school">SUNGSHIN WOMEN'S UNIVERSITY</span>
                 </div>
-                <div><time>2023/03/02</time>
+                <div><time>2023/03/06</time>
                 
-                ~ <time>2023/06/22</time>
+                ~ <time>2023/06/18</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KGU+KGU03+2023_T1+type@asset+block@800_%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC14K+2023_T1+type@asset+block@021.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[실사례를 통한 머신러닝 알고리즘 구현 실습 (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Mon, 06 Mar 2023 00:58:35 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                윤상덕
+                </span>
+                <span class="kr01_school">SUNGSHIN WOMEN'S UNIVERSITY</span>
+                </div>
+                <div><time>2023/03/06</time>
+                
+                ~ <time>2023/06/04</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC22K+2023_T1+type@asset+block@009.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[딥러닝 개론 (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Mon, 06 Mar 2023 00:58:35 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김희철
+                </span>
+                <span class="kr01_school">DAEGU UNIVERSITY</span>
+                </div>
+                <div><time>2023/03/06</time>
+                
+                ~ <time>2023/06/14</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:DGUk+DGU_006k+DGU_006k_2023_3+type@asset+block@%EB%94%A5%EB%9F%AC%EB%8B%9D%EA%B0%9C%EB%A1%A0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[발달지연 청소년의 참 세상살이를 위한 의사소통(2): 학업과 학교생활에 관한 기술 (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Mon, 06 Mar 2023 00:58:35 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김화수
+                </span>
+                <span class="kr01_school">DAEGU UNIVERSITY</span>
+                </div>
+                <div><time>2023/03/06</time>
+                
+                ~ <time>2023/06/14</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:DGUk+DGU_020k+DGU_020lk_2023_3+type@asset+block@%EB%B0%9C%EB%8B%AC%EC%A7%80%EC%97%B0_2_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[발달지연 청소년의 참 세상살이를 위한 의사소통(3): 실제생활기술 (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Mon, 06 Mar 2023 00:58:35 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김화수
+                </span>
+                <span class="kr01_school">DAEGU UNIVERSITY</span>
+                </div>
+                <div><time>2023/03/06</time>
+                
+                ~ <time>2023/06/14</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:DGUk+DGU_021k+DGU_021lk_2023_3+type@asset+block@%EB%B0%9C%EB%8B%AC%EC%A7%80%EC%97%B0_3_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사회복지역사 (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Mon, 06 Mar 2023 00:58:35 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이준상
+                </span>
+                <span class="kr01_school">DAEGU UNIVERSITY</span>
+                </div>
+                <div><time>2023/03/06</time>
+                
+                ~ <time>2023/06/14</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:DGUk+DGUk_003k+DGU_003k_2023_3+type@asset+block@%EC%82%AC%ED%9A%8C%EB%B3%B5%EC%A7%80%EC%97%AD%EC%82%AC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[생활 속 인공지능의 이해 및 활용 (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Mon, 06 Mar 2023 00:58:35 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                유준혁
+                </span>
+                <span class="kr01_school">DAEGU UNIVERSITY</span>
+                </div>
+                <div><time>2023/03/06</time>
+                
+                ~ <time>2023/06/14</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:DGUk+DGU_028k+DGU_028k_2023_3+type@asset+block@%EC%83%9D%ED%99%9C%EC%86%8D%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기초 이탈리아어 A1-1 (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Mon, 06 Mar 2023 00:58:35 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                윤종태
+                </span>
+                <span class="kr01_school">BUSAN UNIVERSITY OF FOREIGN STUDIES</span>
+                </div>
+                <div><time>2023/03/06</time>
+                
+                ~ <time>2023/06/16</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:BUFSk+BUFS_ICFL12+2023_T1+type@asset+block@%EC%9D%B4%ED%83%88%EB%A6%AC%EC%95%84%EC%96%B41_%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[실습으로 배우는 머신러닝 (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Mon, 06 Mar 2023 00:58:35 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김영훈
+                </span>
+                <span class="kr01_school">SUNGSHIN WOMEN'S UNIVERSITY</span>
+                </div>
+                <div><time>2023/03/06</time>
+                
+                ~ <time>2023/05/28</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC20K+2023_T1+type@asset+block@010.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[모두를 위한 사회학 입문 Ⅱ (K-MOOC ─ 개강예정)]]></title>
