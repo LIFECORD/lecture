@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Mar 2023 06:16:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 07:11:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -296,24 +296,6 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:DJHIT+HIT01+2023_H1+type@asset+block@main1.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[스마트팜 시설에너지관리 전문가 기초과정]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:MA_YONAM+MATCHUP_YC01+2023_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:MA_YONAM+MATCHUP_YC01+2023_T1/about</guid>
-            <pubDate>Sun, 05 Mar 2023 06:14:29 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김주원 and 4 others
-                </span>
-                <span class="kr01_school">Yonam College</span>
-                </div>
-                <div><time>2023/03/20</time>
-                
-                ~ <time>2023/05/16</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:MA_YONAM+MATCHUP_YC01+2023_T1+type@asset+block@01_M_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[스마트팜 작물재배 전문가 기초과정]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:MA_YONAM+MATCHUP_YC02+2023_T1/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:MA_YONAM+MATCHUP_YC02+2023_T1/about</guid>
@@ -330,6 +312,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:MA_YONAM+MATCHUP_YC02+2023_T1+type@asset+block@01_%EC%9E%AC%EB%B0%B0_2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스마트팜 시설에너지관리 전문가 기초과정]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:MA_YONAM+MATCHUP_YC01+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:MA_YONAM+MATCHUP_YC01+2023_T1/about</guid>
+            <pubDate>Sun, 05 Mar 2023 06:14:29 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김주원 and 4 others
+                </span>
+                <span class="kr01_school">Yonam College</span>
+                </div>
+                <div><time>2023/03/20</time>
+                
+                ~ <time>2023/05/16</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:MA_YONAM+MATCHUP_YC01+2023_T1+type@asset+block@01_M_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스마트팜 작물보호 전문가 기초과정]]></title>
