@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 08:16:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 09:12:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[나노 공정과 생산 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 13 Mar 2023 08:15:47 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:POSTECHk+MECH701A+2023_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:POSTECHk+MECH701A+2023_T2/about</guid>
+            <pubDate>Mon, 13 Mar 2023 09:12:26 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 노준석
@@ -27,9 +27,9 @@
         </item>
         <item>
             <title><![CDATA[지구과학과 환경기술 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 13 Mar 2023 08:15:47 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:POSTECHk+EVSE101+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:POSTECHk+EVSE101+2023_T1/about</guid>
+            <pubDate>Mon, 13 Mar 2023 09:12:26 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 황동수 and 4 others
@@ -45,9 +45,9 @@
         </item>
         <item>
             <title><![CDATA[양자물리와 양자컴퓨팅 기초 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 13 Mar 2023 08:15:47 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:POSTECHk+PHYS201+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:POSTECHk+PHYS201+2023_T1/about</guid>
+            <pubDate>Mon, 13 Mar 2023 09:12:26 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 윤건수
@@ -63,9 +63,9 @@
         </item>
         <item>
             <title><![CDATA[나노스케일 에너지 전달 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 13 Mar 2023 08:15:47 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:POSTECHk+MECH650+2023_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:POSTECHk+MECH650+2023_T2/about</guid>
+            <pubDate>Mon, 13 Mar 2023 09:12:26 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 진현규
@@ -81,9 +81,9 @@
         </item>
         <item>
             <title><![CDATA[아날로그와 디지털 세계를 잇는, 메이커 입문 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 13 Mar 2023 08:15:47 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:POSTECHk+CITE215+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:POSTECHk+CITE215+2023_T1/about</guid>
+            <pubDate>Mon, 13 Mar 2023 09:12:26 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박주홍
@@ -99,9 +99,9 @@
         </item>
         <item>
             <title><![CDATA[해밀톤 역학: 지렛대에서 양자역학의 초입까지 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 13 Mar 2023 08:15:47 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:POSTECHk+PHYS501+2023_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:POSTECHk+PHYS501+2023_T2/about</guid>
+            <pubDate>Mon, 13 Mar 2023 09:12:26 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박용운
@@ -117,9 +117,9 @@
         </item>
         <item>
             <title><![CDATA[미래환경기술 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 13 Mar 2023 08:15:47 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:POSTECHk+EVSE510+2023_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:POSTECHk+EVSE510+2023_T2/about</guid>
+            <pubDate>Mon, 13 Mar 2023 09:12:26 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이형주 and 3 others
@@ -135,9 +135,9 @@
         </item>
         <item>
             <title><![CDATA[힐링푸드와 건강 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 13 Mar 2023 08:15:47 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:CSU+CSU01+2023_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:CSU+CSU01+2023_1/about</guid>
+            <pubDate>Mon, 13 Mar 2023 09:12:26 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박혜진
@@ -153,9 +153,9 @@
         </item>
         <item>
             <title><![CDATA[패션 스튜디오 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 13 Mar 2023 08:15:47 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SSUk+SSMOOC05K+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SSUk+SSMOOC05K+2023_T1/about</guid>
+            <pubDate>Mon, 13 Mar 2023 09:12:26 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 염미선
@@ -171,9 +171,9 @@
         </item>
         <item>
             <title><![CDATA[의료기술평가 연구방법론 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 13 Mar 2023 08:15:47 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:neca+NECA01+2023_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:neca+NECA01+2023_1/about</guid>
+            <pubDate>Mon, 13 Mar 2023 09:12:26 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이월숙 and 25 others
@@ -189,9 +189,9 @@
         </item>
         <item>
             <title><![CDATA[글로벌 디자인씽킹 퍼실리테이션 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 13 Mar 2023 08:15:47 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:DKUK+DKUK0029+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DKUK+DKUK0029+2022_T2/about</guid>
+            <pubDate>Mon, 13 Mar 2023 09:12:26 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 서응교 and 3 others
@@ -207,9 +207,9 @@
         </item>
         <item>
             <title><![CDATA[세계로 통하는 한국어 : 초급Ⅰ (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 13 Mar 2023 08:15:47 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SKKUk+SKKU_GEDH042_01K+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SKKUk+SKKU_GEDH042_01K+2023_T1/about</guid>
+            <pubDate>Mon, 13 Mar 2023 09:12:26 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김경훤 and 3 others
@@ -225,9 +225,9 @@
         </item>
         <item>
             <title><![CDATA[세계로 통하는 한국어 : 중급Ⅰ (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 13 Mar 2023 08:15:47 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SKKUk+SKKU_47+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SKKUk+SKKU_47+2023_T1/about</guid>
+            <pubDate>Mon, 13 Mar 2023 09:12:26 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김경훤 and 3 others
@@ -243,9 +243,9 @@
         </item>
         <item>
             <title><![CDATA[세계로 통하는 한국어 : 초급Ⅱ (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 13 Mar 2023 08:15:47 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SKKUk+SKKU_GEDH043.O1K+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SKKUk+SKKU_GEDH043.O1K+2023_T1/about</guid>
+            <pubDate>Mon, 13 Mar 2023 09:12:26 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김경훤 and 3 others
@@ -261,9 +261,9 @@
         </item>
         <item>
             <title><![CDATA[렛츠, 라이프디자인씽킹 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 13 Mar 2023 08:15:47 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:DKUK+DKUK0033+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DKUK+DKUK0033+2022_T2/about</guid>
+            <pubDate>Mon, 13 Mar 2023 09:12:26 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 전은화 and 2 others
@@ -279,9 +279,9 @@
         </item>
         <item>
             <title><![CDATA[라이프디자인씽킹 : 전공편 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 13 Mar 2023 08:15:47 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:DKUK+DKUK0034+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DKUK+DKUK0034+2022_T2/about</guid>
+            <pubDate>Mon, 13 Mar 2023 09:12:26 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 전은화 and 2 others
