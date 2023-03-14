@@ -4,14 +4,14 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Mar 2023 05:11:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 06:15:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[AI프로그래밍]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Tue, 14 Mar 2023 05:11:29 GMT</pubDate>
+            <pubDate>Tue, 14 Mar 2023 06:15:31 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 오희석
@@ -29,7 +29,7 @@
             <title><![CDATA[메타버스 & 실감콘텐츠의 이해]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Tue, 14 Mar 2023 05:11:29 GMT</pubDate>
+            <pubDate>Tue, 14 Mar 2023 06:15:31 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김효용
@@ -47,7 +47,7 @@
             <title><![CDATA[한국문화로 배우는 한국어]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Tue, 14 Mar 2023 05:11:29 GMT</pubDate>
+            <pubDate>Tue, 14 Mar 2023 06:15:31 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 노정은
@@ -62,10 +62,28 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:HansungK+HSKMOOCk03+2023_T1+type@asset+block@%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[빅데이터시각화 R]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Tue, 14 Mar 2023 06:15:31 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                윤상후
+                </span>
+                <span class="kr01_school">DAEGU UNIVERSITY</span>
+                </div>
+                <div><time>2023/03/14</time>
+                
+                ~ <time>2023/06/15</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:DGUk+DGU_022k+DGU_022k_2023_3_2+type@asset+block@K-MOOC-%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[라이프디자인씽킹 : 직무편]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Tue, 14 Mar 2023 05:11:29 GMT</pubDate>
+            <pubDate>Tue, 14 Mar 2023 06:15:31 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 전은화 and 2 others
@@ -83,7 +101,7 @@
             <title><![CDATA[라이프디자인씽킹 : 직업편]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Tue, 14 Mar 2023 05:11:29 GMT</pubDate>
+            <pubDate>Tue, 14 Mar 2023 06:15:31 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 전은화 and 2 others
@@ -348,24 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:SKKUk+SKKU_GEDH043.O1K+2023_T1+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98__%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_2021_%ED%95%9C%EA%B5%AD%EC%96%B4_%EC%B4%88%EA%B8%89_2_%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[렛츠, 라이프디자인씽킹]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:DKUK+DKUK0033+2022_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:DKUK+DKUK0033+2022_T2/about</guid>
-            <pubDate>Mon, 13 Mar 2023 10:13:13 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                전은화 and 2 others
-                </span>
-                <span class="kr01_school">Dankook University</span>
-                </div>
-                <div><time>2023/03/13</time>
-                
-                ~ <time>2023/04/14</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:DKUK+DKUK0033+2022_T2+type@asset+block@%EB%A0%9B%EC%B8%A0%EB%9D%BC%EC%9D%B4%ED%94%84%EB%94%94%EC%9E%90%EC%9D%B8%EC%94%BD%ED%82%B9_main.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
