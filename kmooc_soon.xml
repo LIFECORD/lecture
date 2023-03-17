@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Mar 2023 07:11:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 08:15:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -60,6 +60,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:KoreaUnivK+ku_hum_001+2023_AA2+type@asset+block@03_%E1%84%8F%E1%85%B3%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%87%E1%85%A2%E1%84%82%E1%85%A5_%E1%84%80%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뇌교육명상 : 스트레스 관리 및 자기역량강화]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:GCU+GCU01+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:GCU+GCU01+2023_T1/about</guid>
+            <pubDate>Fri, 17 Mar 2023 08:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                양현정
+                </span>
+                <span class="kr01_school">Global Cyber University</span>
+                </div>
+                <div><time>2023/04/17</time>
+                
+                ~ <time>2023/07/18</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:GCU+GCU01+2023_T1+type@asset+block@20201028_152616.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[소비자, 아는 것이 힘이다!]]></title>
@@ -348,24 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:KAEP_DONGGUK+KAEP_DONGGUK_108+2022_1+type@asset+block@%EA%B5%AD%EA%B0%80%EA%B6%8C%EB%A0%A5%EA%B3%BC_%EB%B6%88%EA%B5%90.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[한국불교 금석문]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KAEP_DONGGUK+KAEP_DONGGUK_110+2022_1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KAEP_DONGGUK+KAEP_DONGGUK_110+2022_1/about</guid>
-            <pubDate>Wed, 15 Mar 2023 06:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                최연식
-                </span>
-                <span class="kr01_school">DONGGUK Center of K-Academic expansion project</span>
-                </div>
-                <div><time>2023/03/27</time>
-                
-                ~ <time>2023/06/04</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KAEP_DONGGUK+KAEP_DONGGUK_110+2022_1+type@asset+block@%ED%95%9C%EA%B5%AD%EB%B6%88%EA%B5%90_%EA%B8%88%EC%84%9D%EB%AC%B8_%EC%9D%B4%EB%AF%B8%EC%A7%80_.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
