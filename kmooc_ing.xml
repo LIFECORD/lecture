@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 00:53:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 02:03:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,22 +350,22 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:HYUk+IV_HYUKMOOC2020-2k+2023_C2+type@asset+block@%EC%96%B8%EC%96%B4_23-1.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[한국의 산사와 서원]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KAEP_DONGGUK+KAEP_DONGGUK_105+2022_1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KAEP_DONGGUK+KAEP_DONGGUK_105+2022_1/about</guid>
-            <pubDate>Mon, 20 Mar 2023 09:12:27 GMT</pubDate>
+            <title><![CDATA[임상 활용을 위한 AR]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:MA_ICCU+MATCHUP_ICCU04+2023_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:MA_ICCU+MATCHUP_ICCU04+2023_1/about</guid>
+            <pubDate>Tue, 21 Mar 2023 02:02:54 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                정병삼 and 1 others
+                김영덕
                 </span>
-                <span class="kr01_school">DONGGUK Center of K-Academic expansion project</span>
+                <span class="kr01_school">INCHEON CATHOLIC UNIVERSITY</span>
                 </div>
                 <div><time>2023/03/20</time>
                 
-                ~ <time>2023/05/28</time>
+                ~ <time>2023/05/07</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KAEP_DONGGUK+KAEP_DONGGUK_105+2022_1+type@asset+block@%ED%95%9C%EA%B5%AD%EC%9D%98_%EC%82%B0%EC%82%AC%EC%99%80_%EC%84%9C%EC%9B%90_%EC%9D%B4%EB%AF%B8%EC%A7%80_.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:MA_ICCU+MATCHUP_ICCU04+2023_1+type@asset+block@%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C4.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
