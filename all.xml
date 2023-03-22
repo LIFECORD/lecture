@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 02:07:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 03:12:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -512,7 +512,7 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:MA_IGM+MATCHUP_IGM02+2023_T1+type@asset+block@%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C_%ED%95%B5%EC%8B%AC%EC%A7%81%EB%AC%B4%EC%9A%A9_%EB%8D%B0%EC%9D%B4%ED%84%B0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[클라우드 Application Developer (K-MOOC ─ 개강예정)]]></title>
+            <title><![CDATA[클라우드 Application Developer 양성과정 (K-MOOC ─ 개강예정)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:MA_IGM+MATCHUP_IGM04+2023_T1/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:MA_IGM+MATCHUP_IGM04+2023_T1/about</guid>
             <pubDate>Fri, 10 Mar 2023 05:12:06 GMT</pubDate>
@@ -528,6 +528,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:MA_IGM+MATCHUP_IGM04+2023_T1+type@asset+block@%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C_%ED%95%B5%EC%8B%AC%EC%A7%81%EB%AC%B4%EC%9A%A9_%EC%96%B4%ED%94%8C%EB%A6%AC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[클라우드 인프라 아키텍처 양성과정 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:MA_IGM+MATCHUP_IGM03+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:MA_IGM+MATCHUP_IGM03+2023_T1/about</guid>
+            <pubDate>Fri, 10 Mar 2023 05:12:06 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                최정현
+                </span>
+                <span class="kr01_school">IGM</span>
+                </div>
+                <div><time>2023/04/01</time>
+                
+                ~ <time>2023/06/30</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:MA_IGM+MATCHUP_IGM03+2023_T1+type@asset+block@%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C_%ED%95%B5%EC%8B%AC%EC%A7%81%EB%AC%B4%EC%9A%A9_%EC%9D%B8%ED%94%84%EB%9D%BC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[클라우드 보안 엔지니어 양성과정 (K-MOOC ─ 개강예정)]]></title>
@@ -546,24 +564,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:MA_IGM+MATCHUP_IGM01+2023_T1+type@asset+block@%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C_%ED%95%B5%EC%8B%AC%EC%A7%81%EB%AC%B4%EC%9A%A9_%EB%B3%B4%EC%95%88.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클라우드 인프라 아키텍처 (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:MA_IGM+MATCHUP_IGM03+2023_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:MA_IGM+MATCHUP_IGM03+2023_T1/about</guid>
-            <pubDate>Fri, 10 Mar 2023 05:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                최정현
-                </span>
-                <span class="kr01_school">IGM</span>
-                </div>
-                <div><time>2023/04/01</time>
-                
-                ~ <time>2023/06/30</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:MA_IGM+MATCHUP_IGM03+2023_T1+type@asset+block@%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C_%ED%95%B5%EC%8B%AC%EC%A7%81%EB%AC%B4%EC%9A%A9_%EC%9D%B8%ED%94%84%EB%9D%BC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[할 수 있게 하는 4IR 기술 (K-MOOC ─ 개강예정)]]></title>
