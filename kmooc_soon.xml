@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 23:12:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 00:54:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -296,76 +296,76 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:YonseiWK+FD_WY107_01k+2023_03A_T1+type@asset+block@%EC%A0%95%EB%B6%80.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[왜 음식윤리인가 : 문제 해결의 열쇠]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:CUKk+CORE_CUK01+2023_01/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:CUKk+CORE_CUK01+2023_01/about</guid>
-            <pubDate>Tue, 21 Mar 2023 03:11:54 GMT</pubDate>
+            <title><![CDATA[리더의 전략적 의사결정]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SOGANGk+SOGANG19k+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SOGANGk+SOGANG19k+2023_T1/about</guid>
+            <pubDate>Fri, 24 Mar 2023 00:54:08 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                김석신
+                민재형
                 </span>
-                <span class="kr01_school">THE CATHOLIC UNIVERSITY OF KOREA</span>
+                <span class="kr01_school">SOGANG UNIVERSITY</span>
                 </div>
-                <div><time>2023/03/27</time>
+                <div><time>2023/03/28</time>
                 
-                ~ <time>2023/07/09</time>
+                ~ <time>2023/07/17</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:CUKk+CORE_CUK01+2023_01+type@asset+block@food.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SOGANGk+SOGANG19k+2023_T1+type@asset+block@_%EC%84%9C%EA%B0%95%EB%8C%80_%EB%A6%AC%EB%8D%94%EC%9D%98_%EC%A0%84%EB%9E%B5%EC%A0%81_%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95_%EC%8D%B8%EB%84%A4%EC%9D%BC_2023.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Korean Buddhist Art in Global Perspective]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KAEP_DONGGUK+KAEP_DONGGUK_101+2022_1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KAEP_DONGGUK+KAEP_DONGGUK_101+2022_1/about</guid>
-            <pubDate>Wed, 15 Mar 2023 07:11:43 GMT</pubDate>
+            <title><![CDATA[도시경제]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SOGANGk+SOGANG15k+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SOGANGk+SOGANG15k+2023_T1/about</guid>
+            <pubDate>Fri, 24 Mar 2023 00:54:08 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                김연미
+                김경환
                 </span>
-                <span class="kr01_school">DONGGUK Center of K-Academic expansion project</span>
+                <span class="kr01_school">SOGANG UNIVERSITY</span>
                 </div>
-                <div><time>2023/03/27</time>
+                <div><time>2023/03/28</time>
                 
-                ~ <time>2023/06/04</time>
+                ~ <time>2023/07/17</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KAEP_DONGGUK+KAEP_DONGGUK_101+2022_1+type@asset+block@%EB%B6%88%EA%B5%90%EB%AF%B8%EC%88%A0_%EC%9D%B4%EB%AF%B8%EC%A7%80_.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SOGANGk+SOGANG15k+2023_T1+type@asset+block@asset-v1_SOGANGk_SOGANG15k_2023_T1_type_asset_block_2023_1-%EB%8F%84%EC%8B%9C%EA%B2%BD%EC%A0%9C-2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[고려 조선의 불교 인물]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KAEP_DONGGUK+KAEP_DONGGUK_106+2022_1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KAEP_DONGGUK+KAEP_DONGGUK_106+2022_1/about</guid>
-            <pubDate>Wed, 15 Mar 2023 06:15:11 GMT</pubDate>
+            <title><![CDATA[논리적 영어 글쓰기]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SOGANGk+SOGANG16k+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SOGANGk+SOGANG16k+2023_T1/about</guid>
+            <pubDate>Fri, 24 Mar 2023 00:54:08 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                강호선
+                이요안 
                 </span>
-                <span class="kr01_school">DONGGUK Center of K-Academic expansion project</span>
+                <span class="kr01_school">SOGANG UNIVERSITY</span>
                 </div>
-                <div><time>2023/03/27</time>
+                <div><time>2023/03/28</time>
                 
-                ~ <time>2023/06/04</time>
+                ~ <time>2023/07/17</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KAEP_DONGGUK+KAEP_DONGGUK_106+2022_1+type@asset+block@%EA%B3%A0%EB%A0%A4%EC%A1%B0%EC%84%A0%EC%9D%98_%EB%B6%88%EA%B5%90%EC%9D%B8%EB%AC%BC_%EB%A9%94%EC%9D%B8.JPG" length="0" type="image/JPG"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SOGANGk+SOGANG16k+2023_T1+type@asset+block@asset-v1_SOGANGk_SOGANG16k_2023_T1_type_asset_block_2023_1-%EB%85%BC%EB%A6%AC%EC%A0%81_%EC%98%81%EC%96%B4_%EA%B8%80%EC%93%B0%EA%B8%B0-1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[교단과 종파]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KAEP_DONGGUK+KAEP_DONGGUK_104+2022_1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KAEP_DONGGUK+KAEP_DONGGUK_104+2022_1/about</guid>
-            <pubDate>Wed, 15 Mar 2023 06:15:11 GMT</pubDate>
+            <title><![CDATA[현재와 대화하는 조선시대사]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SOGANGk+sogang10k+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SOGANGk+sogang10k+2023_T1/about</guid>
+            <pubDate>Fri, 24 Mar 2023 00:54:08 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                박광연 and 4 others
+                계승범
                 </span>
-                <span class="kr01_school">DONGGUK Center of K-Academic expansion project</span>
+                <span class="kr01_school">SOGANG UNIVERSITY</span>
                 </div>
-                <div><time>2023/03/27</time>
+                <div><time>2023/03/28</time>
                 
-                ~ <time>2023/06/04</time>
+                ~ <time>2023/06/26</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KAEP_DONGGUK+KAEP_DONGGUK_104+2022_1+type@asset+block@%EA%B5%90%EB%8B%A8%EA%B3%BC_%EC%A2%85%ED%8C%8C_%EC%9D%B4%EB%AF%B8%EC%A7%80_.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SOGANGk+sogang10k+2023_T1+type@asset+block@2023-1_%EC%84%9C%EA%B0%95%EB%8C%80%ED%95%99%EA%B5%90_%ED%98%84%EC%9E%AC%EC%99%80%EB%8C%80%ED%99%94%ED%95%98%EB%8A%94%EC%A1%B0%EC%84%A0%EC%8B%9C%EB%8C%80%EC%82%AC.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
