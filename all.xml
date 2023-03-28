@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 08:16:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 09:13:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[도시경제 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Tue, 28 Mar 2023 08:15:52 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SOGANGk+SOGANG15k+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SOGANGk+SOGANG15k+2023_T1/about</guid>
+            <pubDate>Tue, 28 Mar 2023 09:13:22 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김경환
@@ -27,9 +27,9 @@
         </item>
         <item>
             <title><![CDATA[논리적 영어 글쓰기 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Tue, 28 Mar 2023 08:15:52 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SOGANGk+SOGANG16k+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SOGANGk+SOGANG16k+2023_T1/about</guid>
+            <pubDate>Tue, 28 Mar 2023 09:13:22 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이요안 
@@ -45,9 +45,9 @@
         </item>
         <item>
             <title><![CDATA[현재와 대화하는 조선시대사 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Tue, 28 Mar 2023 08:15:52 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SOGANGk+sogang10k+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SOGANGk+sogang10k+2023_T1/about</guid>
+            <pubDate>Tue, 28 Mar 2023 09:13:22 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 계승범
@@ -63,9 +63,9 @@
         </item>
         <item>
             <title><![CDATA[삶과 교육 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Tue, 28 Mar 2023 08:15:52 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SOGANGk+SOGANG20k+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SOGANGk+SOGANG20k+2023_T1/about</guid>
+            <pubDate>Tue, 28 Mar 2023 09:13:22 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김재웅
@@ -81,9 +81,9 @@
         </item>
         <item>
             <title><![CDATA[아시아계 미국인: 차별과 배제의 정치 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Tue, 28 Mar 2023 08:15:52 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SOGANGk+SOGANG21k+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SOGANGk+SOGANG21k+2023_T1/about</guid>
+            <pubDate>Tue, 28 Mar 2023 09:13:22 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 하상응
@@ -99,9 +99,9 @@
         </item>
         <item>
             <title><![CDATA[학문적 글쓰기를 위한 한국어 문법 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Tue, 28 Mar 2023 08:15:52 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SOGANGk+SOGANG18k+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SOGANGk+SOGANG18k+2023_T1/about</guid>
+            <pubDate>Tue, 28 Mar 2023 09:13:22 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 오경숙
@@ -117,9 +117,9 @@
         </item>
         <item>
             <title><![CDATA[아픈 영혼을 철학으로 치유하기 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Tue, 28 Mar 2023 08:15:52 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SOGANGk+SOGANG22k+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SOGANGk+SOGANG22k+2023_T1/about</guid>
+            <pubDate>Tue, 28 Mar 2023 09:13:22 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박병준 and 1 others
@@ -135,9 +135,9 @@
         </item>
         <item>
             <title><![CDATA[제한된 윤리성: 원인과 처방 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Tue, 28 Mar 2023 08:15:52 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SOGANGk+SOGANG17k+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SOGANGk+SOGANG17k+2023_T1/about</guid>
+            <pubDate>Tue, 28 Mar 2023 09:13:22 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 민재형
