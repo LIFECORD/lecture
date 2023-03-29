@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 23:12:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 00:59:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -60,6 +60,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:KoreaUnivK+ku_hum_001+2023_AA2+type@asset+block@03_%E1%84%8F%E1%85%B3%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%87%E1%85%A2%E1%84%82%E1%85%A5_%E1%84%80%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[클라우드 인프라 아키텍처 양성과정]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:MA_IGM+MATCHUP_IGM03+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:MA_IGM+MATCHUP_IGM03+2023_T1/about</guid>
+            <pubDate>Wed, 29 Mar 2023 00:59:38 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                최정현
+                </span>
+                <span class="kr01_school">IGM</span>
+                </div>
+                <div><time>2023/04/30</time>
+                
+                ~ <time>2023/06/30</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:MA_IGM+MATCHUP_IGM03+2023_T1+type@asset+block@%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C_%ED%95%B5%EC%8B%AC%EC%A7%81%EB%AC%B4%EC%9A%A9_%EC%9D%B8%ED%94%84%EB%9D%BC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뇌교육명상 : 스트레스 관리 및 자기역량강화]]></title>
@@ -348,24 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:DSUk+KM_DSU01+2023_T1+type@asset+block@%EC%96%B8%ED%83%9D%ED%8A%B8_%EC%8B%9C%EB%8C%80%EC%9D%98_%EA%B1%B4%EA%B0%95%EA%B4%80%EB%A6%AC_%ED%94%8C%EB%9F%AC%EC%8A%A4_%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[창의적인 사람의 7가지 습관]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SWUk+CK_SWUK_05+2023_T1_9/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SWUk+CK_SWUK_05+2023_T1_9/about</guid>
-            <pubDate>Mon, 27 Mar 2023 00:52:10 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김명주
-                </span>
-                <span class="kr01_school">SEOUL WOMEN'S UNIVERSITY</span>
-                </div>
-                <div><time>2023/04/03</time>
-                
-                ~ <time>2023/07/15</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SWUk+CK_SWUK_05+2023_T1_9+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_2023-01_%EC%B0%BD%EC%9D%98%EC%A0%81%EC%9D%B8_%EC%82%AC%EB%9E%8C%EC%9D%98_7%EA%B0%80%EC%A7%80_%EC%8A%B5%EA%B4%80.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
