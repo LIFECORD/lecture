@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 06:15:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 07:11:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,22 +350,22 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:UOSk+UOS14+2023_T1+type@asset+block@%ED%9E%88%ED%8A%B8%ED%8E%8C%ED%94%842023-1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[언택트 시대의 건강관리 플러스]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:DSUk+KM_DSU01+2023_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:DSUk+KM_DSU01+2023_T1/about</guid>
-            <pubDate>Sun, 26 Mar 2023 00:57:46 GMT</pubDate>
+            <title><![CDATA[Hospitality Customer Behavior and Insights]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:WSUK+WSU_013+2023_1F/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:WSUK+WSU_013+2023_1F/about</guid>
+            <pubDate>Thu, 30 Mar 2023 07:11:44 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                양승정 and 2 others
+                Raweewan Proyrungroj
                 </span>
-                <span class="kr01_school">DONGSHIN UNIVERSITY</span>
+                <span class="kr01_school">WOOSONG UNIVERSITY</span>
                 </div>
                 <div><time>2023/04/03</time>
                 
                 ~ <time>2023/07/17</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:DSUk+KM_DSU01+2023_T1+type@asset+block@%EC%96%B8%ED%83%9D%ED%8A%B8_%EC%8B%9C%EB%8C%80%EC%9D%98_%EA%B1%B4%EA%B0%95%EA%B4%80%EB%A6%AC_%ED%94%8C%EB%9F%AC%EC%8A%A4_%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:WSUK+WSU_013+2023_1F+type@asset+block@DSC_0312.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
