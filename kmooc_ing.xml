@@ -4,9 +4,99 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 23:11:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 00:55:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[할 수 있게 하는 4IR 기술]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Thu, 30 Mar 2023 00:55:22 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김종배
+                </span>
+                <span class="kr01_school">Yonsei University Mirae Campus</span>
+                </div>
+                <div><time>2023/03/30</time>
+                
+                ~ <time>2023/05/26</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:YonseiWK+FD_WY104_01k+2023_01A_T1+type@asset+block@4IR.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[PACK&TECH;: 패키징(기초편)]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Thu, 30 Mar 2023 00:55:22 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이윤석
+                </span>
+                <span class="kr01_school">Yonsei University Mirae Campus</span>
+                </div>
+                <div><time>2023/03/30</time>
+                
+                ~ <time>2023/05/26</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:YonseiWK+FD_WY108_01k+2023_04A_T1+type@asset+block@%ED%8C%A8%ED%82%A4%EC%A7%95.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[공직사회 반부패 원리와 방안]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Thu, 30 Mar 2023 00:55:22 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                한유성
+                </span>
+                <span class="kr01_school">Yonsei University Mirae Campus</span>
+                </div>
+                <div><time>2023/03/30</time>
+                
+                ~ <time>2023/05/26</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:YonseiWK+FD_WY109_01k+2023_05A_T1+type@asset+block@%EB%B0%98%EB%B6%80%ED%8C%A8.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[우주생명과학: 우주에서 만난 지구인]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Thu, 30 Mar 2023 00:55:22 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                최인호 and 2 others
+                </span>
+                <span class="kr01_school">Yonsei University Mirae Campus</span>
+                </div>
+                <div><time>2023/03/30</time>
+                
+                ~ <time>2023/05/26</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:YonseiWK+FD_WY105_01k+2023_02A_T1+type@asset+block@%EC%9A%B0%EC%A3%BC.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[정부와 행정]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Thu, 30 Mar 2023 00:55:22 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                한상일
+                </span>
+                <span class="kr01_school">Yonsei University Mirae Campus</span>
+                </div>
+                <div><time>2023/03/30</time>
+                
+                ~ <time>2023/05/26</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:YonseiWK+FD_WY107_01k+2023_03A_T1+type@asset+block@%EC%A0%95%EB%B6%80.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[도시경제]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:SOGANGk+SOGANG15k+2023_T1/about</link>
@@ -276,96 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:KAEP_DONGGUK+KAEP_DONGGUK_110+2022_1+type@asset+block@%ED%95%9C%EA%B5%AD%EB%B6%88%EA%B5%90_%EA%B8%88%EC%84%9D%EB%AC%B8_%EC%9D%B4%EB%AF%B8%EC%A7%80_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[문자와 한글]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KAEP_DONGGUK+KAEP_DONGGUK_103+2022_1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KAEP_DONGGUK+KAEP_DONGGUK_103+2022_1/about</guid>
-            <pubDate>Mon, 27 Mar 2023 09:12:25 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김종진 and 3 others
-                </span>
-                <span class="kr01_school">DONGGUK Center of K-Academic expansion project</span>
-                </div>
-                <div><time>2023/03/27</time>
-                
-                ~ <time>2023/06/04</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KAEP_DONGGUK+KAEP_DONGGUK_103+2022_1+type@asset+block@%EB%AC%B8%EC%9E%90%EC%99%80_%ED%95%9C%EA%B8%80_%EC%9D%B4%EB%AF%B8%EC%A7%80_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[출판과 불교]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KAEP_DONGGUK+KAEP_DONGGUK_109+2022_1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KAEP_DONGGUK+KAEP_DONGGUK_109+2022_1/about</guid>
-            <pubDate>Mon, 27 Mar 2023 09:12:25 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                이종수 and 5 others
-                </span>
-                <span class="kr01_school">DONGGUK Center of K-Academic expansion project</span>
-                </div>
-                <div><time>2023/03/27</time>
-                
-                ~ <time>2023/06/04</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KAEP_DONGGUK+KAEP_DONGGUK_109+2022_1+type@asset+block@%EC%B6%9C%ED%8C%90%EA%B3%BC_%EB%B6%88%EA%B5%90_%EC%9D%B4%EB%AF%B8%EC%A7%80_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[불교 의례]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KAEP_DONGGUK+KAEP_DONGGUK_102+2022_1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KAEP_DONGGUK+KAEP_DONGGUK_102+2022_1/about</guid>
-            <pubDate>Mon, 27 Mar 2023 09:12:25 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김성순
-                </span>
-                <span class="kr01_school">DONGGUK Center of K-Academic expansion project</span>
-                </div>
-                <div><time>2023/03/27</time>
-                
-                ~ <time>2023/06/04</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KAEP_DONGGUK+KAEP_DONGGUK_102+2022_1+type@asset+block@%EB%B6%88%EA%B5%90%EC%9D%98%EB%A1%80_%EC%9D%B4%EB%AF%B8%EC%A7%80_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼국 통일신라의 불교인물]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KAEP_DONGGUK+KAEP_DONGGUK_107+2022_1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KAEP_DONGGUK+KAEP_DONGGUK_107+2022_1/about</guid>
-            <pubDate>Mon, 27 Mar 2023 09:12:25 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                고영섭
-                </span>
-                <span class="kr01_school">DONGGUK Center of K-Academic expansion project</span>
-                </div>
-                <div><time>2023/03/27</time>
-                
-                ~ <time>2023/06/04</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KAEP_DONGGUK+KAEP_DONGGUK_107+2022_1+type@asset+block@%EC%82%BC%EA%B5%AD%ED%86%B5%EC%9D%BC%EC%8B%A0%EB%9D%BC%EC%9D%98_%EB%B6%88%EA%B5%90%EC%9D%B8%EB%AC%BC_%EC%9D%B4%EB%AF%B8%EC%A7%80_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국의 산사와 서원]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KAEP_DONGGUK+KAEP_DONGGUK_105+2022_1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KAEP_DONGGUK+KAEP_DONGGUK_105+2022_1/about</guid>
-            <pubDate>Mon, 27 Mar 2023 09:12:25 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                정병삼 and 1 others
-                </span>
-                <span class="kr01_school">DONGGUK Center of K-Academic expansion project</span>
-                </div>
-                <div><time>2023/03/27</time>
-                
-                ~ <time>2023/06/04</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KAEP_DONGGUK+KAEP_DONGGUK_105+2022_1+type@asset+block@%ED%95%9C%EA%B5%AD%EC%9D%98_%EC%82%B0%EC%82%AC%EC%99%80_%EC%84%9C%EC%9B%90_%EC%9D%B4%EB%AF%B8%EC%A7%80_.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
