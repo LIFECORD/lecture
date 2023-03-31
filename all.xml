@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Mar 2023 15:12:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 16:14:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[클라우드 DB 솔루션아키텍트 양성과정 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Fri, 31 Mar 2023 15:12:05 GMT</pubDate>
+            <pubDate>Fri, 31 Mar 2023 16:13:56 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 홍성욱
@@ -29,7 +29,7 @@
             <title><![CDATA[클라우드 인프라 아키텍처 양성과정 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Fri, 31 Mar 2023 15:12:05 GMT</pubDate>
+            <pubDate>Fri, 31 Mar 2023 16:13:56 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 최정현
@@ -47,7 +47,7 @@
             <title><![CDATA[클라우드 보안 엔지니어 양성과정 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Fri, 31 Mar 2023 15:12:05 GMT</pubDate>
+            <pubDate>Fri, 31 Mar 2023 16:13:56 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 최정현
@@ -65,7 +65,7 @@
             <title><![CDATA[클라우드 Application Developer 양성과정 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Fri, 31 Mar 2023 15:12:05 GMT</pubDate>
+            <pubDate>Fri, 31 Mar 2023 16:13:56 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김영욱
