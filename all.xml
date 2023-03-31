@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 23:12:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 00:55:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -422,24 +422,6 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:KoreaUnivK+ku_hum_001+2023_AA2+type@asset+block@03_%E1%84%8F%E1%85%B3%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%87%E1%85%A2%E1%84%82%E1%85%A5_%E1%84%80%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[클라우드 인프라 아키텍처 양성과정 (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:MA_IGM+MATCHUP_IGM03+2023_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:MA_IGM+MATCHUP_IGM03+2023_T1/about</guid>
-            <pubDate>Wed, 29 Mar 2023 00:59:38 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                최정현
-                </span>
-                <span class="kr01_school">IGM</span>
-                </div>
-                <div><time>2023/04/30</time>
-                
-                ~ <time>2023/06/30</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:MA_IGM+MATCHUP_IGM03+2023_T1+type@asset+block@%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C_%ED%95%B5%EC%8B%AC%EC%A7%81%EB%AC%B4%EC%9A%A9_%EC%9D%B8%ED%94%84%EB%9D%BC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뇌교육명상 : 스트레스 관리 및 자기역량강화 (K-MOOC ─ 개강예정)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:GCU+GCU01+2023_T1/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:GCU+GCU01+2023_T1/about</guid>
@@ -620,6 +602,78 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:UOUk+UOU702_01K+U702A_1_2023_T1+type@asset+block@%EC%B0%BD%EC%9D%98%EC%A0%81_%EC%8D%B8%EB%84%A4%EC%9D%BC_.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[AI 기반 기초 이론 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:MA_Gunsol+MATCHUP_MA_Gunsol04+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:MA_Gunsol+MATCHUP_MA_Gunsol04+2023_T1/about</guid>
+            <pubDate>Fri, 31 Mar 2023 00:55:13 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김영훈 and 1 others
+                </span>
+                <span class="kr01_school">Gunn Solution</span>
+                </div>
+                <div><time>2023/04/07</time>
+                
+                ~ <time>2023/06/16</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:MA_Gunsol+MATCHUP_MA_Gunsol04+2023_T1+type@asset+block@04_AI%EA%B8%B0%EC%B4%88%EA%B3%BC%EC%A0%95_%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스마트공장과 CAD/CAM/CNC (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:MA_Gunsol+MATCHUP_MA_Gunsol01+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:MA_Gunsol+MATCHUP_MA_Gunsol01+2023_T1/about</guid>
+            <pubDate>Fri, 31 Mar 2023 00:55:13 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                엄주명
+                </span>
+                <span class="kr01_school">Gunn Solution</span>
+                </div>
+                <div><time>2023/04/07</time>
+                
+                ~ <time>2023/06/16</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:MA_Gunsol+MATCHUP_MA_Gunsol01+2023_T1+type@asset+block@01.%EC%8A%A4%EB%A7%88%ED%8A%B8%EA%B3%B5%EC%9E%A5_%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IIoT 기반 데이터 수집 개발 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:MA_Gunsol+MATCHUP_MA_Gunsol02+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:MA_Gunsol+MATCHUP_MA_Gunsol02+2023_T1/about</guid>
+            <pubDate>Fri, 31 Mar 2023 00:55:13 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                엄주명
+                </span>
+                <span class="kr01_school">Gunn Solution</span>
+                </div>
+                <div><time>2023/04/07</time>
+                
+                ~ <time>2023/06/16</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:MA_Gunsol+MATCHUP_MA_Gunsol02+2023_T1+type@asset+block@02.IIoT%EA%B8%B0%EB%B0%98_%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공정 자동화를 위한 디지털 트윈의 이해 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:MA_Gunsol+MATCHUP_MA_Gunsol03+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:MA_Gunsol+MATCHUP_MA_Gunsol03+2023_T1/about</guid>
+            <pubDate>Fri, 31 Mar 2023 00:55:13 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                윤종완
+                </span>
+                <span class="kr01_school">Gunn Solution</span>
+                </div>
+                <div><time>2023/04/07</time>
+                
+                ~ <time>2023/06/16</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:MA_Gunsol+MATCHUP_MA_Gunsol03+2023_T1+type@asset+block@03.%EA%B3%B5%EC%A0%95%EC%9E%90%EB%8F%99%ED%99%94_%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[도시성장기 서울의 도시 개발 경험, 1960-2010 (K-MOOC ─ 개강예정)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:UOSk+ACE_UOS08+2023_T1/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:UOSk+ACE_UOS08+2023_T1/about</guid>
@@ -672,60 +726,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:UOSk+UOS16+2023_T1+type@asset+block@%EA%B0%80%EC%A1%B1%EB%B2%952023-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인공지능 만들기 : 기계학습 방법론의 이해 (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:UOSk+UOS10+2023_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:UOSk+UOS10+2023_T1/about</guid>
-            <pubDate>Tue, 28 Mar 2023 00:55:25 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                전종준
-                </span>
-                <span class="kr01_school">UNIVERSITY OF SEOUL</span>
-                </div>
-                <div><time>2023/04/04</time>
-                
-                ~ <time>2023/07/18</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:UOSk+UOS10+2023_T1+type@asset+block@%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A52023-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[탄소중립 실현을 위한 히트펌프 입문 (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:UOSk+UOS14+2023_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:UOSk+UOS14+2023_T1/about</guid>
-            <pubDate>Tue, 28 Mar 2023 00:55:25 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                이동찬
-                </span>
-                <span class="kr01_school">UNIVERSITY OF SEOUL</span>
-                </div>
-                <div><time>2023/04/04</time>
-                
-                ~ <time>2023/07/18</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:UOSk+UOS14+2023_T1+type@asset+block@%ED%9E%88%ED%8A%B8%ED%8E%8C%ED%94%842023-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hospitality Customer Behavior and Insights (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:WSUK+WSU_013+2023_1F/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:WSUK+WSU_013+2023_1F/about</guid>
-            <pubDate>Thu, 30 Mar 2023 07:11:44 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                Raweewan Proyrungroj
-                </span>
-                <span class="kr01_school">WOOSONG UNIVERSITY</span>
-                </div>
-                <div><time>2023/04/03</time>
-                
-                ~ <time>2023/07/17</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:WSUK+WSU_013+2023_1F+type@asset+block@DSC_0312.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
