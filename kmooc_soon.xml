@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Apr 2023 08:13:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Apr 2023 09:10:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -60,6 +60,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:KoreaUnivK+ku_hum_001+2023_AA2+type@asset+block@03_%E1%84%8F%E1%85%B3%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%87%E1%85%A2%E1%84%82%E1%85%A5_%E1%84%80%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[키워드로 읽는 대중문화사]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:KAEP_KHU+KKHU03+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KAEP_KHU+KKHU03+2022_T1/about</guid>
+            <pubDate>Sat, 01 Apr 2023 09:10:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                안숭범
+                </span>
+                <span class="kr01_school">KHU Center of K-Academic expansion project</span>
+                </div>
+                <div><time>2023/04/17</time>
+                
+                ~ <time>2023/07/21</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KAEP_KHU+KKHU03+2022_T1+type@asset+block@%EA%B7%B8%EB%A6%BC10.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뇌교육명상 : 스트레스 관리 및 자기역량강화]]></title>
@@ -348,24 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:UOSk+UOS15+2023_T1+type@asset+block@%EA%B1%B0%EB%B2%84%EB%84%8C%EC%8A%A42023-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알기 쉬운 가족법 – 태어날 때, 사랑할 때, 이 세상을 떠날 때 적용되는 법]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:UOSk+UOS16+2023_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:UOSk+UOS16+2023_T1/about</guid>
-            <pubDate>Tue, 28 Mar 2023 00:55:25 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                권재문
-                </span>
-                <span class="kr01_school">UNIVERSITY OF SEOUL</span>
-                </div>
-                <div><time>2023/04/04</time>
-                
-                ~ <time>2023/07/18</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:UOSk+UOS16+2023_T1+type@asset+block@%EA%B0%80%EC%A1%B1%EB%B2%952023-1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
