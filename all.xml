@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 07:11:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 08:14:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[도시성장기 서울의 도시 개발 경험, 1960-2010 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Tue, 04 Apr 2023 07:10:45 GMT</pubDate>
+            <pubDate>Tue, 04 Apr 2023 08:14:32 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 강명구 and 4 others
@@ -29,7 +29,7 @@
             <title><![CDATA[서울 거버넌스 2020 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Tue, 04 Apr 2023 07:10:45 GMT</pubDate>
+            <pubDate>Tue, 04 Apr 2023 08:14:32 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이주헌
@@ -47,7 +47,7 @@
             <title><![CDATA[알기 쉬운 가족법 – 태어날 때, 사랑할 때, 이 세상을 떠날 때 적용되는 법 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Tue, 04 Apr 2023 07:10:45 GMT</pubDate>
+            <pubDate>Tue, 04 Apr 2023 08:14:32 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 권재문
@@ -65,7 +65,7 @@
             <title><![CDATA[인공지능 만들기 : 기계학습 방법론의 이해 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Tue, 04 Apr 2023 07:10:45 GMT</pubDate>
+            <pubDate>Tue, 04 Apr 2023 08:14:32 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 전종준
@@ -83,7 +83,7 @@
             <title><![CDATA[소재가 빚어내는 문명의 화음 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Tue, 04 Apr 2023 07:10:45 GMT</pubDate>
+            <pubDate>Tue, 04 Apr 2023 08:14:32 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 홍완식
@@ -101,7 +101,7 @@
             <title><![CDATA[탄소중립 실현을 위한 히트펌프 입문 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Tue, 04 Apr 2023 07:10:45 GMT</pubDate>
+            <pubDate>Tue, 04 Apr 2023 08:14:32 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이동찬
@@ -114,6 +114,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:UOSk+UOS14+2023_T1+type@asset+block@%ED%9E%88%ED%8A%B8%ED%8E%8C%ED%94%842023-1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파이썬 프로그래밍 (K-MOOC ─ 진행중)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SunMoonK+SMKMOOC-04+2023_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SunMoonK+SMKMOOC-04+2023_T2/about</guid>
+            <pubDate>Tue, 04 Apr 2023 08:14:32 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김민정
+                </span>
+                <span class="kr01_school">SUN MOON UNIVERSITY</span>
+                </div>
+                <div><time>2023/04/03</time>
+                
+                ~ <time>2023/07/01</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SunMoonK+SMKMOOC-04+2023_T2+type@asset+block@_%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%84%A0%EB%AC%B8%EB%8C%80_%ED%8C%8C%EC%9D%B4%EC%8D%AC_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_2022.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Hospitality Customer Behavior and Insights (K-MOOC ─ 진행중)]]></title>
@@ -348,24 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:SWUk+SW_SWUK_06+2023_T1_9+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_2023-01_%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EC%99%80_%EC%B0%BD%EC%9D%98%EC%A0%81%EC%82%AC%EA%B3%A0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑의 인문학 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SWUk+CK_SWUK_04+2023_T1_7/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SWUk+CK_SWUK_04+2023_T1_7/about</guid>
-            <pubDate>Mon, 03 Apr 2023 09:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                주창윤
-                </span>
-                <span class="kr01_school">SEOUL WOMEN'S UNIVERSITY</span>
-                </div>
-                <div><time>2023/04/03</time>
-                
-                ~ <time>2023/07/15</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SWUk+CK_SWUK_04+2023_T1_7+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_2023-01_%EC%82%AC%EB%9E%91%EC%9D%98_%EC%9D%B8%EB%AC%B8%ED%95%99.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[소프트웨어 중심 사회속의 인터넷 윤리 (K-MOOC ─ 개강예정)]]></title>
