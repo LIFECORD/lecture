@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Apr 2023 01:46:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Apr 2023 02:18:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -131,7 +131,7 @@
                 ~ <time>2023/07/01</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SunMoonK+SMKMOOC-05+2023_T1+type@asset+block@_%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%84%A0%EB%AC%B8%EB%8C%80_c%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EA%B0%9C%EB%A1%A0_2022.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/static/images/no_images_large.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[파이썬 프로그래밍 (K-MOOC ─ 진행중)]]></title>
