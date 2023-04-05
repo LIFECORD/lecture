@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Apr 2023 03:12:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Apr 2023 04:13:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -132,6 +132,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:SunMoonK+SMKMOOC-05+2023_T1+type@asset+block@_%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%84%A0%EB%AC%B8%EB%8C%80_c%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EA%B0%9C%EB%A1%A0_2023.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데이터로 바라본 4차 산업혁명 기술]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SunMoonK+SMKMOOC-03+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SunMoonK+SMKMOOC-03+2023_T1/about</guid>
+            <pubDate>Wed, 05 Apr 2023 04:13:12 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김진호
+                </span>
+                <span class="kr01_school">SUN MOON UNIVERSITY</span>
+                </div>
+                <div><time>2023/04/03</time>
+                
+                ~ <time>2023/07/01</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SunMoonK+SMKMOOC-03+2023_T1+type@asset+block@_%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%84%A0%EB%AC%B8%EB%8C%80_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C_%EB%B0%94%EB%9D%BC%EB%B3%B8_4%EC%B0%A8_%EC%82%B0%EC%97%85%ED%98%81%EB%AA%85_%EA%B8%B0%EC%88%A0_2023.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[파이썬 프로그래밍]]></title>
@@ -348,24 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:DSUk+KM_DSU01+2023_T1+type@asset+block@%EC%96%B8%ED%83%9D%ED%8A%B8_%EC%8B%9C%EB%8C%80%EC%9D%98_%EA%B1%B4%EA%B0%95%EA%B4%80%EB%A6%AC_%ED%94%8C%EB%9F%AC%EC%8A%A4_%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[창의적인 사람의 7가지 습관]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SWUk+CK_SWUK_05+2023_T1_9/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SWUk+CK_SWUK_05+2023_T1_9/about</guid>
-            <pubDate>Mon, 03 Apr 2023 09:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김명주
-                </span>
-                <span class="kr01_school">SEOUL WOMEN'S UNIVERSITY</span>
-                </div>
-                <div><time>2023/04/03</time>
-                
-                ~ <time>2023/07/15</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SWUk+CK_SWUK_05+2023_T1_9+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_2023-01_%EC%B0%BD%EC%9D%98%EC%A0%81%EC%9D%B8_%EC%82%AC%EB%9E%8C%EC%9D%98_7%EA%B0%80%EC%A7%80_%EC%8A%B5%EA%B4%80.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
