@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Apr 2023 00:43:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Apr 2023 01:46:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -116,6 +116,24 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:UOSk+UOS14+2023_T1+type@asset+block@%ED%9E%88%ED%8A%B8%ED%8E%8C%ED%94%842023-1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[C 프로그래밍 개론]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SunMoonK+SMKMOOC-05+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SunMoonK+SMKMOOC-05+2023_T1/about</guid>
+            <pubDate>Wed, 05 Apr 2023 01:46:21 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                문찬승
+                </span>
+                <span class="kr01_school">SUN MOON UNIVERSITY</span>
+                </div>
+                <div><time>2023/04/03</time>
+                
+                ~ <time>2023/07/01</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SunMoonK+SMKMOOC-05+2023_T1+type@asset+block@_%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%84%A0%EB%AC%B8%EB%8C%80_c%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EA%B0%9C%EB%A1%A0_2022.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[파이썬 프로그래밍]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:SunMoonK+SMKMOOC-04+2023_T2/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:SunMoonK+SMKMOOC-04+2023_T2/about</guid>
@@ -150,6 +168,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:WSUK+WSU_013+2023_1F+type@asset+block@DSC_0312.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[The Art of Writing Your Memoir]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:WSUK+WSU_020+2023_1K/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:WSUK+WSU_020+2023_1K/about</guid>
+            <pubDate>Wed, 05 Apr 2023 01:46:21 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                Jeffrey Alan Miller
+                </span>
+                <span class="kr01_school">WOOSONG UNIVERSITY</span>
+                </div>
+                <div><time>2023/04/03</time>
+                
+                ~ <time>2023/07/17</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:WSUK+WSU_020+2023_1K+type@asset+block@%EC%BA%A1%EC%B2%98.PNG" length="0" type="image/PNG"/>
         </item>
         <item>
             <title><![CDATA[Basic Coffee Education]]></title>
@@ -330,42 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:SWUk+CK_SWUK_05+2023_T1_9+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_2023-01_%EC%B0%BD%EC%9D%98%EC%A0%81%EC%9D%B8_%EC%82%AC%EB%9E%8C%EC%9D%98_7%EA%B0%80%EC%A7%80_%EC%8A%B5%EA%B4%80.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[건강과 식생활]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SWUK+CK_SWUK_01+2023_T1_11/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SWUK+CK_SWUK_01+2023_T1_11/about</guid>
-            <pubDate>Mon, 03 Apr 2023 09:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                노봉수
-                </span>
-                <span class="kr01_school">SEOUL WOMEN'S UNIVERSITY</span>
-                </div>
-                <div><time>2023/04/03</time>
-                
-                ~ <time>2023/07/15</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SWUK+CK_SWUK_01+2023_T1_11+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_2023-01_%EA%B1%B4%EA%B0%95%EA%B3%BC_%EC%8B%9D%EC%83%9D%ED%99%9C.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[4차산업혁명 시대의 디지털 윤리]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SWUk+WEUP_SWUK_08+2023_T1_9/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SWUk+WEUP_SWUK_08+2023_T1_9/about</guid>
-            <pubDate>Mon, 03 Apr 2023 09:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                윤미선
-                </span>
-                <span class="kr01_school">SEOUL WOMEN'S UNIVERSITY</span>
-                </div>
-                <div><time>2023/04/03</time>
-                
-                ~ <time>2023/07/15</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SWUk+WEUP_SWUK_08+2023_T1_9+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_2023-01_4%EC%B0%A8%EC%82%B0%EC%97%85%ED%98%81%ED%98%81%EB%AA%85%EC%8B%9C%EB%8C%80%EC%9D%98_%EB%94%94%EC%A7%80%ED%84%B8%EC%9C%A4%EB%A6%AC.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
