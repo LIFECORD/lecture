@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Apr 2023 23:09:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Apr 2023 00:49:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -206,6 +206,42 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:SunMoonK+SMKMOOC-03+2023_T1+type@asset+block@_%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%84%A0%EB%AC%B8%EB%8C%80_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C_%EB%B0%94%EB%9D%BC%EB%B3%B8_4%EC%B0%A8_%EC%82%B0%EC%97%85%ED%98%81%EB%AA%85_%EA%B8%B0%EC%88%A0_2023.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[세상을 바꾸는 빅데이터 (K-MOOC ─ 진행중)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SunMoonK+SMKMOOC-07+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SunMoonK+SMKMOOC-07+2023_T1/about</guid>
+            <pubDate>Thu, 06 Apr 2023 00:49:09 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김용우 and 7 others
+                </span>
+                <span class="kr01_school">SUN MOON UNIVERSITY</span>
+                </div>
+                <div><time>2023/04/03</time>
+                
+                ~ <time>2023/07/01</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SunMoonK+SMKMOOC-07+2023_T1+type@asset+block@_%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%84%B8%EC%83%81%EC%9D%84_%EB%B0%94%EA%BE%B8%EB%8A%94_%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0_2023.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영상처리 (K-MOOC ─ 진행중)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SunMoonK+SMKMOOC-10+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SunMoonK+SMKMOOC-10+2023_T1/about</guid>
+            <pubDate>Thu, 06 Apr 2023 00:49:09 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                황영섭
+                </span>
+                <span class="kr01_school">SUN MOON UNIVERSITY</span>
+                </div>
+                <div><time>2023/04/03</time>
+                
+                ~ <time>2023/07/01</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SunMoonK+SMKMOOC-10+2023_T1+type@asset+block@_%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%98%81%EC%83%81%EC%B2%98%EB%A6%AC_2023.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[파이썬 프로그래밍 (K-MOOC ─ 진행중)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:SunMoonK+SMKMOOC-04+2023_T2/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:SunMoonK+SMKMOOC-04+2023_T2/about</guid>
@@ -330,42 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:WSUK+WSU_018+2023_1I+type@asset+block@%EB%B3%84%EC%B2%A8_1._Customer_Relationship_Management_in_Hospitality_Industry__Dr._Raweewan_Proyrungroj_-English-_%EA%B0%95%EC%9D%98%EC%82%AC%EC%A7%84.PNG" length="0" type="image/PNG"/>
-        </item>
-        <item>
-            <title><![CDATA[Entrepreneurship (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:WSUK+WSU_019+2023_1L/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:WSUK+WSU_019+2023_1L/about</guid>
-            <pubDate>Wed, 05 Apr 2023 00:43:23 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                Anura Amarasena
-                </span>
-                <span class="kr01_school">WOOSONG UNIVERSITY</span>
-                </div>
-                <div><time>2023/04/03</time>
-                
-                ~ <time>2023/07/17</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:WSUK+WSU_019+2023_1L+type@asset+block@%EB%B3%84%EC%B2%A8_1._%EC%9A%B0%EC%86%A1%EB%8C%80%ED%95%99%EA%B5%90-Entrepreneurship-%EA%B0%95%EC%9D%98%EC%82%AC%EC%A7%84.PNG" length="0" type="image/PNG"/>
-        </item>
-        <item>
-            <title><![CDATA[Fundamentals of Psychology (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:WSUK+WSU_015+2023_1H/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:WSUK+WSU_015+2023_1H/about</guid>
-            <pubDate>Mon, 03 Apr 2023 09:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                Kishor Chandran
-                </span>
-                <span class="kr01_school">WOOSONG UNIVERSITY</span>
-                </div>
-                <div><time>2023/04/03</time>
-                
-                ~ <time>2023/07/17</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:WSUK+WSU_015+2023_1H+type@asset+block@%EB%B3%84%EC%B2%A8_1._Fundamentals_of_Psychology-Kishor_Chandran-%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[소프트웨어 중심 사회속의 인터넷 윤리 (K-MOOC ─ 개강예정)]]></title>
