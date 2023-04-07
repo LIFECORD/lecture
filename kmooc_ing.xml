@@ -4,14 +4,14 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Apr 2023 08:13:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 09:11:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[AI 기반 기초 이론]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Fri, 07 Apr 2023 08:13:14 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:MA_Gunsol+MATCHUP_MA_Gunsol04+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:MA_Gunsol+MATCHUP_MA_Gunsol04+2023_T1/about</guid>
+            <pubDate>Fri, 07 Apr 2023 09:11:13 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김영훈 and 1 others
@@ -27,9 +27,9 @@
         </item>
         <item>
             <title><![CDATA[스마트공장과 CAD/CAM/CNC]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Fri, 07 Apr 2023 08:13:14 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:MA_Gunsol+MATCHUP_MA_Gunsol01+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:MA_Gunsol+MATCHUP_MA_Gunsol01+2023_T1/about</guid>
+            <pubDate>Fri, 07 Apr 2023 09:11:13 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 엄주명
@@ -45,9 +45,9 @@
         </item>
         <item>
             <title><![CDATA[IIoT 기반 데이터 수집 개발]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Fri, 07 Apr 2023 08:13:14 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:MA_Gunsol+MATCHUP_MA_Gunsol02+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:MA_Gunsol+MATCHUP_MA_Gunsol02+2023_T1/about</guid>
+            <pubDate>Fri, 07 Apr 2023 09:11:13 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 엄주명
@@ -63,9 +63,9 @@
         </item>
         <item>
             <title><![CDATA[공정 자동화를 위한 디지털 트윈의 이해]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Fri, 07 Apr 2023 08:13:14 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:MA_Gunsol+MATCHUP_MA_Gunsol03+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:MA_Gunsol+MATCHUP_MA_Gunsol03+2023_T1/about</guid>
+            <pubDate>Fri, 07 Apr 2023 09:11:13 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 윤종완
