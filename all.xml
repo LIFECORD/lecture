@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 05:11:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 06:13:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[4차산업혁명의 인공지능과 철학 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 10 Apr 2023 05:10:50 GMT</pubDate>
+            <pubDate>Mon, 10 Apr 2023 06:13:35 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김준성
@@ -29,7 +29,7 @@
             <title><![CDATA[수학없는암호 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 10 Apr 2023 05:10:50 GMT</pubDate>
+            <pubDate>Mon, 10 Apr 2023 06:13:35 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 전웅렬
@@ -47,7 +47,7 @@
             <title><![CDATA[비전공자를 위한 모바일 앱 만들기 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 10 Apr 2023 05:10:50 GMT</pubDate>
+            <pubDate>Mon, 10 Apr 2023 06:13:35 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김선경
