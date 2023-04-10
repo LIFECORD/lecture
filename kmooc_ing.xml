@@ -4,14 +4,14 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 08:14:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 09:12:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[4차산업혁명의 인공지능과 철학]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 10 Apr 2023 08:14:13 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:MJU+MJU+MJU_202301_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:MJU+MJU+MJU_202301_1/about</guid>
+            <pubDate>Mon, 10 Apr 2023 09:11:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김준성
@@ -27,9 +27,9 @@
         </item>
         <item>
             <title><![CDATA[수학없는암호]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 10 Apr 2023 08:14:13 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:GwangjuUniv+GU03+2022_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:GwangjuUniv+GU03+2022_1/about</guid>
+            <pubDate>Mon, 10 Apr 2023 09:11:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 전웅렬
@@ -45,9 +45,9 @@
         </item>
         <item>
             <title><![CDATA[비전공자를 위한 모바일 앱 만들기]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 10 Apr 2023 08:14:13 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:DAEJIN+DAEJIN_B04+2022-T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DAEJIN+DAEJIN_B04+2022-T1/about</guid>
+            <pubDate>Mon, 10 Apr 2023 09:11:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김선경
