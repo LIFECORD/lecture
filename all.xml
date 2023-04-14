@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Apr 2023 07:10:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Apr 2023 08:14:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[AI융합교육의 이해 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Fri, 14 Apr 2023 07:10:43 GMT</pubDate>
+            <pubDate>Fri, 14 Apr 2023 08:14:13 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 정제영
@@ -29,7 +29,7 @@
             <title><![CDATA[비정형 데이터 분석: 소셜 네트워크의 분석 심화 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Fri, 14 Apr 2023 07:10:43 GMT</pubDate>
+            <pubDate>Fri, 14 Apr 2023 08:14:13 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                  윤호영
