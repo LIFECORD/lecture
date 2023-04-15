@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Apr 2023 23:10:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Apr 2023 00:53:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,6 +42,78 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:KoreaUnivK+ku_phy_002+2023_AA5+type@asset+block@08_%E1%84%8F%E1%85%B3%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%87%E1%85%A2%E1%84%82%E1%85%A5_%E1%84%89%E1%85%A2%E1%86%BC%E1%84%8B%E1%85%B5%E1%86%AB2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[손생님! 한국수어를 부탁해요-고급편(한국 수어의 문법)-]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:ChosunK+Chosun16K+2023_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:ChosunK+Chosun16K+2023_1/about</guid>
+            <pubDate>Sat, 15 Apr 2023 00:53:48 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                최영주
+                </span>
+                <span class="kr01_school">Chosun University</span>
+                </div>
+                <div><time>2023/05/08</time>
+                
+                ~ <time>2023/07/21</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:ChosunK+Chosun16K+2023_1+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%EC%88%98%EC%96%B4_%EA%B3%A0%EA%B8%89%ED%91%A0_%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[손생님! 한국수어를 부탁해요-기초편(한국수어 기초회화)-]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:ChosunK+Chosun13K+2023_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:ChosunK+Chosun13K+2023_1/about</guid>
+            <pubDate>Sat, 15 Apr 2023 00:53:48 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                최영주
+                </span>
+                <span class="kr01_school">Chosun University</span>
+                </div>
+                <div><time>2023/05/08</time>
+                
+                ~ <time>2023/07/21</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:ChosunK+Chosun13K+2023_1+type@asset+block@%EC%88%98%EC%96%B4_%EA%B8%B0%EC%B4%88%ED%8E%B8_%EC%8D%B8%EB%84%A4%EC%9D%BC_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[손생님! 한국수어를 부탁해요-입문편(한국수어 중급회화)-]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:ChosunK+Chosun14K+2023_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:ChosunK+Chosun14K+2023_1/about</guid>
+            <pubDate>Sat, 15 Apr 2023 00:53:48 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                최영주
+                </span>
+                <span class="kr01_school">Chosun University</span>
+                </div>
+                <div><time>2023/05/08</time>
+                
+                ~ <time>2023/07/21</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:ChosunK+Chosun14K+2023_1+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98__%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%9E%85%EB%AC%B8%ED%8E%B8.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[손생님! 한국수어를 부탁해요-활용편(한국수어 활용)-]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:ChosunK+Chosun15K+2023_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:ChosunK+Chosun15K+2023_1/about</guid>
+            <pubDate>Sat, 15 Apr 2023 00:53:48 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                최영주
+                </span>
+                <span class="kr01_school">Chosun University</span>
+                </div>
+                <div><time>2023/05/08</time>
+                
+                ~ <time>2023/07/21</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:ChosunK+Chosun15K+2023_1+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%EC%8D%B8%EB%84%A4%EC%9D%BC_%ED%99%9C%EC%9A%A9%ED%8E%B8.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[고전문헌과 역사문화Ⅱ]]></title>
@@ -294,78 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:DAUk+CORE_DAU02k+2023_T2+type@asset+block@%EA%B3%A0%EC%A0%84%EA%B3%BC%ED%98%84%EC%8B%A4%EA%B2%BD%EC%98%81.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[증권투자이론 기초]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:DAUk+DAUk08+2023_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:DAUk+DAUk08+2023_T2/about</guid>
-            <pubDate>Mon, 03 Apr 2023 00:51:37 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                한덕희
-                </span>
-                <span class="kr01_school">Dong-A University</span>
-                </div>
-                <div><time>2023/04/17</time>
-                
-                ~ <time>2023/08/06</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:DAUk+DAUk08+2023_T2+type@asset+block@%EC%A6%9D%EA%B6%8C%ED%88%AC%EC%9E%90%EC%9D%B4%EB%A1%A0_%EA%B8%B0%EC%B4%88_%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%88%98%EC%A0%951.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클릭! 부산(문화와언어)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:DAUk+DAUk09+2023_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:DAUk+DAUk09+2023_T2/about</guid>
-            <pubDate>Mon, 03 Apr 2023 00:51:37 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김형빈
-                </span>
-                <span class="kr01_school">Dong-A University</span>
-                </div>
-                <div><time>2023/04/17</time>
-                
-                ~ <time>2023/08/06</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:DAUk+DAUk09+2023_T2+type@asset+block@%ED%81%B4%EB%A6%AD%EB%B6%80%EC%82%B03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[체육학개론]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KNSU+KNSU001+2023_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KNSU+KNSU001+2023_T1/about</guid>
-            <pubDate>Mon, 10 Apr 2023 00:51:48 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                조욱상 and 9 others
-                </span>
-                <span class="kr01_school">KOREA NATIONAL SPORT UNIVERSITY</span>
-                </div>
-                <div><time>2023/04/17</time>
-                
-                ~ <time>2023/07/28</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KNSU+KNSU001+2023_T1+type@asset+block@%EA%B0%95%EC%A2%8C_%ED%91%9C%EC%A7%80_%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K-pop 노랫말과 사회적 담론]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KAEP_KHU+KKHU09+2022_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KAEP_KHU+KKHU09+2022_T1/about</guid>
-            <pubDate>Mon, 10 Apr 2023 01:59:01 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김태룡
-                </span>
-                <span class="kr01_school">KHU Center of K-Academic expansion project</span>
-                </div>
-                <div><time>2023/04/17</time>
-                
-                ~ <time>2023/07/22</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KAEP_KHU+KKHU09+2022_T1+type@asset+block@8%EB%B2%88.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
