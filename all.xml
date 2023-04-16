@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Apr 2023 15:10:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Apr 2023 16:12:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[건강한 삶: 건강한 몸과 병든 몸 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Sun, 16 Apr 2023 15:09:46 GMT</pubDate>
+            <pubDate>Sun, 16 Apr 2023 16:12:18 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이무열
@@ -29,7 +29,7 @@
             <title><![CDATA[호모, 인간을 말하다 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Sun, 16 Apr 2023 15:09:46 GMT</pubDate>
+            <pubDate>Sun, 16 Apr 2023 16:12:18 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 최현철
@@ -47,7 +47,7 @@
             <title><![CDATA[블록체인과 비즈니스 서비스 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Sun, 16 Apr 2023 15:09:46 GMT</pubDate>
+            <pubDate>Sun, 16 Apr 2023 16:12:18 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 장항배
@@ -65,7 +65,7 @@
             <title><![CDATA[영화로 이해하는 불안과 공포 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Sun, 16 Apr 2023 15:09:46 GMT</pubDate>
+            <pubDate>Sun, 16 Apr 2023 16:12:18 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 윤부희
@@ -83,7 +83,7 @@
             <title><![CDATA[소비자, 아는 것이 힘이다! (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Sun, 16 Apr 2023 15:09:46 GMT</pubDate>
+            <pubDate>Sun, 16 Apr 2023 16:12:18 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김시월
