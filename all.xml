@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Apr 2023 09:12:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Apr 2023 10:12:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[미래 비행체 개발 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 17 Apr 2023 09:12:12 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KAU+KAU01+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KAU+KAU01+2023_T1/about</guid>
+            <pubDate>Mon, 17 Apr 2023 10:12:06 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박상혁 and 2 others
@@ -27,9 +27,9 @@
         </item>
         <item>
             <title><![CDATA[인공신경망을 이용한 안전한 비행 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 17 Apr 2023 09:12:12 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KAU+KAU03+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KAU+KAU03+2023_T1/about</guid>
+            <pubDate>Mon, 17 Apr 2023 10:12:06 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 정재훈
@@ -45,9 +45,9 @@
         </item>
         <item>
             <title><![CDATA[유인항공교통에서 무인항공교통으로 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 17 Apr 2023 09:12:12 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KAU+KAU04+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KAU+KAU04+2023_T1/about</guid>
+            <pubDate>Mon, 17 Apr 2023 10:12:06 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김휘양 and 2 others
@@ -63,9 +63,9 @@
         </item>
         <item>
             <title><![CDATA[안전한 유·무인항공기 비행 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 17 Apr 2023 09:12:12 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KAU+KAU02+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KAU+KAU02+2023_T1/about</guid>
+            <pubDate>Mon, 17 Apr 2023 10:12:06 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 장민식 and 5 others
