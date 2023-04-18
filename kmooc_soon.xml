@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Apr 2023 23:11:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 00:49:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -260,6 +260,42 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:ChosunK+Chosun15K+2023_1+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%EC%8D%B8%EB%84%A4%EC%9D%BC_%ED%99%9C%EC%9A%A9%ED%8E%B8.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[중국신화 : 고대로의 시간여행 Ⅱ]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:UOUk+UOU701_02K+U701A_1_2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:UOUk+UOU701_02K+U701A_1_2023_T1/about</guid>
+            <pubDate>Tue, 18 Apr 2023 00:49:51 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이인택 and 2 others
+                </span>
+                <span class="kr01_school">University of Ulsan</span>
+                </div>
+                <div><time>2023/05/02</time>
+                
+                ~ <time>2023/06/19</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:UOUk+UOU701_02K+U701A_1_2023_T1+type@asset+block@%EC%A4%91%EA%B5%AD_%EC%8D%B8%EB%84%A4%EC%9D%BC__%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%97%85%EB%A1%9C%EB%93%9C_.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[창의적 문제해결을 위한 생각 프로세스 Ⅱ]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:UOUk+UOU702_02K+U702A_1_2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:UOUk+UOU702_02K+U702A_1_2023_T1/about</guid>
+            <pubDate>Tue, 18 Apr 2023 00:49:51 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                최원준
+                </span>
+                <span class="kr01_school">University of Ulsan</span>
+                </div>
+                <div><time>2023/05/02</time>
+                
+                ~ <time>2023/06/19</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:UOUk+UOU702_02K+U702A_1_2023_T1+type@asset+block@%EC%B0%BD%EC%9D%98%EC%A0%81_%EC%8D%B8%EB%84%A4%EC%9D%BC_%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%97%85%EB%A1%9C%EB%93%9C_.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[고전문헌과 역사문화Ⅱ]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_hum_001+2023_AA2/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_hum_001+2023_AA2/about</guid>
@@ -330,42 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:YonseiWK_KAEP+YonseiWK_KAEP05+2022_T1+type@asset+block@%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-02-08_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_10.43.18.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[글로벌한국사입문 : 한국과 동아시아]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:YonseiWK_KAEP+YonseiWK_KAEP01+2022_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:YonseiWK_KAEP+YonseiWK_KAEP01+2022_T1/about</guid>
-            <pubDate>Mon, 17 Apr 2023 06:14:37 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                백영서
-                </span>
-                <span class="kr01_school">Yonsei University Mirae Campus</span>
-                </div>
-                <div><time>2023/04/24</time>
-                
-                ~ <time>2023/07/15</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:YonseiWK_KAEP+YonseiWK_KAEP01+2022_T1+type@asset+block@%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-01-10_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_10.17.08.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[세계화와 근현대 한국의 대중문화]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:YonseiWK_KAEP+YonseiWK_KAEP09+2022_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:YonseiWK_KAEP+YonseiWK_KAEP09+2022_T1/about</guid>
-            <pubDate>Mon, 17 Apr 2023 06:14:37 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                이화진
-                </span>
-                <span class="kr01_school">Yonsei University Mirae Campus</span>
-                </div>
-                <div><time>2023/04/24</time>
-                
-                ~ <time>2023/07/15</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:YonseiWK_KAEP+YonseiWK_KAEP09+2022_T1+type@asset+block@%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-01-10_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_10.21.54.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
