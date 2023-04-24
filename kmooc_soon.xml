@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Apr 2023 23:10:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 00:53:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -224,24 +224,6 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:MA_CUK+MATCHUP_CUK05+2023_1+type@asset+block@_%ED%85%9C%ED%94%8C%EB%A6%BF_%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D_%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%B6%84%EC%84%9D_210924.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[빅데이터를 위한 확률과 통계]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK01+2023_1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK01+2023_1/about</guid>
-            <pubDate>Sun, 16 Apr 2023 23:10:36 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                백창현
-                </span>
-                <span class="kr01_school">CYBER UNIVERSITY OF KOREA(matchup)</span>
-                </div>
-                <div><time>2023/05/08</time>
-                
-                ~ <time>2023/07/02</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:MA_CUK+MATCHUP_CUK01+2023_1+type@asset+block@%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0_%ED%99%95%EB%A5%A0%ED%86%B5%EA%B3%84.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[빅데이터 플랫폼]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK07+2023_1/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK07+2023_1/about</guid>
@@ -258,6 +240,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:MA_CUK+MATCHUP_CUK07+2023_1+type@asset+block@%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0_%ED%94%8C%EB%9E%AB%ED%8F%BC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빅데이터를 위한 확률과 통계]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK01+2023_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK01+2023_1/about</guid>
+            <pubDate>Sun, 16 Apr 2023 23:10:36 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                백창현
+                </span>
+                <span class="kr01_school">CYBER UNIVERSITY OF KOREA(matchup)</span>
+                </div>
+                <div><time>2023/05/08</time>
+                
+                ~ <time>2023/07/02</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:MA_CUK+MATCHUP_CUK01+2023_1+type@asset+block@%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0_%ED%99%95%EB%A5%A0%ED%86%B5%EA%B3%84.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[중국신화 : 고대로의 시간여행 Ⅱ]]></title>
@@ -330,42 +330,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:FSS+FSS01+2023_T1+type@asset+block@%EA%B0%95%EC%A2%8C%EC%B9%B4%EB%93%9C_%EC%82%AC%EC%A7%84_%EC%9B%90%EB%B3%B8_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세계 냉전체제의 형성과 두 개의 '코리아']]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:YonseiWK_KAEP+YonseiWK_KAEP07+2022_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:YonseiWK_KAEP+YonseiWK_KAEP07+2022_T1/about</guid>
-            <pubDate>Mon, 17 Apr 2023 06:14:37 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                이세영
-                </span>
-                <span class="kr01_school">Yonsei University Mirae Campus</span>
-                </div>
-                <div><time>2023/04/24</time>
-                
-                ~ <time>2023/07/15</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:YonseiWK_KAEP+YonseiWK_KAEP07+2022_T1+type@asset+block@%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-02-08_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_10.43.37.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한국사 속의 경계인과 외부인 : 한국인과 서양인의 만남]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:YonseiWK_KAEP+YonseiWK_KAEP05+2022_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:YonseiWK_KAEP+YonseiWK_KAEP05+2022_T1/about</guid>
-            <pubDate>Mon, 17 Apr 2023 06:14:37 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                오상미
-                </span>
-                <span class="kr01_school">Yonsei University Mirae Campus</span>
-                </div>
-                <div><time>2023/04/24</time>
-                
-                ~ <time>2023/07/15</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:YonseiWK_KAEP+YonseiWK_KAEP05+2022_T1+type@asset+block@%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-02-08_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_10.43.18.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
