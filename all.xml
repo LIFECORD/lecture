@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Apr 2023 06:14:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 09:11:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -710,22 +710,22 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:KoreaUnivK+ku_hum_001+2023_AA2+type@asset+block@03_%E1%84%8F%E1%85%B3%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%87%E1%85%A2%E1%84%82%E1%85%A5_%E1%84%80%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[실용금융의 이론과 실제 (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:FSS+FSS01+2023_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:FSS+FSS01+2023_T1/about</guid>
-            <pubDate>Mon, 17 Apr 2023 00:52:58 GMT</pubDate>
+            <title><![CDATA[디자인의 이해 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:KMUk+KMUT2022+KMUT2022_001/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KMUk+KMUT2022+KMUT2022_001/about</guid>
+            <pubDate>Wed, 26 Apr 2023 09:11:29 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                박경국 and 1 others
+                연명흠 and 2 others
                 </span>
-                <span class="kr01_school">Financial Supervisory Service</span>
+                <span class="kr01_school">KOOKMIN UNIVERSITY</span>
                 </div>
                 <div><time>2023/05/01</time>
                 
-                ~ <time>2023/08/14</time>
+                ~ <time>2023/08/20</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:FSS+FSS01+2023_T1+type@asset+block@%EA%B0%95%EC%A2%8C%EC%B9%B4%EB%93%9C_%EC%82%AC%EC%A7%84_%EC%9B%90%EB%B3%B8_.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KMUk+KMUT2022+KMUT2022_001+type@asset+block@2023-1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
