@@ -4,14 +4,32 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 May 2023 14:10:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 May 2023 15:11:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고전문헌과 역사문화Ⅱ (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Mon, 01 May 2023 15:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                심경호
+                </span>
+                <span class="kr01_school">KOREA UNIVERSITY</span>
+                </div>
+                <div><time>2023/05/02</time>
+                
+                ~ <time>2023/06/20</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KoreaUnivK+ku_hum_001+2023_AA2+type@asset+block@03_%E1%84%8F%E1%85%B3%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%87%E1%85%A2%E1%84%82%E1%85%A5_%E1%84%80%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[실용금융의 이론과 실제 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 01 May 2023 14:10:27 GMT</pubDate>
+            <pubDate>Mon, 01 May 2023 15:10:54 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박경국 and 1 others
@@ -348,24 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:YonseiWK_KAEP+YonseiWK_KAEP06+2022_T1+type@asset+block@%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-02-08_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_10.43.27.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[현장에서 바라본 제국의 시대 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:YonseiWK_KAEP+YonseiWK_KAEP08+2022_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:YonseiWK_KAEP+YonseiWK_KAEP08+2022_T1/about</guid>
-            <pubDate>Mon, 24 Apr 2023 09:11:15 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                권기하
-                </span>
-                <span class="kr01_school">Yonsei University Mirae Campus</span>
-                </div>
-                <div><time>2023/04/24</time>
-                
-                ~ <time>2023/07/15</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:YonseiWK_KAEP+YonseiWK_KAEP08+2022_T1+type@asset+block@%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-01-10_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_10.20.55.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[손생님! 한국수어를 부탁해요-고급편(한국 수어의 문법)- (K-MOOC ─ 개강예정)]]></title>
