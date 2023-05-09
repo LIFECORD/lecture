@@ -4,9 +4,45 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 23:12:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 May 2023 00:53:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가족과 건강 : 운동과 뇌 건강 Ⅱ (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Tue, 09 May 2023 00:52:48 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                우민정
+                </span>
+                <span class="kr01_school">University of Ulsan</span>
+                </div>
+                <div><time>2023/05/09</time>
+                
+                ~ <time>2023/06/26</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:UOUk+UOU601_02K+U601A_3_2023_T1+type@asset+block@%EC%9A%B4%EB%8F%99%EA%B3%BC_%EB%87%8C_%EA%B1%B4%EA%B0%95_%EC%8D%B8%EB%84%A4%EC%9D%BC.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[모범시민의 교양회계 Ⅱ (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Tue, 09 May 2023 00:52:48 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김효은
+                </span>
+                <span class="kr01_school">University of Ulsan</span>
+                </div>
+                <div><time>2023/05/09</time>
+                
+                ~ <time>2023/06/26</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:UOUk+UOU602_02K+U602A_3_2023_T1+type@asset+block@%EB%AA%A8%EB%B2%94%EC%8B%9C%EB%AF%BC%EC%9D%98_%EA%B5%90%EC%96%91%ED%9A%8C%EA%B3%84_%EC%8D%B8%EB%84%A4%EC%9D%BC.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[SQL 정형 데이터 분석 (K-MOOC ─ 진행중)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK03+2023_1/about</link>
@@ -332,42 +368,6 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:HUFS+HUFS_17+2023_T2+type@asset+block@%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[중국신화 : 고대로의 시간여행 Ⅱ (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:UOUk+UOU701_02K+U701A_1_2023_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:UOUk+UOU701_02K+U701A_1_2023_T1/about</guid>
-            <pubDate>Thu, 04 May 2023 04:12:32 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                이인택 and 2 others
-                </span>
-                <span class="kr01_school">University of Ulsan</span>
-                </div>
-                <div><time>2023/05/02</time>
-                
-                ~ <time>2023/06/19</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:UOUk+UOU701_02K+U701A_1_2023_T1+type@asset+block@%EC%A4%91%EA%B5%AD_%EC%8D%B8%EB%84%A4%EC%9D%BC__%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%97%85%EB%A1%9C%EB%93%9C_.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[창의적 문제해결을 위한 생각 프로세스 Ⅱ (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:UOUk+UOU702_02K+U702A_1_2023_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:UOUk+UOU702_02K+U702A_1_2023_T1/about</guid>
-            <pubDate>Thu, 04 May 2023 04:12:32 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                최원준
-                </span>
-                <span class="kr01_school">University of Ulsan</span>
-                </div>
-                <div><time>2023/05/02</time>
-                
-                ~ <time>2023/06/19</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:UOUk+UOU702_02K+U702A_1_2023_T1+type@asset+block@%EC%B0%BD%EC%9D%98%EC%A0%81_%EC%8D%B8%EB%84%A4%EC%9D%BC_%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%97%85%EB%A1%9C%EB%93%9C_.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[손생님! 한국수어를 부탁해요-고급편(한국 수어의 문법)- (K-MOOC ─ 개강예정)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:ChosunK+Chosun16K+2023_1/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:ChosunK+Chosun16K+2023_1/about</guid>
@@ -546,42 +546,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:CAUk+CAU18K+2023_2+type@asset+block@%EB%87%8C%EA%B3%BC%ED%95%99_%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가족과 건강 : 운동과 뇌 건강 Ⅱ (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:UOUk+UOU601_02K+U601A_3_2023_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:UOUk+UOU601_02K+U601A_3_2023_T1/about</guid>
-            <pubDate>Sun, 07 May 2023 11:08:55 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                우민정
-                </span>
-                <span class="kr01_school">University of Ulsan</span>
-                </div>
-                <div><time>2023/05/09</time>
-                
-                ~ <time>2023/06/26</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:UOUk+UOU601_02K+U601A_3_2023_T1+type@asset+block@%EC%9A%B4%EB%8F%99%EA%B3%BC_%EB%87%8C_%EA%B1%B4%EA%B0%95_%EC%8D%B8%EB%84%A4%EC%9D%BC.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[모범시민의 교양회계 Ⅱ (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:UOUk+UOU602_02K+U602A_3_2023_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:UOUk+UOU602_02K+U602A_3_2023_T1/about</guid>
-            <pubDate>Sun, 07 May 2023 11:08:55 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김효은
-                </span>
-                <span class="kr01_school">University of Ulsan</span>
-                </div>
-                <div><time>2023/05/09</time>
-                
-                ~ <time>2023/06/26</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:UOUk+UOU602_02K+U602A_3_2023_T1+type@asset+block@%EB%AA%A8%EB%B2%94%EC%8B%9C%EB%AF%BC%EC%9D%98_%EA%B5%90%EC%96%91%ED%9A%8C%EA%B3%84_%EC%8D%B8%EB%84%A4%EC%9D%BC.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
