@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 May 2023 06:14:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 07:10:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -170,24 +170,6 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:KoreaUnivK+ku_phy_002+2023_AA5+type@asset+block@08_%E1%84%8F%E1%85%B3%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%87%E1%85%A2%E1%84%82%E1%85%A5_%E1%84%89%E1%85%A2%E1%86%BC%E1%84%8B%E1%85%B5%E1%86%AB2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[미래교육과 에듀테크]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:CAUk+CAU17K+2023_2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:CAUk+CAU17K+2023_2/about</guid>
-            <pubDate>Mon, 08 May 2023 06:14:08 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                송해덕
-                </span>
-                <span class="kr01_school">CHUNG-ANG UNIVERSITY</span>
-                </div>
-                <div><time>2023/05/15</time>
-                
-                ~ <time>2023/08/26</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:CAUk+CAU17K+2023_2+type@asset+block@_%EC%A4%91%EC%95%99%EB%8C%80_-%EB%AF%B8%EB%9E%98%EA%B5%90%EC%9C%A1-%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[시, 이미지를 만나다]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:PNUk+PI_C01+2022_KM_039/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:PNUk+PI_C01+2022_KM_039/about</guid>
@@ -258,6 +240,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:CAUk+CAU19K+2023_2+type@asset+block@_%EC%A4%91%EC%95%99%EB%8C%80_-%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4-%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미래교육과 에듀테크]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:CAUk+CAU17K+2023_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:CAUk+CAU17K+2023_2/about</guid>
+            <pubDate>Mon, 08 May 2023 06:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                송해덕
+                </span>
+                <span class="kr01_school">CHUNG-ANG UNIVERSITY</span>
+                </div>
+                <div><time>2023/05/15</time>
+                
+                ~ <time>2023/08/25</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:CAUk+CAU17K+2023_2+type@asset+block@_%EC%A4%91%EC%95%99%EB%8C%80_-%EB%AF%B8%EB%9E%98%EA%B5%90%EC%9C%A1-%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뇌과학: 현대인이 알아야할 지식들]]></title>
