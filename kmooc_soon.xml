@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 23:10:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 May 2023 00:49:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:KoreaUnivK+ku_phy_002+2023_AA5+type@asset+block@08_%E1%84%8F%E1%85%B3%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%87%E1%85%A2%E1%84%82%E1%85%A5_%E1%84%89%E1%85%A2%E1%86%BC%E1%84%8B%E1%85%B5%E1%86%AB2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[꿈 성취의 비밀 라이프 로드맵(Life Roadmap; The Secret of Achieving My Dream)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:ChosunK+Chosun17K+2023_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:ChosunK+Chosun17K+2023_1/about</guid>
+            <pubDate>Sat, 13 May 2023 00:49:33 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                류시천
+                </span>
+                <span class="kr01_school">Chosun University</span>
+                </div>
+                <div><time>2023/05/15</time>
+                
+                ~ <time>2023/08/18</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:ChosunK+Chosun17K+2023_1+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%B5%9C%EC%A2%85.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[시, 이미지를 만나다]]></title>
