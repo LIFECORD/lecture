@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 May 2023 18:12:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 May 2023 19:08:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[코딩없는 SW개발 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Sun, 14 May 2023 18:12:04 GMT</pubDate>
+            <pubDate>Sun, 14 May 2023 19:08:34 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 장항배
@@ -29,7 +29,7 @@
             <title><![CDATA[개인정보: 보호와 이용의 법과 권리 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Sun, 14 May 2023 18:12:04 GMT</pubDate>
+            <pubDate>Sun, 14 May 2023 19:08:34 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이인호
@@ -47,7 +47,7 @@
             <title><![CDATA[뇌과학: 현대인이 알아야할 지식들 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Sun, 14 May 2023 18:12:04 GMT</pubDate>
+            <pubDate>Sun, 14 May 2023 19:08:34 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이무열 and 1 others
@@ -65,7 +65,7 @@
             <title><![CDATA[미래교육과 에듀테크 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Sun, 14 May 2023 18:12:04 GMT</pubDate>
+            <pubDate>Sun, 14 May 2023 19:08:34 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 송해덕
