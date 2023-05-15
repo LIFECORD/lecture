@@ -4,14 +4,14 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 02:05:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 03:12:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[꿈 성취의 비밀 라이프 로드맵(Life Roadmap; The Secret of Achieving My Dream)]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 15 May 2023 02:05:27 GMT</pubDate>
+            <pubDate>Mon, 15 May 2023 03:11:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 류시천
@@ -29,7 +29,7 @@
             <title><![CDATA[지역 스포츠산업의 이해와 실제(Understand and Practicing Local Sports Industry)]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 15 May 2023 02:05:27 GMT</pubDate>
+            <pubDate>Mon, 15 May 2023 03:11:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김민철
@@ -47,7 +47,7 @@
             <title><![CDATA[시, 이미지를 만나다]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 15 May 2023 02:05:27 GMT</pubDate>
+            <pubDate>Mon, 15 May 2023 03:11:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김지오
@@ -65,7 +65,7 @@
             <title><![CDATA[자율주행을 위한 인공지능]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 15 May 2023 02:05:27 GMT</pubDate>
+            <pubDate>Mon, 15 May 2023 03:11:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박진선
@@ -314,24 +314,6 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:MA_CUK+MATCHUP_CUK05+2023_1+type@asset+block@_%ED%85%9C%ED%94%8C%EB%A6%BF_%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D_%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%B6%84%EC%84%9D_210924.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[빅데이터를 위한 확률과 통계]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK01+2023_1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK01+2023_1/about</guid>
-            <pubDate>Mon, 08 May 2023 10:11:08 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                백창현
-                </span>
-                <span class="kr01_school">CYBER UNIVERSITY OF KOREA(matchup)</span>
-                </div>
-                <div><time>2023/05/08</time>
-                
-                ~ <time>2023/07/02</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:MA_CUK+MATCHUP_CUK01+2023_1+type@asset+block@%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0_%ED%99%95%EB%A5%A0%ED%86%B5%EA%B3%84.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[빅데이터 플랫폼]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK07+2023_1/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK07+2023_1/about</guid>
@@ -348,6 +330,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:MA_CUK+MATCHUP_CUK07+2023_1+type@asset+block@%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0_%ED%94%8C%EB%9E%AB%ED%8F%BC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빅데이터를 위한 확률과 통계]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK01+2023_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK01+2023_1/about</guid>
+            <pubDate>Mon, 08 May 2023 10:11:08 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                백창현
+                </span>
+                <span class="kr01_school">CYBER UNIVERSITY OF KOREA(matchup)</span>
+                </div>
+                <div><time>2023/05/08</time>
+                
+                ~ <time>2023/07/02</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:MA_CUK+MATCHUP_CUK01+2023_1+type@asset+block@%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0_%ED%99%95%EB%A5%A0%ED%86%B5%EA%B3%84.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[함수의 극한 미분적분]]></title>
