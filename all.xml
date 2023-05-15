@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 17:11:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 18:18:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[모두를 위한 사회학 입문 Ⅱ (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 15 May 2023 17:11:01 GMT</pubDate>
+            <pubDate>Mon, 15 May 2023 18:18:06 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김윤태
@@ -29,7 +29,7 @@
             <title><![CDATA[생물학적 인간Ⅱ (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 15 May 2023 17:11:01 GMT</pubDate>
+            <pubDate>Mon, 15 May 2023 18:18:06 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 나흥식
