@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 May 2023 17:10:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 May 2023 18:12:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -261,9 +261,9 @@
         </item>
         <item>
             <title><![CDATA[외국인근로자 사업담당자가 알아야 할 보건의료지원의 이해 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 29 May 2023 17:09:55 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KOFIH+KOFIH02+2023_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KOFIH+KOFIH02+2023_2/about</guid>
+            <pubDate>Mon, 29 May 2023 18:12:34 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김미선 and 5 others
@@ -281,7 +281,7 @@
             <title><![CDATA[신선요리 마스터과정 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 29 May 2023 17:09:55 GMT</pubDate>
+            <pubDate>Mon, 29 May 2023 18:12:33 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이영우
@@ -299,7 +299,7 @@
             <title><![CDATA[소셜벤처 스킬업 기본과정 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 29 May 2023 17:09:55 GMT</pubDate>
+            <pubDate>Mon, 29 May 2023 18:12:33 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 안지훈
@@ -317,7 +317,7 @@
             <title><![CDATA[소셜벤처 스타트업 과정 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 29 May 2023 17:09:55 GMT</pubDate>
+            <pubDate>Mon, 29 May 2023 18:12:33 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 안지훈
@@ -335,7 +335,7 @@
             <title><![CDATA[소셜벤처 스킬업 심화과정 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 29 May 2023 17:09:55 GMT</pubDate>
+            <pubDate>Mon, 29 May 2023 18:12:33 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 안지훈
@@ -353,7 +353,7 @@
             <title><![CDATA[컬러리스트 산업기사 과정 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 29 May 2023 17:09:55 GMT</pubDate>
+            <pubDate>Mon, 29 May 2023 18:12:33 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 강희명
