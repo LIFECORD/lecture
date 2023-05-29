@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 May 2023 10:11:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 May 2023 11:09:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -299,7 +299,7 @@
             <title><![CDATA[외국인근로자 사업담당자가 알아야 할 보건의료지원의 이해 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 29 May 2023 10:11:29 GMT</pubDate>
+            <pubDate>Mon, 29 May 2023 11:09:01 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김미선 and 5 others
