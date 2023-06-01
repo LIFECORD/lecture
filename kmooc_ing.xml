@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Jun 2023 08:14:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jun 2023 09:11:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -81,9 +81,9 @@
         </item>
         <item>
             <title><![CDATA[노래와 함께 읽는 한국시]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Thu, 01 Jun 2023 08:13:46 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:CKL_SNU+cklsnu02+2023_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:CKL_SNU+cklsnu02+2023_T2/about</guid>
+            <pubDate>Thu, 01 Jun 2023 09:11:01 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 홍승진
@@ -99,9 +99,9 @@
         </item>
         <item>
             <title><![CDATA[동아시아 속의 한국문학]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Thu, 01 Jun 2023 08:13:46 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:CKL_SNU+cklsnu03+2023_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:CKL_SNU+cklsnu03+2023_T2/about</guid>
+            <pubDate>Thu, 01 Jun 2023 09:11:01 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김종욱
@@ -117,9 +117,9 @@
         </item>
         <item>
             <title><![CDATA[한국어의 문법]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Thu, 01 Jun 2023 08:13:46 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:CKL_SNU+cklsnu07+2023_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:CKL_SNU+cklsnu07+2023_T2/about</guid>
+            <pubDate>Thu, 01 Jun 2023 09:11:01 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 문숙영
@@ -135,9 +135,9 @@
         </item>
         <item>
             <title><![CDATA[전쟁과 한국문학]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Thu, 01 Jun 2023 08:13:46 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:CKL_SNU+cklsnu05+2023_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:CKL_SNU+cklsnu05+2023_T2/about</guid>
+            <pubDate>Thu, 01 Jun 2023 09:11:01 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 나보령
@@ -153,9 +153,9 @@
         </item>
         <item>
             <title><![CDATA[한국어의 발음]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Thu, 01 Jun 2023 08:13:46 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:CKL_SNU+cklsnu08+2023_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:CKL_SNU+cklsnu08+2023_T2/about</guid>
+            <pubDate>Thu, 01 Jun 2023 09:11:01 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김현
@@ -171,9 +171,9 @@
         </item>
         <item>
             <title><![CDATA[한국어학 개관]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Thu, 01 Jun 2023 08:13:46 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:CKL_SNU+cklsnu09+2023_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:CKL_SNU+cklsnu09+2023_T2/about</guid>
+            <pubDate>Thu, 01 Jun 2023 09:11:01 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박진호
@@ -189,9 +189,9 @@
         </item>
         <item>
             <title><![CDATA[한국어 어문 규범]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Thu, 01 Jun 2023 08:13:46 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:CKL_SNU+cklsnu06+2023_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:CKL_SNU+cklsnu06+2023_T2/about</guid>
+            <pubDate>Thu, 01 Jun 2023 09:11:01 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이진호
@@ -207,9 +207,9 @@
         </item>
         <item>
             <title><![CDATA[The Roots of Korean Culture(한국문화의 뿌리)]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Thu, 01 Jun 2023 08:13:46 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:CKL_SNU+cklsnu01+2023_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:CKL_SNU+cklsnu01+2023_T2/about</guid>
+            <pubDate>Thu, 01 Jun 2023 09:11:01 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 나수호
@@ -225,9 +225,9 @@
         </item>
         <item>
             <title><![CDATA[동아시아인을 위한 한국 고전문학사]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Thu, 01 Jun 2023 08:13:46 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:CKL_SNU+cklsnu04+2023_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:CKL_SNU+cklsnu04+2023_T2/about</guid>
+            <pubDate>Thu, 01 Jun 2023 09:11:01 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김대중
@@ -243,9 +243,9 @@
         </item>
         <item>
             <title><![CDATA[한국의 신화]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Thu, 01 Jun 2023 08:13:46 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:CKL_SNU+cklsnu10+2023_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:CKL_SNU+cklsnu10+2023_T2/about</guid>
+            <pubDate>Thu, 01 Jun 2023 09:11:01 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 조현설
