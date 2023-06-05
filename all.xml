@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Jun 2023 09:11:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 10:12:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -117,9 +117,9 @@
         </item>
         <item>
             <title><![CDATA[공기조화기술 (HVAC) 기초 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 05 Jun 2023 09:11:16 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:CUK+CUK_08+2023_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:CUK+CUK_08+2023_1/about</guid>
+            <pubDate>Mon, 05 Jun 2023 10:12:04 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 백창현 and 1 others
@@ -135,9 +135,9 @@
         </item>
         <item>
             <title><![CDATA[사물인터넷(IoT)과 제어기술 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 05 Jun 2023 09:11:16 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:CUK+CUK_09+2023_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:CUK+CUK_09+2023_1/about</guid>
+            <pubDate>Mon, 05 Jun 2023 10:12:04 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 장경배 and 1 others
@@ -153,9 +153,9 @@
         </item>
         <item>
             <title><![CDATA[문화로 입문하기 일본어 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 05 Jun 2023 09:11:16 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:CUK+CUK_04+2023_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:CUK+CUK_04+2023_1/about</guid>
+            <pubDate>Mon, 05 Jun 2023 10:12:04 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박연정 and 1 others
@@ -171,9 +171,9 @@
         </item>
         <item>
             <title><![CDATA[스마트 에너지 이론 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 05 Jun 2023 09:11:16 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:CUK+CUK_11+2023_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:CUK+CUK_11+2023_1/about</guid>
+            <pubDate>Mon, 05 Jun 2023 10:12:04 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 우태호 and 1 others
@@ -189,9 +189,9 @@
         </item>
         <item>
             <title><![CDATA[사회로 기초다지기 일본어 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 05 Jun 2023 09:11:16 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:CUK+CUK_05+2023_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:CUK+CUK_05+2023_1/about</guid>
+            <pubDate>Mon, 05 Jun 2023 10:12:04 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박연정 and 2 others
@@ -225,9 +225,9 @@
         </item>
         <item>
             <title><![CDATA[인공지능(AI)과 냉동공조 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 05 Jun 2023 09:11:16 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:CUK+CUK_10+2023_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:CUK+CUK_10+2023_1/about</guid>
+            <pubDate>Mon, 05 Jun 2023 10:12:04 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이동찬
@@ -243,9 +243,9 @@
         </item>
         <item>
             <title><![CDATA[경제로 실력쌓기 일본어 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 05 Jun 2023 09:11:16 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:CUK+CUK_06+2023_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:CUK+CUK_06+2023_1/about</guid>
+            <pubDate>Mon, 05 Jun 2023 10:12:04 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 채성식 and 1 others
@@ -261,9 +261,9 @@
         </item>
         <item>
             <title><![CDATA[기술로 고수되기 일본어 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 05 Jun 2023 09:11:16 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:CUK+CUK_07+2023_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:CUK+CUK_07+2023_1/about</guid>
+            <pubDate>Mon, 05 Jun 2023 10:12:04 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 유재진 and 1 others
