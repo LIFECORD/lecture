@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 07:10:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 08:13:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,22 +350,22 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:MA_YONAM+MATCHUP_YC07+2023_T1+type@asset+block@3._%EC%9E%91%EB%AC%BC%EB%B3%B4%ED%98%B8_%EC%8B%AC%ED%99%94%EA%B3%BC%EC%A0%95.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[정조의 꿈을 그리다]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:USW+USW08+2023_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:USW+USW08+2023_T1/about</guid>
-            <pubDate>Sun, 11 Jun 2023 15:09:47 GMT</pubDate>
+            <title><![CDATA[K-아동돌봄교육 실천사례지도법]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:WHSUK+WHSUK_09+2023-K1-9/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:WHSUK+WHSUK_09+2023-K1-9/about</guid>
+            <pubDate>Fri, 16 Jun 2023 08:13:24 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                우경진 and 1 others
+                최미숙 and 2 others
                 </span>
-                <span class="kr01_school">The University of Suwon</span>
+                <span class="kr01_school">WONKWANG HEALTH SCIENCE UNIVERSITY</span>
                 </div>
                 <div><time>2023/06/19</time>
                 
-                ~ <time>2023/07/17</time>
+                ~ <time>2023/07/09</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:USW+USW08+2023_T1+type@asset+block@%EC%A0%95%EC%A1%B0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:WHSUK+WHSUK_09+2023-K1-9+type@asset+block@_%EC%9B%90%EA%B4%91%EB%B3%B4%EA%B1%B4%EB%8C%80_4_%EC%8B%A4%EC%B2%9C%EC%82%AC%EB%A1%80%EC%A7%80%EB%8F%84%EB%B2%95_%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
