@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Jun 2023 17:10:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jun 2023 18:22:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -117,9 +117,9 @@
         </item>
         <item>
             <title><![CDATA[소프트웨어 중심 사회속의 인터넷 윤리]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 19 Jun 2023 17:10:19 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SunMoonK+ACE_SMKMOOC_01+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SunMoonK+ACE_SMKMOOC_01+2023_T1/about</guid>
+            <pubDate>Mon, 19 Jun 2023 18:22:07 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박정호 and 7 others
@@ -135,9 +135,9 @@
         </item>
         <item>
             <title><![CDATA[생활 속의 헌법 이야기]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 19 Jun 2023 17:10:19 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SunMoonK+SMKMOOC_02+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SunMoonK+SMKMOOC_02+2023_T1/about</guid>
+            <pubDate>Mon, 19 Jun 2023 18:22:07 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이희훈
