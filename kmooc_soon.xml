@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Jun 2023 08:14:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jun 2023 09:11:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -258,42 +258,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:MA_YONAM+MATCHUP_YC03+2023_T2+type@asset+block@01_%EC%9E%91%EB%AC%BC%EB%B3%B4%ED%98%B8_3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소프트웨어 중심 사회속의 인터넷 윤리]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SunMoonK+ACE_SMKMOOC_01+2023_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SunMoonK+ACE_SMKMOOC_01+2023_T1/about</guid>
-            <pubDate>Mon, 12 Jun 2023 09:11:40 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                박정호 and 7 others
-                </span>
-                <span class="kr01_school">SUN MOON UNIVERSITY</span>
-                </div>
-                <div><time>2023/06/19</time>
-                
-                ~ <time>2023/08/20</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SunMoonK+ACE_SMKMOOC_01+2023_T1+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_2023-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[생활 속의 헌법 이야기]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SunMoonK+SMKMOOC_02+2023_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SunMoonK+SMKMOOC_02+2023_T1/about</guid>
-            <pubDate>Mon, 12 Jun 2023 09:11:40 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                이희훈
-                </span>
-                <span class="kr01_school">SUN MOON UNIVERSITY</span>
-                </div>
-                <div><time>2023/06/19</time>
-                
-                ~ <time>2023/08/20</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SunMoonK+SMKMOOC_02+2023_T1+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_2023-1_%EC%83%9D%ED%99%9C_%EC%86%8D%EC%9D%98_%ED%97%8C%EB%B2%95_%EC%9D%B4%EC%95%BC%EA%B8%B0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[파이썬으로 배우는 기계학습 입문 Plus+]]></title>
