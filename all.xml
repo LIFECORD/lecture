@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Jun 2023 16:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jun 2023 17:10:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -119,7 +119,7 @@
             <title><![CDATA[소프트웨어 중심 사회속의 인터넷 윤리 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 19 Jun 2023 16:13:23 GMT</pubDate>
+            <pubDate>Mon, 19 Jun 2023 17:10:19 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박정호 and 7 others
@@ -137,7 +137,7 @@
             <title><![CDATA[생활 속의 헌법 이야기 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 19 Jun 2023 16:13:23 GMT</pubDate>
+            <pubDate>Mon, 19 Jun 2023 17:10:19 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이희훈
