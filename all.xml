@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Jun 2023 01:04:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jun 2023 02:55:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -263,7 +263,7 @@
             <title><![CDATA[공정사회로 가는 계약법 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Fri, 23 Jun 2023 01:04:05 GMT</pubDate>
+            <pubDate>Fri, 23 Jun 2023 02:55:36 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 윤석찬
