@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Jun 2023 23:12:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jun 2023 01:04:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -260,6 +260,24 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:USW+USW07+2023_T1+type@asset+block@%EC%84%9C%ED%95%B4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[공정사회로 가는 계약법]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Fri, 23 Jun 2023 01:04:05 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                윤석찬
+                </span>
+                <span class="kr01_school">Pusan National University</span>
+                </div>
+                <div><time>2023/06/23</time>
+                
+                ~ <time>2023/07/14</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:PNUk+LC_C01+2023_KM_020+type@asset+block@thumb_23_summer.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[K-아동돌봄교육 실천사례지도법]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:WHSUK+WHSUK_09+2023-K1-9/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:WHSUK+WHSUK_09+2023-K1-9/about</guid>
@@ -348,24 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:ACRCEDU+ACRC01+2023_03+type@asset+block@%EC%8B%9C%EC%A6%8C1_23-3%EA%B8%B0_0_.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[청렴 북 콘서트]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:ACRCEDU+ACRC03+2023_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:ACRCEDU+ACRC03+2023_T2/about</guid>
-            <pubDate>Thu, 22 Jun 2023 22:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                장강명 and 4 others
-                </span>
-                <span class="kr01_school">Anti-Corruption and Civil Rights Commission</span>
-                </div>
-                <div><time>2023/06/12</time>
-                
-                ~ <time>2023/06/24</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:ACRCEDU+ACRC03+2023_T2+type@asset+block@%EB%B6%81%EC%BD%98%EC%84%9C%ED%8A%B8_23-2%EA%B8%B0_0_.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
