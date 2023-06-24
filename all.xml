@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Jun 2023 23:11:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jun 2023 01:06:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -690,6 +690,42 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:MA_YONAM+MATCHUP_YC07+2023_T1+type@asset+block@3._%EC%9E%91%EB%AC%BC%EB%B3%B4%ED%98%B8_%EC%8B%AC%ED%99%94%EA%B3%BC%EC%A0%95.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[사물인터넷으로 여는 스마트 세상 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:JEJUk+JEJU14k+2023_10/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:JEJUk+JEJU14k+2023_10/about</guid>
+            <pubDate>Sat, 24 Jun 2023 01:06:48 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김도현
+                </span>
+                <span class="kr01_school">Jeju National University</span>
+                </div>
+                <div><time>2023/06/26</time>
+                
+                ~ <time>2023/07/14</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:JEJUk+JEJU14k+2023_10+type@asset+block@main_%EC%A0%9C%EC%9E%91%EC%9A%A9_.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[재미있는 4차 산업혁명 이야기 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:JEJUk+JEJU16k+2023_10/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:JEJUk+JEJU16k+2023_10/about</guid>
+            <pubDate>Sat, 24 Jun 2023 01:06:48 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김도현
+                </span>
+                <span class="kr01_school">Jeju National University</span>
+                </div>
+                <div><time>2023/06/26</time>
+                
+                ~ <time>2023/07/14</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:JEJUk+JEJU16k+2023_10+type@asset+block@%EA%B0%95%EC%A2%8C%EC%86%8C%EA%B0%9C%EC%9D%B4%EB%AF%B8%EC%A7%80_min.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
