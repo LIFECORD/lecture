@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Jun 2023 14:10:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jun 2023 15:12:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -638,22 +638,22 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:MA_YONAM+MATCHUP_YC02+2023_T2+type@asset+block@01_%EC%9E%AC%EB%B0%B0_2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[파이썬으로 배우는 기계학습 입문 Plus+ (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:HGUk+HGUP01+2023_T3/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:HGUk+HGUP01+2023_T3/about</guid>
-            <pubDate>Sun, 25 Jun 2023 13:19:46 GMT</pubDate>
+            <title><![CDATA[미생물학 입문 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:INU+INU002+2023_L2_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:INU+INU002+2023_L2_2/about</guid>
+            <pubDate>Sun, 25 Jun 2023 15:12:04 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                김영섭
+                예정용
                 </span>
-                <span class="kr01_school">HANDONG GLOBAL UNIVERSITY</span>
+                <span class="kr01_school">Incheon National University</span>
                 </div>
-                <div><time>2023/06/26</time>
+                <div><time>2023/07/03</time>
                 
-                ~ <time>2023/08/13</time>
+                ~ <time>2023/08/14</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:HGUk+HGUP01+2023_T3+type@asset+block@23-%EC%97%AC%EB%A6%84%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:INU+INU002+2023_L2_2+type@asset+block@2023-1%EC%B0%A8_%EB%AF%B8%EC%83%9D%EB%AC%BC%ED%95%99%EC%9E%85%EB%AC%B8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스마트팜 데이터관리 전문가 심화과정 (K-MOOC ─ 개강예정)]]></title>
