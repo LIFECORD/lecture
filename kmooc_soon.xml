@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 09:12:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 10:13:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -188,6 +188,24 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:KAEP_KOREA+KKOREA008+2022_02+type@asset+block@8%EC%98%81%ED%99%94%EB%A1%9C%ED%95%9C%EC%8B%9C%EC%9D%BD%EA%B8%B0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[자율주행의 기초 및 자율주행 플랫폼을 활용한 시스템 구축 방법]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:TS_KATRI+KATRI01+2023_KATRI01/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:TS_KATRI+KATRI01+2023_KATRI01/about</guid>
+            <pubDate>Mon, 26 Jun 2023 10:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                나재원 and 5 others
+                </span>
+                <span class="kr01_school">TS_KATRI</span>
+                </div>
+                <div><time>2023/07/03</time>
+                
+                ~ <time>2023/10/01</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:TS_KATRI+KATRI01+2023_KATRI01+type@asset+block@_%ED%8F%AC%EB%A7%B7%EB%B3%80%ED%99%98_%EA%B7%B8%EB%A6%BC2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[스마트팜 시설에너지관리 전문가 기초과정]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:MA_YONAM+MATCHUP_YC01+2023_T2/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:MA_YONAM+MATCHUP_YC01+2023_T2/about</guid>
@@ -312,24 +330,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:MA_IGM+MATCHUP_IGM07+2023_T1+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%EC%8B%AC%ED%99%94%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C_2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[(심화)클라우드 보안 엔지니어 양성과정]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:MA_IGM+MATCHUP_IGM05+2023_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:MA_IGM+MATCHUP_IGM05+2023_T1/about</guid>
-            <pubDate>Mon, 26 Jun 2023 01:07:12 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                최정현
-                </span>
-                <span class="kr01_school">IGM</span>
-                </div>
-                <div><time>2023/07/01</time>
-                
-                ~ <time>2023/08/31</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:MA_IGM+MATCHUP_IGM05+2023_T1+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98__%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%EC%8B%AC%ED%99%94%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[교과서에서 만나지 못한 조선의 역사]]></title>
