@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 07:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 08:19:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[혁신 산업시대와 스타트업의 이해 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 26 Jun 2023 07:12:20 GMT</pubDate>
+            <pubDate>Mon, 26 Jun 2023 08:19:16 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 백승훈
@@ -29,7 +29,7 @@
             <title><![CDATA[시큐어코딩 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 26 Jun 2023 07:12:20 GMT</pubDate>
+            <pubDate>Mon, 26 Jun 2023 08:19:16 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 우사무엘
@@ -47,7 +47,7 @@
             <title><![CDATA[알고리즘 및 인공지능 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 26 Jun 2023 07:12:20 GMT</pubDate>
+            <pubDate>Mon, 26 Jun 2023 08:19:16 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김태윤
@@ -209,7 +209,7 @@
             <title><![CDATA[파이썬으로 배우는 기계학습 입문 Plus+ (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 26 Jun 2023 07:12:20 GMT</pubDate>
+            <pubDate>Mon, 26 Jun 2023 08:19:16 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김영섭
@@ -263,7 +263,7 @@
             <title><![CDATA[사물인터넷으로 여는 스마트 세상 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 26 Jun 2023 07:12:20 GMT</pubDate>
+            <pubDate>Mon, 26 Jun 2023 08:19:16 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김도현
@@ -281,7 +281,7 @@
             <title><![CDATA[재미있는 4차 산업혁명 이야기 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 26 Jun 2023 07:12:20 GMT</pubDate>
+            <pubDate>Mon, 26 Jun 2023 08:19:16 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김도현
