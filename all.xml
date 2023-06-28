@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Jun 2023 03:24:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jun 2023 04:14:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[세계시민의 말과 글 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Wed, 28 Jun 2023 03:23:47 GMT</pubDate>
+            <pubDate>Wed, 28 Jun 2023 04:14:11 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                  구자황 and 13 others
@@ -78,24 +78,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:DKUK+MOOC_DKUK0038+2023_T1+type@asset+block@%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[몸, 숨, 맘 요가 (YBBM : Yoga for Body, Breath and Mind) (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:CCHS+CCHS01+2023_02/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:CCHS+CCHS01+2023_02/about</guid>
-            <pubDate>Sat, 24 Jun 2023 15:10:59 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                곽미자 and 2 others
-                </span>
-                <span class="kr01_school">Choonhae College of Health Sciences</span>
-                </div>
-                <div><time>2023/06/15</time>
-                
-                ~ <time>2023/08/30</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:CCHS+CCHS01+2023_02+type@asset+block@%EB%AA%B8.%EC%88%A8.%EB%A7%98_%EC%9A%94%EA%B0%80_%EB%84%A4%EC%9E%84%EC%B9%B4%EB%93%9C.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소프트웨어 중심 사회속의 인터넷 윤리 (K-MOOC ─ 진행중)]]></title>
@@ -222,6 +204,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:HGUk+HGUP01+2023_T3+type@asset+block@23-%EC%97%AC%EB%A6%84%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스마트팜 작물보호 전문가 심화과정 (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Wed, 28 Jun 2023 04:14:11 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이현아 책임교수
+                </span>
+                <span class="kr01_school">Yonam College</span>
+                </div>
+                <div><time>2023/06/28</time>
+                
+                ~ <time>2023/08/09</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:MA_YONAM+MATCHUP_YC07+2023_T1+type@asset+block@3._%EC%9E%91%EB%AC%BC%EB%B3%B4%ED%98%B8_%EC%8B%AC%ED%99%94%EA%B3%BC%EC%A0%95.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[정조의 꿈을 그리다 (K-MOOC ─ 진행중)]]></title>
