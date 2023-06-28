@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Jun 2023 10:13:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jun 2023 11:10:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -209,7 +209,7 @@
             <title><![CDATA[스마트팜 작물보호 전문가 심화과정 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Wed, 28 Jun 2023 10:12:56 GMT</pubDate>
+            <pubDate>Wed, 28 Jun 2023 11:10:24 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이현아 책임교수
