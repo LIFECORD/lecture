@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Jun 2023 04:14:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jun 2023 05:12:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[세계시민의 말과 글 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Wed, 28 Jun 2023 04:14:11 GMT</pubDate>
+            <pubDate>Wed, 28 Jun 2023 05:11:42 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                  구자황 and 13 others
@@ -209,7 +209,7 @@
             <title><![CDATA[스마트팜 작물보호 전문가 심화과정 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Wed, 28 Jun 2023 04:14:11 GMT</pubDate>
+            <pubDate>Wed, 28 Jun 2023 05:11:42 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이현아 책임교수
