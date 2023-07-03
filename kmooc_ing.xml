@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jul 2023 23:12:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2023 01:05:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -207,9 +207,9 @@
         </item>
         <item>
             <title><![CDATA[K-Culture와 한국사상]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Sun, 02 Jul 2023 23:12:04 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:INU+INU008+2023_L8_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:INU+INU008+2023_L8_2/about</guid>
+            <pubDate>Mon, 03 Jul 2023 01:05:32 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김윤경 and 1 others
@@ -225,9 +225,9 @@
         </item>
         <item>
             <title><![CDATA[교과서에서 만나지 못한 조선의 역사]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Sun, 02 Jul 2023 23:12:04 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:INU+INU007+2023_L7_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:INU+INU007+2023_L7_2/about</guid>
+            <pubDate>Mon, 03 Jul 2023 01:05:32 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김평원 and 1 others
@@ -243,9 +243,9 @@
         </item>
         <item>
             <title><![CDATA[건축과 도시의 인문학]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Sun, 02 Jul 2023 23:12:04 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:CWNU+CWNU001+2023_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:CWNU+CWNU001+2023_1/about</guid>
+            <pubDate>Mon, 03 Jul 2023 01:05:32 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 유진상
@@ -261,9 +261,9 @@
         </item>
         <item>
             <title><![CDATA[일본의 이해]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Sun, 02 Jul 2023 23:12:04 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:CWNU+CWNU002+2023_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:CWNU+CWNU002+2023_1/about</guid>
+            <pubDate>Mon, 03 Jul 2023 01:05:32 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이기완
@@ -279,9 +279,9 @@
         </item>
         <item>
             <title><![CDATA[미생물학 입문]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Sun, 02 Jul 2023 23:12:04 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:INU+INU002+2023_L2_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:INU+INU002+2023_L2_2/about</guid>
+            <pubDate>Mon, 03 Jul 2023 01:05:32 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 예정용
