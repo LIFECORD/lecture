@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jul 2023 03:26:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jul 2023 04:15:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,6 +294,78 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:KAISTk+EE547+2023_K22_01+type@asset+block@2022%EB%85%84_K-MOOC_%EC%8B%A0%EA%B7%9C_%EA%B0%95%EC%A2%8C_%EC%8D%B8%EB%84%A4%EC%9D%BC.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[(심화)클라우드 보안 엔지니어 양성과정]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:MA_IGM+MATCHUP_IGM05+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:MA_IGM+MATCHUP_IGM05+2023_T1/about</guid>
+            <pubDate>Tue, 04 Jul 2023 04:15:12 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                최정현
+                </span>
+                <span class="kr01_school">IGM</span>
+                </div>
+                <div><time>2023/08/05</time>
+                
+                ~ <time>2023/08/26</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:MA_IGM+MATCHUP_IGM05+2023_T1+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98__%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%EC%8B%AC%ED%99%94%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[(심화)클라우드 DB 솔루션아키텍트 양성과정]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:MA_IGM+MATCHUP_IGM06+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:MA_IGM+MATCHUP_IGM06+2023_T1/about</guid>
+            <pubDate>Tue, 04 Jul 2023 04:15:12 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                홍성욱
+                </span>
+                <span class="kr01_school">IGM</span>
+                </div>
+                <div><time>2023/08/02</time>
+                
+                ~ <time>2023/08/11</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:MA_IGM+MATCHUP_IGM06+2023_T1+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%EC%8B%AC%ED%99%94%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C_3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[(심화)클라우드 인프라 아키텍처 양성과정]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:MA_IGM+MATCHUP_IGM07+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:MA_IGM+MATCHUP_IGM07+2023_T1/about</guid>
+            <pubDate>Tue, 04 Jul 2023 04:15:12 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                원철연
+                </span>
+                <span class="kr01_school">IGM</span>
+                </div>
+                <div><time>2023/07/24</time>
+                
+                ~ <time>2023/07/31</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:MA_IGM+MATCHUP_IGM07+2023_T1+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%EC%8B%AC%ED%99%94%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C_2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[(심화)클라우드 Application Developer 양성과정]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:MA_IGM+MATCHUP_IGM08+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:MA_IGM+MATCHUP_IGM08+2023_T1/about</guid>
+            <pubDate>Tue, 04 Jul 2023 04:15:12 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                서경진
+                </span>
+                <span class="kr01_school">IGM</span>
+                </div>
+                <div><time>2023/07/08</time>
+                
+                ~ <time>2023/07/29</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:MA_IGM+MATCHUP_IGM08+2023_T1+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%EC%8B%AC%ED%99%94%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C_4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
