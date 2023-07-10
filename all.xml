@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jul 2023 23:11:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 01:05:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -188,6 +188,24 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:KAEP_KOREA+KKOREA008+2022_02+type@asset+block@8%EC%98%81%ED%99%94%EB%A1%9C%ED%95%9C%EC%8B%9C%EC%9D%BD%EA%B8%B0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[비전공자를 위한 AI 딥러닝(Deep Learning) (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Mon, 10 Jul 2023 01:05:28 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                오종훈
+                </span>
+                <span class="kr01_school">Korea Advanced Institute of Science and Technology</span>
+                </div>
+                <div><time>2023/07/10</time>
+                
+                ~ <time>2023/10/15</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KAISTk+COB2021+2023_K1_01+type@asset+block@%EC%BA%A1%EC%B2%982.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
             <title><![CDATA[UX/UI 디자인 프로젝트 (K-MOOC ─ 진행중)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:HYUk+BU_HYUKEMOOC2022-4k+2023_C1/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:HYUk+BU_HYUKEMOOC2022-4k+2023_C1/about</guid>
@@ -314,40 +332,22 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:HYUk+BU_HYUKEMOOC2022-5k+2023_C1+type@asset+block@%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90-UXUI_%EC%9E%85%EB%AC%B8%EB%B6%80%ED%84%B0_%EC%8B%AC%ED%99%94%EA%B9%8C%EC%A7%80_%EC%A0%95%EC%9D%98%ED%83%9C__%EC%A0%95%EC%9D%98%EC%B2%A0__%EC%97%B0%EB%AA%85%ED%9D%A0_-UI_%EB%94%94%EC%9E%90%EC%9D%B8_UI_Design_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[반도체 공정 입문 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:HYUk+PRIME_HYUKMOOC2019-1k+2023_C1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:HYUk+PRIME_HYUKMOOC2019-1k+2023_C1/about</guid>
-            <pubDate>Tue, 04 Jul 2023 09:12:32 GMT</pubDate>
+            <title><![CDATA[양자정보처리 기초 (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Mon, 10 Jul 2023 01:05:28 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                김재균
+                배준우
                 </span>
-                <span class="kr01_school">HANYANG UNIVERSITY</span>
+                <span class="kr01_school">Korea Advanced Institute of Science and Technology</span>
                 </div>
-                <div><time>2023/07/04</time>
+                <div><time>2023/07/10</time>
                 
-                ~ <time>2023/08/28</time>
+                ~ <time>2023/08/27</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:HYUk+PRIME_HYUKMOOC2019-1k+2023_C1+type@asset+block@%EB%B0%98%EB%8F%84%EC%B2%B4%EA%B3%B5%EC%A0%95%EC%9E%85%EB%AC%B8_2023%EC%97%AC%EB%A6%84_%EC%B9%B4%EB%93%9C%EC%9D%B4%EB%AF%B8%EC%A7%80.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비전공자를 위한 기초 화학 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:HYUk+PRIME_HYUKMOOC2019-2k+2023_C1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:HYUk+PRIME_HYUKMOOC2019-2k+2023_C1/about</guid>
-            <pubDate>Tue, 04 Jul 2023 09:12:32 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                박경호
-                </span>
-                <span class="kr01_school">HANYANG UNIVERSITY</span>
-                </div>
-                <div><time>2023/07/04</time>
-                
-                ~ <time>2023/08/28</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:HYUk+PRIME_HYUKMOOC2019-2k+2023_C1+type@asset+block@%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90%EB%A5%BC_%EC%9C%84%ED%95%9C_%EA%B8%B0%EC%B4%88%ED%99%94%ED%95%99_%EC%B9%B4%EB%93%9C%EC%9D%B4%EB%AF%B8%EC%A7%80.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KAISTk+EE547+2023_K22_01+type@asset+block@2022%EB%85%84_K-MOOC_%EC%8B%A0%EA%B7%9C_%EA%B0%95%EC%A2%8C_%EC%8D%B8%EB%84%A4%EC%9D%BC.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[(심화)클라우드 Application Developer 양성과정 (K-MOOC ─ 진행중)]]></title>
@@ -366,24 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:MA_IGM+MATCHUP_IGM08+2023_T1+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%EC%8B%AC%ED%99%94%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C_4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비전공자를 위한 AI 딥러닝(Deep Learning) (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KAISTk+COB2021+2023_K1_01/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KAISTk+COB2021+2023_K1_01/about</guid>
-            <pubDate>Mon, 03 Jul 2023 01:05:47 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                오종훈
-                </span>
-                <span class="kr01_school">Korea Advanced Institute of Science and Technology</span>
-                </div>
-                <div><time>2023/07/10</time>
-                
-                ~ <time>2023/10/15</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KAISTk+COB2021+2023_K1_01+type@asset+block@%EC%BA%A1%EC%B2%982.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[스마트팜 시설에너지관리 전문가 기초과정 (K-MOOC ─ 개강예정)]]></title>
@@ -474,24 +456,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:MJU+MJU_202112_2+MJU_2023_02+type@asset+block@ss2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[양자정보처리 기초 (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KAISTk+EE547+2023_K22_01/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KAISTk+EE547+2023_K22_01/about</guid>
-            <pubDate>Mon, 03 Jul 2023 01:05:47 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                배준우
-                </span>
-                <span class="kr01_school">Korea Advanced Institute of Science and Technology</span>
-                </div>
-                <div><time>2023/07/10</time>
-                
-                ~ <time>2023/08/27</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KAISTk+EE547+2023_K22_01+type@asset+block@2022%EB%85%84_K-MOOC_%EC%8B%A0%EA%B7%9C_%EA%B0%95%EC%A2%8C_%EC%8D%B8%EB%84%A4%EC%9D%BC.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[(심화)클라우드 보안 엔지니어 양성과정 (K-MOOC ─ 개강예정)]]></title>
