@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jul 2023 14:11:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jul 2023 15:12:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -114,6 +114,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:MJU+MJU_202112_2+MJU_2023_02+type@asset+block@ss2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파이썬 프로그래밍]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SunMoonK+SMKMOOC-04+2023_T3/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SunMoonK+SMKMOOC-04+2023_T3/about</guid>
+            <pubDate>Thu, 13 Jul 2023 15:12:48 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김민정
+                </span>
+                <span class="kr01_school">SUN MOON UNIVERSITY</span>
+                </div>
+                <div><time>2023/07/17</time>
+                
+                ~ <time>2023/08/31</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SunMoonK+SMKMOOC-04+2023_T3+type@asset+block@_%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%84%A0%EB%AC%B8%EB%8C%80_%ED%8C%8C%EC%9D%B4%EC%8D%AC_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_2023.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(심화)클라우드 보안 엔지니어 양성과정]]></title>
