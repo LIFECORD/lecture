@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jul 2023 23:12:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 01:06:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:MJU+MJU+MJU_202301_3+type@asset+block@%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%B5%9C%EC%A2%85.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[생활속의 반도체]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:NRF_COSS+NRF_COSS208+2022_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:NRF_COSS+NRF_COSS208+2022_1/about</guid>
+            <pubDate>Fri, 14 Jul 2023 01:06:24 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이혁재 and 1 others
+                </span>
+                <span class="kr01_school">National Research Foundation of Korea</span>
+                </div>
+                <div><time>2023/07/24</time>
+                
+                ~ <time>2023/10/07</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:NRF_COSS+NRF_COSS208+2022_1+type@asset+block@%EA%B0%95%EC%A2%8C%EC%B9%B4%EB%93%9C_%EC%83%9D%ED%99%9C%EC%86%8D%EC%9D%98%EB%B0%98%EB%8F%84%EC%B2%B4.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[스마트팜 시설에너지관리 전문가 기초과정]]></title>
