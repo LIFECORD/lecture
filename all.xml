@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jul 2023 08:16:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jul 2023 09:12:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -99,9 +99,9 @@
         </item>
         <item>
             <title><![CDATA[해양과 문화 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 17 Jul 2023 08:16:21 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KMOU+KMOU002+2023_T2_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KMOU+KMOU002+2023_T2_1/about</guid>
+            <pubDate>Mon, 17 Jul 2023 09:12:29 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김태만
@@ -117,9 +117,9 @@
         </item>
         <item>
             <title><![CDATA[바다 위의 삶 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 17 Jul 2023 08:16:21 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KMOU+KMOU0003+2023_T2_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KMOU+KMOU0003+2023_T2_1/about</guid>
+            <pubDate>Mon, 17 Jul 2023 09:12:29 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 최진철
@@ -135,9 +135,9 @@
         </item>
         <item>
             <title><![CDATA[해상운송론 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 17 Jul 2023 08:16:21 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KMOU+KMOU0004+2023_T2_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KMOU+KMOU0004+2023_T2_1/about</guid>
+            <pubDate>Mon, 17 Jul 2023 09:12:29 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 정영석
@@ -243,9 +243,9 @@
         </item>
         <item>
             <title><![CDATA[이슬람 문명의 역사와 문화기행 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 17 Jul 2023 08:16:21 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:MJU+MJU_202112_2+MJU_2023_02/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:MJU+MJU_202112_2+MJU_2023_02/about</guid>
+            <pubDate>Mon, 17 Jul 2023 09:12:29 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김정명
@@ -261,9 +261,9 @@
         </item>
         <item>
             <title><![CDATA[자동차기능실습 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 17 Jul 2023 08:16:21 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:NRF_COSS+NRF_COSS209+2022_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:NRF_COSS+NRF_COSS209+2022_1/about</guid>
+            <pubDate>Mon, 17 Jul 2023 09:12:29 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 신성환 and 1 others
@@ -279,9 +279,9 @@
         </item>
         <item>
             <title><![CDATA[인간수업-뉴노멀시대의 창의융합 인문MOOC (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 17 Jul 2023 08:16:21 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KUSJ+KUSJ002+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KUSJ+KUSJ002+2023_T1/about</guid>
+            <pubDate>Mon, 17 Jul 2023 09:12:29 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 유경철 and 6 others
@@ -297,9 +297,9 @@
         </item>
         <item>
             <title><![CDATA[한국경제의 이해 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 17 Jul 2023 08:16:21 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KUSJ+KUSJ004+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KUSJ+KUSJ004+2023_T1/about</guid>
+            <pubDate>Mon, 17 Jul 2023 09:12:29 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이충열
