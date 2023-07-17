@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jul 2023 01:08:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jul 2023 03:00:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -101,7 +101,7 @@
             <title><![CDATA[해양과 문화 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 17 Jul 2023 01:07:56 GMT</pubDate>
+            <pubDate>Mon, 17 Jul 2023 03:00:34 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김태만
@@ -119,7 +119,7 @@
             <title><![CDATA[바다 위의 삶 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 17 Jul 2023 01:07:56 GMT</pubDate>
+            <pubDate>Mon, 17 Jul 2023 03:00:34 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 최진철
@@ -137,7 +137,7 @@
             <title><![CDATA[해상운송론 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 17 Jul 2023 01:07:56 GMT</pubDate>
+            <pubDate>Mon, 17 Jul 2023 03:00:34 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 정영석
@@ -150,42 +150,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:KMOU+KMOU0004+2023_T2_1+type@asset+block@KakaoTalk_20230126_163430035_01.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한국의 현대 페미니즘 여성 시인들 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KAEP_KOREA+KKOREA007+2022_02/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KAEP_KOREA+KKOREA007+2022_02/about</guid>
-            <pubDate>Thu, 06 Jul 2023 18:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                오형엽
-                </span>
-                <span class="kr01_school">Korea University, OCKS</span>
-                </div>
-                <div><time>2023/07/06</time>
-                
-                ~ <time>2023/10/19</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KAEP_KOREA+KKOREA007+2022_02+type@asset+block@7%ED%95%9C%EA%B5%AD%ED%98%84%EB%8C%80%ED%8E%98%EB%AF%B8%EB%8B%88%EC%A6%98%EC%97%AC%EC%84%B1%EC%8B%9C%EC%9D%B8%EB%93%A4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[판소리 명인ㆍ명창 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KAEP_KOREA+KKOREA001+2022_02/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KAEP_KOREA+KKOREA001+2022_02/about</guid>
-            <pubDate>Thu, 06 Jul 2023 18:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                송미경
-                </span>
-                <span class="kr01_school">Korea University, OCKS</span>
-                </div>
-                <div><time>2023/07/06</time>
-                
-                ~ <time>2023/10/19</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KAEP_KOREA+KKOREA001+2022_02+type@asset+block@1%ED%8C%90%EC%86%8C%EB%A6%AC%EB%AA%85%EC%9D%B8%EB%AA%85%EC%B0%BD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[비전공자를 위한 AI 딥러닝(Deep Learning) (K-MOOC ─ 진행중)]]></title>
@@ -281,7 +245,7 @@
             <title><![CDATA[이슬람 문명의 역사와 문화기행 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 17 Jul 2023 01:07:56 GMT</pubDate>
+            <pubDate>Mon, 17 Jul 2023 03:00:34 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김정명
@@ -299,7 +263,7 @@
             <title><![CDATA[자동차기능실습 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 17 Jul 2023 01:07:56 GMT</pubDate>
+            <pubDate>Mon, 17 Jul 2023 03:00:34 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 신성환 and 1 others
@@ -312,6 +276,42 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:NRF_COSS+NRF_COSS209+2022_1+type@asset+block@_%EA%BE%B8%EB%AF%B8%EA%B8%B0_%EA%B0%95%EC%A2%8C%EC%B9%B4%EB%93%9C%EC%9D%B4%EB%AF%B8%EC%A7%80.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인간수업-뉴노멀시대의 창의융합 인문MOOC (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Mon, 17 Jul 2023 03:00:34 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                유경철 and 6 others
+                </span>
+                <span class="kr01_school">KOREA University Sejong Campus</span>
+                </div>
+                <div><time>2023/07/17</time>
+                
+                ~ <time>2023/08/31</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KUSJ+KUSJ002+2023_T1+type@asset+block@01_%EC%B5%9C%EC%A2%85.mp4_000032432.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[한국경제의 이해 (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Mon, 17 Jul 2023 03:00:34 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이충열
+                </span>
+                <span class="kr01_school">KOREA University Sejong Campus</span>
+                </div>
+                <div><time>2023/07/17</time>
+                
+                ~ <time>2023/08/31</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KUSJ+KUSJ004+2023_T1+type@asset+block@0101_%EC%B5%9C%EC%A2%85.mp4_000024633.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[파이썬 프로그래밍 (K-MOOC ─ 진행중)]]></title>
@@ -512,24 +512,6 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:MA_CUK+MATCHUP_CUK04+2023_2+type@asset+block@%EB%8C%80%EC%9A%A9%EB%9F%89%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%B2%98%EB%A6%AC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[비정형 데이터 분석 (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK06+2023_2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK06+2023_2/about</guid>
-            <pubDate>Mon, 17 Jul 2023 01:08:12 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김민철
-                </span>
-                <span class="kr01_school">CYBER UNIVERSITY OF KOREA(matchup)</span>
-                </div>
-                <div><time>2023/08/14</time>
-                
-                ~ <time>2023/10/08</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:MA_CUK+MATCHUP_CUK06+2023_2+type@asset+block@_%ED%85%9C%ED%94%8C%EB%A6%BF_%EB%B9%84%EC%A0%95%ED%98%95_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%B6%84%EC%84%9D.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[빅데이터를 위한 확률과 통계 (K-MOOC ─ 개강예정)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK01+2023_2/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK01+2023_2/about</guid>
@@ -546,6 +528,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:MA_CUK+MATCHUP_CUK01+2023_2+type@asset+block@%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0_%ED%99%95%EB%A5%A0%ED%86%B5%EA%B3%84.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[비정형 데이터 분석 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK06+2023_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK06+2023_2/about</guid>
+            <pubDate>Mon, 17 Jul 2023 01:08:12 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김민철
+                </span>
+                <span class="kr01_school">CYBER UNIVERSITY OF KOREA(matchup)</span>
+                </div>
+                <div><time>2023/08/14</time>
+                
+                ~ <time>2023/10/08</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:MA_CUK+MATCHUP_CUK06+2023_2+type@asset+block@_%ED%85%9C%ED%94%8C%EB%A6%BF_%EB%B9%84%EC%A0%95%ED%98%95_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%B6%84%EC%84%9D.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[빅데이터 프레임워크 (K-MOOC ─ 개강예정)]]></title>
