@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jul 2023 16:14:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 17:10:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,22 +350,22 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:SunMoonK+SMKMOOC-04+2023_T3+type@asset+block@_%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%84%A0%EB%AC%B8%EB%8C%80_%ED%8C%8C%EC%9D%B4%EC%8D%AC_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_2023.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[양자정보처리 기초 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KAISTk+EE547+2023_K22_01/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KAISTk+EE547+2023_K22_01/about</guid>
-            <pubDate>Mon, 10 Jul 2023 09:13:20 GMT</pubDate>
+            <title><![CDATA[ຫຼັກສູດການເປັນຜູ້ປະກອບການດ້ານໄອທີ LVTP: ການປະຕິວັດອຸດສາຫະກຳຄັ້ງທີ 4 ແລະ ທຸລະກິດສະຕາດອັບ(LVTP IT Entrepreneurship Courses : The 4th Industrial Revolution and Startup Business) (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Wed, 19 Jul 2023 17:10:05 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                배준우
+                김경환
                 </span>
-                <span class="kr01_school">Korea Advanced Institute of Science and Technology</span>
+                <span class="kr01_school">SUNGKYUNKWAN UNIVERSITY</span>
                 </div>
-                <div><time>2023/07/10</time>
+                <div><time>2023/07/20</time>
                 
-                ~ <time>2023/08/27</time>
+                ~ <time>2023/08/11</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KAISTk+EE547+2023_K22_01+type@asset+block@2022%EB%85%84_K-MOOC_%EC%8B%A0%EA%B7%9C_%EA%B0%95%EC%A2%8C_%EC%8D%B8%EB%84%A4%EC%9D%BC.JPG" length="0" type="image/JPG"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SKKUk+SKKU_LAO2301+2023_T1+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98__2019_%EB%AC%B6%EC%9D%8C%EA%B0%95%EC%A2%8C_%EB%8C%80%ED%91%9C%EC%9D%B4%EB%AF%B8%EC%A7%80_1__%EA%B9%80%EA%B2%BD%ED%99%98.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[성인학습자를 위한 대학 글쓰기 (K-MOOC ─ 개강예정)]]></title>
