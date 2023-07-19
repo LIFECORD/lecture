@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jul 2023 06:14:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 07:11:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -314,6 +314,24 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:KUSJ+KUSJ004+2023_T1+type@asset+block@0101_%EC%B5%9C%EC%A2%85.mp4_000024633.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[셰익스피어 5대 희극 (K-MOOC ─ 진행중)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:KUSJ+KUSJ005+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KUSJ+KUSJ005+2023_T1/about</guid>
+            <pubDate>Wed, 19 Jul 2023 07:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                박용남
+                </span>
+                <span class="kr01_school">KOREA University Sejong Campus</span>
+                </div>
+                <div><time>2023/07/17</time>
+                
+                ~ <time>2023/08/31</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KUSJ+KUSJ005+2023_T1+type@asset+block@%EC%85%B0%EC%9D%B5%EC%8A%A4%ED%94%BC%EC%96%B4_5%EB%8C%80_%ED%9D%AC%EA%B7%B9.PNG" length="0" type="image/PNG"/>
+        </item>
+        <item>
             <title><![CDATA[파이썬 프로그래밍 (K-MOOC ─ 진행중)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:SunMoonK+SMKMOOC-04+2023_T3/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:SunMoonK+SMKMOOC-04+2023_T3/about</guid>
@@ -348,24 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:KAISTk+EE547+2023_K22_01+type@asset+block@2022%EB%85%84_K-MOOC_%EC%8B%A0%EA%B7%9C_%EA%B0%95%EC%A2%8C_%EC%8D%B8%EB%84%A4%EC%9D%BC.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[(심화)클라우드 Application Developer 양성과정 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:MA_IGM+MATCHUP_IGM08+2023_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:MA_IGM+MATCHUP_IGM08+2023_T1/about</guid>
-            <pubDate>Sat, 08 Jul 2023 09:10:44 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                서경진
-                </span>
-                <span class="kr01_school">IGM</span>
-                </div>
-                <div><time>2023/07/08</time>
-                
-                ~ <time>2023/07/29</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:MA_IGM+MATCHUP_IGM08+2023_T1+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%EC%8B%AC%ED%99%94%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C_4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[성인학습자를 위한 대학 글쓰기 (K-MOOC ─ 개강예정)]]></title>
