@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jul 2023 23:10:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 01:57:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -530,24 +530,6 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:MA_CUK+MATCHUP_CUK04+2023_2+type@asset+block@%EB%8C%80%EC%9A%A9%EB%9F%89%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%B2%98%EB%A6%AC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[빅데이터를 위한 확률과 통계 (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK01+2023_2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK01+2023_2/about</guid>
-            <pubDate>Mon, 17 Jul 2023 01:08:12 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                백창현
-                </span>
-                <span class="kr01_school">CYBER UNIVERSITY OF KOREA(matchup)</span>
-                </div>
-                <div><time>2023/08/14</time>
-                
-                ~ <time>2023/10/08</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:MA_CUK+MATCHUP_CUK01+2023_2+type@asset+block@%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0_%ED%99%95%EB%A5%A0%ED%86%B5%EA%B3%84.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[비정형 데이터 분석 (K-MOOC ─ 개강예정)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK06+2023_2/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK06+2023_2/about</guid>
@@ -564,6 +546,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:MA_CUK+MATCHUP_CUK06+2023_2+type@asset+block@_%ED%85%9C%ED%94%8C%EB%A6%BF_%EB%B9%84%EC%A0%95%ED%98%95_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%B6%84%EC%84%9D.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빅데이터를 위한 확률과 통계 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK01+2023_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK01+2023_2/about</guid>
+            <pubDate>Mon, 17 Jul 2023 01:08:12 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                백창현
+                </span>
+                <span class="kr01_school">CYBER UNIVERSITY OF KOREA(matchup)</span>
+                </div>
+                <div><time>2023/08/14</time>
+                
+                ~ <time>2023/10/08</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:MA_CUK+MATCHUP_CUK01+2023_2+type@asset+block@%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0_%ED%99%95%EB%A5%A0%ED%86%B5%EA%B3%84.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[빅데이터 프레임워크 (K-MOOC ─ 개강예정)]]></title>
@@ -674,24 +674,6 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:SMUk+SMU2021_4+2023_1_B1+type@asset+block@asset-v1_SMUk_SMU2021_4_2022_2_B1_type_asset_block_2022-1_%EA%B0%90%EC%84%B1%EC%BB%B4%ED%93%A8%ED%8C%85_%ED%99%A9%EB%AF%BC%EC%B2%A0_optimized.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[감성디자인 (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2021_5+2023_1_B2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2021_5+2023_1_B2/about</guid>
-            <pubDate>Tue, 18 Jul 2023 16:15:16 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                권지은
-                </span>
-                <span class="kr01_school">SANGMYUNG UNIVERSITY</span>
-                </div>
-                <div><time>2023/07/24</time>
-                
-                ~ <time>2023/09/25</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SMUk+SMU2021_5+2023_1_B2+type@asset+block@asset-v1_SMUk_SMU2021_5_2022_2_B2_type_asset_block_2022-1_%EA%B0%90%EC%84%B1%EB%94%94%EC%9E%90%EC%9D%B8_%EA%B6%8C%EC%A7%80%EC%9D%80_optimized.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[(심화)클라우드 보안 엔지니어 양성과정 (K-MOOC ─ 개강예정)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:MA_IGM+MATCHUP_IGM05+2023_T1/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:MA_IGM+MATCHUP_IGM05+2023_T1/about</guid>
@@ -708,6 +690,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:MA_IGM+MATCHUP_IGM05+2023_T1+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98__%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%EC%8B%AC%ED%99%94%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인공지능과 산업 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:NRF_COSS+NRF_COSS203+2022_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:NRF_COSS+NRF_COSS203+2022_1/about</guid>
+            <pubDate>Wed, 19 Jul 2023 01:57:00 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                박종열
+                </span>
+                <span class="kr01_school">National Research Foundation of Korea</span>
+                </div>
+                <div><time>2023/07/27</time>
+                
+                ~ <time>2023/08/25</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:NRF_COSS+NRF_COSS203+2022_1+type@asset+block@%EC%8D%B8%EB%84%A4%EC%9D%BC_378-225.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(심화)클라우드 DB 솔루션아키텍트 양성과정 (K-MOOC ─ 개강예정)]]></title>
