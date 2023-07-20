@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jul 2023 03:11:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2023 04:13:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -356,7 +356,7 @@
             <pubDate>Thu, 20 Jul 2023 02:04:39 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                김경환
+                Kyung-Hwan Kim
                 </span>
                 <span class="kr01_school">SUNGKYUNKWAN UNIVERSITY</span>
                 </div>
