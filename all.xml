@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jul 2023 23:10:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2023 00:57:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -353,7 +353,7 @@
             <title><![CDATA[ຫຼັກສູດການເປັນຜູ້ປະກອບການດ້ານໄອທີ LVTP: ການປະຕິວັດອຸດສາຫະກຳຄັ້ງທີ 4 ແລະ ທຸລະກິດສະຕາດອັບ(LVTP IT Entrepreneurship Courses : The 4th Industrial Revolution and Startup Business) (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Wed, 19 Jul 2023 23:10:08 GMT</pubDate>
+            <pubDate>Thu, 20 Jul 2023 00:57:10 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김경환
@@ -366,6 +366,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:SKKUk+SKKU_LAO2301+2023_T1+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98__2019_%EB%AC%B6%EC%9D%8C%EA%B0%95%EC%A2%8C_%EB%8C%80%ED%91%9C%EC%9D%B4%EB%AF%B8%EC%A7%80_1__%EA%B9%80%EA%B2%BD%ED%99%98.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인공지능을 위한 파이썬 기초 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_17+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_17+2023_T1/about</guid>
+            <pubDate>Thu, 20 Jul 2023 00:57:27 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김경백
+                </span>
+                <span class="kr01_school">Chonnam National University</span>
+                </div>
+                <div><time>2023/07/24</time>
+                
+                ~ <time>2030/01/03</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:JNUk+JNUk_17+2023_T1+type@asset+block@thumbnail_3.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[성인학습자를 위한 대학 글쓰기 (K-MOOC ─ 개강예정)]]></title>
@@ -476,6 +494,42 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:NRF_COSS+NRF_COSS207+2022_1+type@asset+block@%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D_%EC%B9%B4%EB%93%9C.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[생물정보학과 신약개발 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_20+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_20+2023_T1/about</guid>
+            <pubDate>Thu, 20 Jul 2023 00:57:27 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                최윤주
+                </span>
+                <span class="kr01_school">Chonnam National University</span>
+                </div>
+                <div><time>2023/07/24</time>
+                
+                ~ <time>2023/10/23</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:JNUk+JNUk_20+2023_T1+type@asset+block@thumbnail_2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[금융공학을 위한 인공지능 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_16+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_16+2023_T1/about</guid>
+            <pubDate>Thu, 20 Jul 2023 00:57:27 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                허정규
+                </span>
+                <span class="kr01_school">Chonnam National University</span>
+                </div>
+                <div><time>2023/07/24</time>
+                
+                ~ <time>2023/10/23</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:JNUk+JNUk_16+2023_T1+type@asset+block@thumbnail_4.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[SQL 정형 데이터 분석 (K-MOOC ─ 개강예정)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK03+2023_2/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK03+2023_2/about</guid>
@@ -530,24 +584,6 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:MA_CUK+MATCHUP_CUK04+2023_2+type@asset+block@%EB%8C%80%EC%9A%A9%EB%9F%89%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%B2%98%EB%A6%AC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[빅데이터를 위한 확률과 통계 (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK01+2023_2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK01+2023_2/about</guid>
-            <pubDate>Mon, 17 Jul 2023 01:08:12 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                백창현
-                </span>
-                <span class="kr01_school">CYBER UNIVERSITY OF KOREA(matchup)</span>
-                </div>
-                <div><time>2023/08/14</time>
-                
-                ~ <time>2023/10/08</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:MA_CUK+MATCHUP_CUK01+2023_2+type@asset+block@%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0_%ED%99%95%EB%A5%A0%ED%86%B5%EA%B3%84.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[비정형 데이터 분석 (K-MOOC ─ 개강예정)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK06+2023_2/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK06+2023_2/about</guid>
@@ -564,6 +600,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:MA_CUK+MATCHUP_CUK06+2023_2+type@asset+block@_%ED%85%9C%ED%94%8C%EB%A6%BF_%EB%B9%84%EC%A0%95%ED%98%95_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%B6%84%EC%84%9D.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빅데이터를 위한 확률과 통계 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK01+2023_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK01+2023_2/about</guid>
+            <pubDate>Mon, 17 Jul 2023 01:08:12 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                백창현
+                </span>
+                <span class="kr01_school">CYBER UNIVERSITY OF KOREA(matchup)</span>
+                </div>
+                <div><time>2023/08/14</time>
+                
+                ~ <time>2023/10/08</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:MA_CUK+MATCHUP_CUK01+2023_2+type@asset+block@%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0_%ED%99%95%EB%A5%A0%ED%86%B5%EA%B3%84.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[빅데이터 프레임워크 (K-MOOC ─ 개강예정)]]></title>
@@ -618,60 +672,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:MA_CUK+MATCHUP_CUK07+2023_2+type@asset+block@%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0_%ED%94%8C%EB%9E%AB%ED%8F%BC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인지와 감성 (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2021_6+2023_1_B3/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2021_6+2023_1_B3/about</guid>
-            <pubDate>Mon, 17 Jul 2023 01:08:12 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                이지항
-                </span>
-                <span class="kr01_school">SANGMYUNG UNIVERSITY</span>
-                </div>
-                <div><time>2023/07/24</time>
-                
-                ~ <time>2023/09/25</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SMUk+SMU2021_6+2023_1_B3+type@asset+block@asset-v1_SMUk_SMU2021_6_2022_2_B3_type_asset_block_2022-1_%EC%9D%B8%EC%A7%80%EC%99%80-%EA%B0%90%EC%84%B1_%EC%9D%B4%EC%A7%80%ED%95%AD_optimized.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[감성 인공 지능 (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2021_8+2023_1_B5/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2021_8+2023_1_B5/about</guid>
-            <pubDate>Mon, 17 Jul 2023 01:08:12 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                이정년
-                </span>
-                <span class="kr01_school">SANGMYUNG UNIVERSITY</span>
-                </div>
-                <div><time>2023/07/24</time>
-                
-                ~ <time>2023/09/25</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SMUk+SMU2021_8+2023_1_B5+type@asset+block@asset-v1_SMUk_SMU2021_8_2022_2_B5_type_asset_block_2022-1_%EA%B0%90%EC%84%B1-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_%EC%9D%B4%EC%A0%95%EB%85%84_optimized.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[감성컴퓨팅 (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2021_4+2023_1_B1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2021_4+2023_1_B1/about</guid>
-            <pubDate>Mon, 17 Jul 2023 01:08:12 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                황민철
-                </span>
-                <span class="kr01_school">SANGMYUNG UNIVERSITY</span>
-                </div>
-                <div><time>2023/07/24</time>
-                
-                ~ <time>2023/09/25</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SMUk+SMU2021_4+2023_1_B1+type@asset+block@asset-v1_SMUk_SMU2021_4_2022_2_B1_type_asset_block_2022-1_%EA%B0%90%EC%84%B1%EC%BB%B4%ED%93%A8%ED%8C%85_%ED%99%A9%EB%AF%BC%EC%B2%A0_optimized.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[(심화)클라우드 보안 엔지니어 양성과정 (K-MOOC ─ 개강예정)]]></title>
