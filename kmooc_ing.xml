@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jul 2023 16:12:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jul 2023 17:09:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -150,24 +150,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:KMOU+KMOU0004+2023_T2_1+type@asset+block@KakaoTalk_20230126_163430035_01.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[비전공자를 위한 AI 딥러닝(Deep Learning)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KAISTk+COB2021+2023_K1_01/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KAISTk+COB2021+2023_K1_01/about</guid>
-            <pubDate>Mon, 10 Jul 2023 09:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                오종훈
-                </span>
-                <span class="kr01_school">Korea Advanced Institute of Science and Technology</span>
-                </div>
-                <div><time>2023/07/10</time>
-                
-                ~ <time>2023/10/15</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KAISTk+COB2021+2023_K1_01+type@asset+block@%EC%BA%A1%EC%B2%982.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[스마트팜 시설에너지관리 전문가 기초과정]]></title>
@@ -348,6 +330,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:SunMoonK+SMKMOOC-04+2023_T3+type@asset+block@_%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%84%A0%EB%AC%B8%EB%8C%80_%ED%8C%8C%EC%9D%B4%EC%8D%AC_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_2023.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ຫຼັກສູດການເປັນຜູ້ປະກອບການດ້ານໄອທີ LVTP : ສ້າງໂມເດວຮູບແບບທຸລະກິດທີ່ປະສົບຜົນສຳເລັດ ແລະ ສ້າງແຜນທຸລະກິດ(LVTP IT Entrepreneurship Courses : Create a successful business model and draw up a business plan)]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Sun, 23 Jul 2023 17:09:17 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                최우진
+                </span>
+                <span class="kr01_school">SUNGKYUNKWAN UNIVERSITY</span>
+                </div>
+                <div><time>2023/07/24</time>
+                
+                ~ <time>2023/08/11</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SKKUk+SKKU_LAO2302+2023_T1+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98__2019_%EB%AC%B6%EC%9D%8C%EA%B0%95%EC%A2%8C_%EB%8C%80%ED%91%9C%EC%9D%B4%EB%AF%B8%EC%A7%80_3__%EC%B5%9C%EC%9A%B0%EC%A7%84.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ຫຼັກສູດການເປັນຜູ້ປະກອບການດ້ານໄອທີ LVTP: ການປະຕິວັດອຸດສາຫະກຳຄັ້ງທີ 4 ແລະ ທຸລະກິດສະຕາດອັບ(LVTP IT Entrepreneurship Courses : The 4th Industrial Revolution and Startup Business)]]></title>
