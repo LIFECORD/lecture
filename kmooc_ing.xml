@@ -4,14 +4,14 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jul 2023 08:15:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jul 2023 09:12:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[인공지능을 위한 파이썬 기초]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 24 Jul 2023 08:14:42 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_17+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_17+2023_T1/about</guid>
+            <pubDate>Mon, 24 Jul 2023 09:11:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김경백
@@ -27,9 +27,9 @@
         </item>
         <item>
             <title><![CDATA[대화와 인간관계]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 24 Jul 2023 08:14:42 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2020_03+2023_1_H2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2020_03+2023_1_H2/about</guid>
+            <pubDate>Mon, 24 Jul 2023 09:11:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 구현정 and 1 others
@@ -45,9 +45,9 @@
         </item>
         <item>
             <title><![CDATA[스마트 팩토리에 대한 이해 : 우리는 제조업을 어떻게 스마트하게 만들 수 있는가?]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 24 Jul 2023 08:14:42 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2020_02+2023_1_H1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2020_02+2023_1_H1/about</guid>
+            <pubDate>Mon, 24 Jul 2023 09:11:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 천백민
@@ -63,9 +63,9 @@
         </item>
         <item>
             <title><![CDATA[영상처리와 패턴인식]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 24 Jul 2023 08:14:42 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SMUk+FD_SMU03+2023_1_S3/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SMUk+FD_SMU03+2023_1_S3/about</guid>
+            <pubDate>Mon, 24 Jul 2023 09:11:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이의철
@@ -81,9 +81,9 @@
         </item>
         <item>
             <title><![CDATA[3차원 그래픽스 입문]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 24 Jul 2023 08:14:42 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:NRF_COSS+NRF_COSS217+2022_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:NRF_COSS+NRF_COSS217+2022_1/about</guid>
+            <pubDate>Mon, 24 Jul 2023 09:11:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 윤태준
@@ -99,9 +99,9 @@
         </item>
         <item>
             <title><![CDATA[생물정보학과 신약개발]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 24 Jul 2023 08:14:42 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_20+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_20+2023_T1/about</guid>
+            <pubDate>Mon, 24 Jul 2023 09:11:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 최윤주
@@ -117,9 +117,9 @@
         </item>
         <item>
             <title><![CDATA[금융공학을 위한 인공지능]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 24 Jul 2023 08:14:42 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_16+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_16+2023_T1/about</guid>
+            <pubDate>Mon, 24 Jul 2023 09:11:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 허정규
@@ -135,9 +135,9 @@
         </item>
         <item>
             <title><![CDATA[아트앤테크 융합예술의 이해]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 24 Jul 2023 08:14:42 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_21+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_21+2023_T1/about</guid>
+            <pubDate>Mon, 24 Jul 2023 09:11:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 변현진
@@ -153,9 +153,9 @@
         </item>
         <item>
             <title><![CDATA[생활속의 반도체]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 24 Jul 2023 08:14:42 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:NRF_COSS+NRF_COSS208+2022_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:NRF_COSS+NRF_COSS208+2022_1/about</guid>
+            <pubDate>Mon, 24 Jul 2023 09:11:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이혁재 and 1 others
@@ -171,9 +171,9 @@
         </item>
         <item>
             <title><![CDATA[인지와 감성]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 24 Jul 2023 08:14:42 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2021_6+2023_1_B3/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2021_6+2023_1_B3/about</guid>
+            <pubDate>Mon, 24 Jul 2023 09:11:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이지항
@@ -189,9 +189,9 @@
         </item>
         <item>
             <title><![CDATA[감성 인공 지능]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 24 Jul 2023 08:14:42 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2021_8+2023_1_B5/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2021_8+2023_1_B5/about</guid>
+            <pubDate>Mon, 24 Jul 2023 09:11:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이정년
@@ -207,9 +207,9 @@
         </item>
         <item>
             <title><![CDATA[감성컴퓨팅]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 24 Jul 2023 08:14:42 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2021_4+2023_1_B1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2021_4+2023_1_B1/about</guid>
+            <pubDate>Mon, 24 Jul 2023 09:11:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 황민철
@@ -225,9 +225,9 @@
         </item>
         <item>
             <title><![CDATA[감성디자인]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 24 Jul 2023 08:14:42 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2021_5+2023_1_B2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2021_5+2023_1_B2/about</guid>
+            <pubDate>Mon, 24 Jul 2023 09:11:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 권지은
@@ -243,9 +243,9 @@
         </item>
         <item>
             <title><![CDATA[생체신호와 데이터 분석]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 24 Jul 2023 08:14:42 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2021_7+2023_1_B4/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2021_7+2023_1_B4/about</guid>
+            <pubDate>Mon, 24 Jul 2023 09:11:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 윤희남
@@ -261,9 +261,9 @@
         </item>
         <item>
             <title><![CDATA[게임엔진을 이용한 실감콘텐츠(VR, AR) 기획과 개발]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 24 Jul 2023 08:14:42 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2021_3+2023_1_T3/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2021_3+2023_1_T3/about</guid>
+            <pubDate>Mon, 24 Jul 2023 09:11:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 조옥희
@@ -279,9 +279,9 @@
         </item>
         <item>
             <title><![CDATA[기계 학습 기반의 데이터 공학]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 24 Jul 2023 08:14:42 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2022_1+2023_1_T4/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2022_1+2023_1_T4/about</guid>
+            <pubDate>Mon, 24 Jul 2023 09:11:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 민경하 and 1 others
@@ -297,9 +297,9 @@
         </item>
         <item>
             <title><![CDATA[생성 모델과 시각 지능]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 24 Jul 2023 08:14:42 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2021_1+2023_1_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2021_1+2023_1_T1/about</guid>
+            <pubDate>Mon, 24 Jul 2023 09:11:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 민경하
@@ -315,9 +315,9 @@
         </item>
         <item>
             <title><![CDATA[인공지능시대의 사회적 쟁점]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 24 Jul 2023 08:14:42 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2021_2+2023_1_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2021_2+2023_1_T2/about</guid>
+            <pubDate>Mon, 24 Jul 2023 09:11:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 양희경
@@ -333,9 +333,9 @@
         </item>
         <item>
             <title><![CDATA[휴먼컴퓨터인터페이스]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 24 Jul 2023 08:14:42 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2021_9+2023_1_B6/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2021_9+2023_1_B6/about</guid>
+            <pubDate>Mon, 24 Jul 2023 09:11:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 황민철
@@ -351,9 +351,9 @@
         </item>
         <item>
             <title><![CDATA[(심화)클라우드 인프라 아키텍처 양성과정]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 24 Jul 2023 08:14:42 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:MA_IGM+MATCHUP_IGM07+2023_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:MA_IGM+MATCHUP_IGM07+2023_T1/about</guid>
+            <pubDate>Mon, 24 Jul 2023 09:11:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 원철연
