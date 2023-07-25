@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jul 2023 23:10:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 01:00:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,42 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:JNUk+JNUk_17+2023_T1+type@asset+block@thumbnail_3.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[딥러닝기초 (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Tue, 25 Jul 2023 01:00:22 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김영훈
+                </span>
+                <span class="kr01_school">National Research Foundation of Korea</span>
+                </div>
+                <div><time>2023/07/25</time>
+                
+                ~ <time>2023/11/07</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:NRF_COSS+NRF_COSS231+2022_1+type@asset+block@%EB%94%A5%EB%9F%AC%EB%8B%9D_%EC%B9%B4%EB%93%9C%EC%9D%B4%EB%AF%B8%EC%A7%80.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[지능로봇을 위한 수학 (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Tue, 25 Jul 2023 01:00:22 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이주현 and 1 others
+                </span>
+                <span class="kr01_school">National Research Foundation of Korea</span>
+                </div>
+                <div><time>2023/07/25</time>
+                
+                ~ <time>2023/11/07</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:NRF_COSS+NRF_COSS230+2022_1+type@asset+block@%EC%A7%80%EB%8A%A5%EB%A1%9C%EB%B4%87%EC%9D%84_%EC%9C%84%ED%95%9C_%EC%88%98%ED%95%99_-_%EC%B9%B4%EB%93%9C%EC%9D%B4%EB%AF%B8%EC%A7%80.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[대화와 인간관계 (K-MOOC ─ 진행중)]]></title>
@@ -80,22 +116,22 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:SMUk+FD_SMU03+2023_1_S3+type@asset+block@%EC%98%81%EC%83%81%EC%B2%98%EB%A6%AC%EC%99%80%ED%8C%A8%ED%84%B4%EC%9D%B8%EC%8B%9D_optimized.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[3차원 그래픽스 입문 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:NRF_COSS+NRF_COSS217+2022_1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:NRF_COSS+NRF_COSS217+2022_1/about</guid>
-            <pubDate>Mon, 24 Jul 2023 09:11:48 GMT</pubDate>
+            <title><![CDATA[머신러닝, 너 정체가 뭐니? (K-MOOC ─ 진행중)]]></title>
+            <link>https://LIFECORD.github.io/lecture/all.xml</link>
+            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
+            <pubDate>Tue, 25 Jul 2023 01:00:22 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                윤태준
+                박태준
                 </span>
                 <span class="kr01_school">National Research Foundation of Korea</span>
                 </div>
-                <div><time>2023/07/24</time>
+                <div><time>2023/07/25</time>
                 
-                ~ <time>2023/11/05</time>
+                ~ <time>2023/11/01</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:NRF_COSS+NRF_COSS217+2022_1+type@asset+block@%EA%B0%95%EC%A2%8C%EC%B9%B4%EB%93%9C%EC%9D%B4%EB%AF%B8%EC%A7%80.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:NRF_COSS+NRF_COSS207+2022_1+type@asset+block@%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D_%EC%B9%B4%EB%93%9C.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[생물정보학과 신약개발 (K-MOOC ─ 진행중)]]></title>
@@ -150,24 +186,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:JNUk+JNUk_21+2023_T1+type@asset+block@thumbnail_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[생활속의 반도체 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:NRF_COSS+NRF_COSS208+2022_1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:NRF_COSS+NRF_COSS208+2022_1/about</guid>
-            <pubDate>Mon, 24 Jul 2023 09:11:48 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                이혁재 and 1 others
-                </span>
-                <span class="kr01_school">National Research Foundation of Korea</span>
-                </div>
-                <div><time>2023/07/24</time>
-                
-                ~ <time>2023/10/06</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:NRF_COSS+NRF_COSS208+2022_1+type@asset+block@%EA%B0%95%EC%A2%8C%EC%B9%B4%EB%93%9C_%EC%83%9D%ED%99%9C%EC%86%8D%EC%9D%98%EB%B0%98%EB%8F%84%EC%B2%B4.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[인지와 감성 (K-MOOC ─ 진행중)]]></title>
@@ -348,24 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:SMUk+SMU2021_9+2023_1_B6+type@asset+block@%ED%9C%B4%EB%A8%BC%EC%BB%B4%ED%93%A8%ED%84%B0%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4_optimized.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[(심화)클라우드 인프라 아키텍처 양성과정 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:MA_IGM+MATCHUP_IGM07+2023_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:MA_IGM+MATCHUP_IGM07+2023_T1/about</guid>
-            <pubDate>Mon, 24 Jul 2023 09:11:48 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                원철연
-                </span>
-                <span class="kr01_school">IGM</span>
-                </div>
-                <div><time>2023/07/24</time>
-                
-                ~ <time>2023/07/31</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:MA_IGM+MATCHUP_IGM07+2023_T1+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%EC%8B%AC%ED%99%94%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C_2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[성인학습자를 위한 대학 글쓰기 (K-MOOC ─ 개강예정)]]></title>
