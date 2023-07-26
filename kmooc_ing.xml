@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jul 2023 08:14:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jul 2023 09:10:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -297,9 +297,9 @@
         </item>
         <item>
             <title><![CDATA[웨어러블 캡스톤디자인]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Wed, 26 Jul 2023 08:13:56 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:NRF_COSS+NRF_COSS206+2022_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:NRF_COSS+NRF_COSS206+2022_1/about</guid>
+            <pubDate>Wed, 26 Jul 2023 09:10:34 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이상호 and 1 others
@@ -315,9 +315,9 @@
         </item>
         <item>
             <title><![CDATA[의료정보: 표준/보안/인증]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Wed, 26 Jul 2023 08:13:56 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:NRF_COSS+NRF_COSS221+2022_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:NRF_COSS+NRF_COSS221+2022_1/about</guid>
+            <pubDate>Wed, 26 Jul 2023 09:10:34 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김종덕
@@ -333,9 +333,9 @@
         </item>
         <item>
             <title><![CDATA[바이오헬스 진로설계]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Wed, 26 Jul 2023 08:13:56 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:NRF_COSS+NRF_COSS205+2022_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:NRF_COSS+NRF_COSS205+2022_1/about</guid>
+            <pubDate>Wed, 26 Jul 2023 09:10:34 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 정효정
@@ -351,9 +351,9 @@
         </item>
         <item>
             <title><![CDATA[바이오헬스 인체의 신비]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Wed, 26 Jul 2023 08:13:56 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:NRF_COSS+NRF_COSS212+2022_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:NRF_COSS+NRF_COSS212+2022_1/about</guid>
+            <pubDate>Wed, 26 Jul 2023 09:10:34 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박종태
