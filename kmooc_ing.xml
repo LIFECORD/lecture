@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jul 2023 23:10:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 00:50:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,24 +96,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:SMUk+SMU2020_02+2023_1_H1+type@asset+block@%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8C%A9%ED%86%A0%EB%A6%AC_optimized.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[영상처리와 패턴인식]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SMUk+FD_SMU03+2023_1_S3/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SMUk+FD_SMU03+2023_1_S3/about</guid>
-            <pubDate>Mon, 24 Jul 2023 09:11:48 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                이의철
-                </span>
-                <span class="kr01_school">SANGMYUNG UNIVERSITY</span>
-                </div>
-                <div><time>2023/07/24</time>
-                
-                ~ <time>2023/11/06</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SMUk+FD_SMU03+2023_1_S3+type@asset+block@%EC%98%81%EC%83%81%EC%B2%98%EB%A6%AC%EC%99%80%ED%8C%A8%ED%84%B4%EC%9D%B8%EC%8B%9D_optimized.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[머신러닝, 너 정체가 뭐니?]]></title>
@@ -278,22 +260,22 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:SMUk+SMU2021_7+2023_1_B4+type@asset+block@%EC%83%9D%EC%B2%B4%EC%8B%A0%ED%98%B8%EC%99%80%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D_optimized.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[게임엔진을 이용한 실감콘텐츠(VR, AR) 기획과 개발]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2021_3+2023_1_T3/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2021_3+2023_1_T3/about</guid>
-            <pubDate>Mon, 24 Jul 2023 09:11:48 GMT</pubDate>
+            <title><![CDATA[에너지환경기술]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Thu, 27 Jul 2023 00:50:16 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                조옥희
+                양오봉 and 8 others
                 </span>
-                <span class="kr01_school">SANGMYUNG UNIVERSITY</span>
+                <span class="kr01_school">National Research Foundation of Korea</span>
                 </div>
-                <div><time>2023/07/24</time>
+                <div><time>2023/07/27</time>
                 
-                ~ <time>2023/09/25</time>
+                ~ <time>2023/09/19</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SMUk+SMU2021_3+2023_1_T3+type@asset+block@%EA%B2%8C%EC%9E%84%EC%97%94%EC%A7%84%EC%9D%84%EC%9D%B4%EC%9A%A9%ED%95%9C%EC%8B%A4%EA%B0%90%EC%BD%98%ED%85%90%EC%B8%A0%EA%B8%B0%ED%9A%8D%EA%B3%BC%EA%B0%9C%EB%B0%9C_optimized.png" length="0" type="image/png"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:NRF_COSS+NRF_COSS219+2022_1+type@asset+block@%EA%B0%95%EC%A2%8C%EC%B9%B4%EB%93%9C%EC%9D%B4%EB%AF%B8%EC%A7%802.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[웨어러블 캡스톤디자인]]></title>
@@ -366,6 +348,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:NRF_COSS+NRF_COSS212+2022_1+type@asset+block@_%EB%8B%A8%EA%B5%AD%EB%8C%80_%EC%9D%B8%EC%B2%B4%EC%9D%98%EC%8B%A0%EB%B9%84_%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[인공지능과 산업]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Thu, 27 Jul 2023 00:50:16 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                박종열
+                </span>
+                <span class="kr01_school">National Research Foundation of Korea</span>
+                </div>
+                <div><time>2023/07/27</time>
+                
+                ~ <time>2023/08/25</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:NRF_COSS+NRF_COSS203+2022_1+type@asset+block@%EC%8D%B8%EB%84%A4%EC%9D%BC_378-225.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
