@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jul 2023 14:10:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 15:11:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -242,24 +242,6 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:SMUk+SMU2021_4+2023_1_B1+type@asset+block@%EA%B0%90%EC%84%B1%EC%BB%B4%ED%93%A8%ED%8C%85_optimized.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[감성디자인]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2021_5+2023_1_B2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2021_5+2023_1_B2/about</guid>
-            <pubDate>Mon, 24 Jul 2023 09:11:48 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                권지은
-                </span>
-                <span class="kr01_school">SANGMYUNG UNIVERSITY</span>
-                </div>
-                <div><time>2023/07/24</time>
-                
-                ~ <time>2023/09/25</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SMUk+SMU2021_5+2023_1_B2+type@asset+block@%EA%B0%90%EC%84%B1%EB%94%94%EC%9E%90%EC%9D%B8_optimized.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[에너지환경기술]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:NRF_COSS+NRF_COSS219+2022_1/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:NRF_COSS+NRF_COSS219+2022_1/about</guid>
@@ -276,6 +258,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:NRF_COSS+NRF_COSS219+2022_1+type@asset+block@%EA%B0%95%EC%A2%8C%EC%B9%B4%EB%93%9C%EC%9D%B4%EB%AF%B8%EC%A7%802.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데이터시각화기반 UX디자인 개론]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Thu, 27 Jul 2023 15:10:53 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                정의철
+                </span>
+                <span class="kr01_school">National Research Foundation of Korea</span>
+                </div>
+                <div><time>2023/07/28</time>
+                
+                ~ <time>2023/09/15</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:NRF_COSS+NRF_COSS235+2022_1+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98__%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%EC%A0%9C%EB%AA%A9_%EC%97%86%EC%9D%8C-3-%EB%B3%B5%EA%B5%AC%EB%90%A8.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[웨어러블 캡스톤디자인]]></title>
