@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jul 2023 04:12:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 05:10:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -263,7 +263,7 @@
             <title><![CDATA[에너지환경기술 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Thu, 27 Jul 2023 04:11:51 GMT</pubDate>
+            <pubDate>Thu, 27 Jul 2023 05:10:18 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 양오봉 and 8 others
@@ -353,7 +353,7 @@
             <title><![CDATA[인공지능과 산업 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Thu, 27 Jul 2023 04:11:52 GMT</pubDate>
+            <pubDate>Thu, 27 Jul 2023 05:10:18 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박종열
