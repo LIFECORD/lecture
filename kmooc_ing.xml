@@ -4,14 +4,14 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Aug 2023 08:14:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Aug 2023 09:11:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[임상 활용을 위한 AR]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Tue, 01 Aug 2023 08:13:55 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:MA_ICCU+MATCHUP_ICCU04+2023_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:MA_ICCU+MATCHUP_ICCU04+2023_2/about</guid>
+            <pubDate>Tue, 01 Aug 2023 09:11:23 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김영덕 and 3 others
@@ -27,9 +27,9 @@
         </item>
         <item>
             <title><![CDATA[의료메타버스 구현을 위한 Modeling]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Tue, 01 Aug 2023 08:13:55 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:MA_ICCU+MATCHUP_ICCU03+2023_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:MA_ICCU+MATCHUP_ICCU03+2023_2/about</guid>
+            <pubDate>Tue, 01 Aug 2023 09:11:23 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 양선형 and 3 others
@@ -45,9 +45,9 @@
         </item>
         <item>
             <title><![CDATA[의료영상분할(Segmentation) 소프트웨어의 이해]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Tue, 01 Aug 2023 08:13:55 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:MA_ICCU+MATCHUP_ICCU02+2023_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:MA_ICCU+MATCHUP_ICCU02+2023_2/about</guid>
+            <pubDate>Tue, 01 Aug 2023 09:11:23 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이지우 and 3 others
@@ -63,9 +63,9 @@
         </item>
         <item>
             <title><![CDATA[의학 교육을 위한 VR]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Tue, 01 Aug 2023 08:13:55 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:MA_ICCU+MATCHUP_ICCU05+2023_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:MA_ICCU+MATCHUP_ICCU05+2023_2/about</guid>
+            <pubDate>Tue, 01 Aug 2023 09:11:23 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김용 and 3 others
@@ -81,9 +81,9 @@
         </item>
         <item>
             <title><![CDATA[Korean Buddhist Art in Global Perspective]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Tue, 01 Aug 2023 08:13:55 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KAEP_DONGGUK+KAEP_DONGGUK_101+2022_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KAEP_DONGGUK+KAEP_DONGGUK_101+2022_2/about</guid>
+            <pubDate>Tue, 01 Aug 2023 09:11:23 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김연미
@@ -99,9 +99,9 @@
         </item>
         <item>
             <title><![CDATA[고려 조선의 불교 인물]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Tue, 01 Aug 2023 08:13:55 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KAEP_DONGGUK+KAEP_DONGGUK_106+2022_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KAEP_DONGGUK+KAEP_DONGGUK_106+2022_2/about</guid>
+            <pubDate>Tue, 01 Aug 2023 09:11:23 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 강호선
@@ -117,9 +117,9 @@
         </item>
         <item>
             <title><![CDATA[교단과 종파]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Tue, 01 Aug 2023 08:13:55 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KAEP_DONGGUK+KAEP_DONGGUK_104+2022_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KAEP_DONGGUK+KAEP_DONGGUK_104+2022_2/about</guid>
+            <pubDate>Tue, 01 Aug 2023 09:11:23 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박광연 and 4 others
@@ -135,9 +135,9 @@
         </item>
         <item>
             <title><![CDATA[국가권력과 불교]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Tue, 01 Aug 2023 08:13:55 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KAEP_DONGGUK+KAEP_DONGGUK_108+2022_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KAEP_DONGGUK+KAEP_DONGGUK_108+2022_2/about</guid>
+            <pubDate>Tue, 01 Aug 2023 09:11:23 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김용태
@@ -153,9 +153,9 @@
         </item>
         <item>
             <title><![CDATA[한국불교 금석문]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Tue, 01 Aug 2023 08:13:55 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KAEP_DONGGUK+KAEP_DONGGUK_110+2022_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KAEP_DONGGUK+KAEP_DONGGUK_110+2022_2/about</guid>
+            <pubDate>Tue, 01 Aug 2023 09:11:23 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 최연식
@@ -171,9 +171,9 @@
         </item>
         <item>
             <title><![CDATA[문자와 한글]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Tue, 01 Aug 2023 08:13:55 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KAEP_DONGGUK+KAEP_DONGGUK_103+2022_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KAEP_DONGGUK+KAEP_DONGGUK_103+2022_2/about</guid>
+            <pubDate>Tue, 01 Aug 2023 09:11:23 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김종진 and 3 others
@@ -189,9 +189,9 @@
         </item>
         <item>
             <title><![CDATA[불교 의례]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Tue, 01 Aug 2023 08:13:55 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KAEP_DONGGUK+KAEP_DONGGUK_102+2022_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KAEP_DONGGUK+KAEP_DONGGUK_102+2022_2/about</guid>
+            <pubDate>Tue, 01 Aug 2023 09:11:23 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김성순
@@ -207,9 +207,9 @@
         </item>
         <item>
             <title><![CDATA[삼국 통일신라의 불교인물]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Tue, 01 Aug 2023 08:13:55 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KAEP_DONGGUK+KAEP_DONGGUK_107+2022_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KAEP_DONGGUK+KAEP_DONGGUK_107+2022_2/about</guid>
+            <pubDate>Tue, 01 Aug 2023 09:11:23 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 고영섭
@@ -225,9 +225,9 @@
         </item>
         <item>
             <title><![CDATA[출판과 불교]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Tue, 01 Aug 2023 08:13:55 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KAEP_DONGGUK+KAEP_DONGGUK_109+2022_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KAEP_DONGGUK+KAEP_DONGGUK_109+2022_2/about</guid>
+            <pubDate>Tue, 01 Aug 2023 09:11:23 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이종수 and 5 others
@@ -243,9 +243,9 @@
         </item>
         <item>
             <title><![CDATA[한국의 산사와 서원]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Tue, 01 Aug 2023 08:13:55 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KAEP_DONGGUK+KAEP_DONGGUK_105+2022_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KAEP_DONGGUK+KAEP_DONGGUK_105+2022_2/about</guid>
+            <pubDate>Tue, 01 Aug 2023 09:11:23 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 정병삼 and 1 others
@@ -297,9 +297,9 @@
         </item>
         <item>
             <title><![CDATA[3D콘텐츠 제작기초(메타버스 공간 제작)]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Tue, 01 Aug 2023 08:13:55 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:NSU+NSU003+2021_T2_03/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:NSU+NSU003+2021_T2_03/about</guid>
+            <pubDate>Tue, 01 Aug 2023 09:11:23 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 서동희
@@ -315,9 +315,9 @@
         </item>
         <item>
             <title><![CDATA[팬데믹시대 자기치유]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Tue, 01 Aug 2023 08:13:55 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:NSU+NSU004+2021_T2_03/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:NSU+NSU004+2021_T2_03/about</guid>
+            <pubDate>Tue, 01 Aug 2023 09:11:23 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김민경
