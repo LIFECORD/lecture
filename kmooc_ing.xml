@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Aug 2023 05:10:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Aug 2023 06:13:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -260,24 +260,6 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:KAEP_DONGGUK+KAEP_DONGGUK_105+2022_2+type@asset+block@%ED%95%9C%EA%B5%AD%EC%9D%98_%EC%82%B0%EC%82%AC%EC%99%80_%EC%84%9C%EC%9B%90_%EC%9D%B4%EB%AF%B8%EC%A7%80_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[운영체제의 기초]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:NRF_COSS+NRF_COSS240+2022_1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:NRF_COSS+NRF_COSS240+2022_1/about</guid>
-            <pubDate>Wed, 02 Aug 2023 00:51:41 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                홍성수
-                </span>
-                <span class="kr01_school">National Research Foundation of Korea</span>
-                </div>
-                <div><time>2023/07/28</time>
-                
-                ~ <time>2023/10/07</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:NRF_COSS+NRF_COSS240+2022_1+type@asset+block@%EA%B0%95%EC%9D%98%EC%86%8C%EA%B0%9C%EC%B9%B4%EB%93%9C.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[PLC 이론과 실제]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:NRF_COSS+NRF_COSS238+2022_1/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:NRF_COSS+NRF_COSS238+2022_1/about</guid>
@@ -348,6 +330,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:NRF_COSS+NRF_COSS204+2022_1+type@asset+block@%EC%A0%95%ED%98%95%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%B2%98%EB%A6%AC_%EC%9D%B4%EB%AF%B8%EC%A7%80.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소프트웨어형 디지털치료제]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Thu, 03 Aug 2023 06:13:12 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                노유헌 and 1 others
+                </span>
+                <span class="kr01_school">National Research Foundation of Korea</span>
+                </div>
+                <div><time>2023/08/03</time>
+                
+                ~ <time>2023/08/30</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:NRF_COSS+NRF_COSS210+2022_1+type@asset+block@biohealth_thumbnail_10.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[(심화)클라우드 DB 솔루션아키텍트 양성과정]]></title>
