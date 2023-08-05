@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Aug 2023 05:10:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Aug 2023 06:12:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -335,7 +335,7 @@
             <title><![CDATA[(심화)클라우드 보안 엔지니어 양성과정 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Sat, 05 Aug 2023 05:09:53 GMT</pubDate>
+            <pubDate>Sat, 05 Aug 2023 06:12:32 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 최정현
