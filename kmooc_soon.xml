@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Aug 2023 05:10:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Aug 2023 06:14:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -314,58 +314,58 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:MA_NSU+MATCHUP_NSU02+2023_02_2+type@asset+block@%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EB%AC%B8%EB%B2%95%EC%97%90%EC%84%9C_%EC%9E%90%EC%9C%A0%EB%A1%9C%EC%9B%8C%EC%A7%80%EB%8A%94_%EC%9C%A0%EB%8B%88%ED%8B%B0_%EB%B9%84%EC%A3%BC%EC%96%BC_%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8C%85.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[남북협력개론2]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KGU+KGUpo02+2023_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KGU+KGUpo02+2023_T2/about</guid>
-            <pubDate>Fri, 04 Aug 2023 16:13:19 GMT</pubDate>
+            <title><![CDATA[AI프로그래밍]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:HansungK+HSKMOOCk04+2023_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:HansungK+HSKMOOCk04+2023_T2/about</guid>
+            <pubDate>Wed, 09 Aug 2023 06:14:20 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                박상철 and 12 others
+                오희석
                 </span>
-                <span class="kr01_school">Kyonggi University</span>
+                <span class="kr01_school">HANSUNG UNIVERSITY</span>
                 </div>
-                <div><time>2023/09/01</time>
+                <div><time>2023/08/22</time>
                 
-                ~ <time>2023/10/30</time>
+                ~ <time>2023/12/04</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KGU+KGUpo02+2023_T2+type@asset+block@%EA%B2%BD%EA%B8%B0%EB%8C%80_%EB%82%A8%EB%B6%81%ED%98%91%EB%A0%A5%EA%B0%9C%EB%A1%A02_%EC%8B%9C%EC%95%8801_B__8_.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:HansungK+HSKMOOCk04+2023_T2+type@asset+block@%EC%8D%B8%EB%84%A4%EC%9D%BC_AI%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_326x200.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[남북협력개론]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KGU+KGUpo01+2023_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KGU+KGUpo01+2023_T2/about</guid>
-            <pubDate>Fri, 04 Aug 2023 16:13:19 GMT</pubDate>
+            <title><![CDATA[메타버스 & 실감콘텐츠의 이해]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:HansungK+HSKMOOCk05+2023_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:HansungK+HSKMOOCk05+2023_T2/about</guid>
+            <pubDate>Wed, 09 Aug 2023 06:14:20 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                박상철 and 11 others
+                김효용
                 </span>
-                <span class="kr01_school">Kyonggi University</span>
+                <span class="kr01_school">HANSUNG UNIVERSITY</span>
                 </div>
-                <div><time>2023/09/01</time>
+                <div><time>2023/08/22</time>
                 
-                ~ <time>2023/10/30</time>
+                ~ <time>2023/12/04</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KGU+KGUpo01+2023_T2+type@asset+block@%EC%A0%9C%EB%AA%A9%EC%97%86%EC%9D%8C_1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:HansungK+HSKMOOCk05+2023_T2+type@asset+block@%EC%8D%B8%EB%84%A4%EC%9D%BC_%EB%A9%94%ED%83%80%EB%B2%84%EC%8A%A4_326x200.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[차량비전시스템]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:NRF_COSS+NRF_COSS222+2022_1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:NRF_COSS+NRF_COSS222+2022_1/about</guid>
-            <pubDate>Mon, 07 Aug 2023 01:01:10 GMT</pubDate>
+            <title><![CDATA[한국문화로 배우는 한국어]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:HansungK+HSKMOOCk03+2023_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:HansungK+HSKMOOCk03+2023_T2/about</guid>
+            <pubDate>Wed, 09 Aug 2023 06:14:20 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                심인욱 and 2 others
+                노정은
                 </span>
-                <span class="kr01_school">National Research Foundation of Korea</span>
+                <span class="kr01_school">HANSUNG UNIVERSITY</span>
                 </div>
-                <div><time>2023/09/04</time>
+                <div><time>2023/08/22</time>
                 
-                ~ <time>2023/10/21</time>
+                ~ <time>2023/12/04</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:NRF_COSS+NRF_COSS222+2022_1+type@asset+block@00001.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:HansungK+HSKMOOCk03+2023_T2+type@asset+block@%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
