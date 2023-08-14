@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Aug 2023 08:15:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Aug 2023 09:11:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[SQL 정형 데이터 분석 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 14 Aug 2023 08:15:21 GMT</pubDate>
+            <pubDate>Mon, 14 Aug 2023 09:10:59 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이건길
@@ -29,7 +29,7 @@
             <title><![CDATA[선형대수로 배우는 빅데이터 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 14 Aug 2023 08:15:21 GMT</pubDate>
+            <pubDate>Mon, 14 Aug 2023 09:10:59 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김경호
@@ -47,7 +47,7 @@
             <title><![CDATA[대용량 데이터 처리 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 14 Aug 2023 08:15:21 GMT</pubDate>
+            <pubDate>Mon, 14 Aug 2023 09:10:59 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김현철
@@ -65,7 +65,7 @@
             <title><![CDATA[빅데이터를 위한 확률과 통계 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 14 Aug 2023 08:15:21 GMT</pubDate>
+            <pubDate>Mon, 14 Aug 2023 09:10:59 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 백창현
@@ -83,7 +83,7 @@
             <title><![CDATA[비정형 데이터 분석 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 14 Aug 2023 08:15:21 GMT</pubDate>
+            <pubDate>Mon, 14 Aug 2023 09:10:59 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김민철
@@ -101,7 +101,7 @@
             <title><![CDATA[빅데이터 프레임워크 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 14 Aug 2023 08:15:21 GMT</pubDate>
+            <pubDate>Mon, 14 Aug 2023 09:10:59 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김윤기
@@ -119,7 +119,7 @@
             <title><![CDATA[머신러닝 빅데이터 분석 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 14 Aug 2023 08:15:21 GMT</pubDate>
+            <pubDate>Mon, 14 Aug 2023 09:10:59 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김용성
@@ -137,7 +137,7 @@
             <title><![CDATA[빅데이터 플랫폼 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 14 Aug 2023 08:15:21 GMT</pubDate>
+            <pubDate>Mon, 14 Aug 2023 09:10:59 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김윤기
@@ -153,9 +153,9 @@
         </item>
         <item>
             <title><![CDATA[언리얼 엔진 리얼 제작기 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 14 Aug 2023 08:15:21 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KPU+KPU02+2023_4/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KPU+KPU02+2023_4/about</guid>
+            <pubDate>Mon, 14 Aug 2023 09:11:00 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이대현
@@ -171,9 +171,9 @@
         </item>
         <item>
             <title><![CDATA[마케팅조사론 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 14 Aug 2023 08:15:21 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KPU+KPU03+2023_4/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KPU+KPU03+2023_4/about</guid>
+            <pubDate>Mon, 14 Aug 2023 09:11:00 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이재광
@@ -189,9 +189,9 @@
         </item>
         <item>
             <title><![CDATA[영화와 테크놀로지 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 14 Aug 2023 08:15:21 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KPU+KPU04+2023_4/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KPU+KPU04+2023_4/about</guid>
+            <pubDate>Mon, 14 Aug 2023 09:11:00 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이수길
@@ -207,9 +207,9 @@
         </item>
         <item>
             <title><![CDATA[문화와 생활 속 청렴 시즌2 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 14 Aug 2023 08:15:21 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:ACRCEDU+ACRC02+2023_04/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:ACRCEDU+ACRC02+2023_04/about</guid>
+            <pubDate>Mon, 14 Aug 2023 09:11:00 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김경일 and 5 others
@@ -225,9 +225,9 @@
         </item>
         <item>
             <title><![CDATA[문화와 생활 속 청렴 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 14 Aug 2023 08:15:21 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:ACRCEDU+ACRC01+2023_04/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:ACRCEDU+ACRC01+2023_04/about</guid>
+            <pubDate>Mon, 14 Aug 2023 09:11:00 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 신병주 and 4 others
@@ -243,9 +243,9 @@
         </item>
         <item>
             <title><![CDATA[청렴 북 콘서트 (K-MOOC ─ 진행중)]]></title>
-            <link>https://LIFECORD.github.io/lecture/all.xml</link>
-            <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 14 Aug 2023 08:15:21 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:ACRCEDU+ACRC03+2023_T3/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:ACRCEDU+ACRC03+2023_T3/about</guid>
+            <pubDate>Mon, 14 Aug 2023 09:11:00 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 장강명 and 4 others
