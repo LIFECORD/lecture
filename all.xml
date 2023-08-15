@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Aug 2023 15:10:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Aug 2023 16:15:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -677,7 +677,7 @@
             <title><![CDATA[KOICA와 함께하는 국제개발협력 분야별 이슈 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Tue, 15 Aug 2023 15:10:06 GMT</pubDate>
+            <pubDate>Tue, 15 Aug 2023 16:14:39 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이지은 and 5 others
