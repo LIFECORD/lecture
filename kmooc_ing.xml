@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Aug 2023 05:11:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 06:13:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -386,24 +386,6 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:NRF_COSS+NRF_COSS230+2022_1+type@asset+block@%EC%A7%80%EB%8A%A5%EB%A1%9C%EB%B4%87%EC%9D%84_%EC%9C%84%ED%95%9C_%EC%88%98%ED%95%99_-_%EC%B9%B4%EB%93%9C%EC%9D%B4%EB%AF%B8%EC%A7%80.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[언리얼 엔진 리얼 제작기]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KPU+KPU02+2023_4/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KPU+KPU02+2023_4/about</guid>
-            <pubDate>Tue, 15 Aug 2023 20:10:54 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                이대현
-                </span>
-                <span class="kr01_school">korea polytechnic university</span>
-                </div>
-                <div><time>2023/08/14</time>
-                
-                ~ <time>2023/11/28</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KPU+KPU02+2023_4+type@asset+block@%EC%96%B8%EB%A6%AC%EC%96%BC%EC%97%94%EC%A7%84REAL%EC%A0%9C%EC%9E%91%EA%B8%B0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[한국사 입문]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:KAEP_KOREA_CKH+KUKH101+2023_A101/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:KAEP_KOREA_CKH+KUKH101+2023_A101/about</guid>
@@ -726,6 +708,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:NRF_COSS+NRF_COSS211+2022_1+type@asset+block@01._%EA%B7%B8%EB%A6%BC_z%EA%B1%B4%EA%B5%AD%EB%8C%80-%EA%B0%80%EC%83%81%ED%98%84%EC%8B%A4V1.1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빅데이터를 위한 확률과 통계]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK01+2023_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:MA_CUK+MATCHUP_CUK01+2023_2/about</guid>
+            <pubDate>Wed, 16 Aug 2023 06:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                백창현
+                </span>
+                <span class="kr01_school">CYBER UNIVERSITY OF KOREA(matchup)</span>
+                </div>
+                <div><time>2023/08/14</time>
+                
+                ~ <time>2023/10/08</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:MA_CUK+MATCHUP_CUK01+2023_2+type@asset+block@%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0_%ED%99%95%EB%A5%A0%ED%86%B5%EA%B3%84.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
