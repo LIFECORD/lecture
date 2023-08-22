@@ -4,9 +4,63 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Aug 2023 23:09:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Aug 2023 00:43:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI프로그래밍]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Tue, 22 Aug 2023 00:43:03 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                오희석
+                </span>
+                <span class="kr01_school">HANSUNG UNIVERSITY</span>
+                </div>
+                <div><time>2023/08/22</time>
+                
+                ~ <time>2023/12/04</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:HansungK+HSKMOOCk04+2023_T2+type@asset+block@%EC%8D%B8%EB%84%A4%EC%9D%BC_AI%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_326x200.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메타버스 & 실감콘텐츠의 이해]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Tue, 22 Aug 2023 00:43:03 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김효용
+                </span>
+                <span class="kr01_school">HANSUNG UNIVERSITY</span>
+                </div>
+                <div><time>2023/08/22</time>
+                
+                ~ <time>2023/12/04</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:HansungK+HSKMOOCk05+2023_T2+type@asset+block@%EC%8D%B8%EB%84%A4%EC%9D%BC_%EB%A9%94%ED%83%80%EB%B2%84%EC%8A%A4_326x200.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국문화로 배우는 한국어]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Tue, 22 Aug 2023 00:43:03 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                노정은
+                </span>
+                <span class="kr01_school">HANSUNG UNIVERSITY</span>
+                </div>
+                <div><time>2023/08/22</time>
+                
+                ~ <time>2023/12/04</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:HansungK+HSKMOOCk03+2023_T2+type@asset+block@%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다양한 드론 촬영 기법 및 편집]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:MA_DU+MATCHUP_DU07+2023_T2/about</link>
@@ -672,60 +726,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:KAEP_KHU+KKHU04+2022_T2+type@asset+block@sumnail2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한국서사와 컬처매핑]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KAEP_KHU+KKHU10+2022_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KAEP_KHU+KKHU10+2022_T2/about</guid>
-            <pubDate>Sun, 20 Aug 2023 20:09:48 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김세익
-                </span>
-                <span class="kr01_school">KHU Center of K-Academic expansion project</span>
-                </div>
-                <div><time>2023/08/07</time>
-                
-                ~ <time>2023/10/31</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KAEP_KHU+KKHU10+2022_T2+type@asset+block@9%EB%B2%88.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[키워드로 읽는 현대문학]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KAEP_KHU+KKHU07+2022_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KAEP_KHU+KKHU07+2022_T2/about</guid>
-            <pubDate>Sun, 20 Aug 2023 20:09:48 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                서덕순
-                </span>
-                <span class="kr01_school">KHU Center of K-Academic expansion project</span>
-                </div>
-                <div><time>2023/08/07</time>
-                
-                ~ <time>2023/10/31</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KAEP_KHU+KKHU07+2022_T2+type@asset+block@5%EB%B2%88.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국어 속의 문화 탐색]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KAEP_KHU+KKHU08+2022_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KAEP_KHU+KKHU08+2022_T2/about</guid>
-            <pubDate>Sun, 20 Aug 2023 20:09:48 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김중섭
-                </span>
-                <span class="kr01_school">KHU Center of K-Academic expansion project</span>
-                </div>
-                <div><time>2023/08/07</time>
-                
-                ~ <time>2023/10/31</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KAEP_KHU+KKHU08+2022_T2+type@asset+block@7%EB%B2%88.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
