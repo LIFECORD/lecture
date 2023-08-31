@@ -4,9 +4,27 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Aug 2023 23:10:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2023 00:44:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[회로이론]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Thu, 31 Aug 2023 00:43:46 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                남재광
+                </span>
+                <span class="kr01_school">National Research Foundation of Korea</span>
+                </div>
+                <div><time>2023/08/31</time>
+                
+                ~ <time>2023/12/01</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:NRF_COSS+NRF_COSS247+2022_1+type@asset+block@%ED%9A%8C%EB%A1%9C%EC%9D%B4%EB%A1%A0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블록체인 응용과 실습]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:SJCU+SJCU04+2023_2/about</link>
@@ -708,24 +726,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:HansungK+HSKMOOCk05+2023_T2+type@asset+block@%EC%8D%B8%EB%84%A4%EC%9D%BC_%EB%A9%94%ED%83%80%EB%B2%84%EC%8A%A4_326x200.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국문화로 배우는 한국어]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:HansungK+HSKMOOCk03+2023_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:HansungK+HSKMOOCk03+2023_T2/about</guid>
-            <pubDate>Sun, 27 Aug 2023 10:10:08 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                노정은
-                </span>
-                <span class="kr01_school">HANSUNG UNIVERSITY</span>
-                </div>
-                <div><time>2023/08/22</time>
-                
-                ~ <time>2023/12/04</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:HansungK+HSKMOOCk03+2023_T2+type@asset+block@%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
