@@ -4,9 +4,81 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Sep 2023 23:10:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Sep 2023 00:46:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[드론 촬영·맵핑 심화과정]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Sun, 03 Sep 2023 00:46:24 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김준호 and 1 others
+                </span>
+                <span class="kr01_school">DONG SEOUL UNIVERSITY</span>
+                </div>
+                <div><time>2023/09/03</time>
+                
+                ~ <time>2023/10/07</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:MA_DU+MATCHUP_DU_ADV04+2023_T1+type@asset+block@%EC%B4%AC%EC%98%81%EB%A7%B5%ED%95%91_%EC%B6%95%EC%86%8C_.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[드론 코딩 심화과정]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Sun, 03 Sep 2023 00:46:24 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                맹민재
+                </span>
+                <span class="kr01_school">DONG SEOUL UNIVERSITY</span>
+                </div>
+                <div><time>2023/09/03</time>
+                
+                ~ <time>2023/10/07</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:MA_DU+MATCHUP_DU_ADV01+2023_T1+type@asset+block@%EC%BD%94%EB%94%A9_%EC%B6%95%EC%86%8C_.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[드론 제작·정비 심화과정]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Sun, 03 Sep 2023 00:46:24 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                임건선 and 2 others
+                </span>
+                <span class="kr01_school">DONG SEOUL UNIVERSITY</span>
+                </div>
+                <div><time>2023/09/03</time>
+                
+                ~ <time>2023/10/07</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:MA_DU+MATCHUP_DU_ADV02+2023_T1+type@asset+block@%EC%A0%9C%EC%9E%91%EC%A0%95%EB%B9%84_%EC%B6%95%EC%86%8C_.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[드론 조종 심화과정]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Sun, 03 Sep 2023 00:46:24 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                정해원 and 1 others
+                </span>
+                <span class="kr01_school">DONG SEOUL UNIVERSITY</span>
+                </div>
+                <div><time>2023/09/03</time>
+                
+                ~ <time>2023/10/07</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:MA_DU+MATCHUP_DU_ADV03+2023_T1+type@asset+block@%EC%A1%B0%EC%A2%85_%EC%B6%95%EC%86%8C_.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[AR/VR 프로젝트]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:NRF_COSS+NRF_COSS224+2022_1/about</link>
@@ -654,78 +726,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:KKUk+CK_KKUkbio002+2023_T2+type@asset+block@%EA%B7%B8%EB%A6%BC1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[독서치유론]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KKUk+KKUkread+2023_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KKUk+KKUkread+2023_T2/about</guid>
-            <pubDate>Mon, 28 Aug 2023 18:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                노영희
-                </span>
-                <span class="kr01_school">KONKUK UNIVERSITY GLOCAL CAMPUS</span>
-                </div>
-                <div><time>2023/08/28</time>
-                
-                ~ <time>2023/12/18</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KKUk+KKUkread+2023_T2+type@asset+block@%EA%B7%B8%EB%A6%BC2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리빙프로덕트디자인]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KKUk+KKUkdesign+2023_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KKUk+KKUkdesign+2023_T2/about</guid>
-            <pubDate>Mon, 28 Aug 2023 18:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김성현
-                </span>
-                <span class="kr01_school">KONKUK UNIVERSITY GLOCAL CAMPUS</span>
-                </div>
-                <div><time>2023/08/28</time>
-                
-                ~ <time>2023/12/18</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KKUk+KKUkdesign+2023_T2+type@asset+block@%EA%B7%B8%EB%A6%BC2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[재미있는 글로벌 경제 기행]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:PNUk+GE_C01+2023_KM_023/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:PNUk+GE_C01+2023_KM_023/about</guid>
-            <pubDate>Mon, 28 Aug 2023 09:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김영재
-                </span>
-                <span class="kr01_school">Pusan National University</span>
-                </div>
-                <div><time>2023/08/28</time>
-                
-                ~ <time>2023/12/09</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:PNUk+GE_C01+2023_KM_023+type@asset+block@23_2_%EC%9E%AC%EA%B8%80%EA%B2%BD.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AI 연구자를 위한 통계적 학습론]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:PNUk+SL_C01+2023_KM_032/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:PNUk+SL_C01+2023_KM_032/about</guid>
-            <pubDate>Mon, 28 Aug 2023 09:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김충락
-                </span>
-                <span class="kr01_school">Pusan National University</span>
-                </div>
-                <div><time>2023/08/28</time>
-                
-                ~ <time>2023/12/09</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:PNUk+SL_C01+2023_KM_032+type@asset+block@23_2_%ED%86%B5%EA%B3%84%EC%A0%81%ED%95%99%EC%8A%B5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
