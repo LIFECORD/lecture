@@ -4,9 +4,27 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Oct 2023 23:10:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Oct 2023 00:46:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3차원 그래픽스 입문]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Mon, 16 Oct 2023 00:46:13 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                윤태준
+                </span>
+                <span class="kr01_school">National Research Foundation of Korea</span>
+                </div>
+                <div><time>2023/10/16</time>
+                
+                ~ <time>2023/11/24</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:NRF_COSS+NRF_COSS217+2022_1+type@asset+block@%EA%B0%95%EC%A2%8C%EC%B9%B4%EB%93%9C%EC%9D%B4%EB%AF%B8%EC%A7%80.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[디지털 스토리텔링과 게임]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:NRF_COSS+NRF_COSS236+2022_1/about</link>
@@ -708,24 +726,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:SNUk+SNU044_008k+2023_T2+type@asset+block@23-2_%EA%B2%BD%EC%A0%9C%ED%95%99%EB%93%A4%EC%96%B4%EA%B0%80%EA%B8%B0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[상담학 들어가기]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SNUk+SNU701_429k+2023_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SNUk+SNU701_429k+2023_T2/about</guid>
-            <pubDate>Sun, 15 Oct 2023 20:10:29 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김창대
-                </span>
-                <span class="kr01_school">SEOUL NATIONAL UNIVERSITY</span>
-                </div>
-                <div><time>2023/09/05</time>
-                
-                ~ <time>2023/12/05</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SNUk+SNU701_429k+2023_T2+type@asset+block@23-2_%EC%83%81%EB%8B%B4%ED%95%99%EB%93%A4%EC%96%B4%EA%B0%80%EA%B8%B0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
