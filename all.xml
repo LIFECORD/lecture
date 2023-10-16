@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Oct 2023 01:50:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Oct 2023 02:20:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[3차원 그래픽스 입문 (K-MOOC ─ 진행중)]]></title>
             <link>https://LIFECORD.github.io/lecture/all.xml</link>
             <guid>https://LIFECORD.github.io/lecture/all.xml</guid>
-            <pubDate>Mon, 16 Oct 2023 01:49:47 GMT</pubDate>
+            <pubDate>Mon, 16 Oct 2023 02:20:22 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 윤태준
