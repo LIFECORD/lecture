@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Dec 2023 14:10:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Dec 2023 15:10:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -132,24 +132,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:BUFSk+BUFS_ICFL13+2023_T1+type@asset+block@%EC%9D%B4%ED%83%88%EB%A6%AC%EC%95%84%EC%96%B42_%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[HTML에서 웹앱까지+]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:HGUk+HGUP02+2023_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:HGUk+HGUP02+2023_T2/about</guid>
-            <pubDate>Sat, 16 Dec 2023 13:11:05 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김군오
-                </span>
-                <span class="kr01_school">HANDONG GLOBAL UNIVERSITY</span>
-                </div>
-                <div><time>2023/09/04</time>
-                
-                ~ <time>2023/12/16</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:HGUk+HGUP02+2023_T2+type@asset+block@_%EA%BE%B8%EB%AF%B8%EA%B8%B0__%ED%98%84%EB%8C%80%EC%84%B8%EA%B3%84%EA%B4%80%EC%9D%98%EC%9D%B4%ED%95%B4_%EA%BE%B8%EB%AF%B8%EA%B8%B0__%ED%98%84%EB%8C%80%EC%84%B8%EA%B3%84%EA%B4%80%EC%9D%98%EC%9D%B4%ED%95%B4%E1%84%80%E1%85%B5%E1%86%B7%E1%84%80%E1%85%AE%E1%86%AB%E1%84%8B%E1%85%A9%E1%84%80%E1%85%AD%E1%84%89%E1%85%AE%E1%84%82%E1%85%B5%E1%86%B7%E1%84%80%E1%85%A1%E1%86%BC%E1%84%8B%E1%85%B4%E1%84%87%E1%85%A2%E1%84%80%E1%85%A7%E1%86%BC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[파이썬으로 배우는 기계학습 입문 Plus+]]></title>
@@ -314,58 +296,76 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:KKUk+KKUkdesign+2023_T2+type@asset+block@%EA%B7%B8%EB%A6%BC2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[사회복지실천과 요양보호(Social Work Practice & Long Term Care)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:WHSUK+WHSUK_03+2023-T2-2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:WHSUK+WHSUK_03+2023-T2-2/about</guid>
-            <pubDate>Sat, 16 Dec 2023 13:11:05 GMT</pubDate>
+            <title><![CDATA[디지털 치과학 (Digital Dentistry)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:WHSUK+WHSUK_01+2023-T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:WHSUK+WHSUK_01+2023-T2/about</guid>
+            <pubDate>Sat, 16 Dec 2023 15:10:03 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                김경
+                이광영
                 </span>
                 <span class="kr01_school">WONKWANG HEALTH SCIENCE UNIVERSITY</span>
                 </div>
-                <div><time>2023/08/28</time>
+                <div><time>2023/08/18</time>
                 
                 ~ <time>2023/12/17</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:WHSUK+WHSUK_03+2023-T2-2+type@asset+block@%EC%82%AC%ED%9A%8C%EB%B3%B5%EC%A7%80%EC%8B%A4%EC%B2%9C%EA%B3%BC_%EC%9A%94%EC%96%91%EB%B3%B4%ED%98%B8_%EC%8D%B8%EB%84%A4.png" length="0" type="image/png"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:WHSUK+WHSUK_01+2023-T2+type@asset+block@%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[기본간호(Basic Nursing)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:WHSUK+WHSUK_02+2023-T2-2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:WHSUK+WHSUK_02+2023-T2-2/about</guid>
-            <pubDate>Sat, 16 Dec 2023 13:11:05 GMT</pubDate>
+            <title><![CDATA[해양과 문화]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:KMOU+KMOU002+2023_T2_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KMOU+KMOU002+2023_T2_1/about</guid>
+            <pubDate>Sat, 16 Dec 2023 15:10:03 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                이정란
+                김태만
                 </span>
-                <span class="kr01_school">WONKWANG HEALTH SCIENCE UNIVERSITY</span>
+                <span class="kr01_school">KOREA MARITIME&amp;OCEAN UNIVERSITY</span>
                 </div>
-                <div><time>2023/08/28</time>
+                <div><time>2023/07/17</time>
                 
-                ~ <time>2023/12/17</time>
+                ~ <time>2023/12/23</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:WHSUK+WHSUK_02+2023-T2-2+type@asset+block@%EA%B8%B0%EB%B3%B8%EA%B0%84%ED%98%B8_%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KMOU+KMOU002+2023_T2_1+type@asset+block@%EA%B0%95%EC%A2%8C%EC%B9%B4%EB%93%9C_%EC%9D%B4%EB%AF%B8%EC%A7%80.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[특수요양보호(Special Care)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:WHSUK+WHSUK_04+2023-T2-2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:WHSUK+WHSUK_04+2023-T2-2/about</guid>
-            <pubDate>Sat, 16 Dec 2023 13:11:05 GMT</pubDate>
+            <title><![CDATA[바다 위의 삶]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:KMOU+KMOU0003+2023_T2_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KMOU+KMOU0003+2023_T2_1/about</guid>
+            <pubDate>Sat, 16 Dec 2023 15:10:03 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                최병란
+                최진철
                 </span>
-                <span class="kr01_school">WONKWANG HEALTH SCIENCE UNIVERSITY</span>
+                <span class="kr01_school">KOREA MARITIME&amp;OCEAN UNIVERSITY</span>
                 </div>
-                <div><time>2023/08/28</time>
+                <div><time>2023/07/17</time>
                 
-                ~ <time>2023/12/17</time>
+                ~ <time>2023/12/23</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:WHSUK+WHSUK_04+2023-T2-2+type@asset+block@%ED%8A%B9%EC%88%98%EC%9A%94%EC%96%91%EB%B3%B4%ED%98%B8_%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KMOU+KMOU0003+2023_T2_1+type@asset+block@%EC%B5%9C.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[해상운송론]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:KMOU+KMOU0004+2023_T2_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KMOU+KMOU0004+2023_T2_1/about</guid>
+            <pubDate>Sat, 16 Dec 2023 15:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                정영석
+                </span>
+                <span class="kr01_school">KOREA MARITIME&amp;OCEAN UNIVERSITY</span>
+                </div>
+                <div><time>2023/07/17</time>
+                
+                ~ <time>2023/12/23</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KMOU+KMOU0004+2023_T2_1+type@asset+block@KakaoTalk_20230126_163430035_01.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
