@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Dec 2023 18:12:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Dec 2023 19:09:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -368,6 +368,366 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:NDTI+NDTI03+2023_1+type@asset+block@NDTI_%E1%84%80%E1%85%AD%E1%84%8B%E1%85%B2%E1%86%A8_%E1%84%8A%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF_%E1%84%8C%E1%85%A2%E1%84%82%E1%85%A1%E1%86%AB_%E1%84%8F%E1%85%A5%E1%84%86%E1%85%B2%E1%84%82%E1%85%B5%E1%84%8F%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%89%E1%85%A7%E1%86%AB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[한국의 재난관리체계 (Disaster Management System in Korea) (K-MOOC ─ 진행중)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:NDTI+NDTI01+2023_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:NDTI+NDTI01+2023_1/about</guid>
+            <pubDate>Mon, 25 Dec 2023 19:09:26 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                NDTI Int'l Cooperation Team
+                </span>
+                <span class="kr01_school">National Civil Defense and Disaster Management Training Institute</span>
+                </div>
+                <div><time>2023/03/01</time>
+                
+                ~ <time>2024/03/01</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:NDTI+NDTI01+2023_1+type@asset+block@NDTI_%E1%84%80%E1%85%AD%E1%84%8B%E1%85%B2%E1%86%A8_%E1%84%8A%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF_%E1%84%92%E1%85%A1%E1%86%AB%E1%84%80%E1%85%AE%E1%86%A8%E1%84%8B%E1%85%B4_%E1%84%8C%E1%85%A2%E1%84%82%E1%85%A1%E1%86%AB%E1%84%80%E1%85%AA%E1%86%AB%E1%84%85%E1%85%B5%E1%84%8E%E1%85%A6%E1%84%80%E1%85%A8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공공기관 NCS블라인드 채용 (K-MOOC ─ 진행중)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:WJTB+WJTB15+2023_01/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:WJTB+WJTB15+2023_01/about</guid>
+            <pubDate>Mon, 25 Dec 2023 19:09:26 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김하늬
+                </span>
+                <span class="kr01_school">WOONGJIN THINKBIG</span>
+                </div>
+                <div><time>2023/01/25</time>
+                
+                ~ <time>2024/02/01</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:WJTB+WJTB15+2023_01+type@asset+block@652400_%EA%B3%B5%EA%B3%B5%EA%B8%B0%EA%B4%80__NCS_%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C_%EC%B1%84%EC%9A%A9%EC%9D%98_%EC%9D%B4%ED%95%B4_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나에게 맞는 '직무'찾기 - 인문,상경계열 편 (K-MOOC ─ 진행중)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:WJTB+WJTB14+2023_01/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:WJTB+WJTB14+2023_01/about</guid>
+            <pubDate>Mon, 25 Dec 2023 19:09:26 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김하늬
+                </span>
+                <span class="kr01_school">WOONGJIN THINKBIG</span>
+                </div>
+                <div><time>2023/01/25</time>
+                
+                ~ <time>2024/02/01</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:WJTB+WJTB14+2023_01+type@asset+block@652400_%EC%A7%81%EB%AC%B4%EC%86%8C%EA%B0%9C_%EC%9D%B8%EB%AC%B8%EC%83%81%EA%B2%BD%EA%B3%84%EC%97%B4__1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나에게 맞는 '직무'찾기 - 이공계열 편 (K-MOOC ─ 진행중)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:WJTB+WJTB13+2023_01/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:WJTB+WJTB13+2023_01/about</guid>
+            <pubDate>Mon, 25 Dec 2023 19:09:26 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김하늬
+                </span>
+                <span class="kr01_school">WOONGJIN THINKBIG</span>
+                </div>
+                <div><time>2023/01/25</time>
+                
+                ~ <time>2024/02/01</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:WJTB+WJTB13+2023_01+type@asset+block@652400_%EC%A7%81%EB%AC%B4%EC%86%8C%EA%B0%9C_%EC%9D%B4%EA%B3%B5%EA%B3%84%EC%97%B4__1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[합격을 부르는 면접 스피치 (K-MOOC ─ 진행중)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:WJTB+WJTB16+2023_01/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:WJTB+WJTB16+2023_01/about</guid>
+            <pubDate>Mon, 25 Dec 2023 19:09:26 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                최란
+                </span>
+                <span class="kr01_school">WOONGJIN THINKBIG</span>
+                </div>
+                <div><time>2023/01/25</time>
+                
+                ~ <time>2024/02/01</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:WJTB+WJTB16+2023_01+type@asset+block@652400_%EB%A9%B4%EC%A0%91_%EC%8A%A4%ED%94%BC%EC%B9%98.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[취업준비를 위한 산업분석 (K-MOOC ─ 진행중)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:WJTB+WJTB12+2023_01/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:WJTB+WJTB12+2023_01/about</guid>
+            <pubDate>Mon, 25 Dec 2023 19:09:27 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김하늬
+                </span>
+                <span class="kr01_school">WOONGJIN THINKBIG</span>
+                </div>
+                <div><time>2023/01/25</time>
+                
+                ~ <time>2024/02/01</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:WJTB+WJTB12+2023_01+type@asset+block@652400_%EC%A3%BC%EC%9A%94_%EC%82%B0%EC%97%85_%EB%B6%84%EC%84%9D%EC%9D%84_%ED%86%B5%ED%95%9C_%EB%82%98%EC%97%90%EA%B2%8C_%EC%95%8C%EB%A7%9E%EC%9D%80_%EC%82%B0%EC%97%85%EA%B5%B0_%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[채용 트렌드&준비 전략 (K-MOOC ─ 진행중)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:WJTB+WJTB11+2023_01/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:WJTB+WJTB11+2023_01/about</guid>
+            <pubDate>Mon, 25 Dec 2023 19:09:27 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김하늬
+                </span>
+                <span class="kr01_school">WOONGJIN THINKBIG</span>
+                </div>
+                <div><time>2023/01/25</time>
+                
+                ~ <time>2024/02/01</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:WJTB+WJTB11+2023_01+type@asset+block@652400_%EC%B1%84%EC%9A%A9_%ED%8A%B8%EB%A0%8C%EB%93%9C%EC%9D%98_%EC%9D%B4%ED%95%B4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2030 축의 전환(2030) (K-MOOC ─ 진행중)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:WJTB+WJTB10+2022_01/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:WJTB+WJTB10+2022_01/about</guid>
+            <pubDate>Mon, 25 Dec 2023 19:09:27 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                웅진씽크빅
+                </span>
+                <span class="kr01_school">WOONGJIN THINKBIG</span>
+                </div>
+                <div><time>2022/12/19</time>
+                
+                ~ <time>2024/01/01</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:WJTB+WJTB10+2022_01+type@asset+block@652400__%EB%B6%81%ED%81%B4%EB%A6%BD__2030_%EC%B6%95%EC%9D%98_%EC%A0%84%ED%99%98_2030_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이윤기의 그리스 로마 신화(Greek and Roman Mythology) (K-MOOC ─ 진행중)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:WJTB+WJTB05+2022_01/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:WJTB+WJTB05+2022_01/about</guid>
+            <pubDate>Mon, 25 Dec 2023 19:09:27 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                웅진씽크빅
+                </span>
+                <span class="kr01_school">WOONGJIN THINKBIG</span>
+                </div>
+                <div><time>2022/12/19</time>
+                
+                ~ <time>2024/01/01</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:WJTB+WJTB05+2022_01+type@asset+block@652400__%EB%B6%81%ED%81%B4%EB%A6%BD__%EC%9D%B4%EC%9C%A4%EA%B8%B0%EC%9D%98_%EA%B7%B8%EB%A6%AC%EC%8A%A4_%EB%A1%9C%EB%A7%88_%EC%8B%A0%ED%99%94_Greek_and_Roman_Mythology_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지금 팔리는 것들의 비밀(When They Buy) (K-MOOC ─ 진행중)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:WJTB+WJTB04+2022_01/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:WJTB+WJTB04+2022_01/about</guid>
+            <pubDate>Mon, 25 Dec 2023 19:09:27 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                웅진씽크빅
+                </span>
+                <span class="kr01_school">WOONGJIN THINKBIG</span>
+                </div>
+                <div><time>2022/12/19</time>
+                
+                ~ <time>2024/01/01</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:WJTB+WJTB04+2022_01+type@asset+block@652400__%EB%B6%81%ED%81%B4%EB%A6%BD__%EC%A7%80%EA%B8%88_%ED%8C%94%EB%A6%AC%EB%8A%94_%EA%B2%83%EB%93%A4%EC%9D%98_%EB%B9%84%EB%B0%80_When_They_Buy_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보는 순간 사게 되는 1초 문구 (The power of a catchy phrase) (K-MOOC ─ 진행중)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:WJTB+WJTB02+2022_01/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:WJTB+WJTB02+2022_01/about</guid>
+            <pubDate>Mon, 25 Dec 2023 19:09:27 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                웅진씽크빅
+                </span>
+                <span class="kr01_school">WOONGJIN THINKBIG</span>
+                </div>
+                <div><time>2022/12/19</time>
+                
+                ~ <time>2024/01/01</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:WJTB+WJTB02+2022_01+type@asset+block@652400__%EB%B6%81%ED%81%B4%EB%A6%BD__%EB%B3%B4%EB%8A%94_%EC%88%9C%EA%B0%84_%EC%82%AC%EA%B2%8C_%EB%90%98%EB%8A%94_1%EC%B4%88_%EB%AC%B8%EA%B5%AC__The_power_of_a_catchy_phrase_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[위기인가? 삼성하라! (Is Crisis? Do Samsung!) (K-MOOC ─ 진행중)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:WJTB+WJTB01+2022_01/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:WJTB+WJTB01+2022_01/about</guid>
+            <pubDate>Mon, 25 Dec 2023 19:09:27 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                웅진씽크빅
+                </span>
+                <span class="kr01_school">WOONGJIN THINKBIG</span>
+                </div>
+                <div><time>2022/12/19</time>
+                
+                ~ <time>2024/01/01</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:WJTB+WJTB01+2022_01+type@asset+block@%EC%82%BC%EC%84%B1%ED%95%98%EB%9D%BC_%EB%A1%9C%EA%B3%A0%EB%B3%B8__%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%A1%B0%EC%A0%95.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[게임 인류 (Gamification) (K-MOOC ─ 진행중)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:WJTB+WJTB03+2022_01/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:WJTB+WJTB03+2022_01/about</guid>
+            <pubDate>Mon, 25 Dec 2023 19:09:27 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                웅진씽크빅
+                </span>
+                <span class="kr01_school">WOONGJIN THINKBIG</span>
+                </div>
+                <div><time>2022/12/19</time>
+                
+                ~ <time>2024/01/01</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:WJTB+WJTB03+2022_01+type@asset+block@652400__%EB%B6%81%ED%81%B4%EB%A6%BD__%EA%B2%8C%EC%9E%84_%EC%9D%B8%EB%A5%98__Gamification_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강원국의 어른답게 말합니다 (Speak like a real grown-up) (K-MOOC ─ 진행중)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:WJTB+WJTB09+2022_01/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:WJTB+WJTB09+2022_01/about</guid>
+            <pubDate>Mon, 25 Dec 2023 19:09:27 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                웅진씽크빅
+                </span>
+                <span class="kr01_school">WOONGJIN THINKBIG</span>
+                </div>
+                <div><time>2022/12/19</time>
+                
+                ~ <time>2024/01/01</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:WJTB+WJTB09+2022_01+type@asset+block@652400__%EB%B6%81%ED%81%B4%EB%A6%BD__%EA%B0%95%EC%9B%90%EA%B5%AD%EC%9D%98_%EC%96%B4%EB%A5%B8%EB%8B%B5%EA%B2%8C_%EB%A7%90%ED%95%A9%EB%8B%88%EB%8B%A4__Speak_like_a_real_grown-up_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나의 월급 독립 프로젝트(My Salary Independent Project) (K-MOOC ─ 진행중)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:WJTB+WJTB08+2022_01/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:WJTB+WJTB08+2022_01/about</guid>
+            <pubDate>Mon, 25 Dec 2023 19:09:27 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                웅진씽크빅
+                </span>
+                <span class="kr01_school">WOONGJIN THINKBIG</span>
+                </div>
+                <div><time>2022/12/19</time>
+                
+                ~ <time>2024/01/01</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:WJTB+WJTB08+2022_01+type@asset+block@652400__%EB%B6%81%ED%81%B4%EB%A6%BD__%EB%82%98%EC%9D%98_%EC%9B%94%EA%B8%89_%EB%8F%85%EB%A6%BD_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_My_Salary_Independent_Project_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[약속의 땅(A Promised Land) (K-MOOC ─ 진행중)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:WJTB+WJTB07+2022_01/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:WJTB+WJTB07+2022_01/about</guid>
+            <pubDate>Mon, 25 Dec 2023 19:09:27 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                웅진씽크빅
+                </span>
+                <span class="kr01_school">WOONGJIN THINKBIG</span>
+                </div>
+                <div><time>2022/12/19</time>
+                
+                ~ <time>2024/01/01</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:WJTB+WJTB07+2022_01+type@asset+block@652400__%EB%B6%81%ED%81%B4%EB%A6%BD__%EC%95%BD%EC%86%8D%EC%9D%98_%EB%95%85_A_Promised_Land_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[언바운드(Unbound) (K-MOOC ─ 진행중)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:WJTB+WJTB06+2022_01/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:WJTB+WJTB06+2022_01/about</guid>
+            <pubDate>Mon, 25 Dec 2023 19:09:27 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                웅진씽크빅
+                </span>
+                <span class="kr01_school">WOONGJIN THINKBIG</span>
+                </div>
+                <div><time>2022/12/19</time>
+                
+                ~ <time>2024/01/01</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:WJTB+WJTB06+2022_01+type@asset+block@652400__%EB%B6%81%ED%81%B4%EB%A6%BD__%EC%96%B8%EB%B0%94%EC%9A%B4%EB%93%9C_Unbound_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[동양철학과 21세기 문명 (K-MOOC ─ 진행중)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SKKUk+skku_65+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SKKUk+skku_65+2022_T1/about</guid>
+            <pubDate>Mon, 25 Dec 2023 19:09:27 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                최일범
+                </span>
+                <span class="kr01_school">SUNGKYUNKWAN UNIVERSITY</span>
+                </div>
+                <div><time>2022/11/14</time>
+                
+                ~ <time>2024/01/01</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SKKUk+skku_65+2022_T1+type@asset+block@%EC%8D%B8%EB%84%A4%EC%9D%BC_%EB%8F%99%EC%96%91%EC%B2%A0%ED%95%99%EA%B3%BC_21%EC%84%B8%EA%B8%B0%EB%AC%B8%EB%AA%85.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[창업가를 위한 브랜드 네이밍 기법 (K-MOOC ─ 진행중)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SKKUk+skku_66+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SKKUk+skku_66+2022_T1/about</guid>
+            <pubDate>Mon, 25 Dec 2023 19:09:27 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김희정
+                </span>
+                <span class="kr01_school">SUNGKYUNKWAN UNIVERSITY</span>
+                </div>
+                <div><time>2022/11/14</time>
+                
+                ~ <time>2024/01/01</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SKKUk+skku_66+2022_T1+type@asset+block@%EB%8C%80%ED%91%9C%EC%9D%B4%EB%AF%B8%EC%A7%80_%EC%8D%B8%EB%84%A4%EC%9D%BC__%EA%B5%AD%EB%AC%B8.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[창업가가 창업을 묻다 (K-MOOC ─ 진행중)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SKKUk+SKKU_42+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SKKUk+SKKU_42+2022_T1/about</guid>
+            <pubDate>Mon, 25 Dec 2023 19:09:27 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김경환
+                </span>
+                <span class="kr01_school">SUNGKYUNKWAN UNIVERSITY</span>
+                </div>
+                <div><time>2022/08/29</time>
+                
+                ~ <time>2024/01/01</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SKKUk+SKKU_42+2022_T1+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[디지털 스토리텔링과 게임 (K-MOOC ─ 개강예정)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:NRF_COSS+NRF_COSS236+2022_1/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:NRF_COSS+NRF_COSS236+2022_1/about</guid>
@@ -726,6 +1086,366 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:SNUk+SNU045_011k+2023_T2+type@asset+block@23-2_%ED%9D%94%EB%93%A4%EB%A6%AC%EB%8A%9420%EB%8C%80.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[현대사회 건강문제와 인간돌봄학문으로서의 간호 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SNUk+SNU060.020k+2023_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SNUk+SNU060.020k+2023_T2/about</guid>
+            <pubDate>Mon, 25 Dec 2023 19:09:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                서은영
+                </span>
+                <span class="kr01_school">SEOUL NATIONAL UNIVERSITY</span>
+                </div>
+                <div><time>2023/09/05</time>
+                
+                ~ <time>2023/12/12</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SNUk+SNU060.020k+2023_T2+type@asset+block@23-2_%ED%98%84%EB%8C%80%EC%82%AC%ED%9A%8C%EA%B0%84%ED%98%B8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울대 소장품 감상하기: 예술을 중심으로 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SNUk+SNU065.020k+2023_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SNUk+SNU065.020k+2023_T2/about</guid>
+            <pubDate>Mon, 25 Dec 2023 19:09:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                서울대학교
+                </span>
+                <span class="kr01_school">SEOUL NATIONAL UNIVERSITY</span>
+                </div>
+                <div><time>2023/09/05</time>
+                
+                ~ <time>2023/12/12</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SNUk+SNU065.020k+2023_T2+type@asset+block@23-2_%EC%84%9C%EC%9A%B8%EB%8C%80-%EC%86%8C%EC%9E%A5%ED%92%88.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울대 소장품 감상하기: 문화재를 중심으로 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SNUk+SNU070.021k+2023_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SNUk+SNU070.021k+2023_T2/about</guid>
+            <pubDate>Mon, 25 Dec 2023 19:09:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김소라 학예사
+                </span>
+                <span class="kr01_school">SEOUL NATIONAL UNIVERSITY</span>
+                </div>
+                <div><time>2023/09/05</time>
+                
+                ~ <time>2023/12/12</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SNUk+SNU070.021k+2023_T2+type@asset+block@23-2_%EC%84%9C%EC%9A%B8%EB%8C%80%EC%86%8C%EC%9E%A5%ED%92%88%EA%B0%90%EC%83%81%ED%95%98%EA%B8%B0%EB%AC%B8%ED%99%94%EC%9E%AC%EB%A5%BC%EC%A4%91%EC%8B%AC%EC%9C%BC%EB%A1%9C.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울대 소장품 감상하기: 천문학을 중심으로 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SNUk+SNU074.022k+2023_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SNUk+SNU074.022k+2023_T2/about</guid>
+            <pubDate>Mon, 25 Dec 2023 19:09:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                황호성
+                </span>
+                <span class="kr01_school">SEOUL NATIONAL UNIVERSITY</span>
+                </div>
+                <div><time>2023/09/05</time>
+                
+                ~ <time>2023/12/12</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SNUk+SNU074.022k+2023_T2+type@asset+block@23-2_%EC%86%8C%EC%9E%A5%ED%92%88_%EC%B2%9C%EB%AC%B8%ED%95%99.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울대 소장품 감상하기: 자연을 중심으로 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SNUk+SNU073.022k+2023_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SNUk+SNU073.022k+2023_T2/about</guid>
+            <pubDate>Mon, 25 Dec 2023 19:09:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김현석
+                </span>
+                <span class="kr01_school">SEOUL NATIONAL UNIVERSITY</span>
+                </div>
+                <div><time>2023/09/05</time>
+                
+                ~ <time>2023/12/12</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SNUk+SNU073.022k+2023_T2+type@asset+block@23-2_%EC%86%8C%EC%9E%A5%ED%92%88_%EC%9E%90%EC%97%B0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[감염병 대응 음압병실 체험하기 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SNUk+SNU066.020k+2023_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SNUk+SNU066.020k+2023_T2/about</guid>
+            <pubDate>Mon, 25 Dec 2023 19:09:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                강자현
+                </span>
+                <span class="kr01_school">SEOUL NATIONAL UNIVERSITY</span>
+                </div>
+                <div><time>2023/09/05</time>
+                
+                ~ <time>2023/12/12</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SNUk+SNU066.020k+2023_T2+type@asset+block@23-2_%EA%B0%90%EC%97%BC%EB%B3%91-%EC%9D%8C%EC%95%95%EB%B3%91%EC%8B%A4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[경제학원론 : 거시경제학 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SNUk+SNU062.020k+2023_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SNUk+SNU062.020k+2023_T2/about</guid>
+            <pubDate>Mon, 25 Dec 2023 19:09:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이준구
+                </span>
+                <span class="kr01_school">SEOUL NATIONAL UNIVERSITY</span>
+                </div>
+                <div><time>2023/09/05</time>
+                
+                ~ <time>2023/12/12</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SNUk+SNU062.020k+2023_T2+type@asset+block@23-2_%EA%B2%BD%EC%A0%9C%ED%95%99%EC%9B%90%EB%A1%A0-%EA%B1%B0%EC%8B%9C%EA%B2%BD%EC%A0%9C%ED%95%99.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[현대철학사조: 현대철학의 거장들 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SNUk+SNU067.021k+2023_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SNUk+SNU067.021k+2023_T2/about</guid>
+            <pubDate>Mon, 25 Dec 2023 19:09:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                박찬국
+                </span>
+                <span class="kr01_school">SEOUL NATIONAL UNIVERSITY</span>
+                </div>
+                <div><time>2023/09/05</time>
+                
+                ~ <time>2023/12/12</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SNUk+SNU067.021k+2023_T2+type@asset+block@23-2_%ED%98%84%EB%8C%80%EC%B2%A0%ED%95%99%EC%82%AC%EC%A1%B0%ED%98%84%EB%8C%80%EC%B2%A0%ED%95%99%EC%9D%98%EA%B1%B0%EC%9E%A5%EB%93%A4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[니체 읽기-인문고전 『차라투스트라는 이렇게 말했다』 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SNUk+SNU053.019k+2023_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SNUk+SNU053.019k+2023_T2/about</guid>
+            <pubDate>Mon, 25 Dec 2023 19:09:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                박찬국
+                </span>
+                <span class="kr01_school">SEOUL NATIONAL UNIVERSITY</span>
+                </div>
+                <div><time>2023/09/05</time>
+                
+                ~ <time>2023/12/12</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SNUk+SNU053.019k+2023_T2+type@asset+block@23-2_%EB%8B%88%EC%B2%B4%EC%9D%BD%EA%B8%B0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[교육연구를 위한 통계방법 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SNUk+SNU068.021k+2023_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SNUk+SNU068.021k+2023_T2/about</guid>
+            <pubDate>Mon, 25 Dec 2023 19:09:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                박현정
+                </span>
+                <span class="kr01_school">SEOUL NATIONAL UNIVERSITY</span>
+                </div>
+                <div><time>2023/09/05</time>
+                
+                ~ <time>2023/12/12</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SNUk+SNU068.021k+2023_T2+type@asset+block@23-2_%EA%B5%90%EC%9C%A1%EC%97%B0%EA%B5%AC%EB%A5%BC%EC%9C%84%ED%95%9C%ED%86%B5%EA%B3%84%EB%B0%A9%EB%B2%95.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[논어와 현대 사회 - 리더를 위한 논어 읽기 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SNUk+SNU047_011k+2023_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SNUk+SNU047_011k+2023_T2/about</guid>
+            <pubDate>Mon, 25 Dec 2023 19:09:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이강재
+                </span>
+                <span class="kr01_school">SEOUL NATIONAL UNIVERSITY</span>
+                </div>
+                <div><time>2023/09/05</time>
+                
+                ~ <time>2023/12/12</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SNUk+SNU047_011k+2023_T2+type@asset+block@23-2_%EB%85%BC%EC%96%B4%EC%99%80%ED%98%84%EB%8C%80%EC%82%AC%ED%9A%8C.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[불확실성을 다루는 수학 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SNUk+SNU071.022k+2023_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SNUk+SNU071.022k+2023_T2/about</guid>
+            <pubDate>Mon, 25 Dec 2023 19:09:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                서인석
+                </span>
+                <span class="kr01_school">SEOUL NATIONAL UNIVERSITY</span>
+                </div>
+                <div><time>2023/09/05</time>
+                
+                ~ <time>2023/12/12</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SNUk+SNU071.022k+2023_T2+type@asset+block@23-2_%EB%B6%88%ED%99%95%EC%8B%A4_%EC%88%98%ED%95%99.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데이터로 배우는 통계학 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SNUk+SNU064.020k+2023_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SNUk+SNU064.020k+2023_T2/about</guid>
+            <pubDate>Mon, 25 Dec 2023 19:09:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                장원철
+                </span>
+                <span class="kr01_school">SEOUL NATIONAL UNIVERSITY</span>
+                </div>
+                <div><time>2023/09/05</time>
+                
+                ~ <time>2023/12/12</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SNUk+SNU064.020k+2023_T2+type@asset+block@23-2_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C%EB%B0%B0%EC%9A%B0%EB%8A%94%ED%86%B5%EA%B3%84%ED%95%99.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[종교 상징의 이해 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SNUk+CORE_SNU043_076k+2023_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SNUk+CORE_SNU043_076k+2023_T2/about</guid>
+            <pubDate>Mon, 25 Dec 2023 19:09:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                유요한
+                </span>
+                <span class="kr01_school">SEOUL NATIONAL UNIVERSITY</span>
+                </div>
+                <div><time>2023/09/05</time>
+                
+                ~ <time>2023/12/12</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SNUk+CORE_SNU043_076k+2023_T2+type@asset+block@23-2_%EC%A2%85%EA%B5%90%EC%83%81%EC%A7%95%EC%9D%98%EC%9D%B4%ED%95%B4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소비자와 시장 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SNUk+SNU044_025k+2023_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SNUk+SNU044_025k+2023_T2/about</guid>
+            <pubDate>Mon, 25 Dec 2023 19:09:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김난도
+                </span>
+                <span class="kr01_school">SEOUL NATIONAL UNIVERSITY</span>
+                </div>
+                <div><time>2023/09/05</time>
+                
+                ~ <time>2023/12/12</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SNUk+SNU044_025k+2023_T2+type@asset+block@23-2_%EC%86%8C%EB%B9%84%EC%9E%90%EC%99%80%EC%8B%9C%EC%9E%A5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[환자 시뮬레이터 체험하기 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SNUk+SNU069.021k+2023_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SNUk+SNU069.021k+2023_T2/about</guid>
+            <pubDate>Mon, 25 Dec 2023 19:09:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                강자현
+                </span>
+                <span class="kr01_school">SEOUL NATIONAL UNIVERSITY</span>
+                </div>
+                <div><time>2023/09/05</time>
+                
+                ~ <time>2023/12/12</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SNUk+SNU069.021k+2023_T2+type@asset+block@23-2_%ED%99%98%EC%9E%90%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%ED%84%B0%EC%B2%B4%ED%97%98%ED%95%98%EA%B8%B0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정서와 행동의 심리학 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SNUk+SNU072.022k+2023_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SNUk+SNU072.022k+2023_T2/about</guid>
+            <pubDate>Mon, 25 Dec 2023 19:09:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                한소원
+                </span>
+                <span class="kr01_school">SEOUL NATIONAL UNIVERSITY</span>
+                </div>
+                <div><time>2023/09/05</time>
+                
+                ~ <time>2023/12/12</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SNUk+SNU072.022k+2023_T2+type@asset+block@23-2_%EC%A0%95%EC%84%9C%EC%99%80%ED%96%89%EB%8F%99_%EC%8B%AC%EB%A6%AC%ED%95%99.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[경제학원론 : 미시경제학 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SNUk+SNU200_105k+2023_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SNUk+SNU200_105k+2023_T2/about</guid>
+            <pubDate>Mon, 25 Dec 2023 19:09:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이준구
+                </span>
+                <span class="kr01_school">SEOUL NATIONAL UNIVERSITY</span>
+                </div>
+                <div><time>2023/09/05</time>
+                
+                ~ <time>2023/12/05</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SNUk+SNU200_105k+2023_T2+type@asset+block@23-2_%EA%B2%BD%EC%A0%9C%ED%95%99%EC%9B%90%EB%A1%A0-%EB%AF%B8%EC%8B%9C%EA%B2%BD%EC%A0%9C%ED%95%99.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[경제학 들어가기 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SNUk+SNU044_008k+2023_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SNUk+SNU044_008k+2023_T2/about</guid>
+            <pubDate>Mon, 25 Dec 2023 19:09:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이준구
+                </span>
+                <span class="kr01_school">SEOUL NATIONAL UNIVERSITY</span>
+                </div>
+                <div><time>2023/09/05</time>
+                
+                ~ <time>2023/12/05</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SNUk+SNU044_008k+2023_T2+type@asset+block@23-2_%EA%B2%BD%EC%A0%9C%ED%95%99%EB%93%A4%EC%96%B4%EA%B0%80%EA%B8%B0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[상담학 들어가기 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SNUk+SNU701_429k+2023_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SNUk+SNU701_429k+2023_T2/about</guid>
+            <pubDate>Mon, 25 Dec 2023 19:09:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김창대
+                </span>
+                <span class="kr01_school">SEOUL NATIONAL UNIVERSITY</span>
+                </div>
+                <div><time>2023/09/05</time>
+                
+                ~ <time>2023/12/05</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SNUk+SNU701_429k+2023_T2+type@asset+block@23-2_%EC%83%81%EB%8B%B4%ED%95%99%EB%93%A4%EC%96%B4%EA%B0%80%EA%B8%B0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
