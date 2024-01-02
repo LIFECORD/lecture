@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jan 2024 01:54:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jan 2024 02:24:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -366,42 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:WJTB+WJTB16+2023_01+type@asset+block@652400_%EB%A9%B4%EC%A0%91_%EC%8A%A4%ED%94%BC%EC%B9%98.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[취업준비를 위한 산업분석]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:WJTB+WJTB12+2023_01/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:WJTB+WJTB12+2023_01/about</guid>
-            <pubDate>Mon, 01 Jan 2024 23:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김하늬
-                </span>
-                <span class="kr01_school">WOONGJIN THINKBIG</span>
-                </div>
-                <div><time>2023/01/25</time>
-                
-                ~ <time>2024/02/01</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:WJTB+WJTB12+2023_01+type@asset+block@652400_%EC%A3%BC%EC%9A%94_%EC%82%B0%EC%97%85_%EB%B6%84%EC%84%9D%EC%9D%84_%ED%86%B5%ED%95%9C_%EB%82%98%EC%97%90%EA%B2%8C_%EC%95%8C%EB%A7%9E%EC%9D%80_%EC%82%B0%EC%97%85%EA%B5%B0_%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[채용 트렌드&준비 전략]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:WJTB+WJTB11+2023_01/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:WJTB+WJTB11+2023_01/about</guid>
-            <pubDate>Mon, 01 Jan 2024 23:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김하늬
-                </span>
-                <span class="kr01_school">WOONGJIN THINKBIG</span>
-                </div>
-                <div><time>2023/01/25</time>
-                
-                ~ <time>2024/02/01</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:WJTB+WJTB11+2023_01+type@asset+block@652400_%EC%B1%84%EC%9A%A9_%ED%8A%B8%EB%A0%8C%EB%93%9C%EC%9D%98_%EC%9D%B4%ED%95%B4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
